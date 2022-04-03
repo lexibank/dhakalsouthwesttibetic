@@ -1,0 +1,177 @@
+Grapheme	IPA	Examples	Languages	Frequence	Codepoints
+$	NULL				
+^	NULL				
+^a	a	ama, aba	Sherpa, Gyalsumdo, Nubri, Lowa, Yolmo, Tsum, Kagate, Jirel	46	U+005e U+0061
+^a$	a	a	Lowa	1	U+005e U+0061 U+0024
+^b	b	bənd̪a, bəd̪am	Kagate, Sherpa, Tsum, Yolmo, Lowa, Jirel	18	U+005e U+0062
+^d	d	dop, dzubu	Sherpa, Kagate, Jirel, Yolmo	18	U+005e U+0064
+^dz	dz
+^d̪	d̪	d̪aŋ, d̪i	Sherpa, Kagate, Jirel, Nubri	23	U+005e U+0064 U+032a
+^h	h	hlawa, hɹa	Nubri, Sherpa, Yolmo, Tsum, Jirel, Kagate, Gyalsumdo	24	U+005e U+0068
+^i	i	idʑi, ijãʔ	Tsum, Sherpa, Lowa, Kagate	5	U+005e U+0069
+^j	j	jul, joma	Lowa, Gyalsumdo, Nubri, Sherpa, Yolmo, Tsum, Kagate, Jirel	56	U+005e U+006a
+^k	k	ko, ki	Gyalsumdo, Kagate, Lowa, Jirel	100	U+005e U+006b
+^kw	kʷ	kwaɡa, kwa	Sherpa, Kagate	2	U+005e U+006b U+0077
+^kʰ	kʰ	kʰap, kʰa	Gyalsumdo, Nubri, Jirel, Sherpa, Lowa, Kagate, Tsum	100	U+005e U+006b U+02b0
+^l	l	lo, lam	Sherpa, Gyalsumdo, Lowa, Tsum, Nubri, Yolmo, Jirel, Kagate	74	U+005e U+006c
+^m	m	mi, mo	Jirel, Lowa, Kagate, Gyalsumdo, Nubri, Sherpa	100	U+005e U+006d
+^mb	ⁿb
+^n	n	nam, nd̪i	Lowa, Tsum, Jirel, Yolmo, Kagate, Gyalsumdo, Sherpa, Nubri	96	U+005e U+006e
+^ndz	ⁿdz
+^n̪	n̪	n̪am, n̪um	Yolmo, Jirel, Nubri, Tsum, Sherpa, Lowa	33	U+005e U+006e U+032a
+^o	o	oma, oŋ	Gyalsumdo, Sherpa, Tsum, Jirel, Kagate, Lowa, Yolmo, Nubri	23	U+005e U+006f
+^o$	o	o	Tsum	1	U+005e U+006f U+0024
+^p	p	pomo, pema	Gyalsumdo, Nubri, Kagate, Yolmo, Lowa, Tsum, Jirel, Sherpa	98	U+005e U+0070
+^pʰ	pʰ	pʰakpa, pʰe	Jirel, Sherpa, Yolmo, Tsum, Nubri, Lowa, Kagate, Gyalsumdo	51	U+005e U+0070 U+02b0
+^r	r	ra, ro	Sherpa, Kagate, Yolmo	12	U+005e U+0072
+^rw	r w	rwaɡa	Kagate	1	U+005e U+0072 U+0077
+^s	s	sa, su	Lowa, Jirel, Kagate, Gyalsumdo, Tsum, Sherpa, Nubri, Yolmo	100	U+005e U+0073
+^t	t	taŋmu, tuk	Gyalsumdo, Nubri, Tsum, Lowa, Yolmo, Kagate, Jirel, Sherpa	67	U+005e U+0074
+^ts	ts	tsiŋ, tsamba	Yolmo, Jirel, Kagate, Lowa, Sherpa, Tsum, Gyalsumdo, Nubri	49	U+005e U+0074 U+0073
+^tsʰ	tsʰ	tsʰa, tsʰiluk	Jirel, Sherpa, Lowa, Nubri, Gyalsumdo, Yolmo, Tsum, Kagate	48	U+005e U+0074 U+0073 U+02b0
+^tɕ	tɕ	tɕi, tɕju	Nubri, Tsum, Gyalsumdo, Sherpa, Lowa, Yolmo, Kagate, Jirel	68	U+005e U+0074 U+0255
+^tɕʰ	tɕʰ	tɕʰju, tɕʰja	Tsum, Sherpa, Kagate, Jirel, Gyalsumdo, Lowa, Yolmo, Nubri	45	U+005e U+0074 U+0255 U+02b0
+^tɕʰw	tɕʰ w	tɕʰwabat̪e	Jirel	1	U+005e U+0074 U+0255 U+02b0 U+0077
+^tʰ	tʰ	tʰa, tʰak	Jirel, Sherpa, Gyalsumdo, Lowa, Tsum, Yolmo, Nubri, Kagate	37	U+005e U+0074 U+02b0
+^t̪	t̪	t̪om, t̪e	Gyalsumdo, Nubri, Lowa, Kagate, Jirel, Sherpa	100	U+005e U+0074 U+032a
+^t̪ʰ	t̪ʰ	t̪ʰakpa, t̪ʰala	Sherpa, Jirel, Kagate, Tsum, Gyalsumdo, Lowa, Nubri, Yolmo	100	U+005e U+0074 U+032a U+02b0
+^t̪ʰw	t̪ʰ w	t̪ʰwa	Kagate	1	U+005e U+0074 U+032a U+02b0 U+0077
+^u	u	uŋgu, uti	Kagate, Sherpa, Lowa	4	U+005e U+0075
+^u$	u	u	Kagate	1	U+005e U+0075 U+0024
+^w	w	wala, woma	Kagate, Lowa, Yolmo, Tsum, Nubri, Gyalsumdo	15	U+005e U+0077
+^z	z	ziu, zu	Tsum, Yolmo	3	U+005e U+007a
+^ã	ã	ãp, ãm	Yolmo, Jirel, Sherpa, Gyalsumdo, Lowa, Nubri, Kagate	9	U+005e U+00e3
+^ãã$	ãː	ãã	Tsum	1	U+005e U+00e3 U+00e3 U+0024
+^ŋ	ŋ	ŋa, ŋama	Jirel, Lowa, Kagate, Sherpa, Tsum, Gyalsumdo, Nubri, Yolmo	75	U+005e U+014b
+^ŋg	ⁿg
+ŋg	ⁿg
+ŋɡ	ⁿg
+^ŋɡ	ⁿg
+^ɕ	ɕ	ɕi, ɕja	Jirel, Tsum, Gyalsumdo, Yolmo, Nubri, Sherpa, Lowa, Kagate	54	U+005e U+0255
+^ɕw	ɕ w	ɕwabu	Yolmo	1	U+005e U+0255 U+0077
+^ə	ə	əud̪əkar, əũtʰi	Sherpa, Jirel	2	U+005e U+0259
+^ɡ	g	ɡo, ɡolbeda	Sherpa, Kagate, Yolmo, Jirel, Tsum	17	U+005e U+0261
+^ɦ	ɦ	ɦoma, ɦapt̪a	Nubri, Sherpa, Gyalsumdo, Kagate	6	U+005e U+0266
+^ɲ	ɲ	ɲima, ɲi	Tsum, Gyalsumdo, Yolmo, Lowa, Nubri, Jirel, Sherpa, Kagate	92	U+005e U+0272
+^ɹ	ɹ	ɹo, ɹa	Jirel, Gyalsumdo, Lowa, Yolmo, Tsum, Sherpa, Nubri	33	U+005e U+0279
+^ʂ	ʂ	ʂɹa, ʂɹiŋpa	Lowa	2	U+005e U+0282
+^ʑ	ʑ	ʑi	Yolmo, Tsum	2	U+005e U+0291
+_	_	lakpa t̪ʰil	Nubri	1	U+005f
+a	a	t̪aɡɹaŋ, nam	Gyalsumdo	100	U+0061
+a$	a	sa, t̪ʰakpa	Gyalsumdo, Jirel	100	U+0061 U+0024
+b	b	aba, t̪abu	Jirel, Kagate, Gyalsumdo, Lowa, Nubri	100	U+0062
+b$	b	t̪ʰab, soɹt̪ob	Nubri, Gyalsumdo, Tsum, Sherpa, Yolmo, Jirel	15	U+0062 U+0024
+d	d	pidza, ndo	Kagate, Sherpa, Jirel, Lowa, Yolmo, Tsum, Gyalsumdo, Nubri	90	U+0064
+dz	dz
+dʑ	dʑ	tɕjudʑik, ŋuldʑju	Jirel, Lowa, Yolmo, Tsum, Kagate, Sherpa, Gyalsumdo, Nubri	23	U+0064 U+0291
+d̪	d̪	nd̪i, nd̪aŋ	Tsum, Jirel, Yolmo, Sherpa, Nubri, Kagate, Lowa, Gyalsumdo	100	U+0064 U+032a
+e	e	pema, preken	Jirel, Kagate, Gyalsumdo, Lowa	100	U+0065
+e$	e	me, t̪ʰe	Jirel, Kagate, Gyalsumdo	100	U+0065 U+0024
+e:$	eː	te:, n̪e:	Nubri	2	U+0065 U+003a U+0024
+g	g	hləwalaŋgu, uŋgu	Sherpa	2	U+0067
+h	h	t̪ohpa	Nubri	1	U+0068
+h$	h	puh, t̪oh	Nubri	5	U+0068 U+0024
+i	i	ɲima, tikpidʑik	Jirel, Gyalsumdo, Kagate	100	U+0069
+i$	i	ɕi, mi	Kagate, Gyalsumdo, Jirel, Lowa, Nubri	100	U+0069 U+0024
+j	j	ɕja, kjakpa	Kagate, Gyalsumdo, Jirel, Lowa	100	U+006a
+j$	j	jukəj	Sherpa	1	U+006a U+0024
+k	k	t̪ʰakpa, kjakpa	Jirel, Gyalsumdo, Lowa, Kagate	100	U+006b
+k$	k	tɕik, tuk	Jirel, Sherpa, Lowa, Kagate, Nubri, Gyalsumdo, Yolmo, Tsum	91	U+006b U+0024
+ks	k s	miksaŋ, tʰəksəŋma	Sherpa, Gyalsumdo	3	U+006b U+0073
+kʰ	kʰ	lamkʰute, wokʰokja	Kagate, Sherpa, Jirel	10	U+006b U+02b0
+kʰ$	kʰ	mikʰ	Nubri	1	U+006b U+02b0 U+0024
+l	l	t̪ʰala, tsʰiluk	Jirel, Kagate, Nubri, Gyalsumdo, Sherpa, Lowa	100	U+006c
+l$	l	jul, ɲol	Gyalsumdo, Nubri, Sherpa, Yolmo, Tsum, Jirel, Kagate, Lowa	35	U+006c U+0024
+ls	l s	ɲalso	Tsum	1	U+006c U+0073
+lʑ	l ʑ	ŋulʑju	Tsum	1	U+006c U+0291
+m	m	oma, pomo	Gyalsumdo, Jirel, Kagate	100	U+006d
+m$	m	nam, sum	Yolmo, Sherpa, Tsum, Nubri, Jirel, Kagate, Gyalsumdo, Lowa	75	U+006d U+0024
+mb	ⁿb
+mm	m m	pʰemmepidza, tɕʰjumma	Jirel, Tsum	7	U+006d U+006d
+ms	m s	kʰakomso	Tsum	1	U+006d U+0073
+mʑ	m ʑ	namʑen	Gyalsumdo	1	U+006d U+0291
+n	n	mend̪o, bənd̪a	Tsum, Jirel, Gyalsumdo, Sherpa, Nubri, Yolmo, Kagate, Lowa	74	U+006e
+n$	n	min, t̪in	Jirel, Tsum, Yolmo, Kagate, Gyalsumdo, Sherpa, Lowa, Nubri	28	U+006e U+0024
+ndz	ⁿdz
+ns	n s	ɲanso	Tsum	1	U+006e U+0073
+nʑ	n ʑ	kanʑøʔ	Tsum	1	U+006e U+0291
+n̪	n̪	t̪ɛ̃n̪d̪ɛ̃, køn̪d̪i	Nubri, Sherpa, Yolmo, Jirel	5	U+006e U+032a
+n̪$	n̪	min̪, ɲin̪	Nubri, Yolmo, Jirel	8	U+006e U+032a U+0024
+o	o	pomo, kʰojobopidza	Jirel, Gyalsumdo, Kagate	100	U+006f
+o$	o	pomo, ko	Gyalsumdo, Lowa, Kagate, Jirel	100	U+006f U+0024
+oo$	oː	n̪oo	Tsum	1	U+006f U+006f U+0024
+p	p	t̪ʰakpa, laɡpa	Gyalsumdo, Jirel, Lowa, Kagate	100	U+0070
+p$	p	kʰap, t̪ʰap	Sherpa, Tsum, Lowa, Nubri, Kagate, Jirel, Gyalsumdo, Yolmo	35	U+0070 U+0024
+pʰ	pʰ	pʰumpʰedza, tʰaklapʰikant̪e	Sherpa, Yolmo, Jirel	9	U+0070 U+02b0
+r	r	kʰurpu, perka	Kagate, Sherpa, Nubri, Yolmo, Lowa, Tsum, Gyalsumdo	75	U+0072
+r$	r	ser, t̪ʰamdzer	Kagate, Sherpa, Yolmo, Tsum	11	U+0072 U+0024
+s	s	ŋɡwase, seso	Tsum, Jirel, Sherpa, Yolmo, Gyalsumdo, Lowa, Nubri, Kagate	24	U+0073
+s̩$	s̩	n̪amkjaus̩	Tsum	1	U+0073 U+0329 U+0024
+t	t	lamkute, lamkʰute	Jirel, Kagate, Gyalsumdo, Sherpa, Lowa, Tsum, Nubri, Yolmo	23	U+0074
+t$	t	pakut, kombot	Tsum	4	U+0074 U+0024
+ts	ts	t̪oktsi, pitsa	Kagate, Tsum, Nubri, Gyalsumdo, Yolmo, Jirel, Sherpa, Lowa	40	U+0074 U+0073
+ts$	ts	pjats	Yolmo, Jirel	2	U+0074 U+0073 U+0024
+tsʰ	tsʰ	kʰoɹtsʰen, kaŋtsʰiɹiɲald̪uŋ	Nubri, Gyalsumdo, Sherpa, Yolmo, Kagate	7	U+0074 U+0073 U+02b0
+tɕ	tɕ	amtɕjoʔ, atɕjo	Lowa, Gyalsumdo, Sherpa, Nubri, Yolmo, Jirel, Kagate, Tsum	25	U+0074 U+0255
+tɕʰ	tɕʰ	mətɕʰəɹ, kjuɡtɕʰju	Nubri, Yolmo	2	U+0074 U+0255 U+02b0
+tʰ	tʰ	tɕjamodʑiptʰuk, əũtʰi	Lowa, Nubri, Gyalsumdo, Jirel	5	U+0074 U+02b0
+t̪	t̪	ŋot̪oŋ, mit̪at̪oŋɡu	Jirel, Nubri, Sherpa, Gyalsumdo, Lowa, Kagate, Tsum	100	U+0074 U+032a
+t̪$	t̪	ŋɡet̪, tʰot̪	Jirel	3	U+0074 U+032a U+0024
+t̪ʰ	t̪ʰ	koɡt̪ʰa, laɡpat̪ʰil	Nubri, Lowa, Gyalsumdo, Sherpa	11	U+0074 U+032a U+02b0
+u	u	jul, tsʰiluk	Jirel, Gyalsumdo, Kagate	100	U+0075
+u$	u	taŋmu, su	Gyalsumdo, Kagate, Jirel	100	U+0075 U+0024
+w	w	hlawa, nd̪awa	Lowa, Yolmo, Gyalsumdo, Tsum, Jirel, Nubri, Kagate, Sherpa	39	U+0077
+w$	w	t̪ʰaɲiw	Nubri	1	U+0077 U+0024
+x	x	kxe	Nubri	1	U+0078
+y	y	t̪yn, jyt̪yn	Tsum, Lowa, Gyalsumdo, Nubri	17	U+0079
+y$	y	ly, jy	Lowa, Gyalsumdo, Nubri	5	U+0079 U+0024
+z	z	pidza, adzi	Kagate, Sherpa, Yolmo, Jirel, Lowa, Tsum, Gyalsumdo	73	U+007a
+z$	z	pjadz, pjaz	Sherpa, Gyalsumdo, Kagate	3	U+007a U+0024
+ã	ã	kãd̪i, ijãʔ	Kagate, Yolmo, Tsum, Jirel	5	U+00e3
+ã$	ã	koã, aã	Tsum, Kagate, Yolmo, Jirel, Nubri	8	U+00e3 U+0024
+õ	õ	tõŋkõ, põbetsa	Nubri	2	U+00f5
+õ$	õ	poõ, kjõ	Nubri, Tsum	9	U+00f5 U+0024
+ø	ø	t̪øʔ, nøpa	Tsum, Gyalsumdo, Lowa, Nubri	20	U+00f8
+ø$	ø	kantɕø, t̪ø	Lowa, Nubri, Yolmo, Gyalsumdo, Tsum	6	U+00f8 U+0024
+ĩ	ĩ	poĩpiza	Tsum	1	U+0129
+ĩ$	ĩ	mĩ, mãjĩ	Nubri, Kagate	2	U+0129 U+0024
+ŋ	ŋ	kaŋpa, taŋmu	Lowa, Kagate, Gyalsumdo, Jirel, Nubri	100	U+014b
+ŋ$	ŋ	ɕiŋ, ɲiŋ	Sherpa, Gyalsumdo, Lowa, Nubri, Jirel, Kagate	100	U+014b U+0024
+ŋs	ŋ s	t̪ʰaŋsa, t̪ʰaŋsodze	Kagate, Sherpa, Lowa, Yolmo, Nubri, Tsum	9	U+014b U+0073
+ŋw	ŋ w	ɲuŋwa, tɕuŋwa	Lowa	3	U+014b U+0077
+ŋɕ	ŋ ɕ	kuŋɕe, kuŋɕiŋ	Nubri, Kagate	2	U+014b U+0255
+ũ	ũ	n̪ũwã, əũtʰi	Jirel	2	U+0169
+ũ$	ũ	n̪iŋkũ, tɕjoũ	Nubri	2	U+0169 U+0024
+ɔ	ɔ	kɔkpa, tɕɔtɕo	Gyalsumdo, Nubri, Yolmo	7	U+0254
+ɔ$	ɔ	t̪ʰɔ, kɔ	Nubri	5	U+0254 U+0024
+ɔ:$	ɔː	t̪ɔ:	Nubri	1	U+0254 U+003a U+0024
+ɔ̃	ɔ̃	tɕjɔ̃mpu	Nubri	1	U+0254 U+0303
+ɕ	ɕ	ɲiɕu, ɲiɕju	Nubri, Jirel, Gyalsumdo, Sherpa, Yolmo, Tsum, Kagate	10	U+0255
+ɖ	ɖ	t̪ukɖaŋ	Nubri	1	U+0256
+ə	ə	bəd̪əm, bənd̪a	Sherpa, Jirel, Yolmo, Gyalsumdo, Kagate, Tsum, Lowa, Nubri	92	U+0259
+ɛ	ɛ	ɕɛt̪aŋ, pɛnta	Nubri, Gyalsumdo	4	U+025b
+ɛ$	ɛ	tʰɛ, kʰakomkɛ	Gyalsumdo, Nubri	14	U+025b U+0024
+ɛ̃	ɛ̃	t̪ɛ̃n̪d̪ɛ̃	Nubri	1	U+025b U+0303
+ɛ̃$	ɛ̃	t̪ɛ̃n̪d̪ɛ̃	Nubri	1	U+025b U+0303 U+0024
+ɛ̃:$	ɛ̃ː	pɛ̃:	Nubri	1	U+025b U+0303 U+003a U+0024
+ɡ	g	laɡpa, t̪ʰaɡpa	Gyalsumdo, Lowa, Jirel, Sherpa, Kagate, Nubri	100	U+0261
+ɡ$	g	tɕiɡ	Gyalsumdo	1	U+0261 U+0024
+ɡw	g w	ŋɡwase, ŋɡwãpali	Jirel	3	U+0261 U+0077
+ɦ	ɦ	maɦi	Nubri	1	U+0266
+ɰ	ɰ	poɰla	Yolmo	1	U+0270
+ɲ	ɲ	tɕuɲi, kaŋtsʰiɹiɲald̪uŋ	Gyalsumdo, Lowa, Yolmo, Nubri, Jirel, Tsum	12	U+0272
+ɹ	ɹ	kaɹma, t̪iɹiŋ	Jirel, Gyalsumdo, Nubri, Tsum, Lowa, Sherpa	100	U+0279
+ɹ$	ɹ	seɹ, pʰuɹ	Gyalsumdo, Jirel, Nubri, Yolmo, Sherpa, Lowa	21	U+0279 U+0024
+ɹs	ɹ s	pʰiɹso	Tsum	1	U+0279 U+0073
+ɹw	ɹ w	tɕʰjaɹwa	Tsum	1	U+0279 U+0077
+ɹɕ	ɹ ɕ	kʰuɹɕani	Jirel	1	U+0279 U+0255
+ɾ	ɾ	keɾa, kiɾi	Lowa, Tsum, Yolmo, Gyalsumdo	37	U+027e
+ɾ$	ɾ	seɾ, besaɾ	Lowa, Tsum	4	U+027e U+0024
+ʈ	ʈ	tumaʈa	Nubri	1	U+0288
+ʏ	ʏ	t̪ʏntʰaʔ	Nubri	1	U+028f
+ʑ	ʑ	tɕjuʑi, kʰaʑu	Tsum, Yolmo	8	U+0291
+ʔ$	ʔ	ɕiŋt̪oʔ, amtɕjoʔ	Tsum, Lowa, Nubri, Sherpa	52	U+0294 U+0024
+ʔs	ʔ s	tsʰiʔso, t̪eʔso	Tsum	2	U+0294 U+0073
+ẽ	ẽ	nẽjã	Kagate	1	U+1ebd
+ẽ$	ẽ	mẽ	Nubri	1	U+1ebd U+0024
+ⁿd	ⁿd
