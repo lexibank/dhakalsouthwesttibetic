@@ -45,6 +45,10 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         args.writer.add_sources()
         concepts = {}
+        sagart = {
+                c.concepticon_gloss: c.english for c in
+                self.conceptlists[0].concepts.values()}
+        matches = []
         for concept in self.concepts:
             idx = "{0}-{1}".format(
                     concept["NUMBER"],
@@ -56,6 +60,11 @@ class Dataset(BaseDataset):
                     Tibetan_Gloss=concept["TIBETAN"],
                     Concepticon_Gloss=concept["CONCEPTICON_GLOSS"])
             concepts[concept["ENGLISH"]+"-"+concept["TIBETAN"]] = idx
+            if concept["CONCEPTICON_GLOSS"] in sagart:
+                matches.append(
+                        (concept["ENGLISH"], concept["CONCEPTICON_GLOSS"]))
+        args.log.info(
+                "found {0} concepts common with Sagart's list".format(len(matches)))
         for language in progressbar(self.languages):
             args.writer.add_language(**language)
             for row in self.raw_dir.read_csv(
