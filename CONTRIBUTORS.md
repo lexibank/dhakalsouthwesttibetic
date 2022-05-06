@@ -2,4 +2,5 @@
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Sean Roberts | @seannyD	| main data collection and analysis | Author
+Dubi Nanda Dhakal‬ |  	| main data collection and analysis | Author
+Sean Roberts | @seannyD	| data cleaning and analysis | Author
