@@ -268,8 +268,8 @@ Gyalsumdo-192-Toswallow-1,,Gyalsumdo,192-Toswallow,mikɛ,mikɛ,m i k ɛ,,Roberts
 Gyalsumdo-206-Tothrow-1,,Gyalsumdo,206-Tothrow,jukɛ,jukɛ,j u k ɛ,,Roberts2022,,,^j u k ɛ$,default,Mid,फ्याँक्नु
 Gyalsumdo-206-Tothrow-2,,Gyalsumdo,206-Tothrow,juɹkɛ,juɹkɛ,j u ɹ k ɛ,,Roberts2022,,,^j u ɹ k ɛ$,default,Mid,फ्याँक्नु
 Jirel-20-Body-1,,Jirel,20-Body,dziu,dziu,dz iu,,Roberts2022,,,^dz iu $,default,Low,शरीर
-Jirel-91-Head-1,,Jirel,91-Head,ŋɡo,ŋɡo,ŋ g o,,Roberts2022,,,^ŋ ɡ o$,default,Low,टाउको
-Jirel-87-Hair-1,,Jirel,87-Hair,ŋɡokita,ŋɡokita,ŋ g o k i t a,,Roberts2022,,,^ŋ ɡ o k i t a$,default,,कपाल
+Jirel-91-Head-1,,Jirel,91-Head,ŋɡo,ŋɡo,ⁿg o,,Roberts2022,,,^ŋɡ o$,default,Low,टाउको
+Jirel-87-Hair-1,,Jirel,87-Hair,ŋɡokita,ŋɡokita,ⁿg o k i t a,,Roberts2022,,,^ŋɡ o k i t a$,default,,कपाल
 Jirel-60-Face-1,,Jirel,60-Face,tɕʰet̪,tɕʰet̪,tɕʰ e t̪,,Roberts2022,,,^tɕʰ e t̪$,default,Mid,अनुहार
 Jirel-59-Eye-1,,Jirel,59-Eye,mik,mik,m i k,,Roberts2022,,,^m i k$,default,High,आँखा
 Jirel-52-Ear-1,,Jirel,52-Ear,n̪amdʑjok,n̪amdʑjok,n̪ a m dʑ j o k,,Roberts2022,,,^n̪ a m dʑ j o k$,default,Mid-High,कान
@@ -294,7 +294,7 @@ Jirel-61-Faeces-1,,Jirel,61-Faeces,kjakpa,kjakpa,k j a k p a,,Roberts2022,,,^k j
 Jirel-219-Village-1,,Jirel,219-Village,jul,jul,j u l,,Roberts2022,,,^j u l$,default,Low-Rise,गाउँ
 Jirel-99-House-1,,Jirel,99-House,kʰamba,kʰamba,kʰ a n/m + b a,,Roberts2022,,,^kʰ a mb a$,default,Mid-High,घर
 Jirel-166-Roof-1,,Jirel,166-Roof,tsʰanu,tsʰanu,tsʰ a n u,,Roberts2022,,,^tsʰ a n u$,default,,छानो
-Jirel-46-Door-1,,Jirel,46-Door,ŋɡo,ŋɡo,ŋ g o,,Roberts2022,,,^ŋ ɡ o$,default,Mid,ढोका
+Jirel-46-Door-1,,Jirel,46-Door,ŋɡo,ŋɡo,ⁿg o,,Roberts2022,,,^ŋɡ o$,default,Mid,ढोका
 Jirel-69-Firewood-1,,Jirel,69-Firewood,ɕiŋ,ɕiŋ,ɕ i ŋ,,Roberts2022,,,^ɕ i ŋ$,default,High,दाउरा
 Jirel-27-Broom-1,,Jirel,27-Broom,komuk,komuk,k o m u k,,Roberts2022,,,^k o m u k$,default,High,कुचो
 Jirel-130-Mortar-1,,Jirel,130-Mortar,siləuta,siləuta,s i l əu t a,,Roberts2022,,,^s i l əu t a$,default,,सिलौटो
@@ -345,10 +345,10 @@ Jirel-6-Eggplant-1,,Jirel,6-Eggplant,pənda,pənda,p ə n/n + d a,,Roberts2022,,
 Jirel-153-Groundnut-1,,Jirel,153-Groundnut,mbəd̪am,mbəd̪am,ⁿb ə d̪ a m,,Roberts2022,,,^mb ə d̪ a m$,default,,बदाम
 Jirel-143-Chilli-1,,Jirel,143-Chilli,kʰuɹɕani,kʰuɹɕani,kʰ u ɹ ɕ a n i,,Roberts2022,,,^kʰ u ɹɕ a n i$,default,,खुर्सानी
 Jirel-213-Turmeric-1,,Jirel,213-Turmeric,mbesaɹ,mbesaɹ,ⁿb e s a ɹ,,Roberts2022,,,^mb e s a ɹ$,default,,बेसार
-Jirel-77-Garlic-1,,Jirel,77-Garlic,ŋɡokpa,ŋɡokpa,ŋ g o k p a,,Roberts2022,,,^ŋ ɡ o k p a$,default,Mid,लसुन
+Jirel-77-Garlic-1,,Jirel,77-Garlic,ŋɡokpa,ŋɡokpa,ⁿg o k p a,,Roberts2022,,,^ŋɡ o k p a$,default,Mid,लसुन
 Jirel-149-Onion-1,,Jirel,149-Onion,pjats,pjats,p j a ts,,Roberts2022,,,^p j a ts$,default,,प्याज
 Jirel-31-Cauliflower-1,,Jirel,31-Cauliflower,kauli,kauli,k au l i,,Roberts2022,,,^k au l i$,default,,काउली
-Jirel-208-Tomato-1,,Jirel,208-Tomato,ŋɡolbeda,ŋɡolbeda,ŋ g o l b e d a,,Roberts2022,,,^ŋ ɡ o l b e d a$,default,,गोलभेँडा
+Jirel-208-Tomato-1,,Jirel,208-Tomato,ŋɡolbeda,ŋɡolbeda,ⁿg o l b e d a,,Roberts2022,,,^ŋɡ o l b e d a$,default,,गोलभेँडा
 Jirel-30-Cabbage-1,,Jirel,30-Cabbage,bənd̪a,bənd̪a,b ə n/n d a,,Roberts2022,,,^b ə nd̪ a$,default,,बन्दा
 Jirel-144-Oil-1,,Jirel,144-Oil,məɹɡu,məɹɡu,m ə ɹ g u,,Roberts2022,,,^m ə ɹ ɡ u$,default,Mid-High,तेल
 Jirel-170-Salt-1,,Jirel,170-Salt,tsʰa,tsʰa,tsʰ a,,Roberts2022,,,^tsʰ a$,default,High,नुन
@@ -371,7 +371,7 @@ Jirel-126-Monkey-1,,Jirel,126-Monkey,moɹo,moɹo,m o ɹ o,,Roberts2022,,,^m o ɹ
 Jirel-126-Monkey-2,,Jirel,126-Monkey,tʰaklapʰikant̪e,tʰaklapʰikant̪e,tʰ a k l a pʰ i k a n t̪ e,,Roberts2022,,,^tʰ a k l a pʰ i k a n t̪ e$,default,Mid,बाँदर
 Jirel-131-Mosquito-1,,Jirel,131-Mosquito,lamkute,lamkute,l a m k u t e,,Roberts2022,,,^l a m k u t e$,default,,लामखुट्टे
 Jirel-3-Ant-1,,Jirel,3-Ant,tʰoŋmatsi,tʰoŋmatsi,tʰ o ŋ m a ts i,,Roberts2022,,,^tʰ o ŋ m a ts i$,default,,कमिला
-Jirel-187-Spider-1,,Jirel,187-Spider,ŋɡwãpali,ŋɡwãpali,ŋ g w ã p a l i,,Roberts2022,,,^ŋ ɡw ã p a l i$,default,,माकुरो
+Jirel-187-Spider-1,,Jirel,187-Spider,ŋɡwãpali,ŋɡwãpali,ⁿg w ã p a l i,,Roberts2022,,,^ŋɡ w ã p a l i$,default,,माकुरो
 Jirel-135-Name-1,,Jirel,135-Name,min̪,min̪,m i n̪,,Roberts2022,,,^m i n̪$,default,Low-Rise,नाम
 Jirel-120-Man-1,,Jirel,120-Man,mi,mi,m i,,Roberts2022,,,^m i$,default,Low-Rise,मान्छे
 Jirel-236-Woman-1,,Jirel,236-Woman,pʰemmemi,pʰemmemi,pʰ e m + m e m i,,Roberts2022,,,^pʰ e mm e m i$,default,,आइमाई
@@ -389,10 +389,10 @@ Jirel-234-Wife-1,,Jirel,234-Wife,pʰemme,pʰemme,pʰ e m + m e,,Roberts2022,,,^p
 Jirel-22-Boy-1,,Jirel,22-Boy,kʰojobopidza,kʰojobopidza,kʰ o j o b o p i dz a,,Roberts2022,,,^kʰ o j o b o p i dz a$,default,,केटो
 Jirel-79-Girl-1,,Jirel,79-Girl,pʰemmepidza,pʰemmepidza,pʰ e m + m e p i dz a,,Roberts2022,,,^pʰ e mm e p i dz a$,default,,केटी
 Jirel-42-Day-1,,Jirel,42-Day,ɲima,ɲima,ɲ i m a,,Roberts2022,,,^ɲ i m a$,default,,दिन
-Jirel-139-Night-1,,Jirel,139-Night,ŋɡwase,ŋɡwase,ŋ g w a s e,,Roberts2022,,,^ŋ ɡw a s e$,default,,रात
+Jirel-139-Night-1,,Jirel,139-Night,ŋɡwase,ŋɡwase,ⁿg w a s e,,Roberts2022,,,^ŋɡ w a s e$,default,,रात
 Jirel-129-Morning-1,,Jirel,129-Morning,ŋomu,ŋomu,ŋ o m u,,Roberts2022,,,^ŋ o m u$,default,High,विहान
 Jirel-141-Noon-1,,Jirel,141-Noon,ɲimmu,ɲimmu,ɲ i m + m u,,Roberts2022,,,^ɲ i mm u$,default,,मध्यान्ह
-Jirel-58-Evening-1,,Jirel,58-Evening,ŋɡwase,ŋɡwase,ŋ g w a s e,,Roberts2022,,,^ŋ ɡw a s e$,default,,साँझ
+Jirel-58-Evening-1,,Jirel,58-Evening,ŋɡwase,ŋɡwase,ⁿg w a s e,,Roberts2022,,,^ŋɡ w a s e$,default,,साँझ
 Jirel-239-Yesterday-1,,Jirel,239-Yesterday,nd̪aŋ,nd̪aŋ,ⁿd a ŋ,,Roberts2022,,,^nd̪ a ŋ$,default,Mid,हिजो
 Jirel-207-Today-1,,Jirel,207-Today,tʰəɹiŋ,tʰəɹiŋ,tʰ ə ɹ i ŋ,,Roberts2022,,,^tʰ ə ɹ i ŋ$,default,Mid,आज
 Jirel-209-Tomorrow-1,,Jirel,209-Tomorrow,ŋaɹo,ŋaɹo,ŋ a ɹ o,,Roberts2022,,,^ŋ a ɹ o$,default,High,भोली
@@ -431,8 +431,8 @@ Jirel-75-Four-1,,Jirel,75-Four,ɕi,ɕi,ɕ i,,Roberts2022,,,^ɕ i$,default,Low-Ri
 Jirel-71-Five-1,,Jirel,71-Five,ŋa,ŋa,ŋ a,,Roberts2022,,,^ŋ a$,default,High,पाँच
 Jirel-177-Six-1,,Jirel,177-Six,tʰok,tʰok,tʰ o k,,Roberts2022,,,^tʰ o k$,default,Mid-High,छ
 Jirel-173-Seven-1,,Jirel,173-Seven,nd̪uin,nd̪uin,ⁿd ui n,,Roberts2022,,,^nd̪ ui n$,default,Mid-Rise,सात
-Jirel-55-Eight-1,,Jirel,55-Eight,ŋɡet̪,ŋɡet̪,ŋ g e t̪,,Roberts2022,,,^ŋ ɡ e t̪$,default,Low-Rise,आठ
-Jirel-140-Nine-1,,Jirel,140-Nine,ŋɡu,ŋɡu,ŋ g u,,Roberts2022,,,^ŋ ɡ u$,default,Low-Rise,नौ
+Jirel-55-Eight-1,,Jirel,55-Eight,ŋɡet̪,ŋɡet̪,ⁿg e t̪,,Roberts2022,,,^ŋɡ e t̪$,default,Low-Rise,आठ
+Jirel-140-Nine-1,,Jirel,140-Nine,ŋɡu,ŋɡu,ⁿg u,,Roberts2022,,,^ŋɡ u$,default,Low-Rise,नौ
 Jirel-195-Ten-1,,Jirel,195-Ten,tɕut̪amba,tɕut̪amba,tɕ u t̪ a n/m + b a,,Roberts2022,,,^tɕ u t̪ a mb a$,default,,दश
 Jirel-57-Eleven-1,,Jirel,57-Eleven,tɕutɕik,tɕutɕik,tɕ u tɕ i k,,Roberts2022,,,^tɕ u tɕ i k$,default,,एघार
 Jirel-214-Twelve-1,,Jirel,214-Twelve,tɕuŋɲi,tɕuŋɲi,tɕ u ŋ ɲ i,,Roberts2022,,,^tɕ u ŋ ɲ i$,default,,बाह्र
@@ -450,11 +450,11 @@ Jirel-200-These-1,,Jirel,200-These,nd̪iba,nd̪iba,ⁿd i b a,,Roberts2022,,,^nd
 Jirel-197-Those-1,,Jirel,197-Those,t̪ʰeba,t̪ʰeba,t̪ʰ e b a,,Roberts2022,,,^t̪ʰ e b a$,default,,ती
 Jirel-171-Same-1,,Jirel,171-Same,t̪ʰokɹaŋ,t̪ʰokɹaŋ,t̪ʰ o k ɹ a ŋ,,Roberts2022,,,^t̪ʰ o k ɹ a ŋ$,default,,उही
 Jirel-44-Different-1,,Jirel,44-Different,kʰud̪uk,kʰud̪uk,kʰ u d̪ u k,,Roberts2022,,,^kʰ u d̪ u k$,default,,फरक
-Jirel-233-Whole-1,,Jirel,233-Whole,ŋɡaŋe,ŋɡaŋe,ŋ g a ŋ e,,Roberts2022,,,^ŋ ɡ a ŋ e$,default,Mid,सबै
+Jirel-233-Whole-1,,Jirel,233-Whole,ŋɡaŋe,ŋɡaŋe,ⁿg a ŋ e,,Roberts2022,,,^ŋɡ a ŋ e$,default,Mid,सबै
 Jirel-26-Broken-1,,Jirel,26-Broken,tɕʰakpat̪e,tɕʰakpat̪e,tɕʰ a k p a t̪ e,,Roberts2022,,,^tɕʰ a k p a t̪ e$,default,,फुटेको
 Jirel-65-Few-1,,Jirel,65-Few,tikpidʑik,tikpidʑik,t i k p i dʑ i k,,Roberts2022,,,^t i k p i dʑ i k$,default,,थोरै
 Jirel-122-Many-1,,Jirel,122-Many,kalbe,kalbe,k a l b e,,Roberts2022,,,^k a l b e$,default,High,धेरै
-Jirel-2-All-1,,Jirel,2-All,ŋɡaŋe,ŋɡaŋe,ŋ g a ŋ e,,Roberts2022,,,^ŋ ɡ a ŋ e$,default,,सबै
+Jirel-2-All-1,,Jirel,2-All,ŋɡaŋe,ŋɡaŋe,ⁿg a ŋ e,,Roberts2022,,,^ŋɡ a ŋ e$,default,,सबै
 Jirel-53-Toeat-1,,Jirel,53-Toeat,so,so,s o,,Roberts2022,,,^s o$,default,,खानु
 Jirel-53-Toeat-2,,Jirel,53-Toeat,soba,soba,s o b a,,Roberts2022,,,^s o b a$,default,,खानु
 Jirel-53-Toeat-3,,Jirel,53-Toeat,sabla,sabla,s a b l a,,Roberts2022,,,^s a b l a$,default,,खानु
@@ -481,7 +481,7 @@ Jirel-220-Towalk-1,,Jirel,220-Towalk,kʰjom,kʰjom,kʰ j o m,,Roberts2022,,,^kʰ
 Jirel-220-Towalk-2,,Jirel,220-Towalk,kʰjambat̪e,kʰjambat̪e,kʰ j a n/m + b a t̪ e,,Roberts2022,,,^kʰ j a mb a t̪ e$,default,High,हिँड्नु
 Jirel-169-Torun-1,,Jirel,169-Torun,tɕʰwabat̪e,tɕʰwabat̪e,tɕʰ w a b a t̪ e,,Roberts2022,,,^tɕʰw a b a t̪ e$,default,,दौडिनु
 Jirel-81-Togo-1,,Jirel,81-Togo,ɡalat̪e,ɡalat̪e,g a l a t̪ e,,Roberts2022,,,^ɡ a l a t̪ e$,default,,जानु
-Jirel-81-Togo-2,,Jirel,81-Togo,ŋɡjuk,ŋɡjuk,ŋ g j u k,,Roberts2022,,,^ŋ ɡ j u k$,default,,जानु
+Jirel-81-Togo-2,,Jirel,81-Togo,ŋɡjuk,ŋɡjuk,ⁿg j u k,,Roberts2022,,,^ŋɡ j u k$,default,,जानु
 Jirel-38-Tocome-1,,Jirel,38-Tocome,ɕjok,ɕjok,ɕ j o k,,Roberts2022,,,^ɕ j o k$,default,High,आउनु
 Jirel-186-Tospeak-1,,Jirel,186-Tospeak,mbat̪kʰabat̪e,mbat̪kʰabat̪e,ⁿb a t̪ kʰ a b a t̪ e,,Roberts2022,,,^mb a t̪ kʰ a b a t̪ e$,default,,बोल्नु
 Jirel-116-Tohearlisten-1,,Jirel,116-Tohearlisten,t̪ʰobat̪e,t̪ʰobat̪e,t̪ʰ o b a t̪ e,,Roberts2022,,,^t̪ʰ o b a t̪ e$,default,,सुन्नु
@@ -491,19 +491,19 @@ Jirel-203-Youinformal-1,,Jirel,203-Youinformal,kʰo,kʰo,kʰ o,,Roberts2022,,,^k
 Jirel-90-He-1,,Jirel,90-He,t̪ʰe,t̪ʰe,t̪ʰ e,,Roberts2022,,,^t̪ʰ e$,default,Mid,उ
 Jirel-174-She-1,,Jirel,174-She,t̪ʰe,t̪ʰe,t̪ʰ e,,Roberts2022,,,^t̪ʰ e$,default,,उनी
 Jirel-224-Weinclusive-1,,Jirel,224-Weinclusive,oɹoŋ,oɹoŋ,o ɹ o ŋ,,Roberts2022,,,^o ɹ o ŋ$,default,,हामी (समावेशी)
-Jirel-224-Weinclusive-2,,Jirel,224-Weinclusive,ŋɡaŋe,ŋɡaŋe,ŋ g a ŋ e,,Roberts2022,,,^ŋ ɡ a ŋ e$,default,,हामी (समावेशी)
+Jirel-224-Weinclusive-2,,Jirel,224-Weinclusive,ŋɡaŋe,ŋɡaŋe,ⁿg a ŋ e,,Roberts2022,,,^ŋɡ a ŋ e$,default,,हामी (समावेशी)
 Jirel-240-Youplural-1,,Jirel,240-Youplural,kʰjokjon,kʰjokjon,kʰ j o k j o n,,Roberts2022,,,^kʰ j o k j o n$,default,,तिमीहरु
 Jirel-198-They-1,,Jirel,198-They,t̪ʰeba,t̪ʰeba,t̪ʰ e b a,,Roberts2022,,,^t̪ʰ e b a$,default,,उनीहरु
 Jirel-117-Load-1,,Jirel,117-Load,kʰuɹbo,kʰuɹbo,kʰ u ɹ b o,,Roberts2022,,,^kʰ u ɹ b o$,default,High,भारी
 Jirel-72-Floureatenasfood-1,,Jirel,72-Floureatenasfood,pʰe,pʰe,pʰ e,,Roberts2022,,,^pʰ e$,default,High,पिठो
 Jirel-86-Hailstone-1,,Jirel,86-Hailstone,seɹe,seɹe,s e ɹ e,,Roberts2022,,,^s e ɹ e$,default,High,असिना
-Jirel-104-Intestine-1,,Jirel,104-Intestine,ŋɡjumak,ŋɡjumak,ŋ g j u m a k,,Roberts2022,,,^ŋ ɡ j u m a k$,default,Mid-High,आन्द्रा
+Jirel-104-Intestine-1,,Jirel,104-Intestine,ŋɡjumak,ŋɡjumak,ⁿg j u m a k,,Roberts2022,,,^ŋɡ j u m a k$,default,Mid-High,आन्द्रा
 Jirel-237-Yard-1,,Jirel,237-Yard,ɕjaŋka,ɕjaŋka,ɕ j a ŋ k a,,Roberts2022,,,^ɕ j a ŋ k a$,default,High,आँगन
 Jirel-217-Touproot-1,,Jirel,217-Touproot,pʰalat̪e,pʰalat̪e,pʰ a l a t̪ e,,Roberts2022,,,^pʰ a l a t̪ e$,default,,उखेल्नु
 Jirel-150-Oven-1,,Jirel,150-Oven,t̪ʰap,t̪ʰap,t̪ʰ a p,,Roberts2022,,,^t̪ʰ a p$,default,High,चुल्हो
 Jirel-94-Heel-1,,Jirel,94-Heel,kuɹkutsa,kuɹkutsa,k u ɹ k u ts a,,Roberts2022,,,^k u ɹ k u ts a$,default,,कुर्कुच्चो
 Jirel-185-Spade-1,,Jirel,185-Spade,t̪oktsi,t̪oktsi,t̪ o k + ts i,,Roberts2022,,,^t̪ o kts i$,default,High,कोदालो
-Jirel-97-Horse-1,,Jirel,97-Horse,ŋɡoda,ŋɡoda,ŋ g o d a,,Roberts2022,,,^ŋ ɡ o d a$,default,,घोडा
+Jirel-97-Horse-1,,Jirel,97-Horse,ŋɡoda,ŋɡoda,ⁿg o d a,,Roberts2022,,,^ŋɡ o d a$,default,,घोडा
 Jirel-156-Toplough-1,,Jirel,156-Toplough,mowat̪e,mowat̪e,m o w a t̪ e,,Roberts2022,,,^m o w a t̪ e$,default,,जोत्नु
 Jirel-156-Toplough-2,,Jirel,156-Toplough,mobak,mobak,m o b a k,,Roberts2022,,,^m o b a k$,default,,जोत्नु
 Jirel-105-Bond-1,,Jirel,105-Bond,t̪əmasuk,t̪əmasuk,t̪ ə m a s u k,,Roberts2022,,,^t̪ ə m a s u k$,default,,तमसुक
@@ -780,8 +780,8 @@ Kagate-32-Tochew-1,,Kagate,32-Tochew,d̪etse,d̪etse,d̪ e ts e,,Roberts2022,,,^
 Kagate-192-Toswallow-1,,Kagate,192-Toswallow,ɲiktse,ɲiktse,ɲ i k + ts e,,Roberts2022,,,^ɲ i kts e$,default,,निल्नु
 Kagate-206-Tothrow-1,,Kagate,206-Tothrow,kurtse,kurtse,k u r ts e,,Roberts2022,,,^k u r ts e$,default,High,फ्याँक्नु
 Lowa-20-Body-1,,Lowa,20-Body,suʔ,suʔ,s u ʔ,,Roberts2022,,,^s u ʔ$,default,Mid(-High)/(Low-)Rise,शरीर
-Lowa-91-Head-1,,Lowa,91-Head,ŋɡo,ŋɡo,ŋ g o,,Roberts2022,,,^ŋ ɡ o$,default,Low,टाउको
-Lowa-91-Head-2,,Lowa,91-Head,ŋɡowa,ŋɡowa,ŋ g o w a,,Roberts2022,,,^ŋ ɡ o w a$,default,Low,टाउको
+Lowa-91-Head-1,,Lowa,91-Head,ŋɡo,ŋɡo,ⁿg o,,Roberts2022,,,^ŋɡ o$,default,Low,टाउको
+Lowa-91-Head-2,,Lowa,91-Head,ŋɡowa,ŋɡowa,ⁿg o w a,,Roberts2022,,,^ŋɡ o w a$,default,Low,टाउको
 Lowa-87-Hair-1,,Lowa,87-Hair,ʂɹa,ʂɹa,ʂ ɹ a,,Roberts2022,,,^ʂ ɹ a$,default,(High-)Fall,कपाल
 Lowa-60-Face-1,,Lowa,60-Face,ŋot̪oŋ,ŋot̪oŋ,ŋ o t̪ o ŋ,,Roberts2022,,,^ŋ o t̪ o ŋ$,default,Fall-Rise,अनुहार
 Lowa-59-Eye-1,,Lowa,59-Eye,mik,mik,m i k,,Roberts2022,,,^m i k$,default,(Mid-)Fall,आँखा
@@ -864,7 +864,7 @@ Lowa-77-Garlic-1,,Lowa,77-Garlic,koɡpa,koɡpa,k o g p a,,Roberts2022,,,^k o ɡ 
 Lowa-149-Onion-1,,Lowa,149-Onion,tsoŋ,tsoŋ,ts o ŋ,,Roberts2022,,,^ts o ŋ$,default,High,प्याज
 Lowa-31-Cauliflower-1,,Lowa,31-Cauliflower,pʰulkopi,pʰulkopi,pʰ u l k o p i,,Roberts2022,,,^pʰ u l k o p i$,default,,काउली
 Lowa-208-Tomato-1,,Lowa,208-Tomato,tomato,tomato,t o m a t o,,Roberts2022,,,^t o m a t o$,default,,गोलभेँडा
-Lowa-30-Cabbage-1,,Lowa,30-Cabbage,ŋɡopi,ŋɡopi,ŋ g o p i,,Roberts2022,,,^ŋ ɡ o p i$,default,,बन्दा
+Lowa-30-Cabbage-1,,Lowa,30-Cabbage,ŋɡopi,ŋɡopi,ⁿg o p i,,Roberts2022,,,^ŋɡ o p i$,default,,बन्दा
 Lowa-144-Oil-1,,Lowa,144-Oil,muku,muku,m u k u,,Roberts2022,,,^m u k u$,default,(Low-)Rise,तेल
 Lowa-144-Oil-2,,Lowa,144-Oil,num,num,n u m,,Roberts2022,,,^n u m$,default,High,तेल
 Lowa-170-Salt-1,,Lowa,170-Salt,tsʰa,tsʰa,tsʰ a,,Roberts2022,,,^tsʰ a$,default,High-Fall,नुन
@@ -1536,7 +1536,7 @@ Sherpa-32-Tochew-1,,Sherpa,32-Tochew,leku,leku,l e k u,,Roberts2022,,,^l e k u$,
 Sherpa-192-Toswallow-1,,Sherpa,192-Toswallow,mit̪at̪oŋɡu,mit̪at̪oŋɡu,m i t̪ a t̪ o ŋ g u,,Roberts2022,,,^m i t̪ a t̪ o ŋ ɡ u$,default,,निल्नु
 Sherpa-206-Tothrow-1,,Sherpa,206-Tothrow,juku,juku,j u k u,,Roberts2022,,,^j u k u$,default,Mid,फ्याँक्नु
 Tsum-20-Body-1,,Tsum,20-Body,zu,zu,z u,,Roberts2022,,,^z u$,default,Low-Rise,शरीर
-Tsum-91-Head-1,,Tsum,91-Head,ŋɡo,ŋɡo,ŋ g o,,Roberts2022,,,^ŋ ɡ o$,default,Mid,टाउको
+Tsum-91-Head-1,,Tsum,91-Head,ŋɡo,ŋɡo,ⁿg o,,Roberts2022,,,^ŋɡ o$,default,Mid,टाउको
 Tsum-87-Hair-1,,Tsum,87-Hair,tɹa,tɹa,t ɹ a,,Roberts2022,,,^t ɹ a$,default,High,कपाल
 Tsum-60-Face-1,,Tsum,60-Face,tɕeʔ,tɕeʔ,tɕ e ʔ,,Roberts2022,,,^tɕ e ʔ$,default,(High-)Rise,अनुहार
 Tsum-59-Eye-1,,Tsum,59-Eye,miʔ,miʔ,m i ʔ,,Roberts2022,,,^m i ʔ$,default,High,आँखा
@@ -1799,7 +1799,7 @@ Tsum-192-Toswallow-2,,Tsum,192-Toswallow,ɲitsoŋ,ɲitsoŋ,ɲ i ts o ŋ,,Roberts
 Tsum-206-Tothrow-1,,Tsum,206-Tothrow,kjut,kjut,k j u t,,Roberts2022,,,^k j u t$,default,,फ्याँक्नु
 Tsum-206-Tothrow-2,,Tsum,206-Tothrow,kjuɾtsoŋ,kjuɾtsoŋ,k j u ɾ ts o ŋ,,Roberts2022,,,^k j u ɾ ts o ŋ$,default,,फ्याँक्नु
 Yolmo-20-Body-1,,Yolmo,20-Body,ndzuɡu,ndzuɡu,ⁿdz u g u,,Roberts2022,,,^ndz u ɡ u$,default,Mid,शरीर
-Yolmo-91-Head-1,,Yolmo,91-Head,ŋɡo,ŋɡo,ŋ g o,,Roberts2022,,,^ŋ ɡ o$,default,Mid-High,टाउको
+Yolmo-91-Head-1,,Yolmo,91-Head,ŋɡo,ŋɡo,ⁿg o,,Roberts2022,,,^ŋɡ o$,default,Mid-High,टाउको
 Yolmo-87-Hair-1,,Yolmo,87-Hair,tɹa,tɹa,t ɹ a,,Roberts2022,,,^t ɹ a$,default,High-Fall,कपाल
 Yolmo-60-Face-1,,Yolmo,60-Face,t̪oŋba,t̪oŋba,t̪ o ŋ b a,,Roberts2022,,,^t̪ o ŋ b a$,default,Low-Rise,अनुहार
 Yolmo-59-Eye-1,,Yolmo,59-Eye,mi,mi,m i,,Roberts2022,,,^m i$,default,High,आँखा
