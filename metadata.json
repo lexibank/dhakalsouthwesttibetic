@@ -1,7 +1,7 @@
 {
-    "title": "CLDF dataset derived from Roberts et al.'s \"South-West Tibetic Lexicons\" from 2022",
-    "citation": ".",
-    "license": "CC-By-4.0",
+    "title": "CLDF dataset derived from Dhakal et al.'s \"South-West Tibetic Lexicons\" from 2022",
+    "citation": " Dhakal, D. N., Roberts, S. G.(2022) Southwest Tibetic Lexicons.",
+    "license": "CC-BY-4.0",
     "url": "",
     "conceptlist": "Sagart-2019-250"
 }

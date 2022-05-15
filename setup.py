@@ -6,16 +6,16 @@ with open('metadata.json', 'r', encoding='utf-8') as fp:
 
 
 setup(
-    name='lexibank_abvd',
+    name='lexibank_dhakalsouthwesttibetic',
     description=metadata['title'],
     license=metadata['license'],
     url=metadata['url'],
-    py_modules=['lexibank_abvd'],
+    py_modules=['lexibank_dhakalsouthwesttibetic'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
-            'abvd=lexibank_abvd:Dataset',
+            'dhakalsouthwesttibetic=lexibank_southwesttibetic:Dataset',
         ]
     },
     install_requires=[

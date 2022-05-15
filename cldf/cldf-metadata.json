@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": ".",
+    "dc:bibliographicCitation": " Dhakal, D. N., Roberts, S. G.(2022) Southwest Tibetic Lexicons.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Sagart-2019-250"
@@ -10,13 +10,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Roberts et al.'s \"South-West Tibetic Lexicons\" from 2022",
+    "dc:title": "CLDF dataset derived from Dhakal et al.'s \"South-West Tibetic Lexicons\" from 2022",
     "dcat:accessURL": "https://github.com/lexibank/robertssouthwesttibetic",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/robertssouthwesttibetic",
             "rdf:type": "prov:Entity",
-            "dc:created": "270ce4c",
+            "dc:created": "d23842f",
             "dc:title": "Repository"
         },
         {
@@ -52,7 +52,7 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "robertssouthwesttibetic",
+    "rdf:ID": "dhakalsouthwesttibetic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null

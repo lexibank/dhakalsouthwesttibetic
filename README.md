@@ -1,16 +1,16 @@
-# CLDF dataset derived from Roberts et al.'s "South-West Tibetic Lexicons" from 2022
+# CLDF dataset derived from Dhakal et al.'s "South-West Tibetic Lexicons" from 2022
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > .
+  >  Dhakal, D. N., Roberts, S. G.(2022) Southwest Tibetic Lexicons.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
 
-This dataset is licensed under a CC-By-4.0 license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -38,7 +38,8 @@ Conceptlists in Concepticon:
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Sean Roberts | @seannyD	| main data collection and analysis | Author
+Dubi Nanda Dhakal |  	| main data collection and analysis | Author
+Sean Roberts | @seannyD	| data cleaning and analysis | Author
 
 
 

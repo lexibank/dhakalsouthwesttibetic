@@ -28,7 +28,7 @@ class CustomConcept(Concept):
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
-    id = 'robertssouthwesttibetic'
+    id = 'dhakalsouthwesttibetic'
     
     lexeme_class = CustomLexeme
     language_class = CustomLanguage
