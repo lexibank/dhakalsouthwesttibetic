@@ -6,6 +6,7 @@ from pylexibank.util import progressbar
 from pylexibank import FormSpec, Lexeme, Concept, Language, progressbar
 from pylexibank import Dataset as BaseDataset
 import attr
+from pyedictor import fetch
 
 @attr.s
 class CustomLanguage(Language):
@@ -41,6 +42,12 @@ class Dataset(BaseDataset):
         strip_inside_brackets=True,
         first_form_only=True,
     )
+
+    def cmd_download(self, args):
+        with open(self.raw_dir / "data.tsv", "w") as f:
+            f.write(fetch("dhakalsouthwesttibetic",
+                          base_url="https://lingulist.de/edev/"))
+        args.log.info('wrote data to file')
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
