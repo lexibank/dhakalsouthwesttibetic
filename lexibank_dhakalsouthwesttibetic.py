@@ -7,6 +7,8 @@ from pylexibank import FormSpec, Lexeme, Concept, Language, progressbar
 from pylexibank import Dataset as BaseDataset
 import attr
 from pyedictor import fetch
+from lingpy import *
+
 
 @attr.s
 class CustomLanguage(Language):
@@ -17,8 +19,13 @@ class CustomLanguage(Language):
 
 @attr.s
 class CustomLexeme(Lexeme):
-    Tone_Value = attr.ib(default=None)
-    Gloss_In_Source = attr.ib(default=None)
+
+    #Tone_Value = attr.ib(default=None)
+    #Gloss_In_Source = attr.ib(default=None)
+    Morpheme_Structure = attr.ib(default=None)
+    Grouped_Segments = attr.ib(default=None)
+    Partial_Cognacy = attr.ib(default=None)
+
 
 
 @attr.s
@@ -66,7 +73,7 @@ class Dataset(BaseDataset):
                     Concepticon_ID=concept["CONCEPTICON_ID"],
                     Tibetan_Gloss=concept["TIBETAN"],
                     Concepticon_Gloss=concept["CONCEPTICON_GLOSS"])
-            concepts[concept["ENGLISH"]+"-"+concept["TIBETAN"]] = idx
+            concepts[concept["ENGLISH"]] = idx
             if concept["CONCEPTICON_GLOSS"] in sagart:
                 matches.append(
                         (concept["ENGLISH"], concept["CONCEPTICON_GLOSS"]))
@@ -74,18 +81,26 @@ class Dataset(BaseDataset):
                 "found {0} concepts common with Sagart's list".format(len(matches)))
         for language in progressbar(self.languages):
             args.writer.add_language(**language)
-            for row in self.raw_dir.read_csv(
-                    language["File_Name"],
-                    delimiter="\t", 
-                    dicts=True):
-                args.writer.add_form(
-                        Language_ID=language["ID"],
-                        Parameter_ID=concepts["{0}-{1}".format(
-                            row["GLOSS"], row["SCRIPT"])],
-                        Value=row["TRANSCRIPTION"],
-                        Gloss_In_Source=row["SCRIPT"],
-                        Form=row["TRANSCRIPTION"].strip(),
-                        Tone_Value=row["TONE"],
-                        Source="Roberts2022"
+
+        def split_tokens(tokens):
+            out = []
+            for t in tokens:
+                out += t.split(".")
+            return out
+
+        wl = Wordlist(str(self.raw_dir / "data.tsv"))
+        for idx in wl:
+            if not wl[idx, "concept"].startswith("*"): 
+                args.writer.add_form_with_segments(
+                        Language_ID=wl[idx, "doculect"],
+                        Parameter_ID=concepts[wl[idx, "concept"]],
+                        Value=wl[idx, "value"],
+                        Form=wl[idx, "form"],
+                        Segments=split_tokens(wl[idx, "tokens"]),
+                        Grouped_Segments=" ".join(wl[idx, "tokens"]),
+                        Morpheme_Structure=" ".join(wl[idx, "morphemes"]),
+                        Cognacy=wl[idx, "cogid"],
+                        Partial_Cognacy=" ".join([str(c) for c in wl[idx, "cogids"]]),
+                        Comment=wl[idx, "note"]
                         )
 
