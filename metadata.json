@@ -1,7 +1,7 @@
 {
-    "title": "CLDF dataset derived from Dhakal et al.'s \"South-West Tibetic Lexicons\" from 2022",
-    "citation": " Dhakal, D. N., Roberts, S. G.(2022) Southwest Tibetic Lexicons.",
+    "title": "CLDF dataset derived from Dhakal et al.'s \"South-West Tibetic\" from 2023",
+    "citation": " Dhakal, D. N., List, J.-M., Roberts, S. G.(2023) A Phylogenetic Study of South-West Tibetic.",
     "license": "CC-BY-4.0",
     "url": "",
-    "conceptlist": "Sagart-2019-250"
+    "conceptlist": ["Sagart-2019-250", "Backstrom-1992-210a"]
 }

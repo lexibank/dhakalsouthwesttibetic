@@ -1,10 +1,10 @@
-# CLDF dataset derived from Dhakal et al.'s "South-West Tibetic Lexicons" from 2022
+# CLDF dataset derived from Dhakal et al.'s "South-West Tibetic" from 2023
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  >  Dhakal, D. N., Roberts, S. G.(2022) Southwest Tibetic Lexicons.
+  >  Dhakal, D. N., List, J.-M., Roberts, S. G.(2023) A Phylogenetic Study of South-West Tibetic.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -15,6 +15,7 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Conceptlists in Concepticon:
 - [Sagart-2019-250](https://concepticon.clld.org/contributions/Sagart-2019-250)
+- [Backstrom-1992-210a](https://concepticon.clld.org/contributions/Backstrom-1992-210a)
 ## Statistics
 
 
@@ -30,9 +31,9 @@ Conceptlists in Concepticon:
 - **Sources:** 0
 - **Synonymy:** 1.06
 - **Invalid lexemes:** 0
-- **Tokens:** 10,193
-- **Segments:** 212 (0 BIPA errors, 0 CLTS sound class errors, 210 CLTS modified)
-- **Inventory size (avg):** 77.75
+- **Tokens:** 10,113
+- **Segments:** 226 (0 BIPA errors, 0 CLTS sound class errors, 225 CLTS modified)
+- **Inventory size (avg):** 80.25
 
 ## Possible Improvements:
 
@@ -45,6 +46,7 @@ Conceptlists in Concepticon:
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
 Dubi Nanda Dhakal |  	| main data collection and analysis | Author
+Johann-Mattis List | @lingulist | cognate coding | Author
 Sean Roberts | @seannyD	| data cleaning and analysis | Author
 
 

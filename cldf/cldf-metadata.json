@@ -1,22 +1,23 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": " Dhakal, D. N., Roberts, S. G.(2022) Southwest Tibetic Lexicons.",
+    "dc:bibliographicCitation": " Dhakal, D. N., List, J.-M., Roberts, S. G.(2023) A Phylogenetic Study of South-West Tibetic.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
-        "http://concepticon.clld.org/contributions/Sagart-2019-250"
+        "http://concepticon.clld.org/contributions/Sagart-2019-250",
+        "http://concepticon.clld.org/contributions/Backstrom-1992-210a"
     ],
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Dhakal et al.'s \"South-West Tibetic Lexicons\" from 2022",
+    "dc:title": "CLDF dataset derived from Dhakal et al.'s \"South-West Tibetic\" from 2023",
     "dcat:accessURL": "https://github.com/lexibank/robertssouthwesttibetic",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/robertssouthwesttibetic",
             "rdf:type": "prov:Entity",
-            "dc:created": "d763fec",
+            "dc:created": "ea23f01",
             "dc:title": "Repository"
         },
         {
@@ -45,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.5"
+            "dc:description": "3.11.6"
         },
         {
             "dc:title": "python-packages",

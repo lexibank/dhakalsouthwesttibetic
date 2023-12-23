@@ -62,7 +62,10 @@ class Dataset(BaseDataset):
         sagart = {
                 c.concepticon_gloss: c.english for c in
                 self.conceptlists[0].concepts.values()}
-        matches = []
+        backstrom = {
+                c.concepticon_gloss: c.english for c in
+                self.conceptlists[1].concepts.values()}
+        matches1, matches2 = [], []
         for concept in self.concepts:
             idx = "{0}-{1}".format(
                     concept["NUMBER"],
@@ -75,10 +78,17 @@ class Dataset(BaseDataset):
                     Concepticon_Gloss=concept["CONCEPTICON_GLOSS"])
             concepts[concept["ENGLISH"]] = idx
             if concept["CONCEPTICON_GLOSS"] in sagart:
-                matches.append(
+                matches1.append(
                         (concept["ENGLISH"], concept["CONCEPTICON_GLOSS"]))
+            if concept["CONCEPTICON_GLOSS"] in backstrom:
+                matches2.append(
+                        (concept["ENGLISH"], concept["CONCEPTICON_GLOSS"]))
+
         args.log.info(
-                "found {0} concepts common with Sagart's list".format(len(matches)))
+                "found {0} concepts common with Sagart's list".format(len(matches1)))
+        args.log.info(
+                "found {0} concepts common with Backstrom's list".format(len(matches2)))
+
         for language in progressbar(self.languages):
             args.writer.add_language(**language)
 
@@ -90,7 +100,8 @@ class Dataset(BaseDataset):
 
         wl = Wordlist(str(self.raw_dir / "data.tsv"))
         for idx in wl:
-            if not wl[idx, "concept"].startswith("*"): 
+            if not wl[idx, "concept"].startswith("*") and not \
+                    wl[idx, "language"] == "Pattern": 
                 args.writer.add_form_with_segments(
                         Language_ID=wl[idx, "doculect"],
                         Parameter_ID=concepts[wl[idx, "concept"]],
@@ -101,6 +112,7 @@ class Dataset(BaseDataset):
                         Morpheme_Structure=" ".join(wl[idx, "morphemes"]),
                         Cognacy=wl[idx, "cogid"],
                         Partial_Cognacy=" ".join([str(c) for c in wl[idx, "cogids"]]),
-                        Comment=wl[idx, "note"]
+                        Comment=wl[idx, "note"],
+                        Source="Dhakal2024"
                         )
 
