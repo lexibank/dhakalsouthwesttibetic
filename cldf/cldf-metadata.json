@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/robertssouthwesttibetic",
             "rdf:type": "prov:Entity",
-            "dc:created": "ea23f01",
+            "dc:created": "0a0f378",
             "dc:title": "Repository"
         },
         {
@@ -272,7 +272,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Tibetan_Gloss"
+                        "name": "Nepali_Gloss"
                     },
                     {
                         "datatype": "string",

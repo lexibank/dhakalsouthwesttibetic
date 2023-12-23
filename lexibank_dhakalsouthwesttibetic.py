@@ -30,7 +30,7 @@ class CustomLexeme(Lexeme):
 
 @attr.s
 class CustomConcept(Concept):
-    Tibetan_Gloss = attr.ib(default=None)
+    Nepali_Gloss = attr.ib(default=None)
     Number = attr.ib(default=None)
 
 
@@ -74,7 +74,7 @@ class Dataset(BaseDataset):
                     ID=idx,
                     Name=concept["ENGLISH"],
                     Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Tibetan_Gloss=concept["TIBETAN"],
+                    Nepali_Gloss=concept["NEPALI"],
                     Concepticon_Gloss=concept["CONCEPTICON_GLOSS"])
             concepts[concept["ENGLISH"]] = idx
             if concept["CONCEPTICON_GLOSS"] in sagart:
@@ -88,6 +88,9 @@ class Dataset(BaseDataset):
                 "found {0} concepts common with Sagart's list".format(len(matches1)))
         args.log.info(
                 "found {0} concepts common with Backstrom's list".format(len(matches2)))
+        for c in backstrom:
+            if c not in [m[1] for m in matches2]:
+                args.log.info("not found "+ c)
 
         for language in progressbar(self.languages):
             args.writer.add_language(**language)
