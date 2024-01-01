@@ -1,9 +1,15 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,File_Name,SubGroup
-Gyalsumdo,Gyalsumdo,gyal1236,Gyalsumdo,gyo,Eurasia,28.53256,84.33953,Sino-Tibetan,Gyalsumdo_240.tab,Tibetic
-Jirel,Jirel,jire1238,Jirel,jul,Eurasia,27.6931,86.3201,Sino-Tibetan,Jirel_240.tab,Tibetic
-Kagate,Kagate,kaga1252,Kagate,syw,Eurasia,27.4492,86.1675,Sino-Tibetan,Kagate_240.tab,Tibetic
-Lowa,Lowa,tibe1272,Tibetan,bod,Eurasia,28.3681,90.1872,Sino-Tibetan,Lowa_240.tab,Tibetic
-Nubri,Nubri,nubr1243,Nubri,,Eurasia,,,Sino-Tibetan,Nubri_240.tab,Tibetic
-Sherpa,Sherpa,sher1255,Solu-Khumbu Sherpa,xsr,Eurasia,27.674,86.9994,Sino-Tibetan,Sherpa_240.tab,Tibetic
-Tsum,Tsum,tsum1240,Tsum,ttz,Eurasia,28.4719,85.0817,Sino-Tibetan,Tsum_240.tab,Tibetic
-Yolmo,Yolmo,hela1238,Lamjung-Melamchi Yolmo,scp,Eurasia,27.9212,85.6289,Sino-Tibetan,Yolmo_240.tab,Tibetic
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,File_Name,SubGroup,Sources
+Gyalsumdo,Gyalsumdo,gyal1236,Gyalsumdo,gyo,Eurasia,28.53256,84.33953,Sino-Tibetan,Gyalsumdo_240.tab,Tibetic,Dhubi2024
+Jirel,Jirel,jire1238,Jirel,jul,Eurasia,27.6931,86.3201,Sino-Tibetan,Jirel_240.tab,Tibetic,Dhubi2024
+Kagate,Kagate,kaga1252,Kagate,syw,Eurasia,27.4492,86.1675,Sino-Tibetan,Kagate_240.tab,Tibetic,Dhubi2024
+Lowa,Lowa,tibe1272,Tibetan,bod,Eurasia,28.3681,90.1872,Sino-Tibetan,Lowa_240.tab,Tibetic,Dhubi2024
+Nubri,Nubri,nubr1243,Nubri,,Eurasia,,,Sino-Tibetan,Nubri_240.tab,Tibetic,Dhubi2024
+Sherpa,Sherpa,sher1255,Solu-Khumbu Sherpa,xsr,Eurasia,27.674,86.9994,Sino-Tibetan,Sherpa_240.tab,Tibetic,Dhubi2024
+Tsum,Tsum,tsum1240,Tsum,ttz,Eurasia,28.4719,85.0817,Sino-Tibetan,Tsum_240.tab,Tibetic,Dhubi2024
+Yolmo,Yolmo,hela1238,Lamjung-Melamchi Yolmo,scp,Eurasia,27.9212,85.6289,Sino-Tibetan,Yolmo_240.tab,Tibetic,Dhubi2024
+Alike,Alike Tibetan,amdo1237,Amdo Tibetan,adx,Eurasia,34.5177,100.485,Sino-Tibetan,,Tibetic,Sagart2019
+Batang,Batang Tibetan,kham1282,Khams Tibetan,khg,Eurasia,31.9313,91.7062,Sino-Tibetan,,Tibetic,Sagart2019
+Lhasa,Lhasa Tibetan,utsa1239,Lhasa Tibetan,,Eurasia,,,Sino-Tibetan,,Tibetic,Sagart2019
+Xiahe,Xiahe Tibetan,amdo1237,Amdo Tibetan,adx,Eurasia,34.5177,100.485,Sino-Tibetan,,Tibetic,Sagart2019
+OldTibetan,Old Tibetan,clas1254,Classical Tibetan,xct,Eurasia,29.24,92.01,Sino-Tibetan,,Tibetic,Sagart2019
+OldChinese,Old Chinese,oldc1244,Old Chinese,och,Eurasia,36.12,114.32,Sino-Tibetan,,Tibetic,Sagart2019

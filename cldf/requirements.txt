@@ -1,5 +1,5 @@
 appdirs==1.4.4
-attrs==23.1.0
+attrs==23.2.0
 Babel==2.14.0
 bibtexparser==2.0.0b4
 bs4==0.0.1
@@ -17,8 +17,9 @@ idna==3.6
 iniconfig==2.0.0
 isodate==0.6.1
 jsonschema==4.20.0
+lexibank_dhakalsouthwesttibetic==0.0.0
 lingpy==2.6.13
-lxml==4.9.4
+lxml==5.0.0
 Markdown==3.5.1
 nameparser==1.1.3
 networkx==3.2.1
@@ -37,11 +38,11 @@ pyedictor==0.4
 pyglottolog==3.12.0
 pylatexenc==2.10
 pylexibank==3.4.0
-pytest==7.4.3
+pytest==7.4.4
 python-dateutil==2.8.2
 rdflib==7.0.0
 referencing==0.32.0
-regex==2023.10.3
+regex==2023.12.25
 requests==2.31.0
 rfc3986==1.5.0
 segments==2.2.1

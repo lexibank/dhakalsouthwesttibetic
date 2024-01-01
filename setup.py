@@ -15,10 +15,11 @@ setup(
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
-            'dhakalsouthwesttibetic=lexibank_southwesttibetic:Dataset',
+            'dhakalsouthwesttibetic=lexibank_dhakalsouthwesttibetic:Dataset',
         ]
     },
     install_requires=[
         'pylexibank>=2.1',
+        'pyedictor>=0.4'
     ]
 )

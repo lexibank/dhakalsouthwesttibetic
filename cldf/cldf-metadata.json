@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/robertssouthwesttibetic",
             "rdf:type": "prov:Entity",
-            "dc:created": "3819a70",
+            "dc:created": "e31e120",
             "dc:title": "Repository"
         },
         {
@@ -58,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 2041,
+            "dc:extent": 2865,
             "tableSchema": {
                 "columns": [
                     {
@@ -130,15 +130,35 @@
                     },
                     {
                         "datatype": "string",
+                        "separator": " ",
                         "name": "Morpheme_Structure"
                     },
                     {
                         "datatype": "string",
+                        "separator": " ",
                         "name": "Grouped_Segments"
                     },
                     {
                         "datatype": "string",
+                        "separator": " ",
                         "name": "Partial_Cognacy"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Internal_Cognacy"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Combined"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": " ",
+                        "name": "Alignment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Subset"
                     }
                 ],
                 "foreignKeys": [
@@ -173,7 +193,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 8,
+            "dc:extent": 14,
             "tableSchema": {
                 "columns": [
                     {
@@ -237,6 +257,10 @@
                     {
                         "datatype": "string",
                         "name": "SubGroup"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Sources"
                     }
                 ],
                 "primaryKey": [

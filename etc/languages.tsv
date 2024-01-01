@@ -1,9 +1,15 @@
-ID	Name	File_Name	SubGroup	Glottocode
-Gyalsumdo	Gyalsumdo	Gyalsumdo_240.tab	Tibetic	gyal1236
-Jirel	Jirel	Jirel_240.tab	Tibetic	jire1238
-Kagate	Kagate	Kagate_240.tab	Tibetic	kaga1252
-Lowa	Lowa	Lowa_240.tab	Tibetic	tibe1272
-Nubri	Nubri	Nubri_240.tab	Tibetic	nubr1243
-Sherpa	Sherpa	Sherpa_240.tab	Tibetic	sher1255
-Tsum	Tsum	Tsum_240.tab	Tibetic	tsum1240
-Yolmo	Yolmo	Yolmo_240.tab	Tibetic	hela1238
+ID	Name	Sources	File_Name	SubGroup	Glottocode
+Gyalsumdo	Gyalsumdo	Dhubi2024	Gyalsumdo_240.tab	Tibetic	gyal1236
+Jirel	Jirel	Dhubi2024	Jirel_240.tab	Tibetic	jire1238
+Kagate	Kagate	Dhubi2024	Kagate_240.tab	Tibetic	kaga1252
+Lowa	Lowa	Dhubi2024	Lowa_240.tab	Tibetic	tibe1272
+Nubri	Nubri	Dhubi2024	Nubri_240.tab	Tibetic	nubr1243
+Sherpa	Sherpa	Dhubi2024	Sherpa_240.tab	Tibetic	sher1255
+Tsum	Tsum	Dhubi2024	Tsum_240.tab	Tibetic	tsum1240
+Yolmo	Yolmo	Dhubi2024	Yolmo_240.tab	Tibetic	hela1238
+Alike	Alike Tibetan	Sagart2019		Tibetic	amdo1237
+Batang	Batang Tibetan	Sagart2019		Tibetic	kham1282
+Lhasa	Lhasa Tibetan	Sagart2019		Tibetic	utsa1239
+Xiahe	Xiahe Tibetan	Sagart2019		Tibetic	amdo1237
+OldTibetan	Old Tibetan	Sagart2019		Tibetic	clas1254
+OldChinese	Old Chinese	Sagart2019		Tibetic	oldc1244
