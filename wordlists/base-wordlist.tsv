@@ -1,0 +1,2042 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS_IN_SOURCE	TOKENS	COGID
+1	Gyalsumdo	Body	suɡu	suɡu	s u + g u	s u + g u	
+2	Gyalsumdo	Head	ko	ko	k o	k o	1284
+3	Gyalsumdo	Hair	ta	ta	t̪ a	t̪ a	1282
+4	Gyalsumdo	Face	ŋot̪oŋ	ŋot̪oŋ	ŋ o + t̪ o ŋ	ŋ o + t̪ o.ŋ	
+5	Gyalsumdo	Eye	mi	mi	m i	m i	1246
+6	Gyalsumdo	Ear	amtɕo	amtɕo	a m + tɕ o	a.m + tɕ o	1239
+7	Gyalsumdo	Ear	amdʑo	amdʑo	a m + !dʑ/tɕ o	a.m + !dʑ/tɕ o	1239
+8	Gyalsumdo	Nose	naɾki	naɾki	n aɾ/a + k i	n aɾ/a + k i	1352
+9	Gyalsumdo	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+10	Gyalsumdo	Teeth	so	so	s o	s o	1446
+11	Gyalsumdo	Tongue	tɕemu	tɕemu	tɕ e + m u	tɕ e + m u	1444
+12	Gyalsumdo	Breast	oma	oma	o + m a	o + m a	1211
+13	Gyalsumdo	Breast	ɦoma	ɦoma	ɦ o + m a	ɦ o + m a	1211
+14	Gyalsumdo	Belly	toba	toba	t̪ o + b a	t̪ o + b a	1193
+15	Gyalsumdo	Arm/Hand	laɡpa	laɡpa	l a g/k + p a	l a.g/k + p a	
+16	Gyalsumdo	Elbow	temaɲuŋ	temaɲuŋ	t̪ e + m a + ɲ u ŋ	t̪ e + m a + ɲ u.ŋ	
+17	Gyalsumdo	Palm	laɡpat̪ʰil	laɡpat̪ʰil	l a g/k + p a + t̪ʰ i l	l a.g/k + p a + t̪ʰ i.l	
+18	Gyalsumdo	Palm	laɡt̪ʰel	laɡt̪ʰel	l a g/k + t̪ʰ e l	l a.g/k + t̪ʰ e.l	
+19	Gyalsumdo	Finger	tsuɡu	tsuɡu	ts u + g u	ts u + g u	
+20	Gyalsumdo	Fingernail	seɹmu	seɹmu	s e ɹ + m u	s e.ɹ + m u	
+21	Gyalsumdo	Leg	kaŋpa	kaŋpa	k a ŋ + p a	k a.ŋ + p a	
+22	Gyalsumdo	Skin	paɡpa	paɡpa	p a g/k + p a	p a.g/k + p a	1389
+23	Gyalsumdo	Skin	poɡo	poɡo	p o + g o	p o + g o	1389
+24	Gyalsumdo	Bone	ɹoɡo	ɹoɡo	ɹ o + g o	ɹ o + g o	1208
+25	Gyalsumdo	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+26	Gyalsumdo	Blood	tʰak	tʰak	t̪ʰ a k	t̪ʰ a.k	1206
+27	Gyalsumdo	Urine	tɕiŋ	tɕiŋ	!tɕ/ts i ŋ	!tɕ/ts i.ŋ	
+28	Gyalsumdo	Faeces	kjaɡpa	kjaɡpa	k j a g/k + p a	k.j a.g/k + p a	
+29	Gyalsumdo	Village	jul	jul	j u l	j u.l	
+30	Gyalsumdo	House	kʰaŋpa	kʰaŋpa	kʰ a ŋ + p a	kʰ a.ŋ + p a	402
+31	Gyalsumdo	Roof	kʰaŋt̪ø	kʰaŋt̪ø	kʰ a ŋ + t̪ ø	kʰ a.ŋ + t̪ ø	
+32	Gyalsumdo	Roof	t̪ʰo	t̪ʰo	t̪ʰ o	t̪ʰ o	
+33	Gyalsumdo	Door	ko	ko	k o	k o	
+34	Gyalsumdo	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+35	Gyalsumdo	Broom	tɕʰama	tɕʰama	tɕʰ a + m a	tɕʰ a + m a	
+36	Gyalsumdo	Mortar	t̪ʰasa	t̪ʰasa	t̪ʰ a + s a	t̪ʰ a + s a	
+37	Gyalsumdo	Mortar	koɡtsʰum	koɡtsʰum	k o g/k + tsʰ u m	k o.g/k + tsʰ u.m	
+38	Gyalsumdo	Pestle	koɡt̪o	koɡt̪o	k o g/k + t̪ o	k o.g/k + t̪ o	
+39	Gyalsumdo	Hammer	t̪ʰowa	t̪ʰowa	t̪ʰ o + w a	t̪ʰ o + w a	
+40	Gyalsumdo	Knife	kaɾt̪a	kaɾt̪a	k a ɾ + t̪ a	k a.ɾ + t̪ a	422
+41	Gyalsumdo	Axe	t̪aɹi	t̪aɹi	t̪ a + ɹ i	t̪ a + ɹ i	
+42	Gyalsumdo	Rope	t̪ʰaɡpa	t̪ʰaɡpa	t̪ʰ a !g/k + p a	t̪ʰ a.!g/k + p a	1374
+43	Gyalsumdo	Thread	kupa	kupa	k u + p a	k u + p a	
+44	Gyalsumdo	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+45	Gyalsumdo	Cloth	køla	køla	k ø + l a	k ø + l a	
+46	Gyalsumdo	Ring	soɹt̪ob	soɹt̪ob	s o ɹ + t̪ o b	s o.ɹ + t̪ o.b	
+47	Gyalsumdo	Sun	ɲima	ɲima	ɲ i + m a	ɲ i + m a	1418
+48	Gyalsumdo	Moon	t̪akaɹ	t̪akaɹ	t̪ a + k a ɹ	t̪ a + k a.ɹ	1327
+49	Gyalsumdo	Moon	t̪awa	t̪awa	t̪ a + w a	t̪ a + w a	1327
+50	Gyalsumdo	Sky	nam	nam	n a m	n a.m	1392
+51	Gyalsumdo	Star	kaɹma	kaɹma	k a ɹ + m a	k a.ɹ + m a	1410
+52	Gyalsumdo	Rain	nam	nam	n a m	n a.m	
+53	Gyalsumdo	Water	tɕʰu	tɕʰu	tɕʰ u	tɕʰ u	1458
+54	Gyalsumdo	River	tsaŋpu	tsaŋpu	ts a ŋ + p u	ts a.ŋ + p u	1368
+55	Gyalsumdo	Cloud	muɡpa	muɡpa	m u g/k + p a	m u.g/k + p a	176
+56	Gyalsumdo	Lightening	loɡmaɹ	loɡmaɹ	l o g/k + m a ɹ	l o.g/k + m a.ɹ	
+57	Gyalsumdo	Rainbow	sa	sa	s a	s a	534
+58	Gyalsumdo	Wind	hlawa	hlawa	h l a + w a	h.l a + w a	1486
+59	Gyalsumdo	Stone	t̪o	t̪o	t̪ o	t̪ o	1416
+60	Gyalsumdo	Path	lam	lam	l a m	l a.m	
+61	Gyalsumdo	Sand	pema	pema	p e + m a	p e + m a	1382
+62	Gyalsumdo	Fire	me	me	m e	m e	1251
+63	Gyalsumdo	Smoke	t̪uba	t̪uba	t̪ u + b a	t̪ u + b a	
+64	Gyalsumdo	Ash	kɔkt̪al	kɔkt̪al	k ɔ k + !t̪/t̪ʰ a + l !Ø/a	k ɔ.k + !t̪/t̪ʰ a + l !Ø/a	
+65	Gyalsumdo	Mud	sa	sa	s a	s a	534
+66	Gyalsumdo	Dust	t̪ʰala	t̪ʰala	t̪ʰ a + l a	t̪ʰ a + l a	1237
+67	Gyalsumdo	Gold	seɹ	seɹ	s e ɹ	s e.ɹ	
+68	Gyalsumdo	Tree	t̪oŋbu	t̪oŋbu	t̪ o ŋ + b u	t̪ o.ŋ + b u	1039
+69	Gyalsumdo	Leaf	lapt̪i	lapt̪i	l a p + t̪ i	l a.p + t̪ i	430
+70	Gyalsumdo	Leaf	loma	loma	l o + m a	l o + m a	1315
+71	Gyalsumdo	Root	pat̪a	pat̪a	p a + t̪ a	p a + t̪ a	686
+72	Gyalsumdo	Thorn	tsʰeɾma	tsʰeɾma	tsʰ e ɾ + m a	tsʰ e.ɾ + m a	
+73	Gyalsumdo	Flower	mend̪o	mend̪o	m e + ⁿd̪/d̪ o	m e + ⁿd̪/d̪ o	1257
+74	Gyalsumdo	Fruit	ɕiŋd̪o	ɕiŋd̪o	ɕ i ŋ + d̪ o	ɕ i.ŋ + d̪ o	1263
+75	Gyalsumdo	Mango	ãp	ãp	ã p	ã.p	
+76	Gyalsumdo	Banana	keɹa	keɹa	k e + ɹ a	k e + ɹ a	
+77	Gyalsumdo	Wheat (husked)	to	to	t̪ o	t̪ o	1091
+78	Gyalsumdo	Barley	tsəu	tsəu	ts əu	ts əu	1190
+79	Gyalsumdo	Rice (husked)	tɛ	tɛ	!t̪/t̪ʰ ɛ	!t̪/t̪ʰ ɛ	
+80	Gyalsumdo	Rice (husked)	tʰɛ	tʰɛ	t̪ʰ ɛ	t̪ʰ ɛ	
+81	Gyalsumdo	Potato	alo	alo	a + l o	a + l o	
+82	Gyalsumdo	Eggplant	penda	penda	p e n + d̪ a	p e.n + d̪ a	
+83	Gyalsumdo	Groundnut	pəd̪am	pəd̪am	p ə + d̪ a m	p ə + d̪ a.m	
+84	Gyalsumdo	Chilli	maɾtsʰa	maɾtsʰa	m a ɾ + tsʰ a	m a.ɾ + tsʰ a	
+85	Gyalsumdo	Turmeric	peɕaɹ	peɕaɹ	p e + !ɕ/s a ɹ	p e + !ɕ/s a.ɹ	
+86	Gyalsumdo	Garlic	kɔkpa	kɔkpa	k ɔ k + p a	k ɔ.k + p a	
+87	Gyalsumdo	Onion	pjaz	pjaz	p j a z	p.j a.z	
+88	Gyalsumdo	Cauliflower	kəuli	kəuli	k əu + l i	k əu + l i	
+89	Gyalsumdo	Tomato	kolbenda	kolbenda	k o l + b e n + d̪ a	k o.l + b e.n + d̪ a	
+90	Gyalsumdo	Cabbage	pənd̪a	pənd̪a	p ə n + d̪ a	p ə.n + d̪ a	
+91	Gyalsumdo	Oil	maɹku	maɹku	m a ɹ + k u	m a.ɹ + k u	
+92	Gyalsumdo	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+93	Gyalsumdo	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+94	Gyalsumdo	Fat (of meat)	tsʰulu	tsʰulu	tsʰ u + l u	tsʰ u + l u	
+95	Gyalsumdo	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+96	Gyalsumdo	Chicken	tɕʰiptʰuk	tɕʰiptʰuk	tɕʰ i p + t̪ʰ u k	tɕʰ i.p + t̪ʰ u.k	
+97	Gyalsumdo	Egg	koŋa	koŋa	k o + ŋ a	k o + ŋ a	1242
+98	Gyalsumdo	Cow	poɡo	poɡo	p o + g o	p o + g o	
+99	Gyalsumdo	Buffalo	maji	maji	m a + j i	m a + j i	
+100	Gyalsumdo	Milk	oma	oma	o + m a	o + m a	
+101	Gyalsumdo	Horns	ɹakjo	ɹakjo	ɹ a + k j o	ɹ a + k.j o	1292
+102	Gyalsumdo	Tail	ŋama	ŋama	ŋ a + m a	ŋ a + m a	1419
+103	Gyalsumdo	Goat	ɹa	ɹa	ɹ a	ɹ a	1269
+104	Gyalsumdo	Dog	kjupu	kjupu	!k/kʰ j u + p u	!k/kʰ.j u + p u	1231
+105	Gyalsumdo	Dog	ki	ki	!k/kʰ i	!k/kʰ i	1231
+106	Gyalsumdo	Snake	tul	tul	t̪ u l	t̪ u.l	1401
+107	Gyalsumdo	Monkey	tɛmaɹ	tɛmaɹ	t̪ ɛ + m a ɹ	t̪ ɛ + m a.ɹ	
+108	Gyalsumdo	Monkey	te	te	t̪ e	t̪ e	
+109	Gyalsumdo	Mosquito	lamkute	lamkute	l a m + k u + t̪ e	l a.m + k u + t̪ e	523
+110	Gyalsumdo	Ant	tomaɹ	tomaɹ	t̪ o + m a ɹ	t̪ o + m a.ɹ	1183
+111	Gyalsumdo	Spider	palba	palba	p a l + b a	p a.l + b a	748
+112	Gyalsumdo	Name	miŋ	miŋ	m i ŋ	m i.ŋ	1344
+113	Gyalsumdo	Man	mi	mi	m i	m i	
+114	Gyalsumdo	Woman	pomo	pomo	p o + m o	p o + m o	1227
+115	Gyalsumdo	Child	tuɡu	tuɡu	t̪ u + g u	t̪ u + g u	
+116	Gyalsumdo	Father	apa	apa	a + p a	a + p a	1249
+117	Gyalsumdo	Mother	ama	ama	a + m a	a + m a	1338
+118	Gyalsumdo	Older brother	atɕjo	atɕjo	a + tɕj/tɕ o	a + tɕj/tɕ o	
+119	Gyalsumdo	Younger brother	no	no	n o	n o	
+120	Gyalsumdo	Older sister	atɕi	atɕi	a + tɕ i	a + tɕ i	
+121	Gyalsumdo	Younger sister	numu	numu	n u + m u	n u + m u	
+122	Gyalsumdo	Son	pitsa	pitsa	p i + ts a	p i + ts a	1403
+123	Gyalsumdo	Daughter	pomo	pomo	p o + m o	p o + m o	1227
+124	Gyalsumdo	Husband	kʰjoka	kʰjoka	kʰ j o + k a	kʰ.j o + k a	1304
+125	Gyalsumdo	Husband	kʰjoɡa	kʰjoɡa	kʰ j o + g a	kʰ.j o + g a	1304
+126	Gyalsumdo	Wife	keɹme	keɹme	k e ɹ + m e	k e.ɹ + m e	71
+127	Gyalsumdo	Boy	pitsa	pitsa	p i + ts a	p i + ts a	
+128	Gyalsumdo	Boy	pu	pu	p !u/o	p !u/o	
+129	Gyalsumdo	Girl	pomo	pomo	p o + m o	p o + m o	
+130	Gyalsumdo	Day	ɕjaŋma	ɕjaŋma	ɕ j a ŋ + m a	ɕ.j a.ŋ + m a	
+131	Gyalsumdo	Night	tsʰemu	tsʰemu	tsʰ e + m u	tsʰ e + m u	
+132	Gyalsumdo	Morning	namʑen	namʑen	n a m + ʑ e n	n a.m + ʑ e.n	92
+133	Gyalsumdo	Noon	ɲimaɡuŋ	ɲimaɡuŋ	ɲ i + m a + g u ŋ	ɲ i + m a + g u.ŋ	
+134	Gyalsumdo	Evening	kɔŋmo	kɔŋmo	k ɔ ŋ + m o	k ɔ.ŋ + m o	
+135	Gyalsumdo	Yesterday	t̪aŋ	t̪aŋ	t̪ a ŋ	t̪ a.ŋ	1151
+136	Gyalsumdo	Today	t̪iɹiŋ	t̪iɹiŋ	t̪ i + ɹ i ŋ	t̪ i + ɹ i.ŋ	1438
+137	Gyalsumdo	Tomorrow	ŋato	ŋato	ŋ a !Ø/ɹ + t̪ o	ŋ a.!Ø/ɹ + t̪ o	1028
+138	Gyalsumdo	Week	t̪ynta	t̪ynta	t̪ y n + t̪ a	t̪ y.n + t̪ a	
+139	Gyalsumdo	Week	t̪ynzi	t̪ynzi	t̪ y n + z i	t̪ y.n + z i	
+140	Gyalsumdo	Month	t̪awa	t̪awa	t̪ a + w a	t̪ a + w a	
+141	Gyalsumdo	Year	lo	lo	l o	l o	1494
+142	Gyalsumdo	Old	ɲiŋpa	ɲiŋpa	ɲ i ŋ + p a	ɲ i.ŋ + p a	
+143	Gyalsumdo	New	sampa	sampa	s a + ⁿp/p a	s a + ⁿp/p a	1349
+144	Gyalsumdo	Good	jabu	jabu	j a + b u	j a + b u	1272
+145	Gyalsumdo	Bad	majabu	majabu	m a + j a + b u	m a + j a + b u	33
+146	Gyalsumdo	Wet	taŋmu	taŋmu	t̪ a ŋ + m u	t̪ a.ŋ + m u	179
+147	Gyalsumdo	Dry	kəmpu	kəmpu	k ə m + p u	k ə.m + p u	1234
+148	Gyalsumdo	Long	ɹiŋbu	ɹiŋbu	ɹ i ŋ + b u	ɹ i.ŋ + b u	1321
+149	Gyalsumdo	Short	t̪øma	t̪øma	t̪ ø + m a	t̪ ø + m a	1386
+150	Gyalsumdo	Hot	tsʰant̪i	tsʰant̪i	tsʰ a + ⁿt̪/t̪ i	tsʰ a + ⁿt̪/t̪ i	1296
+151	Gyalsumdo	Cold	taŋmu	taŋmu	t̪ a ŋ + m u	t̪ a.ŋ + m u	179
+152	Gyalsumdo	Right	jøba	jøba	j ø + b a	j ø + b a	1365
+153	Gyalsumdo	Left	jøma	jøma	j ø + m a	j ø + m a	1317
+154	Gyalsumdo	Near	ɲemu	ɲemu	ɲ e + m u	ɲ e + m u	1345
+155	Gyalsumdo	Far	t̪ʰaɹiŋbu	t̪ʰaɹiŋbu	t̪ʰ a + ɹ i ŋ + b u	t̪ʰ a + ɹ i.ŋ + b u	1247
+156	Gyalsumdo	Big	tɕʰjumbu	tɕʰjumbu	tɕʰj/tɕʰ u + ⁿb/b u	tɕʰj/tɕʰ u + ⁿb/b u	1195
+157	Gyalsumdo	Small	tɕema	tɕema	!tɕ/tɕʰ e + m a	!tɕ/tɕʰ e + m a	731
+158	Gyalsumdo	Heavy	tɕent̪i	tɕent̪i	tɕ e + ⁿt̪/t̪ i	tɕ e + ⁿt̪/t̪ i	1290
+159	Gyalsumdo	Light	jaŋmu	jaŋmu	j a ŋ + m u	j a.ŋ + m u	1319
+160	Gyalsumdo	Above	ɲala	ɲala	ɲ a + l a	ɲ a + l a	180
+161	Gyalsumdo	Below	wala	wala	w a + l a	w a + l a	
+162	Gyalsumdo	White	kaɹpu	kaɹpu	k a ɹ + p u	k a.ɹ + p u	1472
+163	Gyalsumdo	Black	nakpu	nakpu	n a k + p u	n a.k + p u	1203
+164	Gyalsumdo	Red	maɹpu	maɹpu	m a ɹ + p u	m a.ɹ + p u	1360
+165	Gyalsumdo	One	tɕiɡ	tɕiɡ	tɕ i g/k	tɕ i.g/k	1354
+166	Gyalsumdo	Two	ɲi	ɲi	ɲ i	ɲ i	1067
+167	Gyalsumdo	Three	sum	sum	s u m	s u.m	1433
+168	Gyalsumdo	Four	ɕi	ɕi	ɕ i	ɕ i	1230
+169	Gyalsumdo	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+170	Gyalsumdo	Six	tuk	tuk	!t̪/t̪ʰ u k	!t̪/t̪ʰ u.k	1388
+171	Gyalsumdo	Six	tʰuk	tʰuk	t̪ʰ u k	t̪ʰ u.k	1388
+172	Gyalsumdo	Seven	t̪yn	t̪yn	t̪ y n	t̪ y.n	1384
+173	Gyalsumdo	Eight	ke	ke	k e	k e	1245
+174	Gyalsumdo	Nine	ku	ku	k u	k u	1351
+175	Gyalsumdo	Ten	tɕu	tɕu	tɕ u !Ø/k	tɕ u.!Ø/k	1422
+176	Gyalsumdo	Eleven	tɕuktɕik	tɕuktɕik	tɕ u k + tɕ i k	tɕ u.k + tɕ i.k	
+177	Gyalsumdo	Twelve	tɕuɲi	tɕuɲi	tɕ u !Ø/k + ɲ i	tɕ u.!Ø/k + ɲ i	
+178	Gyalsumdo	Twenty	ɲiɕu	ɲiɕu	ɲ i + ɕ/tɕ u !Ø/k	ɲ i + ɕ/tɕ u.!Ø/k	1451
+179	Gyalsumdo	One Hundred	kja	kja	k j a	k.j a	1303
+180	Gyalsumdo	Who	su	su	s u	s u	1474
+181	Gyalsumdo	What	tɕi	tɕi	tɕ i	tɕ i	1464
+182	Gyalsumdo	Where	kəɹu	kəɹu	k ə + ɹ u	k ə + ɹ u	1470
+183	Gyalsumdo	When	nam	nam	n a m	n a.m	
+184	Gyalsumdo	How many	katse	katse	k a + ts e	k a + ts e	
+185	Gyalsumdo	Which	kand̪i	kand̪i	k a n + !d/t̪ i	k a.n + !d/t̪ i	
+186	Gyalsumdo	This	t̪i	t̪i	t̪ i	t̪ i	1428806
+187	Gyalsumdo	That	ot̪i	ot̪i	o + t̪ i	o + t̪ i	786
+188	Gyalsumdo	These	t̪ija	t̪ija	t̪ i + j a	t̪ i + j a	
+189	Gyalsumdo	Those	kʰuŋja	kʰuŋja	kʰ u ŋ + j a	kʰ u.ŋ + j a	
+190	Gyalsumdo	Same	ot̪iɹaŋ	ot̪iɹaŋ	o + t̪ i + ɹ a ŋ	o + t̪ i + ɹ a.ŋ	
+191	Gyalsumdo	Same	od̪iɹaŋ	od̪iɹaŋ	o + !d̪/t̪ i + ɹ a ŋ	o + !d̪/t̪ i + ɹ a.ŋ	
+192	Gyalsumdo	Same	taɡe	taɡe	t̪ a + g e	t̪ a + g e	
+193	Gyalsumdo	Different	mendaɡe	mendaɡe	m !e/a + !ⁿd/t̪ a + g e	m !e/a + !ⁿd/t̪ a + g e	
+194	Gyalsumdo	Whole	t̪aɡɹaŋ	t̪aɡɹaŋ	t̪ a g/k + ɹ a ŋ	t̪ a.g/k + ɹ a.ŋ	
+195	Gyalsumdo	Broken	tɕʰjakpu	tɕʰjakpu	tɕʰj/tɕʰ a k + p u	tɕʰj/tɕʰ a.k + p u	
+196	Gyalsumdo	Few	ɲuŋe	ɲuŋe	ɲ u + ŋ e	ɲ u + ŋ e	
+197	Gyalsumdo	Many	maŋbu	maŋbu	m a ŋ + b u	m a.ŋ + b u	1323
+198	Gyalsumdo	All	t̪aɡɹaŋ	t̪aɡɹaŋ	t̪ a g/k + ɹ a ŋ	t̪ a.g/k + ɹ a.ŋ	154
+199	Gyalsumdo	To eat	se	se	s e	s e	1311
+200	Gyalsumdo	To bite	ale	ale	a + l e	a + l e	851
+201	Gyalsumdo	To bite	soɡjapb	soɡjapb	s o + g j a !pb/p	s o + g.j a.!pb/p	1198
+202	Gyalsumdo	To be hungry	t̪oɡɛ	t̪oɡɛ	t̪ o + g ɛ	t̪ o + g ɛ	
+203	Gyalsumdo	To drink	t̪ʰuŋ	t̪ʰuŋ	t̪ʰ u ŋ	t̪ʰ u.ŋ	1232
+204	Gyalsumdo	To be thirsty	kʰakomkɛ	kʰakomkɛ	kʰ a + k o m + k ɛ	kʰ a + k o.m + k ɛ	
+205	Gyalsumdo	To sleep	ɲal	ɲal	ɲ a l	ɲ a.l	1394
+206	Gyalsumdo	To lie	tʰelaɲal	tʰelaɲal	t̪ʰ e + l a + ɲ a l	t̪ʰ e + l a + ɲ a.l	
+207	Gyalsumdo	To sit	t̪e	t̪e	t̪ e	t̪ e	
+208	Gyalsumdo	To give	t̪eɹ	t̪eɹ	t̪ e ɹ	t̪ e.ɹ	903
+209	Gyalsumdo	To burn	takɛ	takɛ	t̪ a + k ɛ	t̪ a + k ɛ	
+210	Gyalsumdo	To die	ɕi	ɕi	ɕ i	ɕ i	1230
+211	Gyalsumdo	To kill	se	se	s e	s e	1311
+212	Gyalsumdo	To fly	pʰiɹ	pʰiɹ	pʰ i ɹ	pʰ i.ɹ	1259
+213	Gyalsumdo	To walk	kju	kju	k j u	k.j u	1013
+214	Gyalsumdo	To run	t̪aɹkjulaŋ	t̪aɹkjulaŋ	t̪ a ɹ + k j u + l a ŋ	t̪ a.ɹ + k.j u + l a.ŋ	20
+215	Gyalsumdo	To go	to	to	!t/t̪ o	!t/t̪ o	
+216	Gyalsumdo	To come	ɕjo	ɕjo	ɕ j o	ɕ.j o	1224
+217	Gyalsumdo	To come	oŋ	oŋ	o ŋ	o.ŋ	1223
+218	Gyalsumdo	To speak	labt̪aŋɡɛ	labt̪aŋɡɛ	l a b + t̪ a ŋ + g ɛ	l a.b + t̪ a.ŋ + g ɛ	
+219	Gyalsumdo	To hear/listen	ɲin	ɲin	ɲ i n	ɲ i.n	
+220	Gyalsumdo	To look	t̪e	t̪e	t̪ e	t̪ e	
+221	Gyalsumdo	I	ŋa	ŋa	ŋ a	ŋ a	1310
+222	Gyalsumdo	You (informal)	kʰe	kʰe	kʰ !Ø/j e	kʰ.!Ø/j e	1430
+223	Gyalsumdo	You (formal)	kʰela	kʰela	kʰ !Ø/j e + l a	kʰ.!Ø/j e + l a	
+224	Gyalsumdo	You (formal)	kʰeɹaŋ	kʰeɹaŋ	kʰ !Ø/j e + ɹ a ŋ	kʰ.!Ø/j e + ɹ a.ŋ	
+225	Gyalsumdo	He	kʰo	kʰo	kʰ o	kʰ o	
+226	Gyalsumdo	She	mo	mo	m o	m o	
+227	Gyalsumdo	We (inclusive)	ɲi	ɲi	ɲ i	ɲ i	1067
+228	Gyalsumdo	We (inclusive)	ɲija	ɲija	ɲ i + j a	ɲ i + j a	1067
+229	Gyalsumdo	We (inclusive)	ɲiɹaŋ	ɲiɹaŋ	ɲ i + ɹ a ŋ	ɲ i + ɹ a.ŋ	1066
+230	Gyalsumdo	We (exclusive)	oɹaŋ	oɹaŋ	o + ɹ a ŋ	o + ɹ a.ŋ	
+231	Gyalsumdo	You (plural)	kʰija	kʰija	kʰ i + j a	kʰ i + j a	22
+232	Gyalsumdo	They	kʰuŋja	kʰuŋja	kʰ u + !ŋ/k j a	kʰ u + !ŋ/k.j a	
+233	Gyalsumdo	Load	kʰuɹpu	kʰuɹpu	kʰ u ɹ + p u	kʰ u.ɹ + p u	
+234	Gyalsumdo	Flour (eaten as food)	tsampa	tsampa	ts a m + p a	ts a.m + p a	
+235	Gyalsumdo	Hailstone	seɹa	seɹa	s e + ɹ a	s e + ɹ a	1280
+236	Gyalsumdo	Intestine	kjuma	kjuma	k j u + m a	k.j u + m a	
+237	Gyalsumdo	Intestine	kʰjuma	kʰjuma	!kʰ/k j u + m a	!kʰ/k.j u + m a	
+238	Gyalsumdo	Yard	kɔɹtsa	kɔɹtsa	k ɔ ɹ + ts a	k ɔ.ɹ + ts a	
+239	Gyalsumdo	To uproot	pi	pi	p i	p i	
+240	Gyalsumdo	Oven	t̪ʰab	t̪ʰab	t̪ʰ a b	t̪ʰ a.b	
+241	Gyalsumdo	Heel	t̪iŋpa	t̪iŋpa	t̪ i ŋ + p a	t̪ i.ŋ + p a	
+242	Gyalsumdo	Spade	t̪oktsi	t̪oktsi	t̪ o k + ts i	t̪ o.k + ts i	
+243	Gyalsumdo	Horse	t̪abu	t̪abu	t̪ a + b u	t̪ a + b u	1294
+244	Gyalsumdo	To plough	møkɛ	møkɛ	m ø + k ɛ	m ø + k ɛ	
+245	Gyalsumdo	Bond	kamkja	kamkja	k a m + k j a	k a.m + k.j a	
+246	Gyalsumdo	Beam (main wooden beam)	kuŋkju	kuŋkju	k u ŋ + k j u	k u.ŋ + k.j u	
+247	Gyalsumdo	Rope used to tie animals	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	
+248	Gyalsumdo	Beard	kja	kja	k j a	k.j a	
+249	Gyalsumdo	To measure	t̪apkɛ	t̪apkɛ	t̪ a p + k ɛ	t̪ a.p + k ɛ	
+250	Gyalsumdo	Plank	t̪al	t̪al	t̪ a l	t̪ a.l	
+251	Gyalsumdo	Hole	miksaŋ	miksaŋ	m i k + s a ŋ	m i.k + s a.ŋ	
+252	Gyalsumdo	Plough (noun)	t̪ʰoŋpa	t̪ʰoŋpa	t̪ʰ o ŋ + p a	t̪ʰ o.ŋ + p a	
+253	Gyalsumdo	Lid (cover)	kʰəptɕu	kʰəptɕu	kʰ ə p + tɕ u	kʰ ə.p + tɕ u	
+254	Gyalsumdo	Handle	juwa	juwa	j u + w a	j u + w a	
+255	Gyalsumdo	Bear	t̪om	t̪om	t̪ o m	t̪ o.m	
+256	Gyalsumdo	Ghost	nøpa	nøpa	n ø + p a	n ø + p a	
+257	Gyalsumdo	Manure	ly	ly	l y	l y	
+258	Gyalsumdo	Bread	kjaŋ	kjaŋ	k j a ŋ	k.j a.ŋ	
+259	Gyalsumdo	Corpse	ɹo	ɹo	ɹ o	ɹ o	
+260	Gyalsumdo	Pig	pʰakpa	pʰakpa	pʰ a k + p a	pʰ a.k + p a	1356
+261	Gyalsumdo	Grains	tʰu	tʰu	!tʰ/t̪ u	!tʰ/t̪ u	
+262	Gyalsumdo	Stick	kjukpa	kjukpa	k j u k + p a	k.j u.k + p a	1413
+263	Gyalsumdo	Sweat	ŋulna	ŋulna	ŋ u l + n a	ŋ u.l + n a	
+264	Gyalsumdo	To chew	leke	leke	l e + k e	l e + k e	867
+265	Gyalsumdo	To swallow	mikɛ	mikɛ	m i + k ɛ	m i + k ɛ	
+266	Gyalsumdo	To throw	jukɛ	jukɛ	j u + k ɛ	j u + k ɛ	178
+267	Gyalsumdo	To throw	juɹkɛ	juɹkɛ	j u ɹ + k ɛ	j u.ɹ + k ɛ	178
+268	Jirel	Body	dziu	dziu	dz iu	dz iu	
+269	Jirel	Head	ŋɡo	ŋɡo	ⁿg/g o	ⁿg/g o	1284
+270	Jirel	Hair	ŋɡokita	ŋɡokita	ⁿg/g o + k i + t̪ a	ⁿg/g o + k i + t̪ a	1282
+271	Jirel	Face	tɕʰet̪	tɕʰet̪	tɕʰ e t̪	tɕʰ e.t̪	
+272	Jirel	Eye	mik	mik	m i k	m i.k	1246
+273	Jirel	Ear	n̪amdʑjok	n̪amdʑjok	n a m + dʑj/dʑ o k	n a.m + dʑj/dʑ o.k	1238
+274	Jirel	Nose	n̪əu	n̪əu	n əu	n əu	1352
+275	Jirel	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+276	Jirel	Teeth	sa	sa	s a	s a	1446
+277	Jirel	Tongue	tselak	tselak	!ts/tɕ e + l a k	!ts/tɕ e + l a.k	1444
+278	Jirel	Breast	n̪uma	n̪uma	n u + m a	n u + m a	1210
+279	Jirel	Belly	suba	suba	s u + b a	s u + b a	1193
+280	Jirel	Arm/Hand	lakpa	lakpa	l a k + p a	l a.k + p a	
+281	Jirel	Elbow	kuin̪a	kuin̪a	k ui + n a	k ui + n a	
+282	Jirel	Palm	pəɹa	pəɹa	p ə + ɹ a	p ə + ɹ a	
+283	Jirel	Finger	ndziu	ndziu	ⁿdz/dz iu	ⁿdz/dz iu	
+284	Jirel	Fingernail	seɹmuk	seɹmuk	s e ɹ + m u k	s e.ɹ + m u.k	
+285	Jirel	Leg	tʰekpa	tʰekpa	t̪ʰ e k + p a	t̪ʰ e.k + p a	
+286	Jirel	Skin	kokt̪en	kokt̪en	k o k + t̪ e n	k o.k + t̪ e.n	726
+287	Jirel	Bone	ɹuba	ɹuba	ɹ u + b a	ɹ u + b a	1208
+288	Jirel	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+289	Jirel	Blood	tʰak	tʰak	t̪ʰ a k	t̪ʰ a.k	1206
+290	Jirel	Urine	tsiŋ	tsiŋ	ts i ŋ	ts i.ŋ	
+291	Jirel	Faeces	kjakpa	kjakpa	k j a k + p a	k.j a.k + p a	
+292	Jirel	Village	jul	jul	j u l	j u.l	
+293	Jirel	House	kʰamba	kʰamba	kʰ a !m/ŋ + b a	kʰ a.!m/ŋ + b a	1301
+294	Jirel	Roof	tsʰanu	tsʰanu	tsʰ a + n u	tsʰ a + n u	
+295	Jirel	Door	ŋɡo	ŋɡo	ⁿg/g o	ⁿg/g o	
+296	Jirel	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+297	Jirel	Broom	komuk	komuk	k o + m u k	k o + m u.k	
+298	Jirel	Mortar	siləuta	siləuta	s i + l ə !u/p + t̪ a	s i + l ə.!u/p + t̪ a	
+299	Jirel	Pestle	nd̪aɹd̪ok	nd̪aɹd̪ok	ⁿd/d̪ a ɹ + d̪ o k	ⁿd/d̪ a.ɹ + d̪ o.k	
+300	Jirel	Hammer	toktoke	toktoke	t̪ o k + t̪ o + k e	t̪ o.k + t̪ o + k e	
+301	Jirel	Knife	tɕʰuɹa	tɕʰuɹa	!tɕʰ/t̪ʰ u + ɹ a	!tɕʰ/t̪ʰ u + ɹ a	1313
+302	Jirel	Knife	tsəku	tsəku	ts ə + k u	ts ə + k u	1313
+303	Jirel	Axe	t̪əɹi	t̪əɹi	t̪ ə + ɹ i	t̪ ə + ɹ i	
+304	Jirel	Rope	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	1374
+305	Jirel	Thread	ɕut̪ak	ɕut̪ak	ɕ u + t̪ a k	ɕ u + t̪ a.k	
+306	Jirel	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+307	Jirel	Cloth	kʰolak	kʰolak	!kʰ/k o + l a k	!kʰ/k o + l a.k	
+308	Jirel	Ring	əũtʰi	əũtʰi	ə ũ + t̪ʰ i	ə.ũ + t̪ʰ i	
+309	Jirel	Sun	ɲima	ɲima	ɲ i + m a	ɲ i + m a	1418
+310	Jirel	Moon	nd̪aɡaɹ	nd̪aɡaɹ	ⁿd/d̪ a + g/k a ɹ	ⁿd/d̪ a + g/k a.ɹ	1327
+311	Jirel	Sky	n̪am	n̪am	!n̪/n a m	!n̪/n a.m	1392
+312	Jirel	Star	kaɹma	kaɹma	k a ɹ + m a	k a.ɹ + m a	1410
+313	Jirel	Rain	tɕʰjaɹba	tɕʰjaɹba	tɕʰ j a ɹ + b a	tɕʰ.j a.ɹ + b a	
+314	Jirel	Water	tɕʰju	tɕʰju	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+315	Jirel	River	tʰaŋka	tʰaŋka	!tʰ/ts a ŋ + k a	!tʰ/ts a.ŋ + k a	1368
+316	Jirel	Cloud	mukpa	mukpa	m u k + p a	m u.k + p a	176
+317	Jirel	Lightening	tsilim	tsilim	ts i + l !i/a m	ts i + l !i/a.m	
+318	Jirel	Lightening	tsilam	tsilam	ts i + l a m	ts i + l a.m	
+319	Jirel	Rainbow	ndza	ndza	ⁿdz/dz a	ⁿdz/dz a	1358
+320	Jirel	Wind	hlaba	hlaba	h l a + b a	h.l a + b a	1486
+321	Jirel	Stone	nd̪o	nd̪o	ⁿd/d̪ o	ⁿd/d̪ o	1416
+322	Jirel	Path	lam	lam	l a m	l a.m	
+323	Jirel	Sand	pʰesa	pʰesa	pʰ e + s a	pʰ e + s a	1382
+324	Jirel	Fire	me	me	m e	m e	1251
+325	Jirel	Smoke	t̪ʰut̪ak	t̪ʰut̪ak	t̪ʰ u + t̪ a k	t̪ʰ u + t̪ a.k	
+326	Jirel	Ash	t̪ʰala	t̪ʰala	t̪ʰ a + l a	t̪ʰ a + l a	
+327	Jirel	Mud	səbi	səbi	s ə + b i	s ə + b i	534
+328	Jirel	Dust	d̪ulo	d̪ulo	!d̪/t̪ʰ !u/a + l !o/a	!d̪/t̪ʰ !u/a + l !o/a	1237
+329	Jirel	Gold	seɹ	seɹ	s e ɹ	s e.ɹ	
+330	Jirel	Tree	nd̪oŋbo	nd̪oŋbo	ⁿd/d̪ o ŋ + b o	ⁿd/d̪ o.ŋ + b o	1039
+331	Jirel	Leaf	ɕjomak	ɕjomak	ɕj/ɕ o + m a k	ɕj/ɕ o + m a.k	2
+332	Jirel	Root	tsapɹen	tsapɹen	ts a + p ɹ e n	ts a + p.ɹ e.n	1371
+333	Jirel	Thorn	tsaŋ	tsaŋ	ts a ŋ	ts a.ŋ	
+334	Jirel	Flower	mend̪ok	mend̪ok	m e + ⁿd/d̪ o k	m e + ⁿd/d̪ o.k	1257
+335	Jirel	Fruit	pʰəlpʰul	pʰəlpʰul	pʰ ə l + pʰ u l	pʰ ə.l + pʰ u.l	310
+336	Jirel	Mango	ãp	ãp	ã p	ã.p	
+337	Jirel	Banana	ɹeŋaɕiŋ	ɹeŋaɕiŋ	ɹ e + ŋ a + ɕ i ŋ	ɹ e + ŋ a + ɕ i.ŋ	
+338	Jirel	Wheat (husked)	tʰa	tʰa	t̪ʰ a	t̪ʰ a	1091
+339	Jirel	Barley	ndzəu	ndzəu	!ⁿdz/ts əu	!ⁿdz/ts əu	1190
+340	Jirel	Rice (husked)	ɕjoɹok	ɕjoɹok	ɕ j o + ɹ o k	ɕ.j o + ɹ o.k	
+341	Jirel	Potato	ɹeɡe	ɹeɡe	ɹ e + g e	ɹ e + g e	
+342	Jirel	Eggplant	pənda	pənda	p ə n + d̪ a	p ə.n + d̪ a	
+343	Jirel	Groundnut	mbəd̪am	mbəd̪am	ⁿb/b ə + d̪ a m	ⁿb/b ə + d̪ a.m	
+344	Jirel	Chilli	kʰuɹɕani	kʰuɹɕani	kʰ u ɹ + ɕ a !ni/n	kʰ u.ɹ + ɕ a.!ni/n	
+345	Jirel	Turmeric	mbesaɹ	mbesaɹ	ⁿb/b e + s a ɹ	ⁿb/b e + s a.ɹ	
+346	Jirel	Garlic	ŋɡokpa	ŋɡokpa	ⁿg/g o k + p a	ⁿg/g o.k + p a	
+347	Jirel	Onion	pjats	pjats	p j a ts	p.j a.ts	
+348	Jirel	Cauliflower	kauli	kauli	k au + l i	k au + l i	
+349	Jirel	Tomato	ŋɡolbeda	ŋɡolbeda	ⁿg/g o l + b e + d̪ a	ⁿg/g o.l + b e + d̪ a	
+350	Jirel	Cabbage	bənd̪a	bənd̪a	b ə n + d̪ a	b ə.n + d̪ a	
+351	Jirel	Oil	məɹɡu	məɹɡu	m ə ɹ + g u	m ə.ɹ + g u	
+352	Jirel	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+353	Jirel	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+354	Jirel	Fat (of meat)	tsʰiluk	tsʰiluk	tsʰ i + l u k	tsʰ i + l u.k	
+355	Jirel	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+356	Jirel	Chicken	tsʰiɹbuk	tsʰiɹbuk	tsʰ i !ɹ/b + !b/ɹ u k	tsʰ i.!ɹ/b + !b/ɹ u.k	
+357	Jirel	Egg	tsʰemend̪ok	tsʰemend̪ok	tsʰ e + m e n + d̪ o k	tsʰ e + m e.n + d̪ o.k	224
+358	Jirel	Egg	tsʰeɡoŋa	tsʰeɡoŋa	tsʰ e + g o + ŋ a	tsʰ e + g o + ŋ a	1242
+359	Jirel	Cow	pʰalaŋ	pʰalaŋ	pʰ a + l a ŋ	pʰ a + l a.ŋ	
+360	Jirel	Buffalo	meɕja	meɕja	m e + !ɕj/j a	m e + !ɕj/j a	
+361	Jirel	Milk	olen	olen	o + l e n	o + l e.n	
+362	Jirel	Milk	oma	oma	o + m a	o + m a	
+363	Jirel	Horns	ɹodʑjo	ɹodʑjo	ɹ o + dʑj/dʑ o	ɹ o + dʑj/dʑ o	1292
+364	Jirel	Tail	ŋama	ŋama	ŋ a + m a	ŋ a + m a	1419
+365	Jirel	Goat	ɹa	ɹa	ɹ a	ɹ a	1269
+366	Jirel	Dog	ki	ki	!k/kʰ i	!k/kʰ i	1231
+367	Jirel	Snake	ɹul	ɹul	ɹ u l	ɹ u.l	1401
+368	Jirel	Monkey	moɹo	moɹo	m o + ɹ o	m o + ɹ o	
+369	Jirel	Monkey	tʰaklapʰikant̪e	tʰaklapʰikant̪e	t̪ʰ a + k l a + pʰ i + k a n + t̪ e	t̪ʰ a + k l a + pʰ i + k a n + t̪ e	
+370	Jirel	Mosquito	lamkute	lamkute	l a m + k u + t̪ e	l a.m + k u + t̪ e	523
+371	Jirel	Ant	tʰoŋmatsi	tʰoŋmatsi	t̪ʰ o ŋ + m a + ts i	t̪ʰ o.ŋ + m a + ts i	1183
+372	Jirel	Spider	ŋɡwãpali	ŋɡwãpali	ⁿg/g w ã + p a + l i	ⁿg/g.w ã + p a + l i	61
+373	Jirel	Name	min̪	min̪	m i n	m i.n	1344
+374	Jirel	Man	mi	mi	m i	m i	
+375	Jirel	Woman	pʰemmemi	pʰemmemi	pʰ e m + m e + m i	pʰ e.m + m e + m i	1489
+376	Jirel	Child	pʰidza	pʰidza	pʰ i + dz a	pʰ i + dz a	
+377	Jirel	Father	aba	aba	a + b a	a + b a	1249
+378	Jirel	Mother	ãma	ãma	!ã/a + m a	!ã/a + m a	1338
+379	Jirel	Older brother	adʑjo	adʑjo	a + !dʑj/tɕ o	a + !dʑj/tɕ o	
+380	Jirel	Younger brother	n̪ũwã	n̪ũwã	!n̪/n !ũ/u + w ã	!n̪/n !ũ/u + w ã	
+381	Jirel	Older sister	adzi	adzi	a + dz i	a + dz i	
+382	Jirel	Younger sister	n̪umu	n̪umu	!n̪/n u + m u	!n̪/n u + m u	
+383	Jirel	Son	pʰudʑuŋ	pʰudʑuŋ	pʰ u + dʑ u ŋ	pʰ u + dʑ u.ŋ	1403
+384	Jirel	Daughter	pʰumu	pʰumu	pʰ u + m u	pʰ u + m u	1227
+385	Jirel	Husband	kʰjobo	kʰjobo	kʰ j o + b o	kʰ.j o + b o	1304
+386	Jirel	Wife	pʰemme	pʰemme	pʰ e m + m e	pʰ e.m + m e	1121
+387	Jirel	Boy	kʰojobopidza	kʰojobopidza	kʰ o + j o + b o + !p/pʰ i + dz a	kʰ o + j o + b o + !p/pʰ i + dz a	
+388	Jirel	Girl	pʰemmepidza	pʰemmepidza	pʰ e m + m e + !p/pʰ i + dz a	pʰ e.m + m e + !p/pʰ i + dz a	
+389	Jirel	Day	ɲima	ɲima	ɲ i + m a	ɲ i + m a	
+390	Jirel	Night	ŋɡwase	ŋɡwase	ⁿg/g w a + s e	ⁿg/g.w a + s e	
+391	Jirel	Morning	ŋomu	ŋomu	ŋ o + m u	ŋ o + m u	1331
+392	Jirel	Noon	ɲimmu	ɲimmu	ɲ i + m !Ø/a + m u	ɲ i + m !Ø/a + m u	
+393	Jirel	Evening	ŋɡwase	ŋɡwase	ⁿg/g w a + s e	ⁿg/g.w a + s e	
+394	Jirel	Yesterday	nd̪aŋ	nd̪aŋ	ⁿd/d̪ a ŋ	ⁿd/d̪ a.ŋ	1151
+395	Jirel	Today	tʰəɹiŋ	tʰəɹiŋ	!tʰ/t̪ ə + ɹ i ŋ	!tʰ/t̪ ə + ɹ i.ŋ	1438
+396	Jirel	Tomorrow	ŋaɹo	ŋaɹo	ŋ a !Ø/ɹ + ɹ o	ŋ a.!Ø/ɹ + ɹ o	1028
+397	Jirel	Week	həpt̪a	həpt̪a	h ə p + t̪ a	h ə.p + t̪ a	
+398	Jirel	Month	nd̪awa	nd̪awa	ⁿd/d̪ a + w a	ⁿd/d̪ a + w a	
+399	Jirel	Year	lo	lo	l o	l o	1494
+400	Jirel	Old	ɲiŋba	ɲiŋba	ɲ i ŋ + b a	ɲ i.ŋ + b a	
+401	Jirel	New	samba	samba	s a + ⁿb/b a	s a + ⁿb/b a	1349
+402	Jirel	Good	lemu	lemu	l e + m u	l e + m u	1273
+403	Jirel	Bad	meleba	meleba	m e + l e + b a	m e + l e + b a	110
+404	Jirel	Wet	tʰəŋɡe	tʰəŋɡe	t̪ʰ ə ŋ + g e	t̪ʰ ə.ŋ + g e	179
+405	Jirel	Dry	kombo	kombo	k o m + !b/p o	k o.m + !b/p o	1234
+406	Jirel	Long	ɹimbu	ɹimbu	ɹ i !m/ŋ + b u	ɹ i.!m/ŋ + b u	1321
+407	Jirel	Short	t̪ʰumma	t̪ʰumma	t̪ʰ u m + m a	t̪ʰ u.m + m a	1386
+408	Jirel	Hot	tʰommu	tʰommu	t̪ʰ o + mː/m u	t̪ʰ o + mː/m u	398
+409	Jirel	Cold	tʰəŋɡe	tʰəŋɡe	t̪ʰ ə ŋ + g e	t̪ʰ ə.ŋ + g e	179
+410	Jirel	Right	samapa	samapa	s a + m a + p a	s a + m a + p a	660
+411	Jirel	Left	d̪ebɹepa	d̪ebɹepa	d̪ e + b ɹ e + p a	d̪ e + b.ɹ e + p a	437
+412	Jirel	Near	ɲibid̪u	ɲibid̪u	ɲ i + b i + d̪ u	ɲ i + b i + d̪ u	1345
+413	Jirel	Far	t̪ʰaɹid̪u	t̪ʰaɹid̪u	t̪ʰ a + ɹ i !Ø/n + d̪ u	t̪ʰ a + ɹ i.!Ø/n + d̪ u	1247
+414	Jirel	Far	t̪ʰaɹipa	t̪ʰaɹipa	t̪ʰ a + ɹ i !Ø/n + p a	t̪ʰ a + ɹ i.!Ø/n + p a	1247
+415	Jirel	Big	ndzod̪a	ndzod̪a	ⁿdz/dz o + d̪ a	ⁿdz/dz o + d̪ a	1195
+416	Jirel	Small	tikti	tikti	t̪ i k + t̪ i	t̪ i.k + t̪ i	733
+417	Jirel	Heavy	tsend̪e	tsend̪e	!ts/tɕ e + ⁿd̪/d̪ e	!ts/tɕ e + ⁿd̪/d̪ e	1290
+418	Jirel	Light	jeŋɡe	jeŋɡe	j e ŋ + g e	j e.ŋ + g e	1319
+419	Jirel	Above	jine	jine	j i + n e	j i + n e	3
+420	Jirel	Below	mima	mima	m i + m a	m i + m a	
+421	Jirel	White	kaɹmu	kaɹmu	k a ɹ + m u	k a.ɹ + m u	1472
+422	Jirel	Black	naɡpo	naɡpo	n a g/k + p o	n a.g/k + p o	1203
+423	Jirel	Red	məɹmu	məɹmu	m !ə/a ɹ + m u	m !ə/a.ɹ + m u	1360
+424	Jirel	One	nd̪okpəi	nd̪okpəi	ⁿd/d̪ o k + p əi	ⁿd/d̪ o.k + p əi	16
+425	Jirel	One	tɕik	tɕik	tɕ i k	tɕ i.k	1354
+426	Jirel	Two	ɲi	ɲi	ɲ i	ɲ i	1452
+427	Jirel	Three	sum	sum	s u m	s u.m	1433
+428	Jirel	Four	ɕi	ɕi	ɕ i	ɕ i	1262
+429	Jirel	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+430	Jirel	Six	tʰok	tʰok	t̪ʰ o k	t̪ʰ o.k	1388
+431	Jirel	Seven	nd̪uin	nd̪uin	ⁿd/d̪ ui n	ⁿd/d̪ ui.n	1384
+432	Jirel	Eight	ŋɡet̪	ŋɡet̪	ⁿg/g e t̪	ⁿg/g e.t̪	1245
+433	Jirel	Nine	ŋɡu	ŋɡu	ⁿg/g u	ⁿg/g u	1351
+434	Jirel	Ten	tɕut̪amba	tɕut̪amba	tɕ u + t̪ a m + b a	tɕ u + t̪ a.m + b a	1422
+435	Jirel	Eleven	tɕutɕik	tɕutɕik	tɕ u + tɕ i k	tɕ u + tɕ i.k	
+436	Jirel	Twelve	tɕuŋɲi	tɕuŋɲi	tɕ u ŋ/Ø + ɲ i	tɕ u.ŋ/Ø + ɲ i	
+437	Jirel	Twenty	kʰaldʑik	kʰaldʑik	kʰ a l + !dʑ/tɕ i k	kʰ a.l + !dʑ/tɕ i.k	1051
+438	Jirel	One Hundred	kʰalŋa	kʰalŋa	kʰ a l + ŋ a	kʰ a.l + ŋ a	594
+439	Jirel	Who	su	su	s u	s u	1474
+440	Jirel	What	tɕi	tɕi	tɕ i	tɕ i	1464
+441	Jirel	Where	kʰapa	kʰapa	kʰ a + p a	kʰ a + p a	1470
+442	Jirel	When	n̪am	n̪am	!n̪/n a m	!n̪/n a.m	
+443	Jirel	How many	t̪ʰoji	t̪ʰoji	t̪ʰ o + j i	t̪ʰ o + j i	
+444	Jirel	Which	kʰaŋ	kʰaŋ	!kʰ/k a ŋ	!kʰ/k a.ŋ	
+445	Jirel	This	nd̪i	nd̪i	ⁿd/d̪ i	ⁿd/d̪ i	1428
+446	Jirel	That	t̪ʰe	t̪ʰe	t̪ʰ e	t̪ʰ e	785
+447	Jirel	These	nd̪iba	nd̪iba	ⁿd/d̪ i + b a	ⁿd/d̪ i + b a	
+448	Jirel	Those	t̪ʰeba	t̪ʰeba	t̪ʰ e + b a	t̪ʰ e + b a	
+449	Jirel	Same	t̪ʰokɹaŋ	t̪ʰokɹaŋ	t̪ʰ o k + ɹ a ŋ	t̪ʰ o.k + ɹ a.ŋ	
+450	Jirel	Different	kʰud̪uk	kʰud̪uk	kʰ u + d̪ u k	kʰ u + d̪ u.k	
+451	Jirel	Whole	ŋɡaŋe	ŋɡaŋe	ⁿg/g a + ŋ e	ⁿg/g a + ŋ e	
+452	Jirel	Broken	tɕʰakpat̪e	tɕʰakpat̪e	tɕʰ a k + p a + t̪ e	tɕʰ a.k + p a + t̪ e	
+453	Jirel	Few	tikpidʑik	tikpidʑik	t̪ i k + p i + dʑ i k	t̪ i.k + p i + dʑ i.k	
+454	Jirel	Many	kalbe	kalbe	k a l + b e	k a.l + b e	478
+455	Jirel	All	ŋɡaŋe	ŋɡaŋe	ⁿg/g a + ŋ e	ⁿg/g a + ŋ e	1067
+456	Jirel	To eat	so	so	s o	s o	1240
+457	Jirel	To eat	soba	soba	s o + b a	s o + b a	1240
+458	Jirel	To eat	sabla	sabla	s a b + l a	s a.b + l a	1240
+459	Jirel	To bite	muɹtɕja	muɹtɕja	m u ɹ + tɕ j a	m u.ɹ + tɕ.j a	1202
+460	Jirel	To bite	muɹab	muɹab	m u !Ø/ɹ + ɹ a b	m u.!Ø/ɹ + ɹ a.b	1202
+461	Jirel	To be hungry	t̪oaba	t̪oaba	t̪ o + !Ø/w a + b a	t̪ o + !Ø/w a + b a	
+462	Jirel	To be hungry	t̪oabalabat̪e	t̪oabalabat̪e	t̪ o + !Ø/w a + b a + l a + b a + t̪ e	t̪ o + !Ø/w a + b a + l a + b a + t̪ e	
+463	Jirel	To drink	t̪ʰuŋ	t̪ʰuŋ	t̪ʰ u ŋ	t̪ʰ u.ŋ	1232
+464	Jirel	To drink	t̪ʰubat̪e	t̪ʰubat̪e	t̪ʰ u !Ø/ŋ + b a + t̪ e	t̪ʰ u.!Ø/ŋ + b a + t̪ e	1232
+465	Jirel	To be thirsty	komba	komba	k o m + b a	k o.m + b a	
+466	Jirel	To sleep	ɲol	ɲol	ɲ !o/a l	ɲ !o/a.l	1394
+467	Jirel	To sleep	ɲalat̪e	ɲalat̪e	ɲ a !Ø/l + l a + t̪ e	ɲ a.!Ø/l + l a + t̪ e	1394
+468	Jirel	To lie	ɹilat̪e	ɹilat̪e	ɹ i + l a + t̪ e	ɹ i + l a + t̪ e	
+469	Jirel	To lie	pəltekʰabat̪e	pəltekʰabat̪e	p ə l + t̪ e + kʰ a + b a + t̪ e	p ə.l + t̪ e + kʰ a + b a + t̪ e	
+470	Jirel	To sit	d̪et̪at̪e	d̪et̪at̪e	d̪ e + t̪ a + t̪ e	d̪ e + t̪ a + t̪ e	
+471	Jirel	To give	mbind̪at̪e	mbind̪at̪e	ⁿb/b i n + d̪ a + t̪ e	ⁿb/b i.n + d̪ a + t̪ e	1266
+472	Jirel	To burn	tsʰikpat̪e	tsʰikpat̪e	tsʰ i k + !p/b a + t̪ e	tsʰ i.k + !p/b a + t̪ e	
+473	Jirel	To burn	tsʰikt̪uk	tsʰikt̪uk	tsʰ i k + t̪ u k	tsʰ i.k + t̪ u.k	
+474	Jirel	To die	ɕjapt̪e	ɕjapt̪e	ɕ j a p + t̪ e	ɕ.j a.p + t̪ e	883
+475	Jirel	To kill	set̪at̪e	set̪at̪e	s e + t̪ a + t̪ e	s e + t̪ a + t̪ e	1311
+476	Jirel	To fly	pʰuɹ	pʰuɹ	pʰ u ɹ	pʰ u.ɹ	1259
+477	Jirel	To fly	pʰuɹat̪e	pʰuɹat̪e	pʰ u !Ø/ɹ + ɹ a + t̪ e	pʰ u.!Ø/ɹ + ɹ a + t̪ e	1259
+478	Jirel	To walk	kʰjom	kʰjom	kʰ j o m	kʰ.j o.m	1013
+479	Jirel	To walk	kʰjambat̪e	kʰjambat̪e	kʰ j a m + b a + t̪ e	kʰ.j a.m + b a + t̪ e	1013
+480	Jirel	To run	tɕʰwabat̪e	tɕʰwabat̪e	tɕʰ w a + b a + t̪ e	tɕʰ.w a + b a + t̪ e	19
+481	Jirel	To go	ɡalat̪e	ɡalat̪e	g a + l a + t̪ e	g a + l a + t̪ e	
+482	Jirel	To go	ŋɡjuk	ŋɡjuk	ⁿg/g j u k	ⁿg/g.j u.k	
+483	Jirel	To come	ɕjok	ɕjok	ɕ j o k	ɕ.j o.k	1224
+484	Jirel	To speak	mbat̪kʰabat̪e	mbat̪kʰabat̪e	ⁿb/b a t̪ + kʰ a + b a + t̪ e	ⁿb/b a.t̪ + kʰ a + b a + t̪ e	
+485	Jirel	To hear/listen	t̪ʰobat̪e	t̪ʰobat̪e	t̪ʰ o + b a + t̪ e	t̪ʰ o + b a + t̪ e	
+486	Jirel	To look	t̪abat̪e	t̪abat̪e	t̪ a + b a + t̪ e	t̪ a + b a + t̪ e	
+487	Jirel	I	ŋa	ŋa	ŋ a	ŋ a	1310
+488	Jirel	You (informal)	kʰo	kʰo	kʰ !Ø/j o	kʰ.!Ø/j o	1430
+489	Jirel	He	t̪ʰe	t̪ʰe	t̪ʰ e	t̪ʰ e	
+490	Jirel	She	t̪ʰe	t̪ʰe	t̪ʰ e	t̪ʰ e	
+491	Jirel	We (inclusive)	oɹoŋ	oɹoŋ	o + ɹ o ŋ	o + ɹ o.ŋ	1070
+492	Jirel	We (inclusive)	ŋɡaŋe	ŋɡaŋe	ⁿg/g a + ŋ e	ⁿg/g a + ŋ e	1067
+493	Jirel	You (plural)	kʰjokjon	kʰjokjon	kʰ j o + k j o n	kʰ.j o + k.j o n	1498
+494	Jirel	They	t̪ʰeba	t̪ʰeba	t̪ʰ e + b a	t̪ʰ e + b a	
+495	Jirel	Load	kʰuɹbo	kʰuɹbo	kʰ u ɹ + b o	kʰ u.ɹ + b o	
+496	Jirel	Flour (eaten as food)	pʰe	pʰe	pʰ e	pʰ e	
+497	Jirel	Hailstone	seɹe	seɹe	s e + ɹ e	s e + ɹ e	1280
+498	Jirel	Intestine	ŋɡjumak	ŋɡjumak	!ⁿg/k j u + m a k	!ⁿg/k.j u + m a.k	
+499	Jirel	Yard	ɕjaŋka	ɕjaŋka	ɕ j a ŋ + k a	ɕ.j a.ŋ + k a	
+500	Jirel	To uproot	pʰalat̪e	pʰalat̪e	pʰ a !Ø/l + l a + t̪ e	pʰ a.!Ø/l + l a + t̪ e	
+501	Jirel	Oven	t̪ʰap	t̪ʰap	t̪ʰ a p	t̪ʰ a.p	
+502	Jirel	Heel	kuɹkutsa	kuɹkutsa	k u ɹ + k u + ts a	k u.ɹ + k u + ts a	
+503	Jirel	Spade	t̪oktsi	t̪oktsi	t̪ o k + ts i	t̪ o.k + ts i	
+504	Jirel	Horse	ŋɡoda	ŋɡoda	ⁿg/g o + !d/t̪ a	ⁿg/g o + !d/t̪ a	1294
+505	Jirel	To plough	mowat̪e	mowat̪e	m o + w a + t̪ e	m o + w a + t̪ e	
+506	Jirel	Bond	t̪əmasuk	t̪əmasuk	t̪ ə + m a + s u k	t̪ ə + m a + s u.k	
+507	Jirel	Beam (main wooden beam)	d̪əlin	d̪əlin	d̪ ə + l i n	d̪ ə + l i.n	
+508	Jirel	Rope used to tie animals	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	
+509	Jirel	Beard	d̪aɹi	d̪aɹi	d̪ a + ɹ i	d̪ a + ɹ i	
+510	Jirel	To measure	t̪ʰapat̪e	t̪ʰapat̪e	!t̪ʰ/t̪ a !Ø/p + p a + t̪ e	!t̪ʰ/t̪ a !Ø/p + p a + t̪ e	
+511	Jirel	Plank	pʰəljak	pʰəljak	pʰ ə l + j a k	pʰ ə.l + j a.k	
+512	Jirel	Hole	miu	miu	m i + !Ø/j u	m i + !Ø/j u	
+513	Jirel	Plough (noun)	t̪ʰoŋba	t̪ʰoŋba	t̪ʰ o ŋ + b a	t̪ʰ o.ŋ + b a	
+514	Jirel	Lid (cover)	mbutso	mbutso	ⁿb/b u + ts o	ⁿb/b u + ts o	
+515	Jirel	Handle	tʰijuk	tʰijuk	t̪ʰ i + j u k	t̪ʰ i + j u.k	
+516	Jirel	Bear	t̪om	t̪om	t̪ o m	t̪ o.m	
+517	Jirel	Ghost	ləndik	ləndik	!Ø/h l ə n + d̪ i k	!Ø/h.l ə.n + d̪ i.k	
+518	Jirel	Manure	tɕʰja	tɕʰja	tɕʰ j a	tɕʰ.j a	
+519	Jirel	Bread	ɕjoben	ɕjoben	ɕ j o + b e n	ɕ.j o + b e.n	
+520	Jirel	Corpse	ɹo	ɹo	ɹ o	ɹ o	
+521	Jirel	Pig	pʰakpa	pʰakpa	pʰ a k + p a	pʰ a.k + p a	1356
+522	Jirel	Stick	dəndi	dəndi	d̪ ə + ⁿd/d̪ i	d̪ ə + ⁿd/d̪ i	765
+523	Jirel	Sweat	tʰot̪	tʰot̪	t̪ʰ o t̪	t̪ʰ o.t̪	
+524	Jirel	To chew	muɹat̪e	muɹat̪e	m u !Ø/ɹ + ɹ a + t̪ e	m u.!Ø/ɹ + ɹ a + t̪ e	1214
+525	Jirel	To swallow	mikt̪aŋat̪e	mikt̪aŋat̪e	m i k + t̪ a + ŋ a + t̪ e	m i.k + t̪ a + ŋ a + t̪ e	
+526	Jirel	To throw	kjuɹat̪e	kjuɹat̪e	k j u ɹ + a + t̪ e	k.j u.ɹ + a + t̪ e	1000
+527	Kagate	Body	dzubu	dzubu	dz u + b u	dz u + b u	
+528	Kagate	Head	ɡo	ɡo	g o	g o	1284
+529	Kagate	Hair	ta	ta	t̪ a	t̪ a	1282
+530	Kagate	Face	t̪oŋba	t̪oŋba	t̪ o ŋ + b a	t̪ o.ŋ + b a	
+531	Kagate	Eye	mi	mi	m i	m i	1246
+532	Kagate	Ear	namdzjo	namdzjo	n a m + dzj/dʑ o	n a.m + dzj/dʑ o	1238
+533	Kagate	Nose	nasum	nasum	n a + s u m	n a + s u.m	1352
+534	Kagate	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+535	Kagate	Teeth	so	so	s o	s o	1446
+536	Kagate	Tongue	tse	tse	!ts/tɕ e	!ts/tɕ e	1444
+537	Kagate	Breast	oma	oma	o + m a	o + m a	1211
+538	Kagate	Breast	praŋɡok	praŋɡok	p r a ŋ + g o k	p.r a.ŋ + g o.k	119
+539	Kagate	Belly	topa	topa	t̪ o + p a	t̪ o + p a	1193
+540	Kagate	Arm/Hand	laɡpa	laɡpa	l a g/k + p a	l a.g/k + p a	
+541	Kagate	Elbow	uti	uti	u + t̪ i	u + t̪ i	
+542	Kagate	Palm	t̪ʰaldze	t̪ʰaldze	t̪ʰ a l + dz e	t̪ʰ a.l + dz e	
+543	Kagate	Finger	t̪ʰebu	t̪ʰebu	t̪ʰ e + b u	t̪ʰ e + b u	
+544	Kagate	Fingernail	sermu	sermu	s e r + m u	s e.r + m u	
+545	Kagate	Leg	kaŋba	kaŋba	k a ŋ + b a	k a.ŋ + b a	
+546	Kagate	Skin	koba	koba	k o + b a	k o + b a	726
+547	Kagate	Bone	rekok	rekok	r e + k o k	r e + k o.k	1208
+548	Kagate	Heart	niŋ	niŋ	n i ŋ	n i.ŋ	1288
+549	Kagate	Blood	tʰa	tʰa	t̪ʰ a	t̪ʰ a	1206
+550	Kagate	Urine	tsiŋ	tsiŋ	ts i ŋ	ts i.ŋ	
+551	Kagate	Faeces	kjakpa	kjakpa	k j a k + p a	k.j a.k + p a	
+552	Kagate	Village	jul	jul	j u l	j u.l	
+553	Kagate	House	kʰim	kʰim	kʰ i m	kʰ i.m	1300
+554	Kagate	Roof	t̪uŋso	t̪uŋso	t̪ u ŋ + s o	t̪ u.ŋ + s o	
+555	Kagate	Door	ko	ko	k o	k o	
+556	Kagate	Firewood	siŋ	siŋ	s i ŋ	s i.ŋ	1254
+557	Kagate	Broom	pʰema	pʰema	pʰ e + m a	pʰ e + m a	
+558	Kagate	Mortar	t̪olep	t̪olep	t̪ o + l e p	t̪ o + l e.p	
+559	Kagate	Pestle	t̪imbu	t̪imbu	t̪ i m + b u	t̪ i.m + b u	
+560	Kagate	Hammer	t̪ʰwa	t̪ʰwa	t̪ʰ !Ø/o + w a	t̪ʰ !Ø/o + w a	
+561	Kagate	Knife	kart̪a	kart̪a	k a r + t̪ a	k a.r + t̪ a	422
+562	Kagate	Axe	t̪əri	t̪əri	t̪ ə + r i	t̪ ə + r i	
+563	Kagate	Rope	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	1374
+564	Kagate	Thread	kupa	kupa	k u + p a	k u + p a	
+565	Kagate	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+566	Kagate	Cloth	kela	kela	k e + l a	k e + l a	
+567	Kagate	Ring	sipt̪ur	sipt̪ur	s i p + t̪ u r	s i.p + t̪ u.r	
+568	Kagate	Sun	ŋima	ŋima	ŋ i + m a	ŋ i + m a	1418
+569	Kagate	Moon	d̪aɡarmu	d̪aɡarmu	d̪ a + g/k a r + m u	d̪ a + g/k a.r + m u	1327
+570	Kagate	Sky	nam	nam	n a m	n a.m	1392
+571	Kagate	Star	karma	karma	k a r + m a	k a.r + m a	1410
+572	Kagate	Rain	nam	nam	n a m	n a.m	
+573	Kagate	Water	tɕʰju	tɕʰju	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+574	Kagate	River	tsaŋbu	tsaŋbu	ts a ŋ + b u	ts a.ŋ + b u	1368
+575	Kagate	Cloud	mukpa	mukpa	m u k + p a	m u.k + p a	176
+576	Kagate	Lightening	milik	milik	m i + l i k	m i + l i.k	
+577	Kagate	Rainbow	dzakormu	dzakormu	dz a + k o r + m u	dz a + k o.r + m u	1358
+578	Kagate	Wind	hlaba	hlaba	h l a + b a	h.l a + b a	1486
+579	Kagate	Stone	t̪o	t̪o	t̪ o	t̪ o	1416
+580	Kagate	Path	lam	lam	l a m	l a.m	
+581	Kagate	Sand	pema	pema	p e + m a	p e + m a	1382
+582	Kagate	Fire	me	me	m e	m e	1251
+583	Kagate	Smoke	d̪ipa	d̪ipa	d̪ i + p a	d̪ i + p a	
+584	Kagate	Ash	t̪ʰala	t̪ʰala	t̪ʰ a + l a	t̪ʰ a + l a	
+585	Kagate	Mud	sebi	sebi	s e + b i	s e + b i	534
+586	Kagate	Dust	t̪ʰaldzuk	t̪ʰaldzuk	t̪ʰ a + l Ø/a + dz u k	t̪ʰ a + l Ø/a + dz u.k	1237
+587	Kagate	Gold	ser	ser	s e r	s e.r	
+588	Kagate	Tree	t̪oŋbo	t̪oŋbo	t̪ o ŋ + b o	t̪ o.ŋ + b o	1039
+589	Kagate	Leaf	loma	loma	l o + m a	l o + m a	1315
+590	Kagate	Root	tsarŋe	tsarŋe	ts a r + ŋ e	ts a.r + ŋ e	1371
+591	Kagate	Thorn	tsʰermaŋ	tsʰermaŋ	tsʰ e r + m !aŋ/a	tsʰ e.r + m !aŋ/a	
+592	Kagate	Flower	mend̪o	mend̪o	m e + ⁿd̪/d̪ o	m e + ⁿd̪/d̪ o	1257
+593	Kagate	Fruit	brumd̪o	brumd̪o	b r u m + d̪ o	b.r u.m + d̪ o	12
+594	Kagate	Mango	ãp	ãp	ã p	ã.p	
+595	Kagate	Banana	alamu	alamu	a + l a + m u	a + l a + m u	
+596	Kagate	Wheat (husked)	nẽjã	nẽjã	n ẽ + j ã	n ẽ + j ã	1092
+597	Kagate	Barley	wa	wa	w a	w a	54
+598	Kagate	Rice (husked)	brea	brea	b r ea	b.r ea	
+599	Kagate	Potato	he	he	h e	h e	
+600	Kagate	Eggplant	bjanta	bjanta	b j a n + t̪ a	b.j a.n + t̪ a	
+601	Kagate	Groundnut	bəd̪am	bəd̪am	b ə + d̪ a m	b ə + d̪ a.m	
+602	Kagate	Chilli	martsi	martsi	m a r + ts i	m a.r + ts i	
+603	Kagate	Turmeric	juŋa	juŋa	j u + ŋ a	j u + ŋ a	
+604	Kagate	Garlic	kokpa	kokpa	k o k + p a	k o.k + p a	
+605	Kagate	Onion	pjadz	pjadz	p j a dz	p.j a.dz	
+606	Kagate	Cauliflower	kauli	kauli	k au + l i	k au + l i	
+607	Kagate	Tomato	ɡolbeda	ɡolbeda	g o l + b e + d̪ a	g o.l + b e + d̪ a	
+608	Kagate	Cabbage	bənd̪aɡobi	bənd̪aɡobi	b ə n + d̪ a + g o + b i	b ə.n + d̪ a + g o + b i	
+609	Kagate	Oil	marku	marku	m a r + k u	m a.r + k u	
+610	Kagate	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+611	Kagate	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+612	Kagate	Fat (of meat)	tsʰiluk	tsʰiluk	tsʰ i + l u k	tsʰ i + l u.k	
+613	Kagate	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+614	Kagate	Chicken	tsipru	tsipru	ts i p + r u	ts i.p + r u	
+615	Kagate	Egg	tɕjamuɡoŋa	tɕjamuɡoŋa	tɕj/tɕ a + m u + !g/k o + ŋ a	tɕj/tɕ a + m u + !g/k o + ŋ a	1242
+616	Kagate	Cow	palaŋ	palaŋ	p a + l a ŋ	p a + l a.ŋ	
+617	Kagate	Buffalo	mãjĩ	mãjĩ	m ã + j ĩ	m ã + j ĩ	
+618	Kagate	Milk	oma	oma	o + m a	o + m a	
+619	Kagate	Horns	rwaɡa	rwaɡa	r w a + g a	r.w a + g a	1292
+620	Kagate	Tail	ŋama	ŋama	ŋ a + m a	ŋ a + m a	1419
+621	Kagate	Goat	ra	ra	r a	r a	1269
+622	Kagate	Dog	kʰi	kʰi	kʰ i	kʰ i	1231
+623	Kagate	Snake	prul	prul	p r u l	p.r u.l	1401
+624	Kagate	Monkey	preken	preken	p r e + k e n	p.r e + k e.n	
+625	Kagate	Monkey	priu	priu	p r iu	p.r iu	
+626	Kagate	Mosquito	lamkʰute	lamkʰute	l a m + !kʰ/k u + t̪ e	l a.m + !kʰ/k u + t̪ e	523
+627	Kagate	Ant	tomak	tomak	t̪ o + m a k	t̪ o + m a.k	1183
+628	Kagate	Spider	kiɡor	kiɡor	k i + g o r	k i + g o.r	56
+629	Kagate	Name	min	min	m i n	m i.n	1344
+630	Kagate	Man	mi	mi	m i	m i	
+631	Kagate	Woman	penpidza	penpidza	p e n + p i + dz a	p e.n + p i + dz a	1134
+632	Kagate	Child	pidza	pidza	p i + dz a	p i + dz a	
+633	Kagate	Father	aba	aba	a + b a	a + b a	1249
+634	Kagate	Mother	ama	ama	a + m a	a + m a	1338
+635	Kagate	Older brother	at̪a	at̪a	a + t̪ a	a + t̪ a	
+636	Kagate	Younger brother	nu	nu	n u	n u	
+637	Kagate	Older sister	adzi	adzi	a + dz i	a + dz i	
+638	Kagate	Younger sister	numu	numu	n u + m u	n u + m u	
+639	Kagate	Son	pu	pu	p u	p u	1403
+640	Kagate	Daughter	pomo	pomo	p o/u + m o	p o/u + m o	1227
+641	Kagate	Husband	kʰjobo	kʰjobo	kʰ j o + b o	kʰ.j o + b o	1304
+642	Kagate	Wife	tɕʰjuŋma	tɕʰjuŋma	tɕʰj/tɕʰ u ŋ + m a	tɕʰj/tɕʰ u.ŋ + m a	74
+643	Kagate	Wife	peme	peme	p e !Ø/n + m e	p e.!Ø/n + m e	1121
+644	Kagate	Boy	pituk	pituk	p i + t̪ u k	p i + t̪ u.k	
+645	Kagate	Girl	pitukmu	pitukmu	p i + t̪ u k + m u	p i + t̪ u.k + m u	
+646	Kagate	Day	ɲima	ɲima	ɲ i + m a	ɲ i + m a	
+647	Kagate	Night	komu	komu	k !o/u !Ø/ŋ + m u	k !o/u.!Ø/ŋ + m u	
+648	Kagate	Morning	ŋamu	ŋamu	ŋ a + m u	ŋ a + m u	1331
+649	Kagate	Noon	tsʰəkəl	tsʰəkəl	tsʰ ə + k ə l	tsʰ ə + k ə.l	
+650	Kagate	Noon	ɲimakarpo	ɲimakarpo	ɲ i + m a + k a r + p o	ɲ i + m a + k a.r + p o	
+651	Kagate	Evening	kuŋɕe	kuŋɕe	k u ŋ + ɕ e	k u.ŋ + ɕ e	
+652	Kagate	Yesterday	d̪aŋ	d̪aŋ	d̪ a ŋ	d̪ a.ŋ	1151
+653	Kagate	Today	t̪iriŋ	t̪iriŋ	t̪ i + r i ŋ	t̪ i + r i.ŋ	1438
+654	Kagate	Tomorrow	ŋart̪o	ŋart̪o	ŋ a r + t̪ o	ŋ a.r + t̪ o	1028
+655	Kagate	Month	d̪awa	d̪awa	d̪ a + w a	d̪ a + w a	
+656	Kagate	Year	lo	lo	l o	l o	1494
+657	Kagate	Old	niŋba	niŋba	n i ŋ + b a	n i.ŋ + b a	
+658	Kagate	New	samba	samba	s a + ⁿb/b a	s a + ⁿb/b a	1349
+659	Kagate	Good	jabu	jabu	j a + b u	j a + b u	1272
+660	Kagate	Good	dzebu	dzebu	dz e + b u	dz e + b u	331
+661	Kagate	Bad	majiba	majiba	m a + j i + b a	m a + j i + b a	114
+662	Kagate	Bad	marikpa	marikpa	m a + r i k + !p/b a	m a + r i.k + !p/b a	111
+663	Kagate	Wet	taŋbu	taŋbu	t̪ a ŋ + b u	t̪ a.ŋ + b u	1081
+664	Kagate	Dry	kambu	kambu	k a m + b u	k a.m + b u	1234
+665	Kagate	Long	riŋbu	riŋbu	r i ŋ + b u	r i.ŋ + b u	1321
+666	Kagate	Short	t̪ʰimi	t̪ʰimi	t̪ʰ i + m i	t̪ʰ i + m i	1386
+667	Kagate	Hot	dombo	dombo	d̪ o + ⁿb/b o	d̪ o + ⁿb/b o	398
+668	Kagate	Cold	taŋmu	taŋmu	t̪ a ŋ + m u	t̪ a.ŋ + m u	179
+669	Kagate	Right	tɕjabutsʰole	tɕjabutsʰole	tɕ j a + b u + tsʰ o + l e	tɕ j a + b u + tsʰ o + l e	663
+670	Kagate	Left	joma	joma	j o + m a	j o + m a	1317
+671	Kagate	Near	t̪ʰama	t̪ʰama	t̪ʰ a + m a	t̪ʰ a + m a	1345
+672	Kagate	Far	t̪ʰariŋbu	t̪ʰariŋbu	t̪ʰ a + r i ŋ + b u	t̪ʰ a + r i.ŋ + b u	1247
+673	Kagate	Big	tɕʰjombo	tɕʰjombo	tɕʰj/tɕʰ o + ⁿb/b o	tɕʰj/tɕʰ o + ⁿb/b o	1195
+674	Kagate	Small	tɕʰimi	tɕʰimi	tɕʰ i + m i	tɕʰ i + m i	732
+675	Kagate	Heavy	tsend̪i	tsend̪i	!ts/tɕ e + ⁿd̪/d̪ i	!ts/tɕ e + ⁿd̪/d̪ i	1290
+676	Kagate	Light	jaŋd̪i	jaŋd̪i	j a ŋ + d̪ i	j a.ŋ + d̪ i	1319
+677	Kagate	Above	t̪ʰola	t̪ʰola	t̪ʰ o + l a	t̪ʰ o + l a	1
+678	Kagate	Below	wala	wala	w a + l a	w a + l a	
+679	Kagate	White	karmu	karmu	k a r + m u	k a.r + m u	1472
+680	Kagate	Black	nakpu	nakpu	n a k + p u	n a.k + p u	1203
+681	Kagate	Red	marmu	marmu	m a r + m u	m a.r + m u	1360
+682	Kagate	One	tɕi	tɕi	tɕ i Ø/k	tɕ i.Ø/k	1354
+683	Kagate	Two	ŋi	ŋi	ŋ i	ŋ i	1452
+684	Kagate	Three	sum	sum	s u m	s u.m	1433
+685	Kagate	Four	ɕi	ɕi	ɕ i	ɕ i	1262
+686	Kagate	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+687	Kagate	Six	tuk	tuk	t̪ u k	t̪ u.k	1388
+688	Kagate	Seven	t̪in	t̪in	t̪ i n	t̪ i.n	1384
+689	Kagate	Eight	ke	ke	k e	k e	1245
+690	Kagate	Nine	ku	ku	k u	k u	1351
+691	Kagate	Ten	tɕju	tɕju	tɕj/tɕ u	tɕj/tɕ u	1422
+692	Kagate	Eleven	tɕjudʑik	tɕjudʑik	tɕj/tɕ u + !dʑ/tɕ i k	tɕj/tɕ u + !dʑ/tɕ i.k	
+693	Kagate	Twelve	tɕikŋi	tɕikŋi	tɕ i k + ŋ i	tɕ i.k + ŋ i	
+694	Kagate	Twenty	ŋiɕju	ŋiɕju	ŋ i + ɕj/tɕ u	ŋ i + ɕj/tɕ u	1451
+695	Kagate	One Hundred	kjatɕik	kjatɕik	k j a + tɕ i k	k.j a + tɕ i.k	1303
+696	Kagate	Who	su	su	s u	s u	1474
+697	Kagate	What	tsi	tsi	!ts/tɕ i	!ts/tɕ i	1464
+698	Kagate	Where	kala	kala	k a + l a	k a + l a	1470
+699	Kagate	When	nam	nam	n a m	n a.m	
+700	Kagate	How many	kadze	kadze	k a + dz e	k a + dz e	
+701	Kagate	Which	kãd̪i	kãd̪i	k ã + d̪ i	k ã + d̪ i	
+702	Kagate	This	d̪ikʰo	d̪ikʰo	d̪ i + kʰ o	d̪ i + kʰ o	1428
+703	Kagate	That	wokʰo	wokʰo	w o + kʰ o	w o + kʰ o	786
+704	Kagate	These	d̪ikʰokja	d̪ikʰokja	d̪ i + kʰ o + k j a	d̪ i + kʰ o + k.j a	
+705	Kagate	Those	wokʰokja	wokʰokja	w o + kʰ o + k j a	w o + kʰ o + k.j a	
+706	Kagate	Same	wokʰora	wokʰora	w o + kʰ o + r a	w o + kʰ o + r a	
+707	Kagate	Different	raŋsara	raŋsara	r a ŋ + s a + r a	r a.ŋ + s a + r a	
+708	Kagate	Whole	t̪ʰamdzer	t̪ʰamdzer	t̪ʰ a m + dz e r	t̪ʰ a.m + dz e.r	
+709	Kagate	Whole	kopt̪ar	kopt̪ar	k o p + t̪ a r	k o.p + t̪ a.r	
+710	Kagate	Broken	tɕʰjako	tɕʰjako	tɕʰj/tɕʰ a k + !Ø/k o	tɕʰj/tɕʰ a.k + !Ø/k o	
+711	Kagate	Few	t̪ibi	t̪ibi	t̪ i + b i	t̪ i + b i	
+712	Kagate	Many	maŋbu	maŋbu	m a ŋ + b u	m a.ŋ + b u	1323
+713	Kagate	All	t̪ʰamdzer	t̪ʰamdzer	t̪ʰ a m + dz e r	t̪ʰ a.m + dz e.r	1175
+714	Kagate	To eat	sadze	sadze	s a + dz e	s a + dz e	1240
+715	Kagate	To bite	murtse	murtse	m u r + !ts/dz e	m u.r + !ts/dz e	1202
+716	Kagate	To be hungry	d̪opat̪odze	d̪opat̪odze	d̪ o + p a + t̪ o + dz e	d̪ o + p a + t̪ o + dz e	
+717	Kagate	To drink	t̪ʰuŋdze	t̪ʰuŋdze	t̪ʰ u ŋ + dz e	t̪ʰ u.ŋ + dz e	1232
+718	Kagate	To be thirsty	kondze	kondze	k o !n/m + dz e	k o.!n/m + dz e	
+719	Kagate	To sleep	ɲaldze	ɲaldze	ɲ a l + dz e	ɲ a.l + dz e	1394
+720	Kagate	To lie	t̪ʰaŋsodze	t̪ʰaŋsodze	t̪ʰ a ŋ + s o + dz e	t̪ʰ a.ŋ + s o + dz e	
+721	Kagate	To sit	t̪etse	t̪etse	t̪ e + !ts/dz e	t̪ e + !ts/dz e	
+722	Kagate	To give	t̪ertse	t̪ertse	t̪ e r + !ts/dz e	t̪ e.r + !ts/dz e	1268
+723	Kagate	To burn	sadze	sadze	s a + dz e	s a + dz e	
+724	Kagate	To die	ɕidze	ɕidze	ɕ i + dz e	ɕ i + dz e	1230
+725	Kagate	To kill	setse	setse	s e + !ts/dz e	s e + !ts/dz e	1311
+726	Kagate	To fly	urtse	urtse	!Ø/pʰ u r + !ts/dz e	!Ø/pʰ u.r + !ts/dz e	1259
+727	Kagate	To walk	dodze	dodze	d̪ o + dz e	d̪ o + dz e	1453
+728	Kagate	To run	tɕʰjoŋdze	tɕʰjoŋdze	tɕʰj/tɕʰ o ŋ + dz e	tɕʰj/tɕʰ o.ŋ + dz e	967
+729	Kagate	To go	dodze	dodze	d̪ o + dz e	d̪ o + dz e	
+730	Kagate	To come	oŋdze	oŋdze	o ŋ + dz e	o.ŋ + dz e	1223
+731	Kagate	To speak	latse	latse	l a + !ts/dz e	l a + !ts/dz e	
+732	Kagate	To hear/listen	kodze	kodze	k o + dz e	k o + dz e	
+733	Kagate	To look	t̪adze	t̪adze	t̪ a + dz e	t̪ a + dz e	
+734	Kagate	I	ŋa	ŋa	ŋ a	ŋ a	1310
+735	Kagate	You (informal)	kʰjo	kʰjo	kʰ j o	kʰ.j o	1430
+736	Kagate	You (formal)	kʰja	kʰja	kʰ j a	kʰ.j a	
+737	Kagate	He	kʰo	kʰo	kʰ o	kʰ o	
+738	Kagate	She	mo	mo	m o	m o	
+739	Kagate	We (inclusive)	u	u	u	u	1070
+740	Kagate	We (exclusive)	ŋi	ŋi	ŋ i	ŋ i	
+741	Kagate	You (plural)	kʰjokja	kʰjokja	kʰ j o + k j a	kʰ.j o + k.j a	1498
+742	Kagate	They	kʰuŋkja	kʰuŋkja	kʰ u ŋ + k j a	kʰ u.ŋ + k.j a	
+743	Kagate	Load	kʰurpu	kʰurpu	kʰ u r + p u	kʰ u.r + p u	
+744	Kagate	Flour (eaten as food)	tsamba	tsamba	ts a m + b a	ts a.m + b a	
+745	Kagate	Hailstone	serak	serak	s e + r a k	s e + r a.k	1280
+746	Kagate	Intestine	kjuma	kjuma	k j u + m a	k.j u + m a	
+747	Kagate	Yard	kot̪oŋ	kot̪oŋ	k o + t̪ o ŋ	k o + t̪ o.ŋ	
+748	Kagate	Yard	ild̪o	ild̪o	i l + d̪ o	i l + d̪ o	
+749	Kagate	To uproot	podze	podze	p o + dz e	p o + dz e	
+750	Kagate	Oven	kwaɡa	kwaɡa	kʷ a + g a	kʷ a + g a	
+751	Kagate	Heel	t̪iŋba	t̪iŋba	t̪ i ŋ + b a	t̪ i.ŋ + b a	
+752	Kagate	Spade	t̪odzi	t̪odzi	t̪ o + !dz/ts i	t̪ o + !dz/ts i	
+753	Kagate	Horse	t̪abu	t̪abu	t̪ a + b u	t̪ a + b u	1294
+754	Kagate	Load	ɕjuwa	ɕjuwa	ɕ j u + w a	ɕ.j u + w a	
+755	Kagate	To plough	modze	modze	m o + dz e	m o + dz e	
+756	Kagate	Bond	siu	siu	s !i/j u	s.!i/j u	
+757	Kagate	Beam (main wooden beam)	maid̪an	maid̪an	m ai + d̪ a n	m ai + d̪ a.n	
+758	Kagate	Rope used to tie animals	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	
+759	Kagate	Beard	maŋre	maŋre	m a ŋ + r e	m a.ŋ + r e	
+760	Kagate	To measure	t̪aptse	t̪aptse	t̪ a p + !ts/dz e	t̪ a.p + !ts/dz e	
+761	Kagate	Plank	paŋlek	paŋlek	p a ŋ + l e k	p a.ŋ + l e.k	
+762	Kagate	Hole	sup	sup	s u p	s u.p	
+763	Kagate	Plough (noun)	t̪ʰoŋ	t̪ʰoŋ	t̪ʰ o ŋ	t̪ʰ o.ŋ	
+764	Kagate	Lid (cover)	kʰaptɕju	kʰaptɕju	kʰ a p + tɕj/tɕ u	kʰ a.p + tɕj/tɕ u	
+765	Kagate	Handle	joaɡa	joaɡa	j o + !Ø/w a + g a	j o + !Ø/w a + g a	
+766	Kagate	Bear	t̪om	t̪om	t̪ o m	t̪ o.m	
+767	Kagate	Ghost	ɦendi	ɦendi	!ɦ/h !Ø/l e n + d̪ i	!ɦ/h.!Ø/l e.n + d̪ i	
+768	Kagate	Manure	tɕʰja	tɕʰja	tɕʰj/tɕʰ a	tɕʰj/tɕʰ a	
+769	Kagate	Bread	kʰura	kʰura	kʰ u + r a	kʰ u + r a	
+770	Kagate	Corpse	ro	ro	r o	r o	
+771	Kagate	Corpse	pʰumbu	pʰumbu	pʰ u m + b u	pʰ u.m + b u	
+772	Kagate	Pig	pʰa	pʰa	pʰ a	pʰ a	1356
+773	Kagate	Grains	du	du	d̪ u	d̪ u	
+774	Kagate	Stick	perka	perka	p e r + k a	p e.r + k a	762
+775	Kagate	Sweat	ŋuldʑju	ŋuldʑju	ŋ u l + dʑj/dʑ u	ŋ u.l + dʑj/dʑ u	
+776	Kagate	To chew	d̪etse	d̪etse	d̪ e + !ts/dz e	d̪ e + !ts/dz e	868
+777	Kagate	To swallow	ɲiktse	ɲiktse	ɲ i k + !ts/dz e	ɲ i.k + !ts/dz e	
+778	Kagate	To throw	kurtse	kurtse	k !Ø/j u r + !ts/dz e	k.!Ø/j u.r + !ts/dz e	1000
+779	Lowa	Body	suʔ	suʔ	s u ʔ	s u.ʔ	
+780	Lowa	Head	ŋɡo	ŋɡo	ⁿg/g o	ⁿg/g o	1284
+781	Lowa	Head	ŋɡowa	ŋɡowa	ⁿg/g o + w a	ⁿg/g o + w a	1284
+782	Lowa	Hair	ʂɹa	ʂɹa	ʂ ɹ/ɾ a	ʂ.ɹ/ɾ a	1282
+783	Lowa	Face	ŋot̪oŋ	ŋot̪oŋ	ŋ o + t̪ o ŋ	ŋ o + t̪ o.ŋ	
+784	Lowa	Eye	mik	mik	m i k	m i.k	1246
+785	Lowa	Ear	amtɕjoʔ	amtɕjoʔ	a m + tɕj/tɕ o ʔ	a.m + tɕj/tɕ o.ʔ	1239
+786	Lowa	Nose	na	na	n a	n a	1352
+787	Lowa	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+788	Lowa	Teeth	so	so	s o	s o	1446
+789	Lowa	Tongue	tsemu	tsemu	!ts/tɕ e + m u	!ts/tɕ e + m u	1444
+790	Lowa	Breast	oma	oma	o + m a	o + m a	1211
+791	Lowa	Belly	pʰowa	pʰowa	pʰ o + w a	pʰ o + w a	1192
+792	Lowa	Arm/Hand	laɡpa	laɡpa	l a g/k + p a	l a.g/k + p a	
+793	Lowa	Elbow	tamo	tamo	t̪ a + m o	t̪ a + m o	
+794	Lowa	Palm	laɡt̪ʰil	laɡt̪ʰil	l a g/k + t̪ʰ i l	l a.g/k + t̪ʰ i.l	
+795	Lowa	Palm	laɡt̪ʰi	laɡt̪ʰi	l a g/k + t̪ʰ i	l a.g/k + t̪ʰ i	
+796	Lowa	Finger	ndzu	ndzu	ⁿdz/dz u	ⁿdz/dz u	
+797	Lowa	Fingernail	semo	semo	s e + m o	s e + m o	
+798	Lowa	Leg	kaŋpa	kaŋpa	k a ŋ + p a	k a.ŋ + p a	
+799	Lowa	Skin	pawo	pawo	p a + w o	p a + w o	1389
+800	Lowa	Bone	ɹuko	ɹuko	ɹ/ɾ u + k o	ɹ/ɾ u + k o	1208
+801	Lowa	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+802	Lowa	Blood	tʰak	tʰak	t̪ʰ a k	t̪ʰ a.k	1206
+803	Lowa	Urine	tsiŋ	tsiŋ	ts i ŋ	ts i.ŋ	
+804	Lowa	Faeces	kjakpa	kjakpa	k j a k + p a	k.j a.k + p a	
+805	Lowa	Faeces	tsa	tsa	ts a	ts a	
+806	Lowa	Village	toŋsep	toŋsep	t̪ o ŋ + s e p	t̪ o.ŋ + s e.p	
+807	Lowa	House	kʰaŋpa	kʰaŋpa	kʰ a ŋ + p a	kʰ a.ŋ + p a	1301
+808	Lowa	Roof	t̪aŋ	t̪aŋ	t̪ a ŋ	t̪ a.ŋ	
+809	Lowa	Door	ko	ko	k o	k o	
+810	Lowa	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+811	Lowa	Broom	tɕʰjaɡma	tɕʰjaɡma	tɕʰj/tɕʰ a g/k + m a	tɕʰj/tɕʰ a.g/k + m a	
+812	Lowa	Mortar	t̪ympo	t̪ympo	t̪ y m + p o	t̪ y.m + p o	
+813	Lowa	Pestle	jyt̪yn	jyt̪yn	j y + t̪ y n	j y + t̪ y.n	
+814	Lowa	Hammer	t̪ʰowa	t̪ʰowa	t̪ʰ o + w a	t̪ʰ o + w a	
+815	Lowa	Knife	tʰi	tʰi	t̪ʰ i	t̪ʰ i	1313
+816	Lowa	Axe	t̪iɾi	t̪iɾi	t̪ i + ɾ i	t̪ i + ɾ i	
+817	Lowa	Rope	t̪ʰaɡpa	t̪ʰaɡpa	t̪ʰ a g/k + p a	t̪ʰ a.g/k + p a	1374
+818	Lowa	Thread	kupa	kupa	k u + p a	k u + p a	
+819	Lowa	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+820	Lowa	Cloth	kolaʔ	kolaʔ	k o + l a ʔ	k o + l a.ʔ	
+821	Lowa	Ring	set̪op	set̪op	s e + t̪ o p	s e + t̪ o.p	
+822	Lowa	Sun	ɲima	ɲima	ɲ i + m a	ɲ i + m a	1418
+823	Lowa	Moon	nd̪a	nd̪a	ⁿd/d a	ⁿd/d a	1327
+824	Lowa	Sky	nam	nam	n a m	n a.m	1392
+825	Lowa	Star	kaɹma	kaɹma	k aɹ/a + m a	k aɹ/a + m a	1410
+826	Lowa	Rain	tɕʰjawa	tɕʰjawa	tɕʰj/tɕʰ a + w a	tɕʰj/tɕʰ a + w a	
+827	Lowa	Water	tɕʰju	tɕʰju	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+828	Lowa	River	tsaŋpo	tsaŋpo	ts a ŋ + p o	ts a.ŋ + p o	1368
+829	Lowa	Cloud	ʂɹiŋpa	ʂɹiŋpa	ʂ ɹ/ɾ i ŋ + p a	ʂ.ɹ/ɾ i.ŋ + p a	1216
+830	Lowa	Lightening	lokmaɹ	lokmaɹ	l o k + m a ɾ	l o.k + m a.ɾ	
+831	Lowa	Rainbow	ndʑja	ndʑja	ⁿdʑj/dʑ a	ⁿdʑj/dʑ a	1358
+832	Lowa	Wind	luŋ	luŋ	l u ŋ	l u.ŋ	1485
+833	Lowa	Wind	luŋpo	luŋpo	l u ŋ + p o	l u.ŋ + p o	1485
+834	Lowa	Stone	t̪okoŋ	t̪okoŋ	t̪ o + k o ŋ	t̪ o + k o.ŋ	1416
+835	Lowa	Path	lam	lam	l a m	l a.m	
+836	Lowa	Sand	pema	pema	p e + m a	p e + m a	1382
+837	Lowa	Fire	me	me	m e	m e	1251
+838	Lowa	Smoke	t̪ipa	t̪ipa	t̪ i + p a	t̪ i + p a	
+839	Lowa	Ash	koɡt̪ʰa	koɡt̪ʰa	k o g/k + t̪ʰ a	k o.g/k + t̪ʰ a	
+840	Lowa	Mud	n̪d̪ampak	n̪d̪ampak	ⁿd/d a m + p a k	ⁿd/d a.m + p a.k	1342
+841	Lowa	Mud	sa	sa	s a	s a	534
+842	Lowa	Dust	t̪ʰala	t̪ʰala	t̪ʰ a + l a	t̪ʰ a + l a	1237
+843	Lowa	Gold	seɾ	seɾ	s e ɾ	s e.ɾ	
+844	Lowa	Tree	t̪oŋbo	t̪oŋbo	t̪ o ŋ + b o	t̪ o.ŋ + b o	1039
+845	Lowa	Leaf	loma	loma	l o + m a	l o + m a	1315
+846	Lowa	Root	tsawa	tsawa	ts a + w a	ts a + w a	1371
+847	Lowa	Thorn	tsʰeɾma	tsʰeɾma	tsʰ e ɾ + m a	tsʰ e.ɾ + m a	
+848	Lowa	Flower	ment̪o	ment̪o	m e + ⁿt̪/t̪ o !Ø/ʔ	m e + ⁿt̪/t̪ o.!Ø/ʔ	1257
+849	Lowa	Fruit	ɕiŋt̪oʔ	ɕiŋt̪oʔ	ɕ i ŋ + t̪ o ʔ	ɕ i.ŋ + t̪ o.ʔ	1263
+850	Lowa	Mango	ãm	ãm	ã m	ã.m	
+851	Lowa	Banana	keɾa	keɾa	k e + ɾ a	k e + ɾ a	
+852	Lowa	Wheat (husked)	to	to	t̪ o	t̪ o	1091
+853	Lowa	Barley	ne	ne	n e	n e	53
+854	Lowa	Rice (husked)	nde	nde	ⁿd/d e	ⁿd/d e	
+855	Lowa	Potato	alok	alok	a + l o k	a + l o.k	
+856	Lowa	Eggplant	t̪oluma	t̪oluma	t̪ o + l u + m a	t̪ o + l u + m a	
+857	Lowa	Groundnut	sat̪aɾ	sat̪aɾ	s a + t̪ a ɾ	s a + t̪ a.ɾ	
+858	Lowa	Chilli	maɾtsa	maɾtsa	m a ɾ + ts a	m a.ɾ + ts a	
+859	Lowa	Turmeric	besaɾ	besaɾ	b e + s a ɾ	b e + s a.ɾ	
+860	Lowa	Garlic	koɡpa	koɡpa	k o g/k + p a	k o.g/k + p a	
+861	Lowa	Onion	tsoŋ	tsoŋ	ts o ŋ	ts o.ŋ	
+862	Lowa	Cauliflower	pʰulkopi	pʰulkopi	pʰ u l + k o + p i	pʰ u.l + k o + p i	
+863	Lowa	Tomato	tomato	tomato	t̪ o + m a + t̪ o	t̪ o + m a + t̪ o	
+864	Lowa	Cabbage	ŋɡopi	ŋɡopi	ⁿg/g o + p i	ⁿg/g o + p i	
+865	Lowa	Oil	muku	muku	m u + k u	m u + k u	
+866	Lowa	Oil	num	num	n u m	n u.m	
+867	Lowa	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1296
+868	Lowa	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+869	Lowa	Fat (of meat)	tsʰiluk	tsʰiluk	tsʰ i + l u k	tsʰ i + l u.k	
+870	Lowa	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+871	Lowa	Chicken	tɕjamodʑiptʰuk	tɕjamodʑiptʰuk	tɕj/tɕ a + m o + dʑ i p + t̪ʰ u k	tɕj/tɕ a + m o + dʑ i.p + t̪ʰ u.k	
+872	Lowa	Egg	koŋa	koŋa	k o + ŋ a	k o + ŋ a	1242
+873	Lowa	Cow	palaŋ	palaŋ	p a + l a ŋ	p a + l a.ŋ	
+874	Lowa	Buffalo	maji	maji	m a + j i	m a + j i	
+875	Lowa	Milk	oma	oma	o + m a	o + m a	
+876	Lowa	Horns	ɹakjoʔ	ɹakjoʔ	ɹ/ɾ a + k j o ʔ	ɹ/ɾ a + k.j o.ʔ	1292
+877	Lowa	Tail	ŋama	ŋama	ŋ a + m a	ŋ a + m a	1419
+878	Lowa	Goat	ɹa	ɹa	!ɹ/ɾ a	!ɹ/ɾ a	1269
+879	Lowa	Dog	kʰi	kʰi	kʰ i	kʰ i	1231
+880	Lowa	Snake	tu	tu	t̪ u	t̪ u	1401
+881	Lowa	Snake	tʰu	tʰu	!tʰ/t̪ u	!tʰ/t̪ u	1401
+882	Lowa	Monkey	piu	piu	p iu	p iu	
+883	Lowa	Mosquito	t̪uŋdaŋ	t̪uŋdaŋ	t̪ u ŋ + d a ŋ	t̪ u.ŋ + d a.ŋ	1333
+884	Lowa	Ant	mbudaɲa	mbudaɲa	ⁿb/b u + d a + ɲ a	ⁿb/b u + d a + ɲ a	49
+885	Lowa	Spider	mbut̪om	mbut̪om	ⁿb/b u + t̪ o m	ⁿb/b u + t̪ o.m	1406
+886	Lowa	Name	miŋ	miŋ	m i ŋ	m i.ŋ	1344
+887	Lowa	Man	mi	mi	m i	m i	
+888	Lowa	Woman	keme	keme	k e + m e	k e + m e	71
+889	Lowa	Child	tu	tu	t̪ u	t̪ u	
+890	Lowa	Father	ake	ake	a + k e	a + k e	64
+891	Lowa	Mother	ama	ama	a + m a	a + m a	1338
+892	Lowa	Older brother	adʑo	adʑo	a + !dʑ/tɕ o	a + !dʑ/tɕ o	
+893	Lowa	Younger brother	nu	nu	n u	n u	
+894	Lowa	Older sister	idʑi	idʑi	i/a + dʑ i	i/a + dʑ i	
+895	Lowa	Younger sister	numu	numu	n u + m u	n u + m u	
+896	Lowa	Son	pidza	pidza	p i + dz a	p i + dz a	1403
+897	Lowa	Daughter	pomo	pomo	p o + m o	p o + m o	1227
+898	Lowa	Husband	kʰjoɡa	kʰjoɡa	kʰ j o + g a	kʰ.j o + g a	1304
+899	Lowa	Wife	keme	keme	k e + m e	k e + m e	71
+900	Lowa	Boy	pidza	pidza	p i + dz a	p i + dz a	
+901	Lowa	Girl	pomo	pomo	p o + m o	p o + m o	
+902	Lowa	Day	ɲima	ɲima	ɲ i + m a	ɲ i + m a	
+903	Lowa	Night	tsʰemo	tsʰemo	tsʰ e + m o	tsʰ e + m o	
+904	Lowa	Morning	ŋat̪o	ŋat̪o	ŋ a + t̪ o	ŋ a + t̪ o	1331
+905	Lowa	Noon	ɲiŋɡuŋ	ɲiŋɡuŋ	ɲ i + !ŋ/m !Ø/a + g u ŋ	ɲ i + !ŋ/m !Ø/a + g u.ŋ	
+906	Lowa	Evening	komo	komo	k o + m o	k o + m o	
+907	Lowa	Yesterday	nd̪aŋ	nd̪aŋ	ⁿd/d a ŋ	ⁿd/d a.ŋ	1151
+908	Lowa	Today	t̪iɾiŋ	t̪iɾiŋ	t̪ i + ɾ i ŋ	t̪ i + ɾ i.ŋ	1438
+909	Lowa	Tomorrow	ŋeto	ŋeto	ŋ !e/a + t̪ o	ŋ !e/a + t̪ o	1028
+910	Lowa	Week	t̪yntʰaʔ	t̪yntʰaʔ	t̪ y n + t̪ʰ a ʔ	t̪ y.n + t̪ʰ a.ʔ	
+911	Lowa	Month	nd̪awa	nd̪awa	ⁿd/d a + w a	ⁿd/d a + w a	
+912	Lowa	Year	lo	lo	l o	l o	1494
+913	Lowa	Old	ɲiŋpa	ɲiŋpa	ɲ i ŋ + p a	ɲ i.ŋ + p a	
+914	Lowa	New	sawa	sawa	s a + w a	s a + w a	1349
+915	Lowa	Good	ka	ka	k a	k a	334
+916	Lowa	Good	saŋa	saŋa	s a ŋ + !Ø/ŋ a	s a.ŋ + !Ø/ŋ a	1271
+917	Lowa	Bad	a	a	a	a	39
+918	Lowa	Bad	ŋempa	ŋempa	ŋ e m + p a	ŋ e.m + p a	1185
+919	Lowa	Wet	taŋa	taŋa	t̪ a ŋ + a	t̪ a.ŋ + a	1081
+920	Lowa	Dry	kampo	kampo	k a m + p o	k a.m + p o	1234
+921	Lowa	Long	ɹiŋa	ɹiŋa	ɹ/ɾ i ŋ + !Ø/ŋ a	ɹ/ɾ i.ŋ + !Ø/ŋ a	1321
+922	Lowa	Short	t̪uŋwa	t̪uŋwa	t̪ u ŋ + w a	t̪ u.ŋ + w a	1386
+923	Lowa	Hot	tsʰa	tsʰa	tsʰ a	tsʰ a	1296
+924	Lowa	Cold	taɡmo	taɡmo	t̪ a !g/ŋ + m o	t̪ a.!g/ŋ + m o	179
+925	Lowa	Right	jewa	jewa	j e + w a	j e + w a	1365
+926	Lowa	Left	jømpa	jømpa	j ø m/n + p a	j ø.m/n + p a	1317
+927	Lowa	Near	ŋe	ŋe	ŋ e	ŋ e	1345
+928	Lowa	Far	t̪ʰaɡɾiŋa	t̪ʰaɡɾiŋa	t̪ʰ a g/k + ɾ i !Ø/ŋ + ŋ a	t̪ʰ a.g/k + ɾ i.!Ø/ŋ + ŋ a	1247
+929	Lowa	Big	tsʰe	tsʰe	tsʰ e	tsʰ e	1195
+930	Lowa	Small	tɕuŋwa	tɕuŋwa	tɕ u ŋ + w a	tɕ u.ŋ + w a	1397
+931	Lowa	Heavy	ndze	ndze	!ⁿdz/tɕ e	!ⁿdz/tɕ e	1290
+932	Lowa	Light	jaŋa	jaŋa	j a !Ø/ŋ + ŋ a	j a.!Ø/ŋ + ŋ a	1319
+933	Lowa	Above	t̪ʰøʔ	t̪ʰøʔ	t̪ʰ ø ʔ	t̪ʰ ø.ʔ	1
+934	Lowa	Below	meʔ	meʔ	m e ʔ	m e.ʔ	
+935	Lowa	White	kawo	kawo	k a + w o	k a + w o	1472
+936	Lowa	Black	naɡpo	naɡpo	n a g/k + p o	n a.g/k + p o	1203
+937	Lowa	Red	mawo	mawo	m a + !w/m o	m a + !w/m o	1360
+938	Lowa	One	tɕik	tɕik	tɕ i k	tɕ i.k	1354
+939	Lowa	Two	ɲi	ɲi	ɲ i	ɲ i	1452
+940	Lowa	Three	sum	sum	s u m	s u.m	1433
+941	Lowa	Four	ɕi	ɕi	ɕ i	ɕ i	1262
+942	Lowa	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+943	Lowa	Six	tuk	tuk	t̪ u k	t̪ u.k	1388
+944	Lowa	Six	tʰɹuk	tʰɹuk	t̪ʰ ɾ u k	t̪ʰ.ɾ u.k	1388
+945	Lowa	Seven	t̪yn	t̪yn	t̪ y n	t̪ y.n	1384
+946	Lowa	Eight	ke	ke	k e	k e	1245
+947	Lowa	Nine	ku	ku	k u	k u	1351
+948	Lowa	Ten	tɕu	tɕu	tɕ u	tɕ u	1422
+949	Lowa	Eleven	tɕuɡtɕik	tɕuɡtɕik	tɕ u g/k + tɕ i k	tɕ u.g/k + tɕ i.k	
+950	Lowa	Twelve	tɕuɲi	tɕuɲi	tɕ u + ɲ i	tɕ u + ɲ i	
+951	Lowa	Twenty	ɲidʑu	ɲidʑu	ɲ i + dʑ/tɕ u	ɲ i + dʑ/tɕ u	1451
+952	Lowa	One Hundred	kjat̪ʰampa	kjat̪ʰampa	k j a + t̪ʰ a m + p a	k.j a + t̪ʰ a.m + p a	1303
+953	Lowa	Who	su	su	s u	s u	1474
+954	Lowa	What	ki	ki	!k/tɕ i	!k/tɕ i	17
+955	Lowa	Where	karu	karu	k a + !r/ɾ u	k a + !r/ɾ u	1470
+956	Lowa	When	nam	nam	n a m	n a.m	
+957	Lowa	How many	kantɕø	kantɕø	k a n + tɕ ø	k a.n + tɕ ø	
+958	Lowa	Which	kʰiŋɡo	kʰiŋɡo	!kʰ/k i ŋ + g o	!kʰ/k i.ŋ + g o	
+959	Lowa	Which	kiŋɡo	kiŋɡo	k i ŋ + g o	k i.ŋ + g o	
+960	Lowa	This	nd̪i	nd̪i	ⁿd/d i	ⁿd/d i	1428
+961	Lowa	That	jy	jy	j y	j y	790
+962	Lowa	That	wy	wy	!w/j y	!w/j y	790
+963	Lowa	These	nd̪ekja	nd̪ekja	ⁿd/d !e/i + k j a	ⁿd/d !e/i + k.j a	
+964	Lowa	Those	jøkja	jøkja	j !ø/y + k j a	j !ø/y + k.j a	
+965	Lowa	Those	wøkja	wøkja	!w/j !ø/y + k j a	!w/j !ø/y + k.j a	
+966	Lowa	Same	tɕikpa	tɕikpa	tɕ i k + !p/b a	tɕ i.k + !p/b a	
+967	Lowa	Different	mitɕikpa	mitɕikpa	m i + tɕ i k + !p/b a	m i + tɕ i.k + !p/b a	
+968	Lowa	Whole	kiɾi	kiɾi	k i + ɾ i	k i + ɾ i	
+969	Lowa	Whole	kaŋpo	kaŋpo	k a ŋ + p o	k a.ŋ + p o	
+970	Lowa	Broken	tɕʰaɡtɕa	tɕʰaɡtɕa	tɕʰ a g/k + tɕ a	tɕʰ a.g/k + tɕ a	
+971	Lowa	Few	ɲuŋwa	ɲuŋwa	ɲ u ŋ + w a	ɲ u.ŋ + w a	
+972	Lowa	Many	maŋa	maŋa	m a ŋ + !Ø/ŋ a	m a.ŋ + !Ø/ŋ a	1323
+973	Lowa	All	kiɾi	kiɾi	k i + ɾ i	k i + ɾ i	149
+974	Lowa	To eat	saje	saje	s a + j e	s a + j e	1240
+975	Lowa	To bite	soɡjapje	soɡjapje	s o + g j a p + j e	s o + g.j a.p + j e	1198
+976	Lowa	To bite	mukje	mukje	m u g/k + j e	m u.g/k + j e	1202
+977	Lowa	To be hungry	nd̪okje	nd̪okje	ⁿd/d o + k j e	ⁿd/d o + k.j e	
+978	Lowa	To drink	t̪ʰuŋje	t̪ʰuŋje	t̪ʰ u ŋ + j e	t̪ʰ u.ŋ + j e	1232
+979	Lowa	To be thirsty	komje	komje	k o m + j e	k o.m + j e	
+980	Lowa	To sleep	ɲaje	ɲaje	ɲ a + j e	ɲ a + j e	1394
+981	Lowa	To lie	tʰelaɲaje	tʰelaɲaje	t̪ʰ e + l a + ɲ a + j e	t̪ʰ e + l a + ɲ a + j e	
+982	Lowa	To sit	t̪eje	t̪eje	t̪ e + j e	t̪ e + j e	
+983	Lowa	To give	t̪eɾje	t̪eɾje	t̪ e ɾ + j e	t̪ e.ɾ + j e	1268
+984	Lowa	To burn	tɕʰikje	tɕʰikje	!tɕʰ/tsʰ i k + j e	!tɕʰ/tsʰ i.k + j e	
+985	Lowa	To die	ɕije	ɕije	ɕ i + j e	ɕ i + j e	1230
+986	Lowa	To kill	seje	seje	s e + j e	s e + j e	1311
+987	Lowa	To fly	pʰuɾje	pʰuɾje	pʰ u ɾ + j e	pʰ u.ɾ + j e	1259
+988	Lowa	To walk	ndoje	ndoje	ⁿd/d o + j e	ⁿd/d o + j e	1453
+989	Lowa	To run	paŋt̪aŋje	paŋt̪aŋje	p a ŋ + t̪ a + ŋ j e	p a.ŋ + t̪ a + ŋ.j e	18
+990	Lowa	To go	ndoje	ndoje	ⁿd/d o + j e	ⁿd/d o + j e	
+991	Lowa	To come	uŋje	uŋje	u ŋ + j e	u.ŋ + j e	1223
+992	Lowa	To speak	naje	naje	n a + j e	n a + j e	
+993	Lowa	To hear/listen	ɲenje	ɲenje	ɲ e + n j e	ɲ e + n.j e	
+994	Lowa	To look	nd̪aje	nd̪aje	!ⁿd/t̪ a + j e	!ⁿd/t̪ a + j e	
+995	Lowa	I	ŋa	ŋa	ŋ a	ŋ a	1310
+996	Lowa	You (informal)	kʰøʔ	kʰøʔ	kʰ !Ø/j ø ʔ	kʰ.!Ø/j ø.ʔ	1430
+997	Lowa	You (formal)	kʰeɾaŋ	kʰeɾaŋ	kʰ !Ø/j e + ɾ a ŋ	kʰ.!Ø/j e + ɾ a.ŋ	
+998	Lowa	He	kʰo	kʰo	kʰ o	kʰ o	
+999	Lowa	She	mo	mo	m o	m o	
+1000	Lowa	We (inclusive)	woɾoŋ	woɾoŋ	w o + ɾ o ŋ	w o + ɾ o.ŋ	1066
+1001	Lowa	We (exclusive)	jekja	jekja	j e + k j a	j e + k.j a	
+1002	Lowa	You (plural)	kʰekja	kʰekja	kʰ e + k j a	kʰ e + k.j a	1159
+1003	Lowa	They	kʰoŋkja	kʰoŋkja	kʰ o ŋ + k j a	kʰ o.ŋ + k.j a	
+1004	Lowa	Flour (eaten as food)	tsampa	tsampa	ts a m + p a	ts a.m + p a	
+1005	Lowa	Hailstone	seɾa	seɾa	s e + ɾ a	s e + ɾ a	1280
+1006	Lowa	Intestine	kjuma	kjuma	k j u + m a	k.j u + m a	
+1007	Lowa	Yard	jəku	jəku	j ə + k u	j ə + k u	
+1008	Lowa	To uproot	pije	pije	p i + j e	p i + j e	
+1009	Lowa	Oven	t̪ʰap	t̪ʰap	t̪ʰ a p	t̪ʰ a.p	
+1010	Lowa	Heel	t̪iŋpa	t̪iŋpa	t̪ i ŋ + p a	t̪ i.ŋ + p a	
+1011	Lowa	Spade	t̪oktse	t̪oktse	t̪ o k + ts e	t̪ o.k + ts e	
+1012	Lowa	Horse	t̪a	t̪a	t̪ a	t̪ a	1294
+1013	Lowa	Load	kʰu	kʰu	kʰ u	kʰ u	
+1014	Lowa	To plough	moje	moje	m o + j e	m o + j e	
+1015	Lowa	Bond	kenka	kenka	k e n + k a	k e.n + k a	
+1016	Lowa	Beam (main wooden beam)	t̪uŋma	t̪uŋma	t̪ u ŋ + m a	t̪ u.ŋ + m a	
+1017	Lowa	Rope used to tie animals	t̪ʰaɡpa	t̪ʰaɡpa	t̪ʰ a g/k + p a	t̪ʰ a.g/k + p a	
+1018	Lowa	Beard	makɾa	makɾa	m a k + ɾ a	m a.k + ɾ a	
+1019	Lowa	To measure	tsʰeɡjabje	tsʰeɡjabje	tsʰ e + g j a b + j e	tsʰ e + g.j a.b + j e	
+1020	Lowa	Plank	paŋlep	paŋlep	p a ŋ + l e p	p a.ŋ + l e.p	
+1021	Lowa	Hole	miu	miu	m i + !Ø/j u	m i + !Ø/j u	
+1022	Lowa	Hole	miɡzaŋ	miɡzaŋ	m i g/k + z a ŋ	m i.g/k + z a.ŋ	
+1023	Lowa	Plough (noun)	t̪ʰoŋpa	t̪ʰoŋpa	t̪ʰ o ŋ + p a	t̪ʰ o.ŋ + p a	
+1024	Lowa	Lid (cover)	kʰabtɕø	kʰabtɕø	kʰ a b + tɕ ø	kʰ a.b + tɕ ø	
+1025	Lowa	Handle	jowa	jowa	j o + w a	j o + w a	
+1026	Lowa	Bear	t̪om	t̪om	t̪ o m	t̪ o.m	
+1027	Lowa	Ghost	nde	nde	ⁿd/d e	ⁿd/d e	
+1028	Lowa	Manure	ly	ly	l y	l y	
+1029	Lowa	Bread	kjaŋ	kjaŋ	k j a ŋ	k.j a.ŋ	
+1030	Lowa	Corpse	ɹo	ɹo	ɹ/ɾ o	ɹ/ɾ o	
+1031	Lowa	Pig	pʰak	pʰak	pʰ a k	pʰ a.k	1356
+1032	Lowa	Grains	ndu	ndu	ⁿd/d u	ⁿd/d u	
+1033	Lowa	Stick	pekjoʔ	pekjoʔ	p e k + j o ʔ	p e.k + j o.ʔ	762
+1034	Lowa	Sweat	ŋunak	ŋunak	ŋ u + n a k	ŋ u + n a.k	
+1035	Lowa	To chew	leje	leje	l e + j e	l e + j e	867
+1036	Lowa	To swallow	miɡje	miɡje	m i !g/k + j e	m i.!g/k + j e	
+1037	Lowa	To throw	juɡje	juɡje	j u !g/k + j e	j u.!g/k + j e	178
+1038	Nubri	Body	su	su	s u	s u	
+1039	Nubri	Head	ko	ko	k o	k o	1284
+1040	Nubri	Hair	hɹa	hɹa	h ɹ a	h.ɹ a	1282
+1041	Nubri	Face	tɕuŋu	tɕuŋu	tɕ u + ŋ u	tɕ u + ŋ u	
+1042	Nubri	Eye	mik	mik	m i k	m i.k	1246
+1043	Nubri	Ear	amtɕjoʔ	amtɕjoʔ	a m + tɕj/tɕ o ʔ	a.m + tɕj/tɕ o.ʔ	1239
+1044	Nubri	Nose	nat̪u	nat̪u	n a + t̪ u	n a + t̪ u	1352
+1045	Nubri	Mouth	kʰabt̪u	kʰabt̪u	kʰ !ab/a + t̪ u	kʰ !ab/a + t̪ u	1340
+1046	Nubri	Teeth	sa	sa	s a	s a	1446
+1047	Nubri	Tongue	tɕe	tɕe	tɕ e	tɕ e	1444
+1048	Nubri	Breast	tɕju	tɕju	tɕ j u	tɕ.j u	1422
+1049	Nubri	Belly	topa	topa	t̪ o + p a	t̪ o + p a	1193
+1050	Nubri	Arm/Hand	lakpa	lakpa	l a k + p a	l a.k + p a	
+1051	Nubri	Elbow	tsʰikt̪oʔ	tsʰikt̪oʔ	tsʰ i k + t̪ o ʔ	tsʰ i.k + t̪ o.ʔ	
+1052	Nubri	Palm	lakpa t̪ʰil	lakpa t̪ʰil	l a k + p a + t̪ʰ i l	l a.k + p a + t̪ʰ i.l	
+1053	Nubri	Finger	tsuku	tsuku	ts u + k u	ts u + k u	
+1054	Nubri	Fingernail	sermo	sermo	s e ɹ + m o	s e.ɹ + m o	
+1055	Nubri	Leg	kaŋpa	kaŋpa	k a ŋ + p a	k a.ŋ + p a	
+1056	Nubri	Skin	pau	pau	p a + !Ø/w !u/o	p a + !Ø/w !u/o	1389
+1057	Nubri	Bone	hɹypa	hɹypa	h ɹ y + p a	h.ɹ y + p a	1208
+1058	Nubri	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+1059	Nubri	Blood	tʰa	tʰa	t̪ʰ a	t̪ʰ a	1206
+1060	Nubri	Urine	tɕʰi	tɕʰi	!tɕʰ/ts i	!tɕʰ/ts i	
+1061	Nubri	Faeces	aʔ	aʔ	a ʔ	a.ʔ	
+1062	Nubri	Village	jul	jul	j u l	j u.l	
+1063	Nubri	House	kʰim	kʰim	kʰ i m	kʰ i.m	1300
+1064	Nubri	Roof	t̪ʰɔ	t̪ʰɔ	t̪ʰ ɔ	t̪ʰ ɔ	
+1065	Nubri	Door	ko	ko	k o	k o	
+1066	Nubri	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+1067	Nubri	Broom	koŋmo	koŋmo	k o ŋ + m o	k o.ŋ + m o	
+1068	Nubri	Mortar	koɡtsʰum	koɡtsʰum	k o g/k + tsʰ u m	k o.g/k + tsʰ u.m	
+1069	Nubri	Pestle	t̪iktsa	t̪iktsa	t̪ i k + ts a	t̪ i.k + ts a	
+1070	Nubri	Hammer	t̪ʰɔ	t̪ʰɔ	t̪ʰ ɔ	t̪ʰ ɔ	
+1071	Nubri	Knife	tuku	tuku	t̪ u + k u	t̪ u + k u	29
+1072	Nubri	Axe	t̪aɹi	t̪aɹi	t̪ a + ɹ i	t̪ a + ɹ i	
+1073	Nubri	Rope	t̪ʰaɡpa	t̪ʰaɡpa	t̪ʰ a g/k + p a	t̪ʰ a.g/k + p a	1374
+1074	Nubri	Thread	kupa	kupa	k u + p a	k u + p a	
+1075	Nubri	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+1076	Nubri	Cloth	kalaʔ	kalaʔ	k a + l a ʔ	k a + l a.ʔ	
+1077	Nubri	Ring	soɹt̪ob	soɹt̪ob	s o ɹ + t̪ o b	s o.ɹ + t̪ o.b	
+1078	Nubri	Sun	ɲo	ɲo	ɲ o	ɲ o	1418
+1079	Nubri	Moon	t̪a	t̪a	t̪ a	t̪ a	1294
+1080	Nubri	Sky	nam	nam	n a m	n a.m	1392
+1081	Nubri	Star	kaɹma	kaɹma	k a ɹ + m a	k a.ɹ + m a	1410
+1082	Nubri	Rain	nam	nam	n a m	n a.m	
+1083	Nubri	Water	tɕʰju	tɕʰju	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+1084	Nubri	River	kjuɡtɕʰju	kjuɡtɕʰju	k j u g/k + tɕʰ j u	k.j u.g/k + tɕʰ.j u	677
+1085	Nubri	Cloud	muɡpa	muɡpa	m u g/k + p a	m u.g/k + p a	176
+1086	Nubri	Lightening	tuk	tuk	t̪ u k	t̪ u.k	
+1087	Nubri	Rainbow	tɕja	tɕja	tɕj/tɕ a	tɕj/tɕ a	1358
+1088	Nubri	Wind	hlawa	hlawa	h l a + w a	h.l a + w a	1486
+1089	Nubri	Stone	t̪oh	t̪oh	t̪ o h	t̪ o.h	1416
+1090	Nubri	Path	lamkja	lamkja	l a m + k j a	l a.m + k.j a	
+1091	Nubri	Sand	pɛ̃:	pɛ̃:	p ɛ̃ː/ɛ + Ø/m Ø/a	p ɛ̃ː/ɛ + Ø/m Ø/a	1382
+1092	Nubri	Fire	mẽ	mẽ	m !ẽ/e	m !ẽ/e	1251
+1093	Nubri	Smoke	t̪ohpa	t̪ohpa	t̪ o h + p a	t̪ o.h + p a	
+1094	Nubri	Ash	kot̪ʰal	kot̪ʰal	k o + t̪ʰ a + l !Ø/a	k o + t̪ʰ a + l !Ø/a	
+1095	Nubri	Mud	t̪ampa	t̪ampa	t̪ a m + p a	t̪ a.m + p a	1342
+1096	Nubri	Dust	t̪ʰala	t̪ʰala	t̪ʰ a + l a	t̪ʰ a + l a	1237
+1097	Nubri	Gold	seɹ	seɹ	s e ɹ	s e.ɹ	
+1098	Nubri	Tree	t̪oŋpo	t̪oŋpo	t̪ o ŋ + p o	t̪ o.ŋ + p o	1039
+1099	Nubri	Leaf	loma	loma	l o + m a	l o + m a	1315
+1100	Nubri	Root	tsa	tsa	ts a	ts a	1371
+1101	Nubri	Thorn	tsʰerma	tsʰerma	tsʰ e ɹ + m a	tsʰ e.ɹ + m a	
+1102	Nubri	Flower	met̪o	met̪o	m e + t̪ o !Ø/ʔ	m e + t̪ o.!Ø/ʔ	1257
+1103	Nubri	Fruit	ɕiŋt̪oʔ	ɕiŋt̪oʔ	ɕ i ŋ + t̪ o ʔ	ɕ i.ŋ + t̪ o.ʔ	1263
+1104	Nubri	Mango	ãb	ãb	!ã/a p	!ã/a.p	
+1105	Nubri	Banana	kela	kela	k e + l a	k e + l a	
+1106	Nubri	Wheat (husked)	toh	toh	t̪ o h	t̪ o.h	1091
+1107	Nubri	Barley	n̪e:	n̪e:	n eː	n eː	53
+1108	Nubri	Rice (husked)	te:	te:	!t/t̪ eː	!t/t̪ eː	
+1109	Nubri	Potato	t̪ɔ:	t̪ɔ:	t̪ ɔː	t̪ ɔː	
+1110	Nubri	Eggplant	pɛnta	pɛnta	p ɛ n + t̪ a	p ɛ.n + t̪ a	
+1111	Nubri	Groundnut	pat̪am	pat̪am	p a + t̪ a m	p a + t̪ a.m	
+1112	Nubri	Chilli	kʰoɹtsʰen	kʰoɹtsʰen	kʰ o ɹ + tsʰ e n	kʰ o.ɹ + tsʰ e.n	
+1113	Nubri	Turmeric	peseɹ	peseɹ	p e + s e ɹ	p e + s e.ɹ	
+1114	Nubri	Garlic	koɡpa	koɡpa	k o g/k + p a	k o.g/k + p a	
+1115	Nubri	Onion	tsoŋ	tsoŋ	ts o ŋ	ts o.ŋ	
+1116	Nubri	Cauliflower	kauli	kauli	k au + l i	k au + l i	
+1117	Nubri	Tomato	tumaʈa	tumaʈa	t̪ u + m a + ʈ a	t̪ u + m a + ʈ a	
+1118	Nubri	Cabbage	pənd̪a	pənd̪a	p ə n + d̪ a	p ə.n + d̪ a	
+1119	Nubri	Oil	n̪um	n̪um	!n̪/n u m	!n̪/n u.m	
+1120	Nubri	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+1121	Nubri	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+1122	Nubri	Fat (of meat)	tsʰulu	tsʰulu	tsʰ u + l u	tsʰ u + l u	
+1123	Nubri	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+1124	Nubri	Chicken	tɕjoũ	tɕjoũ	tɕj/tɕ !oũ/ou	tɕj/tɕ !oũ/ou	
+1125	Nubri	Egg	koõ	koõ	k o + !Ø/ŋ õ/o	k o + !Ø/ŋ õ/o	1242
+1126	Nubri	Cow	palaŋ	palaŋ	p a + l a ŋ	p a + l a.ŋ	
+1127	Nubri	Buffalo	maɦi	maɦi	m a + !ɦ/j i	m a + !ɦ/j i	
+1128	Nubri	Milk	ɦoõ	ɦoõ	ɦ o + !Ø/m õ/a	ɦ o + !Ø/m õ/a	
+1129	Nubri	Horns	adkjo	adkjo	!a/ɹ !d/a + k j o	!a/ɹ.!d/a + k.j o	1292
+1130	Nubri	Tail	ŋõ	ŋõ	ŋ !õ/o	ŋ !õ/o	1419
+1131	Nubri	Goat	ɹatse	ɹatse	ɹ a + ts e	ɹ a + ts e	1269
+1132	Nubri	Dog	kʰji	kʰji	!kʰj/kʰ i	!kʰj/kʰ i	1231
+1133	Nubri	Snake	tul	tul	t̪ u l	t̪ u.l	1401
+1134	Nubri	Monkey	piu	piu	p iu	p iu	
+1135	Nubri	Mosquito	t̪ukɖaŋ	t̪ukɖaŋ	t̪ u k + ɖ a ŋ	t̪ u.k + ɖ a.ŋ	1333
+1136	Nubri	Ant	hɹomo	hɹomo	h ɹ o + m o	h.ɹ o + m o	1183
+1137	Nubri	Spider	pabla	pabla	p a bl/l + !Ø/b a	p a.bl/l + !Ø/b a	748
+1138	Nubri	Name	min̪	min̪	m i n	m i.n	1344
+1139	Nubri	Man	mĩ	mĩ	m !ĩ/i	m !ĩ/i	
+1140	Nubri	Woman	põbetsa	põbetsa	p !õ/o + !b/p e + ts a	p !õ/o + !b/p e + ts a	1134
+1141	Nubri	Child	petsa	petsa	p e + ts a	p e + ts a	
+1142	Nubri	Father	jɛ	jɛ	j ɛ	j ɛ	277
+1143	Nubri	Mother	aã	aã	a + !Ø/m !ã/a	a + !Ø/m !ã/a	1338
+1144	Nubri	Older brother	tɕi	tɕi	tɕ i	tɕ i	
+1145	Nubri	Younger brother	n̪u	n̪u	!n̪/n u	!n̪/n u	
+1146	Nubri	Older sister	jei	jei	j e i	j e.i	
+1147	Nubri	Younger sister	n̪u	n̪u	!n̪/n u	!n̪/n u	
+1148	Nubri	Son	puh	puh	p u h	p u.h	1403
+1149	Nubri	Daughter	poõ	poõ	p o/u Ø/h + Ø/m õ/o	p o/u.Ø/h + Ø/m õ/o	1227
+1150	Nubri	Husband	kʰjoka	kʰjoka	kʰ j o + k a	kʰ.j o + k a	1304
+1151	Nubri	Wife	ɕɛt̪aŋ	ɕɛt̪aŋ	ɕ ɛ + t̪ a ŋ	ɕ ɛ + t̪ a.ŋ	1125
+1152	Nubri	Boy	puh	puh	p u h	p u.h	
+1153	Nubri	Girl	poõ	poõ	p o/u Ø/h + Ø/m õ/o	p o/u.Ø/h + Ø/m õ/o	
+1154	Nubri	Day	ɲin̪	ɲin̪	ɲ i + n !Ø/ə	ɲ i + n !Ø/ə	
+1155	Nubri	Night	tsʰen̪	tsʰen̪	tsʰ e + n !Ø/ə	tsʰ e + n !Ø/ə	
+1156	Nubri	Morning	tõŋkõ	tõŋkõ	t̪ !õ/o ŋ + k !õ/o	t̪ !õ/o.ŋ + k !õ/o	507
+1157	Nubri	Noon	n̪iŋkũ	n̪iŋkũ	!n̪/ɲ i + !ŋ/m !Ø/a + k !ũ/u	!n̪/ɲ i + !ŋ/m !Ø/a + k !ũ/u	
+1158	Nubri	Evening	koŋmo	koŋmo	k o ŋ + m o	k o.ŋ + m o	
+1159	Nubri	Yesterday	t̪aŋ	t̪aŋ	t̪ a ŋ	t̪ a.ŋ	1151
+1160	Nubri	Today	t̪iɹiŋ	t̪iɹiŋ	t̪ i + ɹ i ŋ	t̪ i + ɹ i.ŋ	1438
+1161	Nubri	Tomorrow	ŋaɹo	ŋaɹo	ŋ a !Ø/ɹ + ɹ o	ŋ a.!Ø/ɹ + ɹ o	1028
+1162	Nubri	Week	t̪ʏntʰaʔ	t̪ʏntʰaʔ	t̪ ʏ n + t̪ʰ a ʔ	t̪ ʏ.n + t̪ʰ a.ʔ	
+1163	Nubri	Month	t̪ah	t̪ah	t̪ !ah/a	t̪ !ah/a	
+1164	Nubri	Year	lo	lo	l o	l o	1494
+1165	Nubri	Old	ɲiŋpa	ɲiŋpa	ɲ i ŋ + p a	ɲ i.ŋ + p a	
+1166	Nubri	New	sampa	sampa	s a + ⁿp/p a	s a + ⁿp/p a	1349
+1167	Nubri	Good	koŋ	koŋ	k o ŋ	k o.ŋ	335
+1168	Nubri	Bad	ɦawɛ	ɦawɛ	ɦ a + w ɛ	ɦ a + w ɛ	40
+1169	Nubri	Wet	lompa	lompa	l o m + p a	l o.m + p a	1462
+1170	Nubri	Dry	kombo	kombo	k o m + b o	k o.m + b o	1234
+1171	Nubri	Long	ɹiŋpo	ɹiŋpo	ɹ i ŋ + p o	ɹ i.ŋ + p o	1321
+1172	Nubri	Short	t̪ɛ̃n̪d̪ɛ̃	t̪ɛ̃n̪d̪ɛ̃	t̪ ɛ̃ + ⁿd̪/d̪ !ɛ̃/ɛ	t̪ ɛ̃ + ⁿd̪/d̪ !ɛ̃/ɛ	1386
+1173	Nubri	Hot	tsʰawo	tsʰawo	tsʰ a + w o	tsʰ a + w o	1296
+1174	Nubri	Cold	taŋmo	taŋmo	t̪ a ŋ + m o	t̪ a.ŋ + m o	179
+1175	Nubri	Right	je	je	j e	j e	1365
+1176	Nubri	Left	jon̪	jon̪	j o n	j o.n	1317
+1177	Nubri	Near	t̪ʰaɲiw	t̪ʰaɲiw	t̪ʰ a + ɲ i w	t̪ʰ a + ɲ i.w	1345
+1178	Nubri	Far	t̪ʰaɹiŋpo	t̪ʰaɹiŋpo	t̪ʰ a + ɹ i ŋ + p o	t̪ʰ a + ɹ i.ŋ + p o	1247
+1179	Nubri	Big	tɕjɔ̃mpu	tɕjɔ̃mpu	tɕʰj/tɕʰ !ɔ̃/ɔ + ⁿp/p u	tɕʰj/tɕʰ !ɔ̃/ɔ + ⁿp/p u	1195
+1180	Nubri	Small	tɛtɛ	tɛtɛ	t̪ ɛ + t̪ ɛ	t̪ ɛ + t̪ ɛ	14
+1181	Nubri	Heavy	tsʰint̪i	tsʰint̪i	!tsʰ/tɕ i + ⁿt̪/t̪ i	!tsʰ/tɕ i + ⁿt̪/t̪ i	1290
+1182	Nubri	Light	jaŋpo	jaŋpo	j a ŋ + p o	j a.ŋ + p o	1319
+1183	Nubri	Above	kaŋ	kaŋ	k a ŋ	k a.ŋ	6
+1184	Nubri	Below	ɦo	ɦo	ɦ o	ɦ o	
+1185	Nubri	White	kaɹpo	kaɹpo	k a ɹ + p o	k a.ɹ + p o	1472
+1186	Nubri	Black	n̪akpo	n̪akpo	!n̪/n a k + p o	!n̪/n a.k + p o	1203
+1187	Nubri	Red	maɹpo	maɹpo	m a ɹ + p o	m a.ɹ + p o	1360
+1188	Nubri	One	tɕik	tɕik	tɕ i k	tɕ i.k	1354
+1189	Nubri	Two	ɲi	ɲi	ɲ i	ɲ i	1452
+1190	Nubri	Three	sum	sum	s u m	s u.m	1433
+1191	Nubri	Four	ɕi	ɕi	ɕ i	ɕ i	1230
+1192	Nubri	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+1193	Nubri	Six	tuk	tuk	t̪ u k	t̪ u.k	1388
+1194	Nubri	Seven	t̪yn̪	t̪yn̪	t̪ y n	t̪ y.n	1384
+1195	Nubri	Eight	ke	ke	k e	k e	1245
+1196	Nubri	Eight	kxe	kxe	!kx/k e	!kx/k e	1245
+1197	Nubri	Nine	ku	ku	k u	k u	1351
+1198	Nubri	Ten	tɕju	tɕju	tɕj/tɕ u	tɕj/tɕ u	1422
+1199	Nubri	Eleven	tɕjudʑik	tɕjudʑik	tɕj/tɕ u + !dʑ/tɕ i k	tɕj/tɕ u + !dʑ/tɕ i.k	
+1200	Nubri	Twelve	tɕjuɲi	tɕjuɲi	tɕj/tɕ u + ɲ i	tɕj/tɕ u + ɲ i	
+1201	Nubri	Twenty	ɲiɕu	ɲiɕu	ɲ i + ɕ/tɕ u	ɲ i + ɕ/tɕ u	1451
+1202	Nubri	One Hundred	kjat̪ʰamba	kjat̪ʰamba	k j a + t̪ʰ a m + b a	k.j a + t̪ʰ a.m + b a	1303
+1203	Nubri	Who	su	su	s u	s u	1474
+1204	Nubri	What	tɕi	tɕi	tɕ i	tɕ i	1464
+1205	Nubri	Where	kønt̪a	kønt̪a	k ø n + t̪ a	k ø.n + t̪ a	1100
+1206	Nubri	When	n̪am	n̪am	!n̪/n a m	!n̪/n a.m	
+1207	Nubri	How many	maŋlo	maŋlo	m a ŋ + l o	m a.ŋ + l o	
+1208	Nubri	Which	køn̪d̪i	køn̪d̪i	k ø n + d̪ i	k ø.n + d̪ i	
+1209	Nubri	This	t̪i	t̪i	!t̪/d̪ i	!t̪/d̪ i	1428
+1210	Nubri	This	d̪i	d̪i	d̪ i	d̪ i	1428
+1211	Nubri	That	pʰu	pʰu	pʰ u	pʰ u	118
+1212	Nubri	These	t̪id̪o	t̪id̪o	t̪ i + d̪ o	t̪ i + d̪ o	
+1213	Nubri	Those	pʰud̪o	pʰud̪o	pʰ u + d̪ o	pʰ u + d̪ o	
+1214	Nubri	Same	tɕɔtɕo	tɕɔtɕo	tɕ ɔ + tɕ o	tɕ ɔ + tɕ o	
+1215	Nubri	Different	alak	alak	a + l a k	a + l a.k	
+1216	Nubri	Whole	tɕjapt̪a	tɕjapt̪a	tɕj/tɕ a p + t̪ a	tɕj/tɕ a.p + t̪ a	
+1217	Nubri	Broken	tɕʰjakjo	tɕʰjakjo	tɕʰj/tɕʰ a k + j o	tɕʰj/tɕʰ a.k + j o	
+1218	Nubri	Few	alajili	alajili	a + l a + j i + l i	a + l a + j i + l i	
+1219	Nubri	Many	aŋsaŋ	aŋsaŋ	a ŋ + s a ŋ	a.ŋ + s a.ŋ	477
+1220	Nubri	All	tɕjapt̪a	tɕjapt̪a	tɕj/tɕ a p + t̪ a	tɕj/tɕ a.p + t̪ a	10
+1221	Nubri	To eat	seji	seji	s e + j i	s e + j i	1240
+1222	Nubri	To bite	soɡjap	soɡjap	s o + g j a p	s o + g.j a.p	1198
+1223	Nubri	To be hungry	topat̪ɔ	topat̪ɔ	!t/t̪ o + p a + t̪ ɔ	!t/t̪ o + p a + t̪ ɔ	
+1224	Nubri	To drink	t̪ʰuŋ	t̪ʰuŋ	t̪ʰ u ŋ	t̪ʰ u.ŋ	1232
+1225	Nubri	To be thirsty	kʰakom	kʰakom	kʰ a + k o m	kʰ a + k o.m	
+1226	Nubri	To sleep	ɲal	ɲal	ɲ a l	ɲ a.l	1394
+1227	Nubri	To lie	ɲe	ɲe	ɲ e	ɲ e	
+1228	Nubri	To sit	t̪e	t̪e	t̪ e	t̪ e	
+1229	Nubri	To give	t̪e	t̪e	t̪ e	t̪ e	1268
+1230	Nubri	To burn	hɹø	hɹø	h ɹ ø	h.ɹ ø	
+1231	Nubri	To die	ɕi	ɕi	ɕ i	ɕ i	1230
+1232	Nubri	To kill	se	se	s e	s e	1311
+1233	Nubri	To fly	pʰuɹ	pʰuɹ	pʰ u ɹ	pʰ u.ɹ	1259
+1234	Nubri	To walk	kombaɡjap	kombaɡjap	k o m + b a g/k + j a p	k o.m + b a.g/k + j a.p	1013
+1235	Nubri	To run	lat̪aŋ	lat̪aŋ	l a + t̪ a ŋ	l a + t̪ a.ŋ	7
+1236	Nubri	To go	to	to	!t/t̪ o	!t/t̪ o	
+1237	Nubri	To come	oŋ	oŋ	o ŋ	o.ŋ	1223
+1238	Nubri	To speak	ɕe	ɕe	ɕ e	ɕ e	
+1239	Nubri	To speak	lab	lab	l a b	l a.b	
+1240	Nubri	To hear/listen	ɲin̪	ɲin̪	ɲ i n	ɲ i.n	
+1241	Nubri	To look	t̪eji	t̪eji	t̪ e + j i	t̪ e + j i	
+1242	Nubri	I	ŋa	ŋa	ŋ a	ŋ a	1310
+1243	Nubri	You (informal)	kʰjo	kʰjo	kʰ j o	kʰ.j o	1430
+1244	Nubri	You (formal)	kʰjoɹaŋ	kʰjoɹaŋ	kʰ j o + ɹ a ŋ	kʰ.j o + ɹ a.ŋ	
+1245	Nubri	He	kʰo	kʰo	kʰ o	kʰ o	
+1246	Nubri	She	mo	mo	m o	m o	
+1247	Nubri	We (inclusive)	woɹoŋd̪o	woɹoŋd̪o	w o + ɹ o ŋ + d̪ o	w o + ɹ o.ŋ + d̪ o	1066
+1248	Nubri	We (exclusive)	ɲeɹaŋd̪o	ɲeɹaŋd̪o	ɲ e + ɹ a ŋ + d̪ o	ɲ e + ɹ a.ŋ + d̪ o	
+1249	Nubri	You (plural)	kʰed̪o	kʰed̪o	kʰ e + d̪ o	kʰ e + d̪ o	1160
+1250	Nubri	They	kʰuŋd̪o	kʰuŋd̪o	kʰ u ŋ + d̪ o	kʰ u.ŋ + d̪ o	
+1251	Nubri	Flour (eaten as food)	pʰe	pʰe	pʰ e	pʰ e	
+1252	Nubri	Hailstone	kʰaɕjol	kʰaɕjol	kʰ a + ɕ j o l	kʰ a + ɕ.j o.l	349
+1253	Nubri	Intestine	kjõ	kjõ	k j !Ø/u + !Ø/m !õ/o	k.j !Ø/u + !Ø/m !õ/o	
+1254	Nubri	Yard	kjaŋ	kjaŋ	k j a ŋ	k.j a.ŋ	
+1255	Nubri	To uproot	kɔ	kɔ	k ɔ	k ɔ	
+1256	Nubri	Oven	t̪ʰap	t̪ʰap	t̪ʰ a p	t̪ʰ a.p	
+1257	Nubri	Heel	kaŋbat̪ʰil	kaŋbat̪ʰil	k a ŋ + b a + t̪ʰ i l	k a.ŋ + b a + t̪ʰ i.l	
+1258	Nubri	Spade	t̪otse	t̪otse	t̪ o + ts e	t̪ o + ts e	
+1259	Nubri	Horse	t̪a	t̪a	t̪ a	t̪ a	1294
+1260	Nubri	Load	kʰurpu	kʰurpu	kʰ u ɹ + p u	kʰ u.ɹ + p u	
+1261	Nubri	To plough	mo	mo	m o	m o	
+1262	Nubri	Bond	kamkja	kamkja	k a m + k j a	k a.m + k.j a	
+1263	Nubri	Beam (main wooden beam)	kuŋɕiŋ	kuŋɕiŋ	k u ŋ + ɕ i ŋ	k u.ŋ + ɕ i.ŋ	
+1264	Nubri	Rope used to tie animals	hɹeli	hɹeli	h ɹ e !Ø/l + l i	h.ɹ e.!Ø/l + l i	
+1265	Nubri	Beard	kʰeu	kʰeu	kʰ eu	kʰ eu	
+1266	Nubri	To measure	t̪ab	t̪ab	t̪ a b	t̪ a.b	
+1267	Nubri	Plank	paŋlep	paŋlep	p a ŋ + l e p	p a.ŋ + l e.p	
+1268	Nubri	Hole	hoɡt̪uŋ	hoɡt̪uŋ	h o g/k + t̪ u ŋ	h o.g/k + t̪ u.ŋ	
+1269	Nubri	Plough (noun)	t̪ʰuŋpa	t̪ʰuŋpa	t̪ʰ u ŋ + p a	t̪ʰ u.ŋ + p a	
+1270	Nubri	Lid (cover)	kʰaptɕuk	kʰaptɕuk	kʰ a p + tɕ u k	kʰ a.p + tɕ u.k	
+1271	Nubri	Handle	jo	jo	j o	j o	
+1272	Nubri	Bear	t̪om	t̪om	t̪ o m	t̪ o.m	
+1273	Nubri	Ghost	hlent̪i	hlent̪i	h l e n + t̪ i	h.l e.n + t̪ i	
+1274	Nubri	Manure	ly	ly	l y	l y	
+1275	Nubri	Bread	kʰoɹa	kʰoɹa	kʰ o + ɹ a	kʰ o + ɹ a	
+1276	Nubri	Corpse	hɹo	hɹo	h ɹ o	h.ɹ o	
+1277	Nubri	Pig	pʰa	pʰa	pʰ a	pʰ a	1356
+1278	Nubri	Grains	tu	tu	!t/t̪ u	!t/t̪ u	
+1279	Nubri	Stick	pikpa	pikpa	p i k + p a	p i.k + p a	762
+1280	Nubri	Stick	peɹka	peɹka	p e ɹ + k a	p e.ɹ + k a	762
+1281	Nubri	Sweat	ŋulna	ŋulna	ŋ u l + n a	ŋ u.l + n a	
+1282	Nubri	Sweat	ŋylna	ŋylna	ŋ y l + n a	ŋ y.l + n a	
+1283	Nubri	To chew	muɹ	muɹ	m u ɹ	m u.ɹ	1214
+1284	Nubri	To swallow	mikʰ	mikʰ	m i !kʰ/k	m i.!kʰ/k	
+1285	Nubri	To throw	juk	juk	j u k	j u.k	178
+1286	Sherpa	Body	dzubu	dzubu	dz u + b u	dz u + b u	
+1287	Sherpa	Head	ɡo	ɡo	g o	g o	1284
+1288	Sherpa	Hair	hɹa	hɹa	h ɹ a	h.ɹ a	1282
+1289	Sherpa	Face	ŋot̪oŋ	ŋot̪oŋ	ŋ o + t̪ o ŋ	ŋ o + t̪ o.ŋ	
+1290	Sherpa	Eye	mik	mik	m i k	m i.k	1246
+1291	Sherpa	Ear	namdzjok	namdzjok	n a m + !dzj/dʑ o k	n a.m + !dzj/dʑ o.k	1238
+1292	Sherpa	Nose	nəu	nəu	n əu	n əu	1352
+1293	Sherpa	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+1294	Sherpa	Teeth	sa	sa	s a	s a	1446
+1295	Sherpa	Tongue	tɕjalak	tɕjalak	tɕj/tɕ a + l a k	tɕj/tɕ a + l a.k	1444
+1296	Sherpa	Breast	oma	oma	o + m a	o + m a	1211
+1297	Sherpa	Belly	tʰopa	tʰopa	t̪ʰ o + p a	t̪ʰ o + p a	1193
+1298	Sherpa	Arm/Hand	laɡpa	laɡpa	l a g/k + p a	l a.g/k + p a	
+1299	Sherpa	Elbow	laɡpatsʰi	laɡpatsʰi	l a g/k + p a + tsʰ i	l a.g/k + p a + tsʰ i	
+1300	Sherpa	Palm	laɡpa	laɡpa	l a g/k + p a	l a.g/k + p a	
+1301	Sherpa	Finger	t̪ʰept̪ok	t̪ʰept̪ok	t̪ʰ e p + t̪ o k	t̪ʰ e.p + t̪ o.k	
+1302	Sherpa	Fingernail	seɹmoŋ	seɹmoŋ	s e ɹ + m o ŋ	s e.ɹ + m o.ŋ	
+1303	Sherpa	Leg	kaŋba	kaŋba	k a ŋ + b a	k a.ŋ + b a	
+1304	Sherpa	Skin	kwa	kwa	!kʷ/k !Ø/o + !Ø/w a	!kʷ/k !Ø/o + !Ø/w a	726
+1305	Sherpa	Bone	ɹukjok	ɹukjok	ɹ u + k j o k	ɹ u + k.j o.k	1208
+1306	Sherpa	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+1307	Sherpa	Blood	tʰak	tʰak	t̪ʰ a k	t̪ʰ a.k	1206
+1308	Sherpa	Urine	tsiŋ	tsiŋ	ts i ŋ	ts i.ŋ	
+1309	Sherpa	Faeces	kjakpa	kjakpa	k j a k + p a	k.j a.k + p a	
+1310	Sherpa	Village	iul	iul	i/j u l	i/j u.l	
+1311	Sherpa	Village	jul	jul	j u l	j u.l	
+1312	Sherpa	House	kʰaŋba	kʰaŋba	kʰ a ŋ + b a	kʰ a.ŋ + b a	1301
+1313	Sherpa	Roof	t̪ʰok	t̪ʰok	t̪ʰ o k	t̪ʰ o.k	
+1314	Sherpa	Door	ɡo	ɡo	g o	g o	
+1315	Sherpa	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+1316	Sherpa	Broom	komi	komi	k o + m i	k o + m i	
+1317	Sherpa	Mortar	ɡokjo	ɡokjo	g o + k j o	g o + k.j o	
+1318	Sherpa	Pestle	tsʰart̪um	tsʰart̪um	tsʰ a r + t̪ u m	tsʰ a.r + t̪ u.m	
+1319	Sherpa	Hammer	t̪ʰoa	t̪ʰoa	t̪ʰ o + !Ø/w a	t̪ʰ o + !Ø/w a	
+1320	Sherpa	Knife	tʰitɕjuŋ	tʰitɕjuŋ	t̪ʰ i + tɕ j u ŋ	t̪ʰ i + tɕ.j u.ŋ	1313
+1321	Sherpa	Axe	t̪əɹi	t̪əɹi	t̪ ə + ɹ i	t̪ ə + ɹ i	
+1322	Sherpa	Rope	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	1374
+1323	Sherpa	Thread	rut̪ak	rut̪ak	r u + t̪ a k	r u + t̪ a.k	
+1324	Sherpa	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+1325	Sherpa	Cloth	madzja	madzja	m a + dz j a	m a + dz.j a	
+1326	Sherpa	Ring	sert̪ub	sert̪ub	s e r + t̪ u b	s e.r + t̪ u.b	
+1327	Sherpa	Sun	ɲima	ɲima	ɲ i + m a	ɲ i + m a	1418
+1328	Sherpa	Moon	əud̪əkar	əud̪əkar	əu + d̪ ə + g/k a r	əu + d̪ ə + g/k a.r	1327
+1329	Sherpa	Sky	nam	nam	n a m	n a.m	1392
+1330	Sherpa	Star	kərma	kərma	k ə/a r + m a	k ə/a.r + m a	1410
+1331	Sherpa	Star	kərdzjaŋ	kərdzjaŋ	k ə/a r + dz j a ŋ	k ə/a.r + dz.j a.ŋ	1410
+1332	Sherpa	Rain	tɕjarpa	tɕjarpa	tɕ j a r + p a	tɕ.j a.r + p a	
+1333	Sherpa	Water	tɕʰju	tɕʰju	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+1334	Sherpa	River	tsəŋbu	tsəŋbu	ts ə ŋ + b u	ts ə.ŋ + b u	1368
+1335	Sherpa	Cloud	mukpa	mukpa	m u k + p a	m u.k + p a	176
+1336	Sherpa	Lightening	tsilam	tsilam	ts i + l a m	ts i + l a.m	
+1337	Sherpa	Rainbow	dza	dza	dz a	dz a	1358
+1338	Sherpa	Wind	luŋ	luŋ	l u ŋ	l u.ŋ	1485
+1339	Sherpa	Stone	d̪o	d̪o	d̪ o	d̪ o	1416
+1340	Sherpa	Path	lam	lam	l a m	l a.m	
+1341	Sherpa	Sand	pʰema	pʰema	pʰ e + m a	pʰ e + m a	1382
+1342	Sherpa	Fire	me	me	m e	m e	1251
+1343	Sherpa	Smoke	t̪ʰut̪a	t̪ʰut̪a	t̪ʰ u + t̪ a	t̪ʰ u + t̪ a	
+1344	Sherpa	Ash	kʰəsit̪ʰala	kʰəsit̪ʰala	kʰ ə + s i + t̪ʰ a + l a	kʰ ə + s i + t̪ʰ a + l a	
+1345	Sherpa	Mud	t̪ʰala	t̪ʰala	t̪ʰ a + l a	t̪ʰ a + l a	1342
+1346	Sherpa	Dust	t̪ʰald̪uk	t̪ʰald̪uk	t̪ʰ a + l !Ø/a + d̪ u k	t̪ʰ a + l !Ø/a + d̪ u.k	1237
+1347	Sherpa	Gold	ser	ser	s e r	s e.r	
+1348	Sherpa	Tree	d̪oŋbu	d̪oŋbu	d̪ o ŋ + b u	d̪ o.ŋ + b u	1039
+1349	Sherpa	Leaf	d̪əma	d̪əma	d̪ ə + m a	d̪ ə + m a	9
+1350	Sherpa	Root	dzət̪ak	dzət̪ak	dz ə + t̪ a k	dz ə + t̪ a.k	1371
+1351	Sherpa	Thorn	tsʰermaŋ	tsʰermaŋ	tsʰ e r + m a !ŋ/Ø	tsʰ e.r + m a.!ŋ/Ø	
+1352	Sherpa	Flower	mend̪o	mend̪o	m e + ⁿd̪/d̪ o	m e + ⁿd̪/d̪ o	1257
+1353	Sherpa	Fruit	pʰalpʰul	pʰalpʰul	pʰ a l + pʰ u l	pʰ a.l + pʰ u.l	310
+1354	Sherpa	Mango	ãp	ãp	ã p	ã.p	
+1355	Sherpa	Banana	kera	kera	k e + r a	k e + r a	
+1356	Sherpa	Wheat (husked)	tʰa	tʰa	t̪ʰ a	t̪ʰ a	1091
+1357	Sherpa	Barley	dzəu	dzəu	!dz/ts əu	!dz/ts əu	1190
+1358	Sherpa	Rice (husked)	ɕjoɹ	ɕjoɹ	ɕ j o + ɹ !Ø/o !Ø/k	ɕ.j o + ɹ !Ø/o.!Ø/k	
+1359	Sherpa	Potato	ɹiɡi	ɹiɡi	ɹ i + g i	ɹ i + g i	
+1360	Sherpa	Eggplant	bənta	bənta	b ə n + t̪ a	b ə.n + t̪ a	
+1361	Sherpa	Groundnut	bəd̪əm	bəd̪əm	b ə + d̪ ə m	b ə + d̪ ə.m	
+1362	Sherpa	Chilli	mərtsi	mərtsi	m ə r + ts i	m ə.r + ts i	
+1363	Sherpa	Turmeric	ɲuŋa	ɲuŋa	ɲ u + ŋ a	ɲ u + ŋ a	
+1364	Sherpa	Garlic	ɡokpa	ɡokpa	g o k + p a	g o.k + p a	
+1365	Sherpa	Onion	pjadz	pjadz	p j a dz	p.j a.dz	
+1366	Sherpa	Cauliflower	kauli	kauli	k au + l i	k au + l i	
+1367	Sherpa	Tomato	ɡolbeda	ɡolbeda	g o l + b e + d̪ a	g o.l + b e + d̪ a	
+1368	Sherpa	Cabbage	bənd̪a	bənd̪a	b ə n + d̪ a	b ə.n + d̪ a	
+1369	Sherpa	Oil	n̪um	n̪um	!n̪/n u m	!n̪/n u.m	
+1370	Sherpa	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+1371	Sherpa	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+1372	Sherpa	Fat (of meat)	tsʰiluk	tsʰiluk	tsʰ i + l u k	tsʰ i + l u.k	
+1373	Sherpa	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+1374	Sherpa	Chicken	tsʰebruk	tsʰebruk	tsʰ e b + r u k	tsʰ e.b + r u.k	
+1375	Sherpa	Egg	tɕʰeɡoŋa	tɕʰeɡoŋa	tɕʰ e + g o + ŋ a	tɕʰ e + g o + ŋ a	1242
+1376	Sherpa	Cow	tɕʰuŋma	tɕʰuŋma	tɕʰ u ŋ + m a	tɕʰ u.ŋ + m a	
+1377	Sherpa	Buffalo	mesi	mesi	m e + !s/j i	m e + !s/j i	
+1378	Sherpa	Milk	oma	oma	o + m a	o + m a	
+1379	Sherpa	Horns	arkjok	arkjok	!a/r !r/a + k j o k	!a/r.!r/a + k.j o.k	1292
+1380	Sherpa	Tail	ŋəma	ŋəma	ŋ ə + m a	ŋ ə + m a	1419
+1381	Sherpa	Goat	ra	ra	r a	r a	1269
+1382	Sherpa	Dog	ki	ki	!k/kʰ i	!k/kʰ i	1231
+1383	Sherpa	Snake	dul	dul	d̪ u l	d̪ u.l	1401
+1384	Sherpa	Monkey	te	te	t̪ e	t̪ e	
+1385	Sherpa	Monkey	riu	riu	r iu	r iu	
+1386	Sherpa	Mosquito	lamkʰute	lamkʰute	l a m + !kʰ/k u + t̪ e	l a.m + !kʰ/k u + t̪ e	523
+1387	Sherpa	Ant	tʰəksəŋma	tʰəksəŋma	t̪ʰ ə k + s ə ŋ + m a	t̪ʰ ə.k + s ə.ŋ + m a	1183
+1388	Sherpa	Spider	bəldzjaŋ	bəldzjaŋ	b ə l + dz j a ŋ	b ə.l + dz.j a.ŋ	748
+1389	Sherpa	Name	min	min	m i n	m i.n	1344
+1390	Sherpa	Man	mi	mi	m i	m i	
+1391	Sherpa	Woman	pʰumpʰedza	pʰumpʰedza	pʰ u m + pʰ e + dz a	pʰ u.m + pʰ e + dz a	1134
+1392	Sherpa	Child	aŋa	aŋa	a + ŋ a	a + ŋ a	
+1393	Sherpa	Father	apa	apa	a + p a	a + p a	1249
+1394	Sherpa	Mother	ama	ama	a + m a	a + m a	1338
+1395	Sherpa	Older brother	atɕjo	atɕjo	a + tɕj/tɕ o	a + tɕj/tɕ o	
+1396	Sherpa	Younger brother	nuk	nuk	n u k	n u.k	
+1397	Sherpa	Older sister	adzi	adzi	a + dz i	a + dz i	
+1398	Sherpa	Younger sister	n̪um	n̪um	!n̪/n u m/k	!n̪/n u.m/k	
+1399	Sherpa	Son	pʰudʑjuŋ	pʰudʑjuŋ	pʰ u + dʑ j u ŋ	pʰ u + dʑ.j u.ŋ	1403
+1400	Sherpa	Daughter	pʰumu	pʰumu	pʰ u + m u	pʰ u + m u	1227
+1401	Sherpa	Husband	kʰjoa	kʰjoa	kʰ j o + Ø/w a	kʰ.j o + Ø/w a	1304
+1402	Sherpa	Wife	pʰermi	pʰermi	pʰ e r + m i	pʰ e.r + m i	1121
+1403	Sherpa	Boy	kʰjokpʰedza	kʰjokpʰedza	kʰ j o k + pʰ e + dz a	kʰ.j o.k + pʰ e + dz a	
+1404	Sherpa	Girl	pʰumpʰedza	pʰumpʰedza	pʰ u m + pʰ e + dz a	pʰ u.m + pʰ e + dz a	
+1405	Sherpa	Day	ɲima	ɲima	ɲ i + m a	ɲ i + m a	
+1406	Sherpa	Night	tsʰemu	tsʰemu	tsʰ e + m u	tsʰ e + m u	
+1407	Sherpa	Morning	tʰop	tʰop	t̪ʰ o p	t̪ʰ o.p	91
+1408	Sherpa	Noon	ɲimkʰuŋ	ɲimkʰuŋ	ɲ i + m !Ø/a + kʰ u ŋ	ɲ i + m !Ø/a + kʰ u.ŋ	
+1409	Sherpa	Evening	ɡuŋse	ɡuŋse	g u ŋ + s e	g u.ŋ + s e	
+1410	Sherpa	Yesterday	d̪aŋ	d̪aŋ	d̪ a ŋ	d̪ a.ŋ	1151
+1411	Sherpa	Today	ariŋ	ariŋ	a + r i ŋ	a + r i.ŋ	1439
+1412	Sherpa	Tomorrow	sala	sala	s a + l a	s a + l a	1031
+1413	Sherpa	Week	ɦapt̪a	ɦapt̪a	ɦ a p + t̪ a	ɦ a.p + t̪ a	
+1414	Sherpa	Month	la	la	l a	l a	
+1415	Sherpa	Year	lo	lo	l o	l o	1494
+1416	Sherpa	Old	ɲiŋba	ɲiŋba	ɲ i ŋ + b a	ɲ i.ŋ + b a	
+1417	Sherpa	New	samba	samba	s a + ⁿb/b a	s a + ⁿb/b a	1349
+1418	Sherpa	Good	lemu	lemu	l e + m u	l e + m u	1273
+1419	Sherpa	Bad	melokpa	melokpa	m e + l o k + p a	m e + l o.k + p a	112
+1420	Sherpa	Wet	tʰeŋa	tʰeŋa	t̪ʰ e ŋ + !Ø/ŋ a	t̪ʰ e.ŋ + !Ø/ŋ a	179
+1421	Sherpa	Dry	kaŋbu	kaŋbu	k a ŋ + b u	k a.ŋ + b u	1234
+1422	Sherpa	Long	riŋbu	riŋbu	r i ŋ + b u	r i.ŋ + b u	1321
+1423	Sherpa	Short	t̪ʰinme	t̪ʰinme	t̪ʰ i n + m e	t̪ʰ i.n + m e	1386
+1424	Sherpa	Hot	tsʰand̪i	tsʰand̪i	tsʰ a + ⁿd̪/d̪ i	tsʰ a + ⁿd̪/d̪ i	1296
+1425	Sherpa	Cold	tʰeŋa	tʰeŋa	t̪ʰ e ŋ + !Ø/ŋ a	t̪ʰ e.ŋ + !Ø/ŋ a	179
+1426	Sherpa	Right	laɡpaɡa	laɡpaɡa	l a g/k + p a + g a	l a.g/k + p a + g a	660
+1427	Sherpa	Left	pʰiloɡpa	pʰiloɡpa	pʰ i + l !o/a g/k + p a	pʰ i + l !o/a.g/k + p a	437
+1428	Sherpa	Near	t̪ʰakŋemo	t̪ʰakŋemo	t̪ʰ a k + ŋ e + m o	t̪ʰ a.k + ŋ e + m o	1345
+1429	Sherpa	Far	t̪ʰakriŋbu	t̪ʰakriŋbu	t̪ʰ a k + r i ŋ + b u	t̪ʰ a.k + r i.ŋ + b u	1247
+1430	Sherpa	Big	tɕʰend̪i	tɕʰend̪i	tɕʰ e + ⁿd̪/d̪ i	tɕʰ e + ⁿd̪/d̪ i	1195
+1431	Sherpa	Small	tikpe	tikpe	t̪ i k + p e	t̪ i.k + p e	733
+1432	Sherpa	Heavy	tsend̪i	tsend̪i	!ts/tɕ e + ⁿd̪/d̪ i	!ts/tɕ e + ⁿd̪/d̪ i	1290
+1433	Sherpa	Light	jeŋɡa	jeŋɡa	j e ŋ + g a	j e.ŋ + g a	1319
+1434	Sherpa	Above	jajo	jajo	j a + j o	j a + j o	4
+1435	Sherpa	Below	mamo	mamo	m a + m o	m a + m o	
+1436	Sherpa	White	karbu	karbu	k a r + b u	k a.r + b u	1472
+1437	Sherpa	Black	nakpu	nakpu	n a k + p u	n a.k + p u	1203
+1438	Sherpa	Red	mərbu	mərbu	m !ə/a r + b u	m !ə/a.r + b u	1360
+1439	Sherpa	One	tɕik	tɕik	tɕ i k	tɕ i.k	1354
+1440	Sherpa	Two	ɲi	ɲi	ɲ i	ɲ i	1452
+1441	Sherpa	Three	sum	sum	s u m	s u.m	1433
+1442	Sherpa	Four	ɕi	ɕi	ɕ i	ɕ i	1262
+1443	Sherpa	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+1444	Sherpa	Six	tʰuk	tʰuk	t̪ʰ u k	t̪ʰ u.k	1388
+1445	Sherpa	Seven	d̪in	d̪in	d̪ i n	d̪ i.n	1384
+1446	Sherpa	Eight	ɡeʔ	ɡeʔ	g e ʔ	g e.ʔ	1245
+1447	Sherpa	Nine	ɡu	ɡu	g u	g u	1351
+1448	Sherpa	Ten	tɕju	tɕju	tɕj/tɕ u	tɕj/tɕ u	1422
+1449	Sherpa	Eleven	tɕjudzik	tɕjudzik	tɕj/tɕ u + dz/tɕ i k	tɕj/tɕ u + dz/tɕ i.k	
+1450	Sherpa	Twelve	tɕjuŋi	tɕjuŋi	tɕj/tɕ u + ŋ i	tɕj/tɕ u + ŋ i	
+1451	Sherpa	Twenty	ɲiɕju	ɲiɕju	ɲ i + ɕ/tɕ u	ɲ i + ɕ/tɕ u	1451
+1452	Sherpa	One Hundred	ɡjatɕik	ɡjatɕik	g j a + tɕ i k	g.j a + tɕ i.k	1303
+1453	Sherpa	Who	su	su	s u	s u	1474
+1454	Sherpa	What	kʰaŋ	kʰaŋ	kʰ a ŋ	kʰ a.ŋ	1090
+1455	Sherpa	Where	kʰani	kʰani	kʰ a + n i	kʰ a + n i	1470
+1456	Sherpa	When	nam	nam	n a m	n a.m	
+1457	Sherpa	How many	kʰədzo	kʰədzo	!kʰ/k ə + dz o	!kʰ/k ə + dz o	
+1458	Sherpa	Which	kʰaŋd̪i	kʰaŋd̪i	!kʰ/k a ŋ + d̪ i	!kʰ/k a.ŋ + d̪ i	
+1459	Sherpa	This	d̪i	d̪i	d̪ i	d̪ i	1428
+1460	Sherpa	That	t̪ʰi	t̪ʰi	t̪ʰ i	t̪ʰ i	785
+1461	Sherpa	These	d̪iba	d̪iba	d̪ i + b a	d̪ i + b a	
+1462	Sherpa	Those	t̪ʰiba	t̪ʰiba	t̪ʰ i + b a	t̪ʰ i + b a	
+1463	Sherpa	Same	tɕikparaŋ	tɕikparaŋ	tɕ i k + !p/b a + r a ŋ	tɕ i.k + !p/b a + r a.ŋ	
+1464	Sherpa	Different	kʰut̪uk	kʰut̪uk	kʰ u + t̪ u k	kʰ u + t̪ u.k	
+1465	Sherpa	Whole	jukəi	jukəi	j u + k əi	j u + k əi	
+1466	Sherpa	Broken	tɕʰjakpa	tɕʰjakpa	tɕʰj/tɕʰ a k + p a	tɕʰj/tɕʰ a.k + p a	
+1467	Sherpa	Few	tsedzi	tsedzi	ts e + dz i	ts e + dz i	
+1468	Sherpa	Many	ala	ala	a + l a	a + l a	482
+1469	Sherpa	All	jukəj	jukəj	j u + k əi	j u + k əi	148
+1470	Sherpa	To eat	sap	sap	s a p	s a.p	1240
+1471	Sherpa	To bite	sət̪əbu	sət̪əbu	s ə + t̪ ə + b u	s ə + t̪ ə + b u	850
+1472	Sherpa	To be hungry	hləwalaŋgu	hləwalaŋgu	h l ə + w a + l a ŋ + g u	h.l ə + w a + l a.ŋ + g u	
+1473	Sherpa	To drink	t̪ʰuŋɡu	t̪ʰuŋɡu	t̪ʰ u ŋ + g u	t̪ʰ u.ŋ + g u	1232
+1474	Sherpa	To be thirsty	kombalaŋɡu	kombalaŋɡu	k o m + b a + l a ŋ + g u	k o.m + b a + l a.ŋ + g u	
+1475	Sherpa	To sleep	ŋiloku	ŋiloku	ŋ i + l o + k u	ŋ i + l o + k u	5
+1476	Sherpa	To lie	ɡjuru	ɡjuru	g j u + r u	g.j u + r u	
+1477	Sherpa	To sit	d̪et̪u	d̪et̪u	d̪ e + t̪ u	d̪ e + t̪ u	
+1478	Sherpa	To give	t̪eru	t̪eru	t̪ e Ø/r + r u	t̪ e.Ø/r + r u	1268
+1479	Sherpa	To burn	hreko	hreko	h r e + k !o/u	h.r e + k !o/u	
+1480	Sherpa	To die	ɕiu	ɕiu	ɕ i + u	ɕ i + u	1230
+1481	Sherpa	To kill	seku	seku	s e + k u	s e + k u	1311
+1482	Sherpa	To fly	pʰirku	pʰirku	pʰ i r + k u	pʰ i.r + k u	1259
+1483	Sherpa	To walk	dop	dop	!d/d̪ o p	!d/d̪ o.p	1453
+1484	Sherpa	To run	tɕʰjoŋɡu	tɕʰjoŋɡu	tɕʰj/tɕʰ o ŋ + g u	tɕʰj/tɕʰ o.ŋ + g u	967
+1485	Sherpa	To go	dop	dop	!d/d̪ o p	!d/d̪ o.p	
+1486	Sherpa	To come	uŋgu	uŋgu	u ŋ + g u	u.ŋ + g u	1223
+1487	Sherpa	To speak	ləbu	ləbu	l ə + b u	l ə + b u	
+1488	Sherpa	To hear/listen	ŋeŋɡu	ŋeŋɡu	ŋ e ŋ + g u	ŋ e.ŋ + g u	
+1489	Sherpa	To look	hlap	hlap	h l a p	h.l a.p	
+1490	Sherpa	I	ŋa	ŋa	ŋ a	ŋ a	1310
+1491	Sherpa	You (informal)	kʰjoroŋ	kʰjoroŋ	kʰ j o + r o ŋ	kʰ.j o + r o.ŋ	1430
+1492	Sherpa	You (formal)	kʰjoroŋ	kʰjoroŋ	kʰ j o + r o ŋ	kʰ.j o + r o.ŋ	
+1493	Sherpa	He	t̪ʰi	t̪ʰi	t̪ʰ i	t̪ʰ i	
+1494	Sherpa	She	t̪ʰi	t̪ʰi	t̪ʰ i	t̪ʰ i	
+1495	Sherpa	We (inclusive)	oraŋ	oraŋ	o + r a ŋ	o + r a.ŋ	1066
+1496	Sherpa	We (exclusive)	ŋiraŋ	ŋiraŋ	ŋ i + r a ŋ	ŋ i + r a.ŋ	
+1497	Sherpa	You (plural)	kʰiraŋd̪iba	kʰiraŋd̪iba	kʰ i + r a ŋ + d̪ i + b a	kʰ i + r a.ŋ + d̪ i + b a	1160
+1498	Sherpa	They	t̪ʰibad̪iba	t̪ʰibad̪iba	t̪ʰ i + b a + d̪ i + b a	t̪ʰ i + b a + d̪ i + b a	
+1499	Sherpa	Load	kʰurbu	kʰurbu	kʰ u r + b u	kʰ u.r + b u	
+1500	Sherpa	Flour (eaten as food)	tsamba	tsamba	ts a m + b a	ts a.m + b a	
+1501	Sherpa	Hailstone	sertɕjuŋma	sertɕjuŋma	s e r + tɕ j u ŋ + m a	s e.r + tɕ.j u.ŋ + m a	1280
+1502	Sherpa	Intestine	ɡema	ɡema	g e + m a	g e + m a	
+1503	Sherpa	Yard	t̪ʰaŋsa	t̪ʰaŋsa	t̪ʰ a ŋ + s a	t̪ʰ a.ŋ + s a	
+1504	Sherpa	To uproot	pʰəlɡu	pʰəlɡu	pʰ ə l + !g/k u	pʰ ə.l + !g/k u	
+1505	Sherpa	Oven	t̪ʰab	t̪ʰab	t̪ʰ a b	t̪ʰ a.b	
+1506	Sherpa	Heel	t̪iŋba	t̪iŋba	t̪ i ŋ + b a	t̪ i.ŋ + b a	
+1507	Sherpa	Spade	t̪oktsi	t̪oktsi	t̪ o k + ts i	t̪ o.k + ts i	
+1508	Sherpa	Horse	t̪a	t̪a	t̪ a	t̪ a	1294
+1509	Sherpa	To plough	moku	moku	m o + k u	m o + k u	
+1510	Sherpa	Bond	ɕju	ɕju	ɕ j u	ɕ.j u	
+1511	Sherpa	Beam (main wooden beam)	d̪uŋma	d̪uŋma	d̪ u ŋ + m a	d̪ u.ŋ + m a	
+1512	Sherpa	Rope used to tie animals	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	
+1513	Sherpa	Beard	ɡerok	ɡerok	g e + r o k	g e + r o.k	
+1514	Sherpa	To measure	t̪ʰabɡu	t̪ʰabɡu	!t̪ʰ/t̪ a b + !g/k u	!t̪ʰ/t̪ a.b + !g/k u	
+1515	Sherpa	Plank	jend̪ar	jend̪ar	j e n + d̪ a r	j e.n + d̪ a.r	
+1516	Sherpa	Hole	miksaŋ	miksaŋ	m i k + s a ŋ	m i.k + s a.ŋ	
+1517	Sherpa	Plough (noun)	t̪ʰoŋba	t̪ʰoŋba	t̪ʰ o ŋ + b a	t̪ʰ o.ŋ + b a	
+1518	Sherpa	Lid (cover)	kʰept̪ok	kʰept̪ok	kʰ e p + t̪ o k	kʰ e.p + t̪ o.k	
+1519	Sherpa	Bear	t̪ʰom	t̪ʰom	!t̪ʰ/t̪ o m	!t̪ʰ/t̪ o.m	
+1520	Sherpa	Ghost	rendi	rendi	!r/h !Ø/l e n + d̪ i	!r/h.!Ø/l e.n + d̪ i	
+1521	Sherpa	Manure	tɕʰja	tɕʰja	tɕʰ j a	tɕʰ.j a	
+1522	Sherpa	Bread	kuri	kuri	k u + r i	k u + r i	
+1523	Sherpa	Corpse	ro	ro	!r/ɹ o	!r/ɹ o	
+1524	Sherpa	Pig	pʰakpa	pʰakpa	pʰ a k + p a	pʰ a.k + p a	1356
+1525	Sherpa	Grains	duma	duma	!d/d̪ u + m a	!d/d̪ u + m a	
+1526	Sherpa	Stick	t̪oŋləŋ	t̪oŋləŋ	t̪ o ŋ + l ə ŋ	t̪ o.ŋ + l ə.ŋ	177
+1527	Sherpa	Sweat	ŋumn̪a	ŋumn̪a	ŋ u m + !n̪/n a	ŋ u.m + !n̪/n a	
+1528	Sherpa	To chew	leku	leku	l e + k u	l e + k u	867
+1529	Sherpa	To swallow	mit̪at̪oŋɡu	mit̪at̪oŋɡu	m i + t̪ a + t̪ o ŋ + !g/k u	m i + t̪ a + t̪ o.ŋ + !g/k u	
+1530	Sherpa	To throw	juku	juku	j u + k u	j u + k u	178
+1531	Tsum	Body	zu	zu	z u	z u	
+1532	Tsum	Head	ŋɡo	ŋɡo	ⁿg/g o	ⁿg/g o	1284
+1533	Tsum	Hair	tɹa	tɹa	t̪ ɹ a	t̪.ɹ a	1282
+1534	Tsum	Face	tɕeʔ	tɕeʔ	tɕ e ʔ	tɕ e.ʔ	
+1535	Tsum	Eye	miʔ	miʔ	m i ʔ	m i.ʔ	1246
+1536	Tsum	Ear	amdʑjoʔ	amdʑjoʔ	a m + dʑj/dʑ o ʔ	a.m + dʑj/dʑ o.ʔ	1239
+1537	Tsum	Nose	na	na	n a	n a	1352
+1538	Tsum	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+1539	Tsum	Teeth	sa	sa	s a	s a	534
+1540	Tsum	Tongue	tɕe	tɕe	tɕ e	tɕ e	1444
+1541	Tsum	Breast	paʔ	paʔ	p a ʔ	p a.ʔ	123
+1542	Tsum	Belly	pʰowa	pʰowa	pʰ o + w a	pʰ o + w a	1192
+1543	Tsum	Arm/Hand	lakpa	lakpa	l a k + p a	l a.k + p a	
+1544	Tsum	Elbow	tɹejoʔ	tɹejoʔ	t̪ ɹ e + j o ʔ	t̪.ɹ e + j o.ʔ	
+1545	Tsum	Palm	paɾa	paɾa	p a + ɹ a	p a + ɹ a	
+1546	Tsum	Finger	ziu	ziu	z iu	z iu	
+1547	Tsum	Fingernail	semu	semu	s e + m u	s e + m u	
+1548	Tsum	Leg	kaŋba	kaŋba	k a ŋ + b a	k a.ŋ + b a	
+1549	Tsum	Skin	koa	koa	k o + !Ø/w a	k o + !Ø/w a	726
+1550	Tsum	Bone	ɹiɡoʔ	ɹiɡoʔ	ɹ i + g o ʔ	ɹ i + g o.ʔ	1208
+1551	Tsum	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+1552	Tsum	Blood	tʰɹaʔ	tʰɹaʔ	t̪ʰ ɹ a ʔ	t̪ʰ.ɹ a.ʔ	1206
+1553	Tsum	Urine	tsiŋ	tsiŋ	ts i ŋ	ts i.ŋ	
+1554	Tsum	Faeces	aʔ	aʔ	a ʔ	a.ʔ	
+1555	Tsum	Village	jul	jul	j u l	j u.l	
+1556	Tsum	House	koɹtsa	koɹtsa	k o ɹ + ts a	k o.ɹ + ts a	405
+1557	Tsum	House	kʰim	kʰim	kʰ i m	kʰ i.m	1300
+1558	Tsum	Roof	kʰand̪oʔ	kʰand̪oʔ	kʰ a !n/ŋ + d̪ o ʔ	kʰ a.!n/ŋ + d̪ o.ʔ	
+1559	Tsum	Door	ko	ko	k o	k o	
+1560	Tsum	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+1561	Tsum	Broom	koŋmo	koŋmo	k o ŋ + m o	k o.ŋ + m o	
+1562	Tsum	Mortar	kombot	kombot	k o m + b o t̪	k o.m + b o.t̪	
+1563	Tsum	Pestle	tɕʰiu	tɕʰiu	tɕʰ iu	tɕʰ iu	
+1564	Tsum	Hammer	t̪ʰoa	t̪ʰoa	t̪ʰ o + !Ø/w a	t̪ʰ o + !Ø/w a	
+1565	Tsum	Knife	tʰɹiu	tʰɹiu	t̪ʰ ɹ iu	t̪ʰ.ɹ iu	1313
+1566	Tsum	Axe	t̪aɾi	t̪aɾi	t̪ a + ɹ i	t̪ a + ɹ i	
+1567	Tsum	Rope	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	1374
+1568	Tsum	Thread	kuɾt̪oʔ	kuɾt̪oʔ	k u ɹ + t̪ o ʔ	k u.ɹ + t̪ o.ʔ	
+1569	Tsum	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+1570	Tsum	Cloth	kølaʔ	kølaʔ	k ø + l a ʔ	k ø + l a.ʔ	
+1571	Tsum	Ring	sot̪ob	sot̪ob	s o + t̪ o b	s o + t̪ o.b	
+1572	Tsum	Sun	ɲiã	ɲiã	ɲ i + !Ø/m ã/a	ɲ i + !Ø/m ã/a	1418
+1573	Tsum	Moon	nd̪akar	nd̪akar	ⁿd/d̪ a + k a ɹ	ⁿd/d̪ a + k a.ɹ	1327
+1574	Tsum	Sky	n̪am	n̪am	!n̪/n a m	!n̪/n a.m	1392
+1575	Tsum	Star	kaɹma	kaɹma	k a ɹ + m a	k a.ɹ + m a	1410
+1576	Tsum	Rain	n̪amkjaus̩	n̪amkjaus̩	!n̪/n a m + k j aus̩/au	!n̪/n a.m + k.j aus̩/au	
+1577	Tsum	Water	tɕʰju	tɕʰju	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+1578	Tsum	River	tsaŋbo	tsaŋbo	ts a ŋ + b o	ts a.ŋ + b o	1368
+1579	Tsum	Cloud	mukpaʔ	mukpaʔ	m u k + p a ʔ	m u.k + p a.ʔ	176
+1580	Tsum	Lightening	loʔ	loʔ	l o ʔ	l o.ʔ	
+1581	Tsum	Rainbow	ndʑjabe	ndʑjabe	ⁿdʑj/dʑ a + b e	ⁿdʑj/dʑ a + b e	1358
+1582	Tsum	Wind	hlapa	hlapa	h l a + p a	h.l a + p a	1486
+1583	Tsum	Stone	t̪o	t̪o	t̪ o	t̪ o	1416
+1584	Tsum	Path	lam	lam	l a m	l a.m	
+1585	Tsum	Sand	ijãʔ	ijãʔ	i + j ã ʔ	i + j ã.ʔ	715
+1586	Tsum	Fire	me	me	m e	m e	1251
+1587	Tsum	Smoke	t̪upa	t̪upa	t̪ u + p a	t̪ u + p a	
+1588	Tsum	Ash	kozal	kozal	k o + !z/t̪ʰ a + l !Ø/a	k o + !z/t̪ʰ a + l !Ø/a	
+1589	Tsum	Mud	sa	sa	s a	s a	534
+1590	Tsum	Dust	t̪ʰala	t̪ʰala	t̪ʰ a + l a	t̪ʰ a + l a	1237
+1591	Tsum	Gold	seɾ	seɾ	s e ɹ	s e.ɹ	
+1592	Tsum	Tree	t̪oŋbo	t̪oŋbo	t̪ o ŋ + b o	t̪ o.ŋ + b o	1039
+1593	Tsum	Leaf	hlawa	hlawa	h l a + w a	h.l a + w a	11
+1594	Tsum	Root	tɹat̪oʔ	tɹat̪oʔ	t̪ ɹ a + t̪ o ʔ	t̪.ɹ a + t̪ o.ʔ	182
+1595	Tsum	Thorn	tsʰenma	tsʰenma	tsʰ e !n/ɹ + m a	tsʰ e.!n/ɹ + m a	
+1596	Tsum	Flower	mend̪oʔ	mend̪oʔ	m e + ⁿd̪/d̪ o ʔ	m e + ⁿd̪/d̪ o.ʔ	1257
+1597	Tsum	Fruit	ɕiŋd̪oʔ	ɕiŋd̪oʔ	ɕ i ŋ + d̪ o ʔ	ɕ i.ŋ + d̪ o.ʔ	1263
+1598	Tsum	Mango	ap	ap	ã p	ã.p	
+1599	Tsum	Banana	keɾa	keɾa	k e + ɹ a	k e + ɹ a	
+1600	Tsum	Wheat (husked)	ne	ne	n e	n e	1092
+1601	Tsum	Barley	tsau	tsau	ts au	ts au	1190
+1602	Tsum	Rice (husked)	ndɹe	ndɹe	!ⁿdɹ/d̪ ɹ e	!ⁿdɹ/d̪.ɹ e	
+1603	Tsum	Potato	keza	keza	k e + z a	k e + z a	
+1604	Tsum	Eggplant	bənda	bənda	b ə n + d̪ a	b ə.n + d̪ a	
+1605	Tsum	Groundnut	bəd̪am	bəd̪am	b ə + d̪ a m	b ə + d̪ a.m	
+1606	Tsum	Chilli	kʰulzan	kʰulzan	kʰ u l + z a n	kʰ u.l + z a.n	
+1607	Tsum	Turmeric	beset	beset	b e + s e t̪	b e + s e.t̪	
+1608	Tsum	Garlic	kokpa	kokpa	k o k + p a	k o.k + p a	
+1609	Tsum	Onion	tsoŋɡoʔ	tsoŋɡoʔ	ts o ŋ + g o ʔ	ts o.ŋ + g o.ʔ	
+1610	Tsum	Cauliflower	kauli	kauli	k au + l i	k au + l i	
+1611	Tsum	Tomato	ɡolbeɾa	ɡolbeɾa	g o l + b e + ɹ a	g o.l + b e + ɹ a	
+1612	Tsum	Cabbage	bənd̪a	bənd̪a	b ə n + d̪ a	b ə.n + d̪ a	
+1613	Tsum	Oil	n̪um	n̪um	!n̪/n u m	!n̪/n u.m	
+1614	Tsum	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+1615	Tsum	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+1616	Tsum	Fat (of meat)	tsʰilu	tsʰilu	tsʰ i + l u	tsʰ i + l u	
+1617	Tsum	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+1618	Tsum	Chicken	tɕjauɾu	tɕjauɾu	tɕj/tɕ au + ɹ u	tɕj/tɕ au + ɹ u	
+1619	Tsum	Egg	koã	koã	k o + !Ø/ŋ !ã/a	k o + !Ø/ŋ !ã/a	1242
+1620	Tsum	Cow	pawo	pawo	p a + w o	p a + w o	
+1621	Tsum	Buffalo	maje	maje	m a + j e	m a + j e	
+1622	Tsum	Milk	oã	oã	o + !Ø/m !ã/a	o + !Ø/m !ã/a	
+1623	Tsum	Horns	padʑjo	padʑjo	p a + dʑj/dʑ o	p a + dʑj/dʑ o	43
+1624	Tsum	Tail	ŋa	ŋa	ŋ a	ŋ a	1310
+1625	Tsum	Goat	ɹa	ɹa	ɹ a	ɹ a	1269
+1626	Tsum	Dog	ki	ki	!k/kʰ i	!k/kʰ i	1231
+1627	Tsum	Snake	tɹul	tɹul	t̪ ɹ u l	t̪.ɹ u.l	1401
+1628	Tsum	Monkey	tiu	tiu	t̪ iu	t̪ iu	
+1629	Tsum	Mosquito	lamkute	lamkute	l a m + k u + t̪ e	l a.m + k u + t̪ e	523
+1630	Tsum	Ant	tɹomu	tɹomu	t̪ ɹ o + m u	t̪.ɹ o + m u	1183
+1631	Tsum	Spider	tɹaula	tɹaula	t̪ ɹ au + l a	t̪.ɹ au + l a	60
+1632	Tsum	Name	min	min	m i n	m i.n	1344
+1633	Tsum	Man	mi	mi	m i	m i	
+1634	Tsum	Woman	poĩpiza	poĩpiza	p oĩ + p i + z a	p oĩ + p i + z a	1134
+1635	Tsum	Child	piza	piza	p i + z a	p i + z a	
+1636	Tsum	Father	awa	awa	a + w a	a + w a	1249
+1637	Tsum	Mother	ãã	ãã	!ã/a + !Ø/m !ã/a	!ã/a + !Ø/m !ã/a	1338
+1638	Tsum	Older brother	tɕjoʑjo	tɕjoʑjo	tɕj/tɕ o + ʑj/tɕ o	tɕj/tɕ o + ʑj/tɕ o	
+1639	Tsum	Younger brother	n̪oo	n̪oo	!n̪/n oː	!n̪/n oː	
+1640	Tsum	Older sister	aʑe	aʑe	a + ʑ e	a + ʑ e	
+1641	Tsum	Younger sister	poõ	poõ	p o/u + Ø/m õ/o	p o/u + Ø/m õ/o	
+1642	Tsum	Son	pu	pu	p u	p u	1403
+1643	Tsum	Daughter	poõ	poõ	p o/u + Ø/m õ/o	p o/u + Ø/m õ/o	1227
+1644	Tsum	Husband	kʰjowa	kʰjowa	kʰ j o + w a	kʰ.j o + w a	413
+1645	Tsum	Wife	tɕʰjumma	tɕʰjumma	tɕʰ j u m + m a	tɕʰ.j u.m + m a	74
+1646	Tsum	Boy	ɕjaɾa	ɕjaɾa	ɕ j a !Ø/ɹ + ɹ a	ɕ.j a.!Ø/ɹ + ɹ a	
+1647	Tsum	Girl	naʑjuŋ	naʑjuŋ	n a + ʑ j u ŋ	n a + ʑ.j u.ŋ	
+1648	Tsum	Day	ɕjakpa	ɕjakpa	ɕ j a k + p a	ɕ.j a.k + p a	
+1649	Tsum	Night	n̪umu	n̪umu	n u + m u	n u + m u	
+1650	Tsum	Morning	ɕjuo	ɕjuo	ɕ j uo	ɕ.j uo	1330
+1651	Tsum	Noon	ɲiŋɡuŋ	ɲiŋɡuŋ	ɲ i + !ŋ/m !Ø/a + g u ŋ	ɲ i + !ŋ/m !Ø/a + g u.ŋ	
+1652	Tsum	Evening	kuŋmu	kuŋmu	k u ŋ + m u	k u.ŋ + m u	
+1653	Tsum	Yesterday	nd̪aŋ	nd̪aŋ	ⁿd/d̪ a ŋ	ⁿd/d̪ a.ŋ	1151
+1654	Tsum	Today	t̪iɾiŋ	t̪iɾiŋ	t̪ i + ɹ i ŋ	t̪ i + ɹ i.ŋ	1438
+1655	Tsum	Tomorrow	ŋaɾt̪o	ŋaɾt̪o	ŋ a ɹ + t̪ o	ŋ a.ɹ + t̪ o	1028
+1656	Tsum	Week	t̪yndaʔ	t̪yndaʔ	t̪ y n + d̪ a ʔ	t̪ y.n + d̪ a.ʔ	
+1657	Tsum	Month	nd̪a	nd̪a	ⁿd/d̪ a	ⁿd/d̪ a	
+1658	Tsum	Year	lo	lo	l o	l o	1494
+1659	Tsum	Old	ɲiŋba	ɲiŋba	ɲ i ŋ + b a	ɲ i.ŋ + b a	
+1660	Tsum	New	samba	samba	s a + ⁿb/b a	s a + ⁿb/b a	1349
+1661	Tsum	Good	jamu	jamu	j a + m u	j a + m u	1272
+1662	Tsum	Bad	nepo	nepo	n e + p o	n e + p o	1185
+1663	Tsum	Wet	nd̪ompa	nd̪ompa	ⁿd/d̪ o m + p a	ⁿd/d̪ o.m + p a	1462
+1664	Tsum	Dry	kampo	kampo	k a m + p o	k a.m + p o	1234
+1665	Tsum	Long	ɹiŋmu	ɹiŋmu	ɹ i ŋ + m u	ɹ i.ŋ + m u	1321
+1666	Tsum	Short	t̪ʰyma	t̪ʰyma	t̪ʰ y + m a	t̪ʰ y + m a	1386
+1667	Tsum	Hot	tsʰand̪e	tsʰand̪e	tsʰ a + ⁿd̪/d̪ e	tsʰ a + ⁿd̪/d̪ e	1296
+1668	Tsum	Cold	ɹaŋd̪a	ɹaŋd̪a	ɹ a ŋ + d̪ a	ɹ a.ŋ + d̪ a	1218
+1669	Tsum	Right	jepa	jepa	j e + p a	j e + p a	1365
+1670	Tsum	Left	joma	joma	j o + m a	j o + m a	1317
+1671	Tsum	Near	tɹala	tɹala	t̪ ɹ a + l a	t̪.ɹ a + l a	541
+1672	Tsum	Far	t̪ʰaɹiŋmu	t̪ʰaɹiŋmu	t̪ʰ a + ɹ i ŋ + m u	t̪ʰ a + ɹ i.ŋ + m u	1247
+1673	Tsum	Big	tɕʰemo	tɕʰemo	tɕʰ e + m o	tɕʰ e + m o	1195
+1674	Tsum	Small	tɕʰyma	tɕʰyma	tɕʰ y + m a	tɕʰ y + m a	1397
+1675	Tsum	Heavy	tɕend̪e	tɕend̪e	tɕ e + ⁿd̪/d̪ e	tɕ e + ⁿd̪/d̪ e	1290
+1676	Tsum	Light	jaŋbo	jaŋbo	j a ŋ + b o	j a.ŋ + b o	1319
+1677	Tsum	Above	jau	jau	j a + !Ø/j u	j a + !Ø/j u	4
+1678	Tsum	Below	mau	mau	m a + !Ø/m u	m a + !Ø/m u	
+1679	Tsum	White	kaɹbo	kaɹbo	k a ɹ + b o	k a.ɹ + b o	1472
+1680	Tsum	Black	nakpo	nakpo	n a k + p o	n a.k + p o	1203
+1681	Tsum	Red	maɹbo	maɹbo	m a ɹ + b o	m a.ɹ + b o	1360
+1682	Tsum	One	tɕik	tɕik	tɕ i k	tɕ i.k	1354
+1683	Tsum	Two	ɲi	ɲi	ɲ i	ɲ i	1452
+1684	Tsum	Three	sum	sum	s u m	s u.m	1433
+1685	Tsum	Four	ʑi	ʑi	ʑ i	ʑ i	1262
+1686	Tsum	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+1687	Tsum	Six	tɹu	tɹu	t̪ ɹ u	t̪.ɹ u	1388
+1688	Tsum	Seven	t̪un	t̪un	t̪ u n	t̪ u.n	1384
+1689	Tsum	Eight	keʔ	keʔ	k e ʔ	k e.ʔ	1245
+1690	Tsum	Nine	ku	ku	k u	k u	1351
+1691	Tsum	Ten	tɕu	tɕu	tɕ u	tɕ u	1422
+1692	Tsum	Eleven	tɕutɕi	tɕutɕi	tɕ u + tɕ i Ø/k	tɕ u + tɕ i.Ø/k	
+1693	Tsum	Twelve	tɕuɲi	tɕuɲi	tɕ u + ɲ i	tɕ u + ɲ i	
+1694	Tsum	Twenty	ɲiɕu	ɲiɕu	ɲ i + ɕ/tɕ u	ɲ i + ɕ/tɕ u	1451
+1695	Tsum	One Hundred	kja	kja	k j a	k.j a	1303
+1696	Tsum	Who	su	su	s u	s u	1474
+1697	Tsum	What	tɕi	tɕi	tɕ i	tɕ i	1464
+1698	Tsum	Where	kana	kana	k a + n a	k a + n a	1470
+1699	Tsum	When	n̪am	n̪am	!n̪/n a m	!n̪/n a.m	
+1700	Tsum	How many	kanʑøʔ	kanʑøʔ	k a n + ʑ ø ʔ	k a.n + ʑ ø.ʔ	
+1701	Tsum	Which	kaŋd̪e	kaŋd̪e	k a ŋ + d̪ !e/i	k a.ŋ + d̪ !e/i	
+1702	Tsum	This	nd̪i	nd̪i	ⁿd/d̪ i	ⁿd/d̪ i	1428
+1703	Tsum	That	o	o	o	o	786
+1704	Tsum	These	nd̪id̪em	nd̪id̪em	ⁿd/d̪ i + d̪ e m	ⁿd/d̪ i + d̪ e.m	
+1705	Tsum	Those	od̪em	od̪em	o + d̪ e m	o + d̪ e.m	
+1706	Tsum	Same	od̪e	od̪e	o + d̪ !e/i	o + d̪ !e/i	
+1707	Tsum	Different	minta	minta	m i n + t̪ a	m i.n + t̪ a	
+1708	Tsum	Whole	tɕjop	tɕjop	tɕj/tɕ o p	tɕj/tɕ o.p	
+1709	Tsum	Broken	tɕʰjako	tɕʰjako	tɕʰj/tɕʰ a k + !Ø/k o	tɕʰj/tɕʰ a.k + !Ø/k o	
+1710	Tsum	Few	ɲyma	ɲyma	ɲ y + m a	ɲ y + m a	
+1711	Tsum	Many	kaʑin	kaʑin	k a + ʑ i n	k a + ʑ i.n	479
+1712	Tsum	All	tɕjop	tɕjop	tɕj/tɕ o p	tɕj/tɕ o.p	10
+1713	Tsum	To eat	so	so	s o	s o	1240
+1714	Tsum	To eat	seso	seso	s e + s o	s e + s o	1311
+1715	Tsum	To bite	sat̪ob	sat̪ob	s a + t̪ o b	s a + t̪ o.b	850
+1716	Tsum	To be hungry	t̪oso	t̪oso	t̪ o + s o	t̪ o + s o	
+1717	Tsum	To drink	t̪ʰuŋ	t̪ʰuŋ	t̪ʰ u ŋ	t̪ʰ u.ŋ	1232
+1718	Tsum	To be thirsty	kʰakomso	kʰakomso	kʰ a + k o m + s o	kʰ a + k o.m + s o	
+1719	Tsum	To sleep	ɲol	ɲol	ɲ !o/a l	ɲ !o/a.l	1394
+1720	Tsum	To sleep	ɲalso	ɲalso	ɲ a l + s o	ɲ a.l + s o	1394
+1721	Tsum	To lie	ləloɡjab	ləloɡjab	l ə + l o g/k + j a b	l ə + l o.g/k + j a.b	
+1722	Tsum	To sit	t̪øʔ	t̪øʔ	t̪ ø ʔ	t̪ ø.ʔ	
+1723	Tsum	To sit	t̪øso	t̪øso	t̪ ø + s o	t̪ ø + s o	
+1724	Tsum	To give	t̪øʔ	t̪øʔ	t̪ ø ʔ	t̪ ø.ʔ	1268
+1725	Tsum	To give	t̪eʔso	t̪eʔso	t̪ e ʔ + s o	t̪ e.ʔ + s o	1268
+1726	Tsum	To burn	tsʰiʔso	tsʰiʔso	tsʰ i ʔ + s o	tsʰ i.ʔ + s o	
+1727	Tsum	To die	ɕiso	ɕiso	ɕ i + s o	ɕ i + s o	1230
+1728	Tsum	To kill	seso	seso	s e + s o	s e + s o	1311
+1729	Tsum	To fly	pʰiɹso	pʰiɹso	pʰ i ɹ + s o	pʰ i.ɹ + s o	1259
+1730	Tsum	To walk	ndo	ndo	ⁿd/d̪ o	ⁿd/d̪ o	1453
+1731	Tsum	To run	tɕʰoŋdo	tɕʰoŋdo	tɕʰ o ŋ + d̪ o	tɕʰ o.ŋ + d̪ o	967
+1732	Tsum	To go	ndo	ndo	ⁿd/d̪ o	ⁿd/d̪ o	
+1733	Tsum	To go	pyso	pyso	p y + s o	p y + s o	
+1734	Tsum	To come	ɕjoʔ	ɕjoʔ	ɕ j o ʔ	ɕ.j o.ʔ	1224
+1735	Tsum	To come	leuʑuŋ	leuʑuŋ	l eu + ʑ u ŋ	l eu + ʑ u.ŋ	21
+1736	Tsum	To speak	lauso	lauso	l au + s o	l au + s o	
+1737	Tsum	To hear/listen	ɲan	ɲan	ɲ a n	ɲ a.n	
+1738	Tsum	To hear/listen	ɲanso	ɲanso	ɲ a n + s o	ɲ a.n + s o	
+1739	Tsum	To look	t̪ø	t̪ø	t̪ ø	t̪ ø	
+1740	Tsum	To look	t̪eso	t̪eso	t̪ e + s o	t̪ e + s o	
+1741	Tsum	I	ŋa	ŋa	ŋ a	ŋ a	1310
+1742	Tsum	You (informal)	kʰjøʔ	kʰjøʔ	kʰ j ø ʔ	kʰ.j ø.ʔ	1430
+1743	Tsum	You (formal)	kʰeɹaŋ	kʰeɹaŋ	kʰ !Ø/j e + ɹ a ŋ	kʰ.!Ø/j e + ɹ a.ŋ	
+1744	Tsum	He	kʰo	kʰo	kʰ o	kʰ o	
+1745	Tsum	She	mo	mo	m o	m o	
+1746	Tsum	We (inclusive)	ɲoɹoŋ	ɲoɹoŋ	ɲ o + ɹ o ŋ	ɲ o + ɹ o.ŋ	1066
+1747	Tsum	We (inclusive)	ɲoɹoŋkja	ɲoɹoŋkja	ɲ o + ɹ o ŋ + k j a	ɲ o + ɹ o.ŋ + k.j a	1066
+1748	Tsum	You (plural)	kʰeɹaŋkja	kʰeɹaŋkja	kʰ e + ɹ a ŋ + k j a	kʰ e + ɹ a.ŋ + k.j a	1159
+1749	Tsum	They	kʰuŋkja	kʰuŋkja	kʰ u ŋ + k j a	kʰ u.ŋ + k.j a	
+1750	Tsum	Flour (eaten as food)	pʰe	pʰe	pʰ e	pʰ e	
+1751	Tsum	Flour (eaten as food)	tsampa	tsampa	ts a m + p a	ts a.m + p a	
+1752	Tsum	Hailstone	seɹa	seɹa	s e + ɹ a	s e + ɹ a	1280
+1753	Tsum	Hailstone	tɕʰjaɹwa	tɕʰjaɹwa	tɕʰ j a + !ɹw/ɹ a	tɕʰ.j a + !ɹw/ɹ a	348
+1754	Tsum	Intestine	kjuã	kjuã	k j u + !Ø/m !ã/a	k.j u + !Ø/m !ã/a	
+1755	Tsum	Yard	ild̪oʔ	ild̪oʔ	i l + d̪ o ʔ	i.l + d̪ o.ʔ	
+1756	Tsum	To uproot	waʔ	waʔ	w a ʔ	w a.ʔ	
+1757	Tsum	To uproot	waso	waso	w a + s o	w a + s o	
+1758	Tsum	Oven	t̪ʰap	t̪ʰap	t̪ʰ a p	t̪ʰ a.p	
+1759	Tsum	Heel	t̪iŋba	t̪iŋba	t̪ i ŋ + b a	t̪ i.ŋ + b a	
+1760	Tsum	Spade	t̪otse	t̪otse	t̪ o + ts e	t̪ o + ts e	
+1761	Tsum	Horse	t̪a	t̪a	t̪ a	t̪ a	1294
+1762	Tsum	Load	kʰuɹu	kʰuɹu	kʰ u + ɹ u	kʰ u + ɹ u	
+1763	Tsum	To plough	t̪ʰoŋtsuso	t̪ʰoŋtsuso	t̪ʰ o ŋ + ts u + s o	t̪ʰ o.ŋ + ts u + s o	
+1764	Tsum	Bond	kamɡja	kamɡja	k a m + g j a	k a.m + g.j a	
+1765	Tsum	Beam (main wooden beam)	t̪uŋ	t̪uŋ	t̪ u ŋ	t̪ u.ŋ	
+1766	Tsum	Rope used to tie animals	mit̪aʔ	mit̪aʔ	m i + t̪ a ʔ	m i + t̪ a.ʔ	
+1767	Tsum	Beard	kja	kja	k j a	k.j a	
+1768	Tsum	To measure	t̪op	t̪op	t̪ o p	t̪ o.p	
+1769	Tsum	To measure	t̪ʰit̪aŋso	t̪ʰit̪aŋso	t̪ʰ i + t̪ a ŋ + s o	t̪ʰ i + t̪ a.ŋ + s o	
+1770	Tsum	Plank	ndɹap	ndɹap	ⁿd/d̪ ɹ a p	ⁿd/d̪.ɹ a.p	
+1771	Tsum	Hole	mijuŋ	mijuŋ	m i + j u ŋ	m i + j u.ŋ	
+1772	Tsum	Plough (noun)	t̪ʰoŋ	t̪ʰoŋ	t̪ʰ o ŋ	t̪ʰ o.ŋ	
+1773	Tsum	Lid (cover)	kʰaʑøʔ	kʰaʑøʔ	kʰ a + ʑ ø ʔ	kʰ a + ʑ ø.ʔ	
+1774	Tsum	Handle	joa	joa	j o + !Ø/w a	j o + !Ø/w a	
+1775	Tsum	Bear	t̪om	t̪om	t̪ o m	t̪ o.m	
+1776	Tsum	Ghost	hlande	hlande	h l a n + d̪ e	h.l a.n + d̪ e	
+1777	Tsum	Manure	lyʔ	lyʔ	l y ʔ	l y.ʔ	
+1778	Tsum	Bread	pakut	pakut	p a + k u t̪	p a + k u.t̪	
+1779	Tsum	Corpse	ɹo	ɹo	ɹ o	ɹ o	
+1780	Tsum	Corpse	pʰuŋbo	pʰuŋbo	pʰ u ŋ + b o	pʰ u.ŋ + b o	
+1781	Tsum	Pig	pʰaʔ	pʰaʔ	pʰ a ʔ	pʰ a.ʔ	1356
+1782	Tsum	Grains	lod̪oʔ	lod̪oʔ	l o + d̪ o ʔ	l o + d̪ o.ʔ	
+1783	Tsum	Grains	t̪ond̪o	t̪ond̪o	t̪ o + !ⁿd̪/d̪ o !Ø/ʔ	t̪ o + !ⁿd̪/d̪ o.!Ø/ʔ	
+1784	Tsum	Stick	perka	perka	p e ɹ + k a	p e.ɹ + k a	762
+1785	Tsum	Sweat	ŋulʑju	ŋulʑju	ŋ u l + ʑ j u	ŋ u.l + ʑ.j u	
+1786	Tsum	Sweat	ŋulnaʔ	ŋulnaʔ	ŋ u l + n a ʔ	ŋ u.l + n a.ʔ	
+1787	Tsum	To chew	tɹoʔ	tɹoʔ	t̪ ɹ o ʔ	t̪.ɹ o.ʔ	873
+1788	Tsum	To swallow	ɲiʔ	ɲiʔ	ɲ i !Ø/ʔ	ɲ i.!Ø/ʔ	
+1789	Tsum	To swallow	ɲitsoŋ	ɲitsoŋ	ɲ i + ts o ŋ	ɲ i + ts o.ŋ	
+1790	Tsum	To throw	kjut	kjut	k j u t̪	k.j u.t̪	1000
+1791	Tsum	To throw	kjuɾtsoŋ	kjuɾtsoŋ	k j u ɹ + ts o ŋ	k.j u.ɹ + ts o.ŋ	1000
+1792	Yolmo	Body	ndzuɡu	ndzuɡu	ⁿdz/dz u + g u	ⁿdz/dz u + g u	
+1793	Yolmo	Head	ŋɡo	ŋɡo	ⁿg/g o	ⁿg/g o	1284
+1794	Yolmo	Hair	tɹa	tɹa	t̪ ɹ a	t̪.ɹ a	1282
+1795	Yolmo	Face	t̪oŋba	t̪oŋba	t̪ o ŋ + b a	t̪ o.ŋ + b a	
+1796	Yolmo	Eye	mi	mi	m i	m i	1246
+1797	Yolmo	Ear	nəmdʑjo	nəmdʑjo	n ə m + dʑj/dʑ o	n ə.m + dʑj/dʑ o	1238
+1798	Yolmo	Nose	n̪aɾko	n̪aɾko	n aɾ/a + k o	n aɾ/a + k o	1352
+1799	Yolmo	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+1800	Yolmo	Teeth	so	so	s o	s o	1240
+1801	Yolmo	Tongue	tsele	tsele	!ts/tɕ e + l e	!ts/tɕ e + l e	1444
+1802	Yolmo	Breast	praŋɡo	praŋɡo	p r a ŋ + g o	p.r a.ŋ + g o	119
+1803	Yolmo	Breast	woma	woma	w o + m a	w o + m a	1211
+1804	Yolmo	Belly	pʰo	pʰo	pʰ o	pʰ o	1192
+1805	Yolmo	Arm/Hand	laɡpa	laɡpa	l a g/k + p a	l a.g/k + p a	
+1806	Yolmo	Elbow	laɡpatsi	laɡpatsi	l a g/k + p a + ts i	l a.g/k + p a + ts i	
+1807	Yolmo	Palm	laɡpan̪aŋ	laɡpan̪aŋ	l a g/k + p a + n a ŋ	l a.g/k + p a + n a.ŋ	
+1808	Yolmo	Finger	ndzuɡu	ndzuɡu	ⁿdz/dz u + g u	ⁿdz/dz u + g u	
+1809	Yolmo	Fingernail	simu	simu	s i + m u	s i + m u	
+1810	Yolmo	Leg	kaŋba	kaŋba	k a ŋ + b a	k a.ŋ + b a	
+1811	Yolmo	Skin	pawa	pawa	p a + w a	p a + w a	1389
+1812	Yolmo	Bone	ɹeko	ɹeko	ɹ e + k o	ɹ e + k o	1208
+1813	Yolmo	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+1814	Yolmo	Blood	tʰa	tʰa	t̪ʰ a	t̪ʰ a	1206
+1815	Yolmo	Urine	tsiŋ	tsiŋ	ts i ŋ	ts i.ŋ	
+1816	Yolmo	Faeces	kjakpa	kjakpa	k j a k + p a	k.j a.k + p a	
+1817	Yolmo	Village	jul	jul	j u l	j u.l	
+1818	Yolmo	House	kʰaŋba	kʰaŋba	kʰ a ŋ + b a	kʰ a.ŋ + b a	1301
+1819	Yolmo	Door	ko	ko	k o	k o	
+1820	Yolmo	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+1821	Yolmo	Broom	pʰjama	pʰjama	pʰ j a + m a	pʰ.j a + m a	
+1822	Yolmo	Mortar	tsʰib	tsʰib	tsʰ i b/p	tsʰ i.b/p	
+1823	Yolmo	Mortar	kuɡuɹ	kuɡuɹ	k u + g u ɹ	k u + g u.ɹ	
+1824	Yolmo	Pestle	t̪imbu	t̪imbu	t̪ i m + b u	t̪ i.m + b u	
+1825	Yolmo	Hammer	t̪ʰoa	t̪ʰoa	t̪ʰ o + !Ø/w a	t̪ʰ o + !Ø/w a	
+1826	Yolmo	Knife	kaɹt̪a	kaɹt̪a	k a ɹ + t̪ a	k a.ɹ + t̪ a	422
+1827	Yolmo	Axe	t̪aɾi	t̪aɾi	t̪ a + ɾ/ɹ i	t̪ a + ɾ/ɹ i	
+1828	Yolmo	Rope	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	1374
+1829	Yolmo	Thread	kupa	kupa	k u + p a	k u + p a	
+1830	Yolmo	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+1831	Yolmo	Cloth	kəptɕja	kəptɕja	k ə p + tɕ j a	k ə.p + tɕ.j a	
+1832	Yolmo	Ring	sit̪ub	sit̪ub	s i + t̪ u b	s i + t̪ u.b	
+1833	Yolmo	Sun	ɲima	ɲima	ɲ i + m a	ɲ i + m a	1418
+1834	Yolmo	Moon	nd̪awa	nd̪awa	ⁿd/d̪ a + w a	ⁿd/d̪ a + w a	1327
+1835	Yolmo	Sky	n̪əm	n̪əm	!n̪/n ə m	!n̪/n ə.m	1392
+1836	Yolmo	Star	kəɾma	kəɾma	k ə/a ɾ/ɹ + m a	k ə/a.ɾ/ɹ + m a	1410
+1837	Yolmo	Rain	n̪əm	n̪əm	n ə m	n ə.m	
+1838	Yolmo	Rain	n̪əmɡjabzin̪	n̪əmɡjabzin̪	n ə m + g j a b + z i n	n ə.m + g.j a.b + z i.n	
+1839	Yolmo	Water	tɕʰu	tɕʰu	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+1840	Yolmo	River	tsəŋbu	tsəŋbu	ts ə ŋ + b u	ts ə.ŋ + b u	1368
+1841	Yolmo	Cloud	mukpa	mukpa	m u k + p a	m u.k + p a	176
+1842	Yolmo	Lightening	tsiləm	tsiləm	ts i + l ə m	ts i + l ə.m	
+1843	Yolmo	Rainbow	za	za	z a	z a	1358
+1844	Yolmo	Wind	hlawa	hlawa	h l a + w a	h.l a + w a	1486
+1845	Yolmo	Stone	t̪o	t̪o	t̪ o	t̪ o	1416
+1846	Yolmo	Path	lam	lam	l a m	l a.m	
+1847	Yolmo	Sand	pema	pema	p e + m a	p e + m a	1382
+1848	Yolmo	Fire	me	me	m e	m e	1251
+1849	Yolmo	Smoke	t̪ipa	t̪ipa	t̪ i + p a	t̪ i + p a	
+1850	Yolmo	Ash	t̪ʰala	t̪ʰala	t̪ʰ a + l a	t̪ʰ a + l a	
+1851	Yolmo	Mud	sasa	sasa	s a + s a	s a + s a	534
+1852	Yolmo	Dust	t̪ʰalbi	t̪ʰalbi	t̪ʰ a + l !Ø/a + b i	t̪ʰ a + l !Ø/a + b i	1237
+1853	Yolmo	Gold	sir	sir	s i r	s i.r	
+1854	Yolmo	Tree	t̪uŋbu	t̪uŋbu	t̪ u ŋ + b u	t̪ u.ŋ + b u	1039
+1855	Yolmo	Leaf	loma	loma	l o + m a	l o + m a	1315
+1856	Yolmo	Root	tsaɾki	tsaɾki	ts a ɾ/ɹ + k i	ts a.ɾ/ɹ + k i	1371
+1857	Yolmo	Thorn	tsʰeɹma	tsʰeɹma	tsʰ e ɹ + m a	tsʰ e.ɹ + m a	
+1858	Yolmo	Flower	mend̪o	mend̪o	m e + ⁿd̪/d̪ o	m e + ⁿd̪/d̪ o	1257
+1859	Yolmo	Fruit	pʰəlbul	pʰəlbul	pʰ ə l + b u l	pʰ ə.l + b u.l	310
+1860	Yolmo	Mango	ãm	ãm	ã m	ã.m	
+1861	Yolmo	Banana	keɾa	keɾa	k e + ɾ/ɹ a	k e + ɾ/ɹ a	
+1862	Yolmo	Wheat (husked)	ne	ne	n e	n e	1092
+1863	Yolmo	Barley	dzəu	dzəu	!dz/ts əu	!dz/ts əu	1190
+1864	Yolmo	Rice (husked)	mbɹe	mbɹe	ⁿb/b ɹ e	ⁿb/b.ɹ e	
+1865	Yolmo	Potato	he	he	h e	h e	
+1866	Yolmo	Eggplant	bãⁿda	bãⁿda	b ã + !ⁿd/d̪ a	b ã + !ⁿd/d̪ a	
+1867	Yolmo	Groundnut	bəd̪əm	bəd̪əm	b ə + d̪ ə m	b ə + d̪ ə.m	
+1868	Yolmo	Chilli	mətsa	mətsa	m ə + ts a	m ə + ts a	
+1869	Yolmo	Turmeric	juŋa	juŋa	j u + ŋ a	j u + ŋ a	
+1870	Yolmo	Garlic	kɔkpa	kɔkpa	k ɔ k + p a	k ɔ.k + p a	
+1871	Yolmo	Onion	pjats	pjats	p j a ts	p.j a.ts	
+1872	Yolmo	Cauliflower	pʰulɡobi	pʰulɡobi	pʰ u l + g o + b i	pʰ u.l + g o + b i	
+1873	Yolmo	Tomato	ɡolbenda	ɡolbenda	g o l + b e n + d̪ a	g o.l + b e.n + d̪ a	
+1874	Yolmo	Cabbage	bənd̪aɡobi	bənd̪aɡobi	b ə n + d̪ a + g o + b i	b ə.n + d̪ a + g o + b i	
+1875	Yolmo	Oil	n̪um	n̪um	!n̪/n u m	!n̪/n u.m	
+1876	Yolmo	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+1877	Yolmo	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+1878	Yolmo	Fat (of meat)	tsʰilu	tsʰilu	tsʰ i + l u	tsʰ i + l u	
+1879	Yolmo	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+1880	Yolmo	Chicken	tɕjamubiɹu	tɕjamubiɹu	tɕj/tɕ a + m u + b i + ɹ u	tɕj/tɕ a + m u + b i + ɹ u	
+1881	Yolmo	Egg	koŋa	koŋa	k o + ŋ a	k o + ŋ a	1242
+1882	Yolmo	Cow	palaŋ	palaŋ	p a + l a ŋ	p a + l a.ŋ	
+1883	Yolmo	Buffalo	məji	məji	m ə + j i	m ə + j i	
+1884	Yolmo	Milk	woma	woma	w o + m a	w o + m a	
+1885	Yolmo	Horns	ɹowa	ɹowa	ɹ o + w a	ɹ o + w a	1292
+1886	Yolmo	Tail	ŋama	ŋama	ŋ a + m a	ŋ a + m a	1419
+1887	Yolmo	Goat	ra	ra	!r/ɹ a	!r/ɹ a	1269
+1888	Yolmo	Dog	kʰi	kʰi	kʰ i	kʰ i	1231
+1889	Yolmo	Snake	pɹul	pɹul	p ɹ u l	p.ɹ u.l	1401
+1890	Yolmo	Monkey	pɹeken	pɹeken	p ɹ e + k e n	p.ɹ e + k e.n	
+1891	Yolmo	Mosquito	mətɕʰəɹ	mətɕʰəɹ	m ə + tɕʰ ə ɹ	m ə + tɕʰ ə.ɹ	528
+1892	Yolmo	Ant	tomaŋ	tomaŋ	t̪ !Ø/ɹ o + m a ŋ	t̪.!Ø/ɹ o + m a.ŋ	1183
+1893	Yolmo	Spider	ɕwabu	ɕwabu	ɕ w a + b u	ɕ.w a + b u	58
+1894	Yolmo	Name	min	min	m i n	m i.n	1344
+1895	Yolmo	Man	mi	mi	m i	m i	
+1896	Yolmo	Woman	pimi	pimi	p i + m i	p i + m i	1121
+1897	Yolmo	Child	pedza	pedza	p e + dz a	p e + dz a	
+1898	Yolmo	Father	aba	aba	a + b a	a + b a	1249
+1899	Yolmo	Mother	ãmã	ãmã	!ã/a + m !ã/a	!ã/a + m !ã/a	1338
+1900	Yolmo	Older brother	ad̪a	ad̪a	a + d̪ a	a + d̪ a	
+1901	Yolmo	Younger brother	n̪o	n̪o	!n̪/n o	!n̪/n o	
+1902	Yolmo	Older sister	adʑi	adʑi	a + dʑ i	a + dʑ i	
+1903	Yolmo	Younger sister	n̪omo	n̪omo	!n̪/n o + m o	!n̪/n o + m o	
+1904	Yolmo	Son	pu	pu	p u	p u	1403
+1905	Yolmo	Daughter	pomo	pomo	p o/u + m o	p o/u + m o	1227
+1906	Yolmo	Husband	kʰjowa	kʰjowa	kʰ j o + w a	kʰ.j o + w a	413
+1907	Yolmo	Wife	pimi	pimi	p i + m i	p i + m i	1121
+1908	Yolmo	Boy	ɕjaɹa	ɕjaɹa	ɕj/ɕ a !Ø/ɹ + ɹ a	ɕj/ɕ a.!Ø/ɹ + ɹ a	
+1909	Yolmo	Girl	ɕjaɹma	ɕjaɹma	ɕj/ɕ a ɹ + m a	ɕj/ɕ a.ɹ + m a	
+1910	Yolmo	Day	ɲima	ɲima	ɲ i + m a	ɲ i + m a	
+1911	Yolmo	Night	kuŋmu	kuŋmu	k u ŋ + m u	k u.ŋ + m u	
+1912	Yolmo	Morning	ɕjole	ɕjole	ɕ j o + l e	ɕ.j o + l e	1330
+1913	Yolmo	Noon	ɲimapʰe	ɲimapʰe	ɲ i + m a + pʰ e	ɲ i + m a + pʰ e	
+1914	Yolmo	Evening	kuŋse	kuŋse	k u ŋ + s e	k u.ŋ + s e	
+1915	Yolmo	Yesterday	nd̪aŋ	nd̪aŋ	ⁿd/d̪ a ŋ	ⁿd/d̪ a.ŋ	1151
+1916	Yolmo	Today	t̪iɹiŋ	t̪iɹiŋ	t̪ i + ɹ i ŋ	t̪ i + ɹ i.ŋ	1438
+1917	Yolmo	Tomorrow	n̪aŋbaɹ	n̪aŋbaɹ	n a ŋ + b a ɹ	n a.ŋ + b a.ɹ	1442
+1918	Yolmo	Week	ɲimat̪in	ɲimat̪in	ɲ i + m a + t̪ i n	ɲ i + m a + t̪ i.n	
+1919	Yolmo	Month	nd̪owa	nd̪owa	ⁿd/d̪ !o/a + w a	ⁿd/d̪ !o/a + w a	
+1920	Yolmo	Year	lo	lo	l o	l o	1494
+1921	Yolmo	Old	ɲiŋba	ɲiŋba	ɲ i ŋ + b a	ɲ i.ŋ + b a	
+1922	Yolmo	New	samba	samba	s a + ⁿb/b a	s a + ⁿb/b a	1349
+1923	Yolmo	Good	jabu	jabu	j a + b u	j a + b u	1272
+1924	Yolmo	Bad	tsokpa	tsokpa	ts o k + p a	ts o.k + p a	116
+1925	Yolmo	Wet	taŋmu	taŋmu	t̪ a ŋ + m u	t̪ a.ŋ + m u	179
+1926	Yolmo	Dry	kambu	kambu	k a m + b u	k a.m + b u	1234
+1927	Yolmo	Long	ɹiŋbu	ɹiŋbu	ɹ i ŋ + b u	ɹ i.ŋ + b u	1321
+1928	Yolmo	Short	t̪ʰemu	t̪ʰemu	t̪ʰ e + m u	t̪ʰ e + m u	1386
+1929	Yolmo	Hot	tomu	tomu	t̪ o + m u	t̪ o + m u	398
+1930	Yolmo	Cold	taŋmu	taŋmu	t̪ a ŋ + m u	t̪ a.ŋ + m u	179
+1931	Yolmo	Right	joba	joba	j o + b a	j o + b a	1365
+1932	Yolmo	Left	joma	joma	j o + m a	j o + m a	1317
+1933	Yolmo	Near	poɰla	poɰla	p o ɰ + l a	p o.ɰ + l a	545
+1934	Yolmo	Far	t̪ʰaɹiŋbu	t̪ʰaɹiŋbu	t̪ʰ a + ɹ i ŋ + b u	t̪ʰ a + ɹ i.ŋ + b u	1247
+1935	Yolmo	Big	tɕʰjimbu	tɕʰjimbu	tɕʰj/tɕʰ i + ⁿb/b u	tɕʰj/tɕʰ i + ⁿb/b u	1195
+1936	Yolmo	Small	tsemu	tsemu	ts e + m u	ts e + m u	13
+1937	Yolmo	Heavy	tɕjand̪i	tɕjand̪i	tɕj/tɕ a + ⁿd̪/d̪ i	tɕj/tɕ a + ⁿd̪/d̪ i	1290
+1938	Yolmo	Light	jaŋd̪i	jaŋd̪i	j a ŋ + d̪ i	j a.ŋ + d̪ i	1319
+1939	Yolmo	Above	t̪ʰola	t̪ʰola	t̪ʰ o + l a	t̪ʰ o + l a	1
+1940	Yolmo	Below	t̪iŋla	t̪iŋla	t̪ i ŋ + l a	t̪ i.ŋ + l a	
+1941	Yolmo	White	kaɾpu	kaɾpu	k a ɾ/ɹ + p u	k a.ɾ/ɹ + p u	1472
+1942	Yolmo	Black	n̪akpu	n̪akpu	!n̪/n a k + p u	!n̪/n a.k + p u	1203
+1943	Yolmo	Red	maɹmu	maɹmu	m a ɹ + m u	m a.ɹ + m u	1360
+1944	Yolmo	One	tɕi	tɕi	tɕ i	tɕ i	1464
+1945	Yolmo	Two	ɲi	ɲi	ɲ i	ɲ i	1452
+1946	Yolmo	Three	sum	sum	s u m	s u.m	1433
+1947	Yolmo	Four	ʑi	ʑi	ʑ i	ʑ i	1262
+1948	Yolmo	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+1949	Yolmo	Six	tu	tu	t̪ u	t̪ u	1388
+1950	Yolmo	Seven	t̪in	t̪in	t̪ i n	t̪ i.n	1384
+1951	Yolmo	Eight	ke	ke	k e	k e	1245
+1952	Yolmo	Nine	ku	ku	k u	k u	1351
+1953	Yolmo	Ten	tɕju	tɕju	tɕj/tɕ u	tɕj/tɕ u	1422
+1954	Yolmo	Eleven	tɕjuʑi	tɕjuʑi	tɕj/tɕ u + ʑ/tɕ i	tɕj/tɕ u + ʑ/tɕ i	
+1955	Yolmo	Twelve	tɕiɲi	tɕiɲi	tɕ i + ɲ i	tɕ i + ɲ i	
+1956	Yolmo	Twenty	ɲiɕju	ɲiɕju	ɲ i + ɕ/tɕ u	ɲ i + ɕ/tɕ u	1451
+1957	Yolmo	Twenty	kʰaldʑi	kʰaldʑi	kʰ a l + dʑ/tɕ i	kʰ a.l + dʑ/tɕ i	1051
+1958	Yolmo	One Hundred	kjatɕi	kjatɕi	k j a + tɕ i	k.j a + tɕ i	1303
+1959	Yolmo	Who	su	su	s u	s u	1474
+1960	Yolmo	What	tɕi	tɕi	tɕ i	tɕ i	1464
+1961	Yolmo	Where	ka	ka	k a	k a	1470
+1962	Yolmo	When	n̪am	n̪am	!n̪/n a m	!n̪/n a.m	
+1963	Yolmo	How many	kadze	kadze	k a + dz e	k a + dz e	
+1964	Yolmo	Which	kãd̪i	kãd̪i	k ã + d̪ i	k ã + d̪ i	
+1965	Yolmo	This	nd̪i	nd̪i	ⁿd/d̪ i	ⁿd/d̪ i	1428
+1966	Yolmo	That	pʰarŋe	pʰarŋe	pʰ a r + ŋ e	pʰ a.r + ŋ e	791
+1967	Yolmo	These	nd̪ikja	nd̪ikja	ⁿd/d̪ i + k j a	ⁿd/d̪ i + k.j a	
+1968	Yolmo	Those	t̪apʰarŋed̪i	t̪apʰarŋed̪i	t̪ a + pʰ a r + ŋ e + d̪ i	t̪ a + pʰ a.r + ŋ e + d̪ i	
+1969	Yolmo	Same	andaɾaŋ	andaɾaŋ	a n + !d/t̪ a + ɾ/ɹ a ŋ	a.n + !d/t̪ a + ɾ/ɹ a.ŋ	
+1970	Yolmo	Different	alak	alak	a + l a k	a + l a.k	
+1971	Yolmo	Whole	t̪eptse	t̪eptse	t̪ e p + ts e	t̪ e.p + ts e	
+1972	Yolmo	Broken	tɕʰjakjo	tɕʰjakjo	tɕʰj/tɕʰ a k + j o	tɕʰj/tɕʰ a.k + j o	
+1973	Yolmo	Few	sipi	sipi	s i + p i	s i + p i	
+1974	Yolmo	Few	ɲemu	ɲemu	ɲ e + m u	ɲ e + m u	
+1975	Yolmo	Many	maŋbu	maŋbu	m a ŋ + b u	m a.ŋ + b u	1323
+1976	Yolmo	All	ndzamaɹaŋ	ndzamaɹaŋ	ⁿdz/dz a + m a + ɹ a ŋ	ⁿdz/dz a + m a + ɹ a.ŋ	1177
+1977	Yolmo	To eat	so	so	s o	s o	1240
+1978	Yolmo	To bite	muɹd̪uŋ	muɹd̪uŋ	m u ɹ + d̪ u ŋ	m u.ɹ + d̪ u.ŋ	1202
+1979	Yolmo	To be hungry	tepat̪od̪e	tepat̪od̪e	t̪ e + p a + t̪ o + d̪ e	t̪ e + p a + t̪ o + d̪ e	
+1980	Yolmo	To drink	t̪ʰuŋd̪uŋ	t̪ʰuŋd̪uŋ	t̪ʰ u ŋ + !d̪/t̪ʰ u ŋ	t̪ʰ u.ŋ + !d̪/t̪ʰ u.ŋ	1232
+1981	Yolmo	To be thirsty	komzewoŋd̪e	komzewoŋd̪e	k o m + z e + w o ŋ + d̪ e	k o.m + z e + w o.ŋ + d̪ e	
+1982	Yolmo	To sleep	ɲald̪uŋ	ɲald̪uŋ	ɲ a l + d̪ u ŋ	ɲ a.l + d̪ u.ŋ	1394
+1983	Yolmo	To lie	kaŋtsʰiɹiɲald̪uŋ	kaŋtsʰiɹiɲald̪uŋ	k a ŋ + tsʰ i + ɹ i + ɲ a l + d̪ u ŋ	k a ŋ + tsʰ i + ɹ i + ɲ a.l + d̪ u.ŋ	
+1984	Yolmo	To sit	t̪e	t̪e	t̪ e	t̪ e	
+1985	Yolmo	To give	t̪eɾt̪uŋ	t̪eɾt̪uŋ	t̪ e ɾ/ɹ + t̪ u ŋ	t̪ e.ɾ/ɹ + t̪ u.ŋ	1268
+1986	Yolmo	To burn	tsʰid̪e	tsʰid̪e	tsʰ i + d̪ e	tsʰ i + d̪ e	
+1987	Yolmo	To die	ɕid̪e	ɕid̪e	ɕ i + d̪ e	ɕ i + d̪ e	1230
+1988	Yolmo	To kill	set̪oŋ	set̪oŋ	s e + t̪ o ŋ	s e + t̪ o.ŋ	1311
+1989	Yolmo	To fly	loŋ	loŋ	l o ŋ	l o.ŋ	901
+1990	Yolmo	To walk	ndo	ndo	ⁿd/d̪ o	ⁿd/d̪ o	1453
+1991	Yolmo	To run	tɕʰjuŋd̪uŋ	tɕʰjuŋd̪uŋ	tɕʰj/tɕʰ u ŋ + d̪ u ŋ	tɕʰj/tɕʰ u.ŋ + d̪ u.ŋ	967
+1992	Yolmo	To go	soŋ	soŋ	s o ŋ	s o.ŋ	
+1993	Yolmo	To come	ɕjo	ɕjo	ɕ j o	ɕ.j o	1224
+1994	Yolmo	To speak	med̪oŋ	med̪oŋ	m e + d̪ o ŋ	m e + d̪ o.ŋ	
+1995	Yolmo	To hear/listen	ɲind̪oŋ	ɲind̪oŋ	ɲ i n + d̪ o ŋ	ɲ i.n + d̪ o.ŋ	
+1996	Yolmo	To look	t̪ed̪oŋ	t̪ed̪oŋ	t̪ e + d̪ o ŋ	t̪ e + d̪ o.ŋ	
+1997	Yolmo	I	ŋa	ŋa	ŋ a	ŋ a	1310
+1998	Yolmo	You (informal)	kʰje	kʰje	kʰ j e	kʰ.j e	1430
+1999	Yolmo	You (informal)	kʰjø	kʰjø	kʰ j ø	kʰ.j ø	1430
+2000	Yolmo	You (formal)	ɲiɹaŋla	ɲiɹaŋla	ɲ i + ɹ a ŋ + l a	ɲ i + ɹ a.ŋ + l a	
+2001	Yolmo	He	kʰe	kʰe	kʰ e	kʰ e	
+2002	Yolmo	She	mo	mo	m o	m o	
+2003	Yolmo	We (inclusive)	ɲiɹaŋ	ɲiɹaŋ	ɲ i + ɹ a ŋ	ɲ i + ɹ a.ŋ	1066
+2004	Yolmo	We (exclusive)	woɹaŋ	woɹaŋ	w o + ɹ a ŋ	w o + ɹ a.ŋ	
+2005	Yolmo	You (plural)	kʰjapəti	kʰjapəti	kʰ j a + p ə + t̪ i	kʰ.j a + p ə + t̪ i	1498
+2006	Yolmo	They	kʰuŋpʰatsi	kʰuŋpʰatsi	kʰ u ŋ + pʰ a + ts i	kʰ u.ŋ + pʰ a + ts i	
+2007	Yolmo	Flour (eaten as food)	tsamba	tsamba	ts a m + b a	ts a.m + b a	
+2008	Yolmo	Hailstone	seɹa	seɹa	s e + ɹ a	s e + ɹ a	1280
+2009	Yolmo	Intestine	kjuma	kjuma	k j u + m a	k.j u + m a	
+2010	Yolmo	Yard	t̪iŋ	t̪iŋ	t̪ i ŋ	t̪ i.ŋ	
+2011	Yolmo	Yard	sat̪iŋ	sat̪iŋ	s a + t̪ i ŋ	s a + t̪ i.ŋ	
+2012	Yolmo	To uproot	pod̪oŋ	pod̪oŋ	p o + d̪ o ŋ	p o + d̪ o.ŋ	
+2013	Yolmo	Oven	koa	koa	k o + a	k o + a	
+2014	Yolmo	Heel	kaŋbat̪iŋba	kaŋbat̪iŋba	k a ŋ + b a + t̪ i ŋ + b a	k a.ŋ + b a + t̪ i.ŋ + b a	
+2015	Yolmo	Spade	t̪uzi	t̪uzi	t̪ u + !z/ts i	t̪ u + !z/ts i	
+2016	Yolmo	Horse	t̪əbu	t̪əbu	t̪ ə + b u	t̪ ə + b u	1294
+2017	Yolmo	Load	kʰuɹpu	kʰuɹpu	kʰ u ɹ + p u	kʰ u.ɹ + p u	
+2018	Yolmo	To plough	med̪oŋ	med̪oŋ	m e + d̪ o ŋ	m e + d̪ o.ŋ	
+2019	Yolmo	Bond	t̪əməsu	t̪əməsu	t̪ ə + m !ə/a + s u	t̪ ə + m !ə/a + s u	
+2020	Yolmo	Bond	kamɡja	kamɡja	k a m + g j a	k a.m + g.j a	
+2021	Yolmo	Beam (main wooden beam)	t̪uŋma	t̪uŋma	t̪ u ŋ + m a	t̪ u.ŋ + m a	
+2022	Yolmo	Rope used to tie animals	ɹel	ɹel	ɹ e l	ɹ e.l	
+2023	Yolmo	Beard	kja	kja	k j a	k.j a	
+2024	Yolmo	To measure	t̪apt̪oŋ	t̪apt̪oŋ	t̪ a p + t̪ o ŋ	t̪ a.p + t̪ o.ŋ	
+2025	Yolmo	Plank	paŋlep	paŋlep	p a ŋ + l e p	p a.ŋ + l e.p	
+2026	Yolmo	Hole	om	om	o m	o m	
+2027	Yolmo	Plough (noun)	t̪ʰoŋ	t̪ʰoŋ	t̪ʰ o ŋ	t̪ʰ o.ŋ	
+2028	Yolmo	Lid (cover)	kʰaʑu	kʰaʑu	kʰ a + ʑ u	kʰ a + ʑ u	
+2029	Yolmo	Handle	jowa	jowa	j o + w a	j o + w a	
+2030	Yolmo	Bear	t̪om	t̪om	t̪ o m	t̪ o.m	
+2031	Yolmo	Ghost	hlandi	hlandi	h l a n + d̪ i	h.l a.n + d̪ i	
+2032	Yolmo	Manure	li	li	l i	l i	
+2033	Yolmo	Bread	kʰuɹa	kʰuɹa	kʰ u + ɹ a	kʰ u + ɹ a	
+2034	Yolmo	Corpse	ɹo	ɹo	ɹ o	ɹ o	
+2035	Yolmo	Pig	pʰa	pʰa	pʰ a	pʰ a	1356
+2036	Yolmo	Grains	ndu	ndu	ⁿd/d̪ u	ⁿd/d̪ u	
+2037	Yolmo	Stick	pɹeka	pɹeka	p !ɹ/e !Ø/ɹ + k a	p !ɹ/e.!Ø/ɹ + k a	762
+2038	Yolmo	Sweat	ŋuldʑju	ŋuldʑju	ŋ u l + dʑ j u	ŋ u.l + dʑ.j u	
+2039	Yolmo	To chew	muɾt̪oŋ	muɾt̪oŋ	m u !ɾ/ɹ + !t̪/d̪ !o/u ŋ	m u.!ɾ/ɹ + !t̪/d̪ !o/u.ŋ	1214
+2040	Yolmo	To swallow	ɲit̪uŋ	ɲit̪uŋ	ɲ i + t̪ u ŋ	ɲ i + t̪ u.ŋ	
+2041	Yolmo	To throw	kjuɹd̪uŋ	kjuɹd̪uŋ	k j u ɹ + d̪ u ŋ	k.j u.ɹ + d̪ u.ŋ	1000

@@ -1,10 +1,10 @@
-## Data Collection
+### Data Collection
 
 Data was collected, led by D. N. Dhakal, in 2018, using a questionnaire of 243 items. The original data as it was collected is available from the folder `raw/` in all files ending in `.tab` (`Kagate_240.tab`, etc.).
 
 The CLDF conversion was first done with this original data, but later, we converted the data from the first CLDF version to the EDICTOR format that we needed for the curation and annotation process. As a result, the data that is shared with the CLDF repository contains additional, at times manual, modifications. A comparison with the original data is always possible, specifically also, since the forms in the original collection are available from the column `Value` in the CSV file providing the forms in CLDF (`cldf/forms.csv`).
 
-## Requirements
+### Requirements
 
 We assume that you have Python in a fresh virtual environment available, as well as SQLite, and a basic terminal that offers a basic Shell (e.g. bash).
 
@@ -14,7 +14,7 @@ To install the required Python packages, type:
 pip install -e .
 ```
 
-## Comparison and Extension of the Data
+### Comparison and Extension of the Data
 
 Data was later compared and extended by adding data for Tibetic languages and Old Chinese from [Sagart et al. (2019)](https://github.com/lexibank/sagartst). The conversion was first carried out in a dedicated Python script, selecting those concepts present in both datasets. The CLDF version now provides a combined dataset with both the originally collected data (wordlists of about 240 items) and the comparative wordlist in which Tibetic languages and Old Chinese from Sagart et al. are added. Both versions (the original version of 8 varieties and the combined version with a limited number of concepts) can be retrieved with the commands we provide in the Makefile by typing:
 

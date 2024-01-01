@@ -1,0 +1,1886 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS_IN_SOURCE	TOKENS	COGID
+1	Gyalsumdo	Head	ko	ko	k o	k o	1284
+2	Gyalsumdo	Hair	ta	ta	t̪ a	t̪ a	1282
+3	Gyalsumdo	Eye	mi	mi	m i	m i	1246
+4	Gyalsumdo	Ear	amtɕo	amtɕo	a m + tɕ o	a.m + tɕ o	1239
+5	Gyalsumdo	Ear	amdʑo	amdʑo	a m + !dʑ/tɕ o	a.m + !dʑ/tɕ o	1239
+6	Gyalsumdo	Nose	naɾki	naɾki	n aɾ/a + k i	n aɾ/a + k i	1352
+7	Gyalsumdo	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+8	Gyalsumdo	Teeth	so	so	s o	s o	1446
+9	Gyalsumdo	Tongue	tɕemu	tɕemu	tɕ e + m u	tɕ e + m u	1444
+10	Gyalsumdo	Breast	oma	oma	o + m a	o + m a	1211
+11	Gyalsumdo	Breast	ɦoma	ɦoma	ɦ o + m a	ɦ o + m a	1211
+12	Gyalsumdo	Belly	toba	toba	t̪ o + b a	t̪ o + b a	1193
+13	Gyalsumdo	Skin	paɡpa	paɡpa	p a g/k + p a	p a.g/k + p a	1389
+14	Gyalsumdo	Skin	poɡo	poɡo	p o + g o	p o + g o	1389
+15	Gyalsumdo	Bone	ɹoɡo	ɹoɡo	ɹ o + g o	ɹ o + g o	1208
+16	Gyalsumdo	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+17	Gyalsumdo	Blood	tʰak	tʰak	t̪ʰ a k	t̪ʰ a.k	1206
+18	Gyalsumdo	House	kʰaŋpa	kʰaŋpa	kʰ a ŋ + p a	kʰ a.ŋ + p a	402
+19	Gyalsumdo	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+20	Gyalsumdo	Knife	kaɾt̪a	kaɾt̪a	k a ɾ + t̪ a	k a.ɾ + t̪ a	422
+21	Gyalsumdo	Rope	t̪ʰaɡpa	t̪ʰaɡpa	t̪ʰ a !g/k + p a	t̪ʰ a.!g/k + p a	1374
+22	Gyalsumdo	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+23	Gyalsumdo	Sun	ɲima	ɲima	ɲ i + m a	ɲ i + m a	1418
+24	Gyalsumdo	Moon	t̪akaɹ	t̪akaɹ	t̪ a + k a ɹ	t̪ a + k a.ɹ	1327
+25	Gyalsumdo	Moon	t̪awa	t̪awa	t̪ a + w a	t̪ a + w a	1327
+26	Gyalsumdo	Sky	nam	nam	n a m	n a.m	1392
+27	Gyalsumdo	Star	kaɹma	kaɹma	k a ɹ + m a	k a.ɹ + m a	1410
+28	Gyalsumdo	Water	tɕʰu	tɕʰu	tɕʰ u	tɕʰ u	1458
+29	Gyalsumdo	River	tsaŋpu	tsaŋpu	ts a ŋ + p u	ts a.ŋ + p u	1368
+30	Gyalsumdo	Cloud	muɡpa	muɡpa	m u g/k + p a	m u.g/k + p a	176
+31	Gyalsumdo	Rainbow	sa	sa	s a	s a	534
+32	Gyalsumdo	Wind	hlawa	hlawa	h l a + w a	h.l a + w a	1486
+33	Gyalsumdo	Stone	t̪o	t̪o	t̪ o	t̪ o	1416
+34	Gyalsumdo	Sand	pema	pema	p e + m a	p e + m a	1382
+35	Gyalsumdo	Fire	me	me	m e	m e	1251
+36	Gyalsumdo	Mud	sa	sa	s a	s a	534
+37	Gyalsumdo	Dust	t̪ʰala	t̪ʰala	t̪ʰ a + l a	t̪ʰ a + l a	1237
+38	Gyalsumdo	Tree	t̪oŋbu	t̪oŋbu	t̪ o ŋ + b u	t̪ o.ŋ + b u	1039
+39	Gyalsumdo	Leaf	lapt̪i	lapt̪i	l a p + t̪ i	l a.p + t̪ i	430
+40	Gyalsumdo	Leaf	loma	loma	l o + m a	l o + m a	1315
+41	Gyalsumdo	Root	pat̪a	pat̪a	p a + t̪ a	p a + t̪ a	686
+42	Gyalsumdo	Flower	mend̪o	mend̪o	m e + ⁿd̪/d̪ o	m e + ⁿd̪/d̪ o	1257
+43	Gyalsumdo	Fruit	ɕiŋd̪o	ɕiŋd̪o	ɕ i ŋ + d̪ o	ɕ i.ŋ + d̪ o	1263
+44	Gyalsumdo	Wheat (husked)	to	to	t̪ o	t̪ o	1091
+45	Gyalsumdo	Barley	tsəu	tsəu	ts əu	ts əu	1190
+46	Gyalsumdo	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+47	Gyalsumdo	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+48	Gyalsumdo	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+49	Gyalsumdo	Egg	koŋa	koŋa	k o + ŋ a	k o + ŋ a	1242
+50	Gyalsumdo	Horns	ɹakjo	ɹakjo	ɹ a + k j o	ɹ a + k.j o	1292
+51	Gyalsumdo	Tail	ŋama	ŋama	ŋ a + m a	ŋ a + m a	1419
+52	Gyalsumdo	Goat	ɹa	ɹa	ɹ a	ɹ a	1269
+53	Gyalsumdo	Dog	kjupu	kjupu	!k/kʰ j u + p u	!k/kʰ.j u + p u	1231
+54	Gyalsumdo	Dog	ki	ki	!k/kʰ i	!k/kʰ i	1231
+55	Gyalsumdo	Snake	tul	tul	t̪ u l	t̪ u.l	1401
+56	Gyalsumdo	Mosquito	lamkute	lamkute	l a m + k u + t̪ e	l a.m + k u + t̪ e	523
+57	Gyalsumdo	Ant	tomaɹ	tomaɹ	t̪ o + m a ɹ	t̪ o + m a.ɹ	1183
+58	Gyalsumdo	Spider	palba	palba	p a l + b a	p a.l + b a	748
+59	Gyalsumdo	Name	miŋ	miŋ	m i ŋ	m i.ŋ	1344
+60	Gyalsumdo	Woman	pomo	pomo	p o + m o	p o + m o	1227
+61	Gyalsumdo	Father	apa	apa	a + p a	a + p a	1249
+62	Gyalsumdo	Mother	ama	ama	a + m a	a + m a	1338
+63	Gyalsumdo	Son	pitsa	pitsa	p i + ts a	p i + ts a	1403
+64	Gyalsumdo	Daughter	pomo	pomo	p o + m o	p o + m o	1227
+65	Gyalsumdo	Husband	kʰjoka	kʰjoka	kʰ j o + k a	kʰ.j o + k a	1304
+66	Gyalsumdo	Husband	kʰjoɡa	kʰjoɡa	kʰ j o + g a	kʰ.j o + g a	1304
+67	Gyalsumdo	Wife	keɹme	keɹme	k e ɹ + m e	k e.ɹ + m e	71
+68	Gyalsumdo	Morning	namʑen	namʑen	n a m + ʑ e n	n a.m + ʑ e.n	92
+69	Gyalsumdo	Yesterday	t̪aŋ	t̪aŋ	t̪ a ŋ	t̪ a.ŋ	1151
+70	Gyalsumdo	Today	t̪iɹiŋ	t̪iɹiŋ	t̪ i + ɹ i ŋ	t̪ i + ɹ i.ŋ	1438
+71	Gyalsumdo	Tomorrow	ŋato	ŋato	ŋ a !Ø/ɹ + t̪ o	ŋ a.!Ø/ɹ + t̪ o	1028
+72	Gyalsumdo	Year	lo	lo	l o	l o	1494
+73	Gyalsumdo	New	sampa	sampa	s a + ⁿp/p a	s a + ⁿp/p a	1349
+74	Gyalsumdo	Good	jabu	jabu	j a + b u	j a + b u	1272
+75	Gyalsumdo	Bad	majabu	majabu	m a + j a + b u	m a + j a + b u	33
+76	Gyalsumdo	Wet	taŋmu	taŋmu	t̪ a ŋ + m u	t̪ a.ŋ + m u	179
+77	Gyalsumdo	Dry	kəmpu	kəmpu	k ə m + p u	k ə.m + p u	1234
+78	Gyalsumdo	Long	ɹiŋbu	ɹiŋbu	ɹ i ŋ + b u	ɹ i.ŋ + b u	1321
+79	Gyalsumdo	Short	t̪øma	t̪øma	t̪ ø + m a	t̪ ø + m a	1386
+80	Gyalsumdo	Hot	tsʰant̪i	tsʰant̪i	tsʰ a + ⁿt̪/t̪ i	tsʰ a + ⁿt̪/t̪ i	1296
+81	Gyalsumdo	Cold	taŋmu	taŋmu	t̪ a ŋ + m u	t̪ a.ŋ + m u	179
+82	Gyalsumdo	Right	jøba	jøba	j ø + b a	j ø + b a	1365
+83	Gyalsumdo	Left	jøma	jøma	j ø + m a	j ø + m a	1317
+84	Gyalsumdo	Near	ɲemu	ɲemu	ɲ e + m u	ɲ e + m u	1345
+85	Gyalsumdo	Far	t̪ʰaɹiŋbu	t̪ʰaɹiŋbu	t̪ʰ a + ɹ i ŋ + b u	t̪ʰ a + ɹ i.ŋ + b u	1247
+86	Gyalsumdo	Big	tɕʰjumbu	tɕʰjumbu	tɕʰj/tɕʰ u + ⁿb/b u	tɕʰj/tɕʰ u + ⁿb/b u	1195
+87	Gyalsumdo	Small	tɕema	tɕema	!tɕ/tɕʰ e + m a	!tɕ/tɕʰ e + m a	731
+88	Gyalsumdo	Heavy	tɕent̪i	tɕent̪i	tɕ e + ⁿt̪/t̪ i	tɕ e + ⁿt̪/t̪ i	1290
+89	Gyalsumdo	Light	jaŋmu	jaŋmu	j a ŋ + m u	j a.ŋ + m u	1319
+90	Gyalsumdo	Above	ɲala	ɲala	ɲ a + l a	ɲ a + l a	180
+91	Gyalsumdo	White	kaɹpu	kaɹpu	k a ɹ + p u	k a.ɹ + p u	1472
+92	Gyalsumdo	Black	nakpu	nakpu	n a k + p u	n a.k + p u	1203
+93	Gyalsumdo	Red	maɹpu	maɹpu	m a ɹ + p u	m a.ɹ + p u	1360
+94	Gyalsumdo	One	tɕiɡ	tɕiɡ	tɕ i g/k	tɕ i.g/k	1354
+95	Gyalsumdo	Two	ɲi	ɲi	ɲ i	ɲ i	1067
+96	Gyalsumdo	Three	sum	sum	s u m	s u.m	1433
+97	Gyalsumdo	Four	ɕi	ɕi	ɕ i	ɕ i	1230
+98	Gyalsumdo	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+99	Gyalsumdo	Six	tuk	tuk	!t̪/t̪ʰ u k	!t̪/t̪ʰ u.k	1388
+100	Gyalsumdo	Six	tʰuk	tʰuk	t̪ʰ u k	t̪ʰ u.k	1388
+101	Gyalsumdo	Seven	t̪yn	t̪yn	t̪ y n	t̪ y.n	1384
+102	Gyalsumdo	Eight	ke	ke	k e	k e	1245
+103	Gyalsumdo	Nine	ku	ku	k u	k u	1351
+104	Gyalsumdo	Ten	tɕu	tɕu	tɕ u !Ø/k	tɕ u.!Ø/k	1422
+105	Gyalsumdo	Twenty	ɲiɕu	ɲiɕu	ɲ i + ɕ/tɕ u !Ø/k	ɲ i + ɕ/tɕ u.!Ø/k	1451
+106	Gyalsumdo	One Hundred	kja	kja	k j a	k.j a	1303
+107	Gyalsumdo	Who	su	su	s u	s u	1474
+108	Gyalsumdo	What	tɕi	tɕi	tɕ i	tɕ i	1464
+109	Gyalsumdo	Where	kəɹu	kəɹu	k ə + ɹ u	k ə + ɹ u	1470
+110	Gyalsumdo	This	t̪i	t̪i	t̪ i	t̪ i	1428806
+111	Gyalsumdo	That	ot̪i	ot̪i	o + t̪ i	o + t̪ i	786
+112	Gyalsumdo	Many	maŋbu	maŋbu	m a ŋ + b u	m a.ŋ + b u	1323
+113	Gyalsumdo	All	t̪aɡɹaŋ	t̪aɡɹaŋ	t̪ a g/k + ɹ a ŋ	t̪ a.g/k + ɹ a.ŋ	154
+114	Gyalsumdo	To eat	se	se	s e	s e	1311
+115	Gyalsumdo	To bite	ale	ale	a + l e	a + l e	851
+116	Gyalsumdo	To bite	soɡjapb	soɡjapb	s o + g j a !pb/p	s o + g.j a.!pb/p	1198
+117	Gyalsumdo	To drink	t̪ʰuŋ	t̪ʰuŋ	t̪ʰ u ŋ	t̪ʰ u.ŋ	1232
+118	Gyalsumdo	To sleep	ɲal	ɲal	ɲ a l	ɲ a.l	1394
+119	Gyalsumdo	To give	t̪eɹ	t̪eɹ	t̪ e ɹ	t̪ e.ɹ	903
+120	Gyalsumdo	To die	ɕi	ɕi	ɕ i	ɕ i	1230
+121	Gyalsumdo	To kill	se	se	s e	s e	1311
+122	Gyalsumdo	To fly	pʰiɹ	pʰiɹ	pʰ i ɹ	pʰ i.ɹ	1259
+123	Gyalsumdo	To walk	kju	kju	k j u	k.j u	1013
+124	Gyalsumdo	To run	t̪aɹkjulaŋ	t̪aɹkjulaŋ	t̪ a ɹ + k j u + l a ŋ	t̪ a.ɹ + k.j u + l a.ŋ	20
+125	Gyalsumdo	To come	ɕjo	ɕjo	ɕ j o	ɕ.j o	1224
+126	Gyalsumdo	To come	oŋ	oŋ	o ŋ	o.ŋ	1223
+127	Gyalsumdo	I	ŋa	ŋa	ŋ a	ŋ a	1310
+128	Gyalsumdo	You (informal)	kʰe	kʰe	kʰ !Ø/j e	kʰ.!Ø/j e	1430
+129	Gyalsumdo	We (inclusive)	ɲi	ɲi	ɲ i	ɲ i	1067
+130	Gyalsumdo	We (inclusive)	ɲija	ɲija	ɲ i + j a	ɲ i + j a	1067
+131	Gyalsumdo	We (inclusive)	ɲiɹaŋ	ɲiɹaŋ	ɲ i + ɹ a ŋ	ɲ i + ɹ a.ŋ	1066
+132	Gyalsumdo	You (plural)	kʰija	kʰija	kʰ i + j a	kʰ i + j a	22
+133	Gyalsumdo	Hailstone	seɹa	seɹa	s e + ɹ a	s e + ɹ a	1280
+134	Gyalsumdo	Horse	t̪abu	t̪abu	t̪ a + b u	t̪ a + b u	1294
+135	Gyalsumdo	Pig	pʰakpa	pʰakpa	pʰ a k + p a	pʰ a.k + p a	1356
+136	Gyalsumdo	Stick	kjukpa	kjukpa	k j u k + p a	k.j u.k + p a	1413
+137	Gyalsumdo	To chew	leke	leke	l e + k e	l e + k e	867
+138	Gyalsumdo	To throw	jukɛ	jukɛ	j u + k ɛ	j u + k ɛ	178
+139	Gyalsumdo	To throw	juɹkɛ	juɹkɛ	j u ɹ + k ɛ	j u.ɹ + k ɛ	178
+140	Jirel	Head	ŋɡo	ŋɡo	ⁿg/g o	ⁿg/g o	1284
+141	Jirel	Hair	ŋɡokita	ŋɡokita	ⁿg/g o + k i + t̪ a	ⁿg/g o + k i + t̪ a	1282
+142	Jirel	Eye	mik	mik	m i k	m i.k	1246
+143	Jirel	Ear	n̪amdʑjok	n̪amdʑjok	n a m + dʑj/dʑ o k	n a.m + dʑj/dʑ o.k	1238
+144	Jirel	Nose	n̪əu	n̪əu	n əu	n əu	1352
+145	Jirel	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+146	Jirel	Teeth	sa	sa	s a	s a	1446
+147	Jirel	Tongue	tselak	tselak	!ts/tɕ e + l a k	!ts/tɕ e + l a.k	1444
+148	Jirel	Breast	n̪uma	n̪uma	n u + m a	n u + m a	1210
+149	Jirel	Belly	suba	suba	s u + b a	s u + b a	1193
+150	Jirel	Skin	kokt̪en	kokt̪en	k o k + t̪ e n	k o.k + t̪ e.n	726
+151	Jirel	Bone	ɹuba	ɹuba	ɹ u + b a	ɹ u + b a	1208
+152	Jirel	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+153	Jirel	Blood	tʰak	tʰak	t̪ʰ a k	t̪ʰ a.k	1206
+154	Jirel	House	kʰamba	kʰamba	kʰ a !m/ŋ + b a	kʰ a.!m/ŋ + b a	1301
+155	Jirel	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+156	Jirel	Knife	tɕʰuɹa	tɕʰuɹa	!tɕʰ/t̪ʰ u + ɹ a	!tɕʰ/t̪ʰ u + ɹ a	1313
+157	Jirel	Knife	tsəku	tsəku	ts ə + k u	ts ə + k u	1313
+158	Jirel	Rope	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	1374
+159	Jirel	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+160	Jirel	Sun	ɲima	ɲima	ɲ i + m a	ɲ i + m a	1418
+161	Jirel	Moon	nd̪aɡaɹ	nd̪aɡaɹ	ⁿd/d̪ a + g/k a ɹ	ⁿd/d̪ a + g/k a.ɹ	1327
+162	Jirel	Sky	n̪am	n̪am	!n̪/n a m	!n̪/n a.m	1392
+163	Jirel	Star	kaɹma	kaɹma	k a ɹ + m a	k a.ɹ + m a	1410
+164	Jirel	Water	tɕʰju	tɕʰju	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+165	Jirel	River	tʰaŋka	tʰaŋka	!tʰ/ts a ŋ + k a	!tʰ/ts a.ŋ + k a	1368
+166	Jirel	Cloud	mukpa	mukpa	m u k + p a	m u.k + p a	176
+167	Jirel	Rainbow	ndza	ndza	ⁿdz/dz a	ⁿdz/dz a	1358
+168	Jirel	Wind	hlaba	hlaba	h l a + b a	h.l a + b a	1486
+169	Jirel	Stone	nd̪o	nd̪o	ⁿd/d̪ o	ⁿd/d̪ o	1416
+170	Jirel	Sand	pʰesa	pʰesa	pʰ e + s a	pʰ e + s a	1382
+171	Jirel	Fire	me	me	m e	m e	1251
+172	Jirel	Mud	səbi	səbi	s ə + b i	s ə + b i	534
+173	Jirel	Dust	d̪ulo	d̪ulo	!d̪/t̪ʰ !u/a + l !o/a	!d̪/t̪ʰ !u/a + l !o/a	1237
+174	Jirel	Tree	nd̪oŋbo	nd̪oŋbo	ⁿd/d̪ o ŋ + b o	ⁿd/d̪ o.ŋ + b o	1039
+175	Jirel	Leaf	ɕjomak	ɕjomak	ɕj/ɕ o + m a k	ɕj/ɕ o + m a.k	2
+176	Jirel	Root	tsapɹen	tsapɹen	ts a + p ɹ e n	ts a + p.ɹ e.n	1371
+177	Jirel	Flower	mend̪ok	mend̪ok	m e + ⁿd/d̪ o k	m e + ⁿd/d̪ o.k	1257
+178	Jirel	Fruit	pʰəlpʰul	pʰəlpʰul	pʰ ə l + pʰ u l	pʰ ə.l + pʰ u.l	310
+179	Jirel	Wheat (husked)	tʰa	tʰa	t̪ʰ a	t̪ʰ a	1091
+180	Jirel	Barley	ndzəu	ndzəu	!ⁿdz/ts əu	!ⁿdz/ts əu	1190
+181	Jirel	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+182	Jirel	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+183	Jirel	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+184	Jirel	Egg	tsʰemend̪ok	tsʰemend̪ok	tsʰ e + m e n + d̪ o k	tsʰ e + m e.n + d̪ o.k	224
+185	Jirel	Egg	tsʰeɡoŋa	tsʰeɡoŋa	tsʰ e + g o + ŋ a	tsʰ e + g o + ŋ a	1242
+186	Jirel	Horns	ɹodʑjo	ɹodʑjo	ɹ o + dʑj/dʑ o	ɹ o + dʑj/dʑ o	1292
+187	Jirel	Tail	ŋama	ŋama	ŋ a + m a	ŋ a + m a	1419
+188	Jirel	Goat	ɹa	ɹa	ɹ a	ɹ a	1269
+189	Jirel	Dog	ki	ki	!k/kʰ i	!k/kʰ i	1231
+190	Jirel	Snake	ɹul	ɹul	ɹ u l	ɹ u.l	1401
+191	Jirel	Mosquito	lamkute	lamkute	l a m + k u + t̪ e	l a.m + k u + t̪ e	523
+192	Jirel	Ant	tʰoŋmatsi	tʰoŋmatsi	t̪ʰ o ŋ + m a + ts i	t̪ʰ o.ŋ + m a + ts i	1183
+193	Jirel	Spider	ŋɡwãpali	ŋɡwãpali	ⁿg/g w ã + p a + l i	ⁿg/g.w ã + p a + l i	61
+194	Jirel	Name	min̪	min̪	m i n	m i.n	1344
+195	Jirel	Woman	pʰemmemi	pʰemmemi	pʰ e m + m e + m i	pʰ e.m + m e + m i	1489
+196	Jirel	Father	aba	aba	a + b a	a + b a	1249
+197	Jirel	Mother	ãma	ãma	!ã/a + m a	!ã/a + m a	1338
+198	Jirel	Son	pʰudʑuŋ	pʰudʑuŋ	pʰ u + dʑ u ŋ	pʰ u + dʑ u.ŋ	1403
+199	Jirel	Daughter	pʰumu	pʰumu	pʰ u + m u	pʰ u + m u	1227
+200	Jirel	Husband	kʰjobo	kʰjobo	kʰ j o + b o	kʰ.j o + b o	1304
+201	Jirel	Wife	pʰemme	pʰemme	pʰ e m + m e	pʰ e.m + m e	1121
+202	Jirel	Morning	ŋomu	ŋomu	ŋ o + m u	ŋ o + m u	1331
+203	Jirel	Yesterday	nd̪aŋ	nd̪aŋ	ⁿd/d̪ a ŋ	ⁿd/d̪ a.ŋ	1151
+204	Jirel	Today	tʰəɹiŋ	tʰəɹiŋ	!tʰ/t̪ ə + ɹ i ŋ	!tʰ/t̪ ə + ɹ i.ŋ	1438
+205	Jirel	Tomorrow	ŋaɹo	ŋaɹo	ŋ a !Ø/ɹ + ɹ o	ŋ a.!Ø/ɹ + ɹ o	1028
+206	Jirel	Year	lo	lo	l o	l o	1494
+207	Jirel	New	samba	samba	s a + ⁿb/b a	s a + ⁿb/b a	1349
+208	Jirel	Good	lemu	lemu	l e + m u	l e + m u	1273
+209	Jirel	Bad	meleba	meleba	m e + l e + b a	m e + l e + b a	110
+210	Jirel	Wet	tʰəŋɡe	tʰəŋɡe	t̪ʰ ə ŋ + g e	t̪ʰ ə.ŋ + g e	179
+211	Jirel	Dry	kombo	kombo	k o m + !b/p o	k o.m + !b/p o	1234
+212	Jirel	Long	ɹimbu	ɹimbu	ɹ i !m/ŋ + b u	ɹ i.!m/ŋ + b u	1321
+213	Jirel	Short	t̪ʰumma	t̪ʰumma	t̪ʰ u m + m a	t̪ʰ u.m + m a	1386
+214	Jirel	Hot	tʰommu	tʰommu	t̪ʰ o + mː/m u	t̪ʰ o + mː/m u	398
+215	Jirel	Cold	tʰəŋɡe	tʰəŋɡe	t̪ʰ ə ŋ + g e	t̪ʰ ə.ŋ + g e	179
+216	Jirel	Right	samapa	samapa	s a + m a + p a	s a + m a + p a	660
+217	Jirel	Left	d̪ebɹepa	d̪ebɹepa	d̪ e + b ɹ e + p a	d̪ e + b.ɹ e + p a	437
+218	Jirel	Near	ɲibid̪u	ɲibid̪u	ɲ i + b i + d̪ u	ɲ i + b i + d̪ u	1345
+219	Jirel	Far	t̪ʰaɹid̪u	t̪ʰaɹid̪u	t̪ʰ a + ɹ i !Ø/n + d̪ u	t̪ʰ a + ɹ i.!Ø/n + d̪ u	1247
+220	Jirel	Far	t̪ʰaɹipa	t̪ʰaɹipa	t̪ʰ a + ɹ i !Ø/n + p a	t̪ʰ a + ɹ i.!Ø/n + p a	1247
+221	Jirel	Big	ndzod̪a	ndzod̪a	ⁿdz/dz o + d̪ a	ⁿdz/dz o + d̪ a	1195
+222	Jirel	Small	tikti	tikti	t̪ i k + t̪ i	t̪ i.k + t̪ i	733
+223	Jirel	Heavy	tsend̪e	tsend̪e	!ts/tɕ e + ⁿd̪/d̪ e	!ts/tɕ e + ⁿd̪/d̪ e	1290
+224	Jirel	Light	jeŋɡe	jeŋɡe	j e ŋ + g e	j e.ŋ + g e	1319
+225	Jirel	Above	jine	jine	j i + n e	j i + n e	3
+226	Jirel	White	kaɹmu	kaɹmu	k a ɹ + m u	k a.ɹ + m u	1472
+227	Jirel	Black	naɡpo	naɡpo	n a g/k + p o	n a.g/k + p o	1203
+228	Jirel	Red	məɹmu	məɹmu	m !ə/a ɹ + m u	m !ə/a.ɹ + m u	1360
+229	Jirel	One	nd̪okpəi	nd̪okpəi	ⁿd/d̪ o k + p əi	ⁿd/d̪ o.k + p əi	16
+230	Jirel	One	tɕik	tɕik	tɕ i k	tɕ i.k	1354
+231	Jirel	Two	ɲi	ɲi	ɲ i	ɲ i	1452
+232	Jirel	Three	sum	sum	s u m	s u.m	1433
+233	Jirel	Four	ɕi	ɕi	ɕ i	ɕ i	1262
+234	Jirel	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+235	Jirel	Six	tʰok	tʰok	t̪ʰ o k	t̪ʰ o.k	1388
+236	Jirel	Seven	nd̪uin	nd̪uin	ⁿd/d̪ ui n	ⁿd/d̪ ui.n	1384
+237	Jirel	Eight	ŋɡet̪	ŋɡet̪	ⁿg/g e t̪	ⁿg/g e.t̪	1245
+238	Jirel	Nine	ŋɡu	ŋɡu	ⁿg/g u	ⁿg/g u	1351
+239	Jirel	Ten	tɕut̪amba	tɕut̪amba	tɕ u + t̪ a m + b a	tɕ u + t̪ a.m + b a	1422
+240	Jirel	Twenty	kʰaldʑik	kʰaldʑik	kʰ a l + !dʑ/tɕ i k	kʰ a.l + !dʑ/tɕ i.k	1051
+241	Jirel	One Hundred	kʰalŋa	kʰalŋa	kʰ a l + ŋ a	kʰ a.l + ŋ a	594
+242	Jirel	Who	su	su	s u	s u	1474
+243	Jirel	What	tɕi	tɕi	tɕ i	tɕ i	1464
+244	Jirel	Where	kʰapa	kʰapa	kʰ a + p a	kʰ a + p a	1470
+245	Jirel	This	nd̪i	nd̪i	ⁿd/d̪ i	ⁿd/d̪ i	1428
+246	Jirel	That	t̪ʰe	t̪ʰe	t̪ʰ e	t̪ʰ e	785
+247	Jirel	Many	kalbe	kalbe	k a l + b e	k a.l + b e	478
+248	Jirel	All	ŋɡaŋe	ŋɡaŋe	ⁿg/g a + ŋ e	ⁿg/g a + ŋ e	1067
+249	Jirel	To eat	so	so	s o	s o	1240
+250	Jirel	To eat	soba	soba	s o + b a	s o + b a	1240
+251	Jirel	To eat	sabla	sabla	s a b + l a	s a.b + l a	1240
+252	Jirel	To bite	muɹtɕja	muɹtɕja	m u ɹ + tɕ j a	m u.ɹ + tɕ.j a	1202
+253	Jirel	To bite	muɹab	muɹab	m u !Ø/ɹ + ɹ a b	m u.!Ø/ɹ + ɹ a.b	1202
+254	Jirel	To drink	t̪ʰuŋ	t̪ʰuŋ	t̪ʰ u ŋ	t̪ʰ u.ŋ	1232
+255	Jirel	To drink	t̪ʰubat̪e	t̪ʰubat̪e	t̪ʰ u !Ø/ŋ + b a + t̪ e	t̪ʰ u.!Ø/ŋ + b a + t̪ e	1232
+256	Jirel	To sleep	ɲol	ɲol	ɲ !o/a l	ɲ !o/a.l	1394
+257	Jirel	To sleep	ɲalat̪e	ɲalat̪e	ɲ a !Ø/l + l a + t̪ e	ɲ a.!Ø/l + l a + t̪ e	1394
+258	Jirel	To give	mbind̪at̪e	mbind̪at̪e	ⁿb/b i n + d̪ a + t̪ e	ⁿb/b i.n + d̪ a + t̪ e	1266
+259	Jirel	To die	ɕjapt̪e	ɕjapt̪e	ɕ j a p + t̪ e	ɕ.j a.p + t̪ e	883
+260	Jirel	To kill	set̪at̪e	set̪at̪e	s e + t̪ a + t̪ e	s e + t̪ a + t̪ e	1311
+261	Jirel	To fly	pʰuɹ	pʰuɹ	pʰ u ɹ	pʰ u.ɹ	1259
+262	Jirel	To fly	pʰuɹat̪e	pʰuɹat̪e	pʰ u !Ø/ɹ + ɹ a + t̪ e	pʰ u.!Ø/ɹ + ɹ a + t̪ e	1259
+263	Jirel	To walk	kʰjom	kʰjom	kʰ j o m	kʰ.j o.m	1013
+264	Jirel	To walk	kʰjambat̪e	kʰjambat̪e	kʰ j a m + b a + t̪ e	kʰ.j a.m + b a + t̪ e	1013
+265	Jirel	To run	tɕʰwabat̪e	tɕʰwabat̪e	tɕʰ w a + b a + t̪ e	tɕʰ.w a + b a + t̪ e	19
+266	Jirel	To come	ɕjok	ɕjok	ɕ j o k	ɕ.j o.k	1224
+267	Jirel	I	ŋa	ŋa	ŋ a	ŋ a	1310
+268	Jirel	You (informal)	kʰo	kʰo	kʰ !Ø/j o	kʰ.!Ø/j o	1430
+269	Jirel	We (inclusive)	oɹoŋ	oɹoŋ	o + ɹ o ŋ	o + ɹ o.ŋ	1070
+270	Jirel	We (inclusive)	ŋɡaŋe	ŋɡaŋe	ⁿg/g a + ŋ e	ⁿg/g a + ŋ e	1067
+271	Jirel	You (plural)	kʰjokjon	kʰjokjon	kʰ j o + k j o n	kʰ.j o + k.j o n	1498
+272	Jirel	Hailstone	seɹe	seɹe	s e + ɹ e	s e + ɹ e	1280
+273	Jirel	Horse	ŋɡoda	ŋɡoda	ⁿg/g o + !d/t̪ a	ⁿg/g o + !d/t̪ a	1294
+274	Jirel	Pig	pʰakpa	pʰakpa	pʰ a k + p a	pʰ a.k + p a	1356
+275	Jirel	Stick	dəndi	dəndi	d̪ ə + ⁿd/d̪ i	d̪ ə + ⁿd/d̪ i	765
+276	Jirel	To chew	muɹat̪e	muɹat̪e	m u !Ø/ɹ + ɹ a + t̪ e	m u.!Ø/ɹ + ɹ a + t̪ e	1214
+277	Jirel	To throw	kjuɹat̪e	kjuɹat̪e	k j u ɹ + a + t̪ e	k.j u.ɹ + a + t̪ e	1000
+278	Kagate	Head	ɡo	ɡo	g o	g o	1284
+279	Kagate	Hair	ta	ta	t̪ a	t̪ a	1282
+280	Kagate	Eye	mi	mi	m i	m i	1246
+281	Kagate	Ear	namdzjo	namdzjo	n a m + dzj/dʑ o	n a.m + dzj/dʑ o	1238
+282	Kagate	Nose	nasum	nasum	n a + s u m	n a + s u.m	1352
+283	Kagate	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+284	Kagate	Teeth	so	so	s o	s o	1446
+285	Kagate	Tongue	tse	tse	!ts/tɕ e	!ts/tɕ e	1444
+286	Kagate	Breast	oma	oma	o + m a	o + m a	1211
+287	Kagate	Breast	praŋɡok	praŋɡok	p r a ŋ + g o k	p.r a.ŋ + g o.k	119
+288	Kagate	Belly	topa	topa	t̪ o + p a	t̪ o + p a	1193
+289	Kagate	Skin	koba	koba	k o + b a	k o + b a	726
+290	Kagate	Bone	rekok	rekok	r e + k o k	r e + k o.k	1208
+291	Kagate	Heart	niŋ	niŋ	n i ŋ	n i.ŋ	1288
+292	Kagate	Blood	tʰa	tʰa	t̪ʰ a	t̪ʰ a	1206
+293	Kagate	House	kʰim	kʰim	kʰ i m	kʰ i.m	1300
+294	Kagate	Firewood	siŋ	siŋ	s i ŋ	s i.ŋ	1254
+295	Kagate	Knife	kart̪a	kart̪a	k a r + t̪ a	k a.r + t̪ a	422
+296	Kagate	Rope	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	1374
+297	Kagate	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+298	Kagate	Sun	ŋima	ŋima	ŋ i + m a	ŋ i + m a	1418
+299	Kagate	Moon	d̪aɡarmu	d̪aɡarmu	d̪ a + g/k a r + m u	d̪ a + g/k a.r + m u	1327
+300	Kagate	Sky	nam	nam	n a m	n a.m	1392
+301	Kagate	Star	karma	karma	k a r + m a	k a.r + m a	1410
+302	Kagate	Water	tɕʰju	tɕʰju	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+303	Kagate	River	tsaŋbu	tsaŋbu	ts a ŋ + b u	ts a.ŋ + b u	1368
+304	Kagate	Cloud	mukpa	mukpa	m u k + p a	m u.k + p a	176
+305	Kagate	Rainbow	dzakormu	dzakormu	dz a + k o r + m u	dz a + k o.r + m u	1358
+306	Kagate	Wind	hlaba	hlaba	h l a + b a	h.l a + b a	1486
+307	Kagate	Stone	t̪o	t̪o	t̪ o	t̪ o	1416
+308	Kagate	Sand	pema	pema	p e + m a	p e + m a	1382
+309	Kagate	Fire	me	me	m e	m e	1251
+310	Kagate	Mud	sebi	sebi	s e + b i	s e + b i	534
+311	Kagate	Dust	t̪ʰaldzuk	t̪ʰaldzuk	t̪ʰ a + l Ø/a + dz u k	t̪ʰ a + l Ø/a + dz u.k	1237
+312	Kagate	Tree	t̪oŋbo	t̪oŋbo	t̪ o ŋ + b o	t̪ o.ŋ + b o	1039
+313	Kagate	Leaf	loma	loma	l o + m a	l o + m a	1315
+314	Kagate	Root	tsarŋe	tsarŋe	ts a r + ŋ e	ts a.r + ŋ e	1371
+315	Kagate	Flower	mend̪o	mend̪o	m e + ⁿd̪/d̪ o	m e + ⁿd̪/d̪ o	1257
+316	Kagate	Fruit	brumd̪o	brumd̪o	b r u m + d̪ o	b.r u.m + d̪ o	12
+317	Kagate	Wheat (husked)	nẽjã	nẽjã	n ẽ + j ã	n ẽ + j ã	1092
+318	Kagate	Barley	wa	wa	w a	w a	54
+319	Kagate	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+320	Kagate	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+321	Kagate	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+322	Kagate	Egg	tɕjamuɡoŋa	tɕjamuɡoŋa	tɕj/tɕ a + m u + !g/k o + ŋ a	tɕj/tɕ a + m u + !g/k o + ŋ a	1242
+323	Kagate	Horns	rwaɡa	rwaɡa	r w a + g a	r.w a + g a	1292
+324	Kagate	Tail	ŋama	ŋama	ŋ a + m a	ŋ a + m a	1419
+325	Kagate	Goat	ra	ra	r a	r a	1269
+326	Kagate	Dog	kʰi	kʰi	kʰ i	kʰ i	1231
+327	Kagate	Snake	prul	prul	p r u l	p.r u.l	1401
+328	Kagate	Mosquito	lamkʰute	lamkʰute	l a m + !kʰ/k u + t̪ e	l a.m + !kʰ/k u + t̪ e	523
+329	Kagate	Ant	tomak	tomak	t̪ o + m a k	t̪ o + m a.k	1183
+330	Kagate	Spider	kiɡor	kiɡor	k i + g o r	k i + g o.r	56
+331	Kagate	Name	min	min	m i n	m i.n	1344
+332	Kagate	Woman	penpidza	penpidza	p e n + p i + dz a	p e.n + p i + dz a	1134
+333	Kagate	Father	aba	aba	a + b a	a + b a	1249
+334	Kagate	Mother	ama	ama	a + m a	a + m a	1338
+335	Kagate	Son	pu	pu	p u	p u	1403
+336	Kagate	Daughter	pomo	pomo	p o/u + m o	p o/u + m o	1227
+337	Kagate	Husband	kʰjobo	kʰjobo	kʰ j o + b o	kʰ.j o + b o	1304
+338	Kagate	Wife	tɕʰjuŋma	tɕʰjuŋma	tɕʰj/tɕʰ u ŋ + m a	tɕʰj/tɕʰ u.ŋ + m a	74
+339	Kagate	Wife	peme	peme	p e !Ø/n + m e	p e.!Ø/n + m e	1121
+340	Kagate	Morning	ŋamu	ŋamu	ŋ a + m u	ŋ a + m u	1331
+341	Kagate	Yesterday	d̪aŋ	d̪aŋ	d̪ a ŋ	d̪ a.ŋ	1151
+342	Kagate	Today	t̪iriŋ	t̪iriŋ	t̪ i + r i ŋ	t̪ i + r i.ŋ	1438
+343	Kagate	Tomorrow	ŋart̪o	ŋart̪o	ŋ a r + t̪ o	ŋ a.r + t̪ o	1028
+344	Kagate	Year	lo	lo	l o	l o	1494
+345	Kagate	New	samba	samba	s a + ⁿb/b a	s a + ⁿb/b a	1349
+346	Kagate	Good	jabu	jabu	j a + b u	j a + b u	1272
+347	Kagate	Good	dzebu	dzebu	dz e + b u	dz e + b u	331
+348	Kagate	Bad	majiba	majiba	m a + j i + b a	m a + j i + b a	114
+349	Kagate	Bad	marikpa	marikpa	m a + r i k + !p/b a	m a + r i.k + !p/b a	111
+350	Kagate	Wet	taŋbu	taŋbu	t̪ a ŋ + b u	t̪ a.ŋ + b u	1081
+351	Kagate	Dry	kambu	kambu	k a m + b u	k a.m + b u	1234
+352	Kagate	Long	riŋbu	riŋbu	r i ŋ + b u	r i.ŋ + b u	1321
+353	Kagate	Short	t̪ʰimi	t̪ʰimi	t̪ʰ i + m i	t̪ʰ i + m i	1386
+354	Kagate	Hot	dombo	dombo	d̪ o + ⁿb/b o	d̪ o + ⁿb/b o	398
+355	Kagate	Cold	taŋmu	taŋmu	t̪ a ŋ + m u	t̪ a.ŋ + m u	179
+356	Kagate	Right	tɕjabutsʰole	tɕjabutsʰole	tɕ j a + b u + tsʰ o + l e	tɕ j a + b u + tsʰ o + l e	663
+357	Kagate	Left	joma	joma	j o + m a	j o + m a	1317
+358	Kagate	Near	t̪ʰama	t̪ʰama	t̪ʰ a + m a	t̪ʰ a + m a	1345
+359	Kagate	Far	t̪ʰariŋbu	t̪ʰariŋbu	t̪ʰ a + r i ŋ + b u	t̪ʰ a + r i.ŋ + b u	1247
+360	Kagate	Big	tɕʰjombo	tɕʰjombo	tɕʰj/tɕʰ o + ⁿb/b o	tɕʰj/tɕʰ o + ⁿb/b o	1195
+361	Kagate	Small	tɕʰimi	tɕʰimi	tɕʰ i + m i	tɕʰ i + m i	732
+362	Kagate	Heavy	tsend̪i	tsend̪i	!ts/tɕ e + ⁿd̪/d̪ i	!ts/tɕ e + ⁿd̪/d̪ i	1290
+363	Kagate	Light	jaŋd̪i	jaŋd̪i	j a ŋ + d̪ i	j a.ŋ + d̪ i	1319
+364	Kagate	Above	t̪ʰola	t̪ʰola	t̪ʰ o + l a	t̪ʰ o + l a	1
+365	Kagate	White	karmu	karmu	k a r + m u	k a.r + m u	1472
+366	Kagate	Black	nakpu	nakpu	n a k + p u	n a.k + p u	1203
+367	Kagate	Red	marmu	marmu	m a r + m u	m a.r + m u	1360
+368	Kagate	One	tɕi	tɕi	tɕ i Ø/k	tɕ i.Ø/k	1354
+369	Kagate	Two	ŋi	ŋi	ŋ i	ŋ i	1452
+370	Kagate	Three	sum	sum	s u m	s u.m	1433
+371	Kagate	Four	ɕi	ɕi	ɕ i	ɕ i	1262
+372	Kagate	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+373	Kagate	Six	tuk	tuk	t̪ u k	t̪ u.k	1388
+374	Kagate	Seven	t̪in	t̪in	t̪ i n	t̪ i.n	1384
+375	Kagate	Eight	ke	ke	k e	k e	1245
+376	Kagate	Nine	ku	ku	k u	k u	1351
+377	Kagate	Ten	tɕju	tɕju	tɕj/tɕ u	tɕj/tɕ u	1422
+378	Kagate	Twenty	ŋiɕju	ŋiɕju	ŋ i + ɕj/tɕ u	ŋ i + ɕj/tɕ u	1451
+379	Kagate	One Hundred	kjatɕik	kjatɕik	k j a + tɕ i k	k.j a + tɕ i.k	1303
+380	Kagate	Who	su	su	s u	s u	1474
+381	Kagate	What	tsi	tsi	!ts/tɕ i	!ts/tɕ i	1464
+382	Kagate	Where	kala	kala	k a + l a	k a + l a	1470
+383	Kagate	This	d̪ikʰo	d̪ikʰo	d̪ i + kʰ o	d̪ i + kʰ o	1428
+384	Kagate	That	wokʰo	wokʰo	w o + kʰ o	w o + kʰ o	786
+385	Kagate	Many	maŋbu	maŋbu	m a ŋ + b u	m a.ŋ + b u	1323
+386	Kagate	All	t̪ʰamdzer	t̪ʰamdzer	t̪ʰ a m + dz e r	t̪ʰ a.m + dz e.r	1175
+387	Kagate	To eat	sadze	sadze	s a + dz e	s a + dz e	1240
+388	Kagate	To bite	murtse	murtse	m u r + !ts/dz e	m u.r + !ts/dz e	1202
+389	Kagate	To drink	t̪ʰuŋdze	t̪ʰuŋdze	t̪ʰ u ŋ + dz e	t̪ʰ u.ŋ + dz e	1232
+390	Kagate	To sleep	ɲaldze	ɲaldze	ɲ a l + dz e	ɲ a.l + dz e	1394
+391	Kagate	To give	t̪ertse	t̪ertse	t̪ e r + !ts/dz e	t̪ e.r + !ts/dz e	1268
+392	Kagate	To die	ɕidze	ɕidze	ɕ i + dz e	ɕ i + dz e	1230
+393	Kagate	To kill	setse	setse	s e + !ts/dz e	s e + !ts/dz e	1311
+394	Kagate	To fly	urtse	urtse	!Ø/pʰ u r + !ts/dz e	!Ø/pʰ u.r + !ts/dz e	1259
+395	Kagate	To walk	dodze	dodze	d̪ o + dz e	d̪ o + dz e	1453
+396	Kagate	To run	tɕʰjoŋdze	tɕʰjoŋdze	tɕʰj/tɕʰ o ŋ + dz e	tɕʰj/tɕʰ o.ŋ + dz e	967
+397	Kagate	To come	oŋdze	oŋdze	o ŋ + dz e	o.ŋ + dz e	1223
+398	Kagate	I	ŋa	ŋa	ŋ a	ŋ a	1310
+399	Kagate	You (informal)	kʰjo	kʰjo	kʰ j o	kʰ.j o	1430
+400	Kagate	We (inclusive)	u	u	u	u	1070
+401	Kagate	You (plural)	kʰjokja	kʰjokja	kʰ j o + k j a	kʰ.j o + k.j a	1498
+402	Kagate	Hailstone	serak	serak	s e + r a k	s e + r a.k	1280
+403	Kagate	Horse	t̪abu	t̪abu	t̪ a + b u	t̪ a + b u	1294
+404	Kagate	Pig	pʰa	pʰa	pʰ a	pʰ a	1356
+405	Kagate	Stick	perka	perka	p e r + k a	p e.r + k a	762
+406	Kagate	To chew	d̪etse	d̪etse	d̪ e + !ts/dz e	d̪ e + !ts/dz e	868
+407	Kagate	To throw	kurtse	kurtse	k !Ø/j u r + !ts/dz e	k.!Ø/j u.r + !ts/dz e	1000
+408	Lowa	Head	ŋɡo	ŋɡo	ⁿg/g o	ⁿg/g o	1284
+409	Lowa	Head	ŋɡowa	ŋɡowa	ⁿg/g o + w a	ⁿg/g o + w a	1284
+410	Lowa	Hair	ʂɹa	ʂɹa	ʂ ɹ/ɾ a	ʂ.ɹ/ɾ a	1282
+411	Lowa	Eye	mik	mik	m i k	m i.k	1246
+412	Lowa	Ear	amtɕjoʔ	amtɕjoʔ	a m + tɕj/tɕ o ʔ	a.m + tɕj/tɕ o.ʔ	1239
+413	Lowa	Nose	na	na	n a	n a	1352
+414	Lowa	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+415	Lowa	Teeth	so	so	s o	s o	1446
+416	Lowa	Tongue	tsemu	tsemu	!ts/tɕ e + m u	!ts/tɕ e + m u	1444
+417	Lowa	Breast	oma	oma	o + m a	o + m a	1211
+418	Lowa	Belly	pʰowa	pʰowa	pʰ o + w a	pʰ o + w a	1192
+419	Lowa	Skin	pawo	pawo	p a + w o	p a + w o	1389
+420	Lowa	Bone	ɹuko	ɹuko	ɹ/ɾ u + k o	ɹ/ɾ u + k o	1208
+421	Lowa	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+422	Lowa	Blood	tʰak	tʰak	t̪ʰ a k	t̪ʰ a.k	1206
+423	Lowa	House	kʰaŋpa	kʰaŋpa	kʰ a ŋ + p a	kʰ a.ŋ + p a	1301
+424	Lowa	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+425	Lowa	Knife	tʰi	tʰi	t̪ʰ i	t̪ʰ i	1313
+426	Lowa	Rope	t̪ʰaɡpa	t̪ʰaɡpa	t̪ʰ a g/k + p a	t̪ʰ a.g/k + p a	1374
+427	Lowa	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+428	Lowa	Sun	ɲima	ɲima	ɲ i + m a	ɲ i + m a	1418
+429	Lowa	Moon	nd̪a	nd̪a	ⁿd/d a	ⁿd/d a	1327
+430	Lowa	Sky	nam	nam	n a m	n a.m	1392
+431	Lowa	Star	kaɹma	kaɹma	k aɹ/a + m a	k aɹ/a + m a	1410
+432	Lowa	Water	tɕʰju	tɕʰju	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+433	Lowa	River	tsaŋpo	tsaŋpo	ts a ŋ + p o	ts a.ŋ + p o	1368
+434	Lowa	Cloud	ʂɹiŋpa	ʂɹiŋpa	ʂ ɹ/ɾ i ŋ + p a	ʂ.ɹ/ɾ i.ŋ + p a	1216
+435	Lowa	Rainbow	ndʑja	ndʑja	ⁿdʑj/dʑ a	ⁿdʑj/dʑ a	1358
+436	Lowa	Wind	luŋ	luŋ	l u ŋ	l u.ŋ	1485
+437	Lowa	Wind	luŋpo	luŋpo	l u ŋ + p o	l u.ŋ + p o	1485
+438	Lowa	Stone	t̪okoŋ	t̪okoŋ	t̪ o + k o ŋ	t̪ o + k o.ŋ	1416
+439	Lowa	Sand	pema	pema	p e + m a	p e + m a	1382
+440	Lowa	Fire	me	me	m e	m e	1251
+441	Lowa	Mud	n̪d̪ampak	n̪d̪ampak	ⁿd/d a m + p a k	ⁿd/d a.m + p a.k	1342
+442	Lowa	Mud	sa	sa	s a	s a	534
+443	Lowa	Dust	t̪ʰala	t̪ʰala	t̪ʰ a + l a	t̪ʰ a + l a	1237
+444	Lowa	Tree	t̪oŋbo	t̪oŋbo	t̪ o ŋ + b o	t̪ o.ŋ + b o	1039
+445	Lowa	Leaf	loma	loma	l o + m a	l o + m a	1315
+446	Lowa	Root	tsawa	tsawa	ts a + w a	ts a + w a	1371
+447	Lowa	Flower	ment̪o	ment̪o	m e + ⁿt̪/t̪ o !Ø/ʔ	m e + ⁿt̪/t̪ o.!Ø/ʔ	1257
+448	Lowa	Fruit	ɕiŋt̪oʔ	ɕiŋt̪oʔ	ɕ i ŋ + t̪ o ʔ	ɕ i.ŋ + t̪ o.ʔ	1263
+449	Lowa	Wheat (husked)	to	to	t̪ o	t̪ o	1091
+450	Lowa	Barley	ne	ne	n e	n e	53
+451	Lowa	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1296
+452	Lowa	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+453	Lowa	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+454	Lowa	Egg	koŋa	koŋa	k o + ŋ a	k o + ŋ a	1242
+455	Lowa	Horns	ɹakjoʔ	ɹakjoʔ	ɹ/ɾ a + k j o ʔ	ɹ/ɾ a + k.j o.ʔ	1292
+456	Lowa	Tail	ŋama	ŋama	ŋ a + m a	ŋ a + m a	1419
+457	Lowa	Goat	ɹa	ɹa	!ɹ/ɾ a	!ɹ/ɾ a	1269
+458	Lowa	Dog	kʰi	kʰi	kʰ i	kʰ i	1231
+459	Lowa	Snake	tu	tu	t̪ u	t̪ u	1401
+460	Lowa	Snake	tʰu	tʰu	!tʰ/t̪ u	!tʰ/t̪ u	1401
+461	Lowa	Mosquito	t̪uŋdaŋ	t̪uŋdaŋ	t̪ u ŋ + d a ŋ	t̪ u.ŋ + d a.ŋ	1333
+462	Lowa	Ant	mbudaɲa	mbudaɲa	ⁿb/b u + d a + ɲ a	ⁿb/b u + d a + ɲ a	49
+463	Lowa	Spider	mbut̪om	mbut̪om	ⁿb/b u + t̪ o m	ⁿb/b u + t̪ o.m	1406
+464	Lowa	Name	miŋ	miŋ	m i ŋ	m i.ŋ	1344
+465	Lowa	Woman	keme	keme	k e + m e	k e + m e	71
+466	Lowa	Father	ake	ake	a + k e	a + k e	64
+467	Lowa	Mother	ama	ama	a + m a	a + m a	1338
+468	Lowa	Son	pidza	pidza	p i + dz a	p i + dz a	1403
+469	Lowa	Daughter	pomo	pomo	p o + m o	p o + m o	1227
+470	Lowa	Husband	kʰjoɡa	kʰjoɡa	kʰ j o + g a	kʰ.j o + g a	1304
+471	Lowa	Wife	keme	keme	k e + m e	k e + m e	71
+472	Lowa	Morning	ŋat̪o	ŋat̪o	ŋ a + t̪ o	ŋ a + t̪ o	1331
+473	Lowa	Yesterday	nd̪aŋ	nd̪aŋ	ⁿd/d a ŋ	ⁿd/d a.ŋ	1151
+474	Lowa	Today	t̪iɾiŋ	t̪iɾiŋ	t̪ i + ɾ i ŋ	t̪ i + ɾ i.ŋ	1438
+475	Lowa	Tomorrow	ŋeto	ŋeto	ŋ !e/a + t̪ o	ŋ !e/a + t̪ o	1028
+476	Lowa	Year	lo	lo	l o	l o	1494
+477	Lowa	New	sawa	sawa	s a + w a	s a + w a	1349
+478	Lowa	Good	ka	ka	k a	k a	334
+479	Lowa	Good	saŋa	saŋa	s a ŋ + !Ø/ŋ a	s a.ŋ + !Ø/ŋ a	1271
+480	Lowa	Bad	a	a	a	a	39
+481	Lowa	Bad	ŋempa	ŋempa	ŋ e m + p a	ŋ e.m + p a	1185
+482	Lowa	Wet	taŋa	taŋa	t̪ a ŋ + a	t̪ a.ŋ + a	1081
+483	Lowa	Dry	kampo	kampo	k a m + p o	k a.m + p o	1234
+484	Lowa	Long	ɹiŋa	ɹiŋa	ɹ/ɾ i ŋ + !Ø/ŋ a	ɹ/ɾ i.ŋ + !Ø/ŋ a	1321
+485	Lowa	Short	t̪uŋwa	t̪uŋwa	t̪ u ŋ + w a	t̪ u.ŋ + w a	1386
+486	Lowa	Hot	tsʰa	tsʰa	tsʰ a	tsʰ a	1296
+487	Lowa	Cold	taɡmo	taɡmo	t̪ a !g/ŋ + m o	t̪ a.!g/ŋ + m o	179
+488	Lowa	Right	jewa	jewa	j e + w a	j e + w a	1365
+489	Lowa	Left	jømpa	jømpa	j ø m/n + p a	j ø.m/n + p a	1317
+490	Lowa	Near	ŋe	ŋe	ŋ e	ŋ e	1345
+491	Lowa	Far	t̪ʰaɡɾiŋa	t̪ʰaɡɾiŋa	t̪ʰ a g/k + ɾ i !Ø/ŋ + ŋ a	t̪ʰ a.g/k + ɾ i.!Ø/ŋ + ŋ a	1247
+492	Lowa	Big	tsʰe	tsʰe	tsʰ e	tsʰ e	1195
+493	Lowa	Small	tɕuŋwa	tɕuŋwa	tɕ u ŋ + w a	tɕ u.ŋ + w a	1397
+494	Lowa	Heavy	ndze	ndze	!ⁿdz/tɕ e	!ⁿdz/tɕ e	1290
+495	Lowa	Light	jaŋa	jaŋa	j a !Ø/ŋ + ŋ a	j a.!Ø/ŋ + ŋ a	1319
+496	Lowa	Above	t̪ʰøʔ	t̪ʰøʔ	t̪ʰ ø ʔ	t̪ʰ ø.ʔ	1
+497	Lowa	White	kawo	kawo	k a + w o	k a + w o	1472
+498	Lowa	Black	naɡpo	naɡpo	n a g/k + p o	n a.g/k + p o	1203
+499	Lowa	Red	mawo	mawo	m a + !w/m o	m a + !w/m o	1360
+500	Lowa	One	tɕik	tɕik	tɕ i k	tɕ i.k	1354
+501	Lowa	Two	ɲi	ɲi	ɲ i	ɲ i	1452
+502	Lowa	Three	sum	sum	s u m	s u.m	1433
+503	Lowa	Four	ɕi	ɕi	ɕ i	ɕ i	1262
+504	Lowa	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+505	Lowa	Six	tuk	tuk	t̪ u k	t̪ u.k	1388
+506	Lowa	Six	tʰɹuk	tʰɹuk	t̪ʰ ɾ u k	t̪ʰ.ɾ u.k	1388
+507	Lowa	Seven	t̪yn	t̪yn	t̪ y n	t̪ y.n	1384
+508	Lowa	Eight	ke	ke	k e	k e	1245
+509	Lowa	Nine	ku	ku	k u	k u	1351
+510	Lowa	Ten	tɕu	tɕu	tɕ u	tɕ u	1422
+511	Lowa	Twenty	ɲidʑu	ɲidʑu	ɲ i + dʑ/tɕ u	ɲ i + dʑ/tɕ u	1451
+512	Lowa	One Hundred	kjat̪ʰampa	kjat̪ʰampa	k j a + t̪ʰ a m + p a	k.j a + t̪ʰ a.m + p a	1303
+513	Lowa	Who	su	su	s u	s u	1474
+514	Lowa	What	ki	ki	!k/tɕ i	!k/tɕ i	17
+515	Lowa	Where	karu	karu	k a + !r/ɾ u	k a + !r/ɾ u	1470
+516	Lowa	This	nd̪i	nd̪i	ⁿd/d i	ⁿd/d i	1428
+517	Lowa	That	jy	jy	j y	j y	790
+518	Lowa	That	wy	wy	!w/j y	!w/j y	790
+519	Lowa	Many	maŋa	maŋa	m a ŋ + !Ø/ŋ a	m a.ŋ + !Ø/ŋ a	1323
+520	Lowa	All	kiɾi	kiɾi	k i + ɾ i	k i + ɾ i	149
+521	Lowa	To eat	saje	saje	s a + j e	s a + j e	1240
+522	Lowa	To bite	soɡjapje	soɡjapje	s o + g j a p + j e	s o + g.j a.p + j e	1198
+523	Lowa	To bite	mukje	mukje	m u g/k + j e	m u.g/k + j e	1202
+524	Lowa	To drink	t̪ʰuŋje	t̪ʰuŋje	t̪ʰ u ŋ + j e	t̪ʰ u.ŋ + j e	1232
+525	Lowa	To sleep	ɲaje	ɲaje	ɲ a + j e	ɲ a + j e	1394
+526	Lowa	To give	t̪eɾje	t̪eɾje	t̪ e ɾ + j e	t̪ e.ɾ + j e	1268
+527	Lowa	To die	ɕije	ɕije	ɕ i + j e	ɕ i + j e	1230
+528	Lowa	To kill	seje	seje	s e + j e	s e + j e	1311
+529	Lowa	To fly	pʰuɾje	pʰuɾje	pʰ u ɾ + j e	pʰ u.ɾ + j e	1259
+530	Lowa	To walk	ndoje	ndoje	ⁿd/d o + j e	ⁿd/d o + j e	1453
+531	Lowa	To run	paŋt̪aŋje	paŋt̪aŋje	p a ŋ + t̪ a + ŋ j e	p a.ŋ + t̪ a + ŋ.j e	18
+532	Lowa	To come	uŋje	uŋje	u ŋ + j e	u.ŋ + j e	1223
+533	Lowa	I	ŋa	ŋa	ŋ a	ŋ a	1310
+534	Lowa	You (informal)	kʰøʔ	kʰøʔ	kʰ !Ø/j ø ʔ	kʰ.!Ø/j ø.ʔ	1430
+535	Lowa	We (inclusive)	woɾoŋ	woɾoŋ	w o + ɾ o ŋ	w o + ɾ o.ŋ	1066
+536	Lowa	You (plural)	kʰekja	kʰekja	kʰ e + k j a	kʰ e + k.j a	1159
+537	Lowa	Hailstone	seɾa	seɾa	s e + ɾ a	s e + ɾ a	1280
+538	Lowa	Horse	t̪a	t̪a	t̪ a	t̪ a	1294
+539	Lowa	Pig	pʰak	pʰak	pʰ a k	pʰ a.k	1356
+540	Lowa	Stick	pekjoʔ	pekjoʔ	p e k + j o ʔ	p e.k + j o.ʔ	762
+541	Lowa	To chew	leje	leje	l e + j e	l e + j e	867
+542	Lowa	To throw	juɡje	juɡje	j u !g/k + j e	j u.!g/k + j e	178
+543	Nubri	Head	ko	ko	k o	k o	1284
+544	Nubri	Hair	hɹa	hɹa	h ɹ a	h.ɹ a	1282
+545	Nubri	Eye	mik	mik	m i k	m i.k	1246
+546	Nubri	Ear	amtɕjoʔ	amtɕjoʔ	a m + tɕj/tɕ o ʔ	a.m + tɕj/tɕ o.ʔ	1239
+547	Nubri	Nose	nat̪u	nat̪u	n a + t̪ u	n a + t̪ u	1352
+548	Nubri	Mouth	kʰabt̪u	kʰabt̪u	kʰ !ab/a + t̪ u	kʰ !ab/a + t̪ u	1340
+549	Nubri	Teeth	sa	sa	s a	s a	1446
+550	Nubri	Tongue	tɕe	tɕe	tɕ e	tɕ e	1444
+551	Nubri	Breast	tɕju	tɕju	tɕ j u	tɕ.j u	1422
+552	Nubri	Belly	topa	topa	t̪ o + p a	t̪ o + p a	1193
+553	Nubri	Skin	pau	pau	p a + !Ø/w !u/o	p a + !Ø/w !u/o	1389
+554	Nubri	Bone	hɹypa	hɹypa	h ɹ y + p a	h.ɹ y + p a	1208
+555	Nubri	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+556	Nubri	Blood	tʰa	tʰa	t̪ʰ a	t̪ʰ a	1206
+557	Nubri	House	kʰim	kʰim	kʰ i m	kʰ i.m	1300
+558	Nubri	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+559	Nubri	Knife	tuku	tuku	t̪ u + k u	t̪ u + k u	29
+560	Nubri	Rope	t̪ʰaɡpa	t̪ʰaɡpa	t̪ʰ a g/k + p a	t̪ʰ a.g/k + p a	1374
+561	Nubri	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+562	Nubri	Sun	ɲo	ɲo	ɲ o	ɲ o	1418
+563	Nubri	Moon	t̪a	t̪a	t̪ a	t̪ a	1294
+564	Nubri	Sky	nam	nam	n a m	n a.m	1392
+565	Nubri	Star	kaɹma	kaɹma	k a ɹ + m a	k a.ɹ + m a	1410
+566	Nubri	Water	tɕʰju	tɕʰju	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+567	Nubri	River	kjuɡtɕʰju	kjuɡtɕʰju	k j u g/k + tɕʰ j u	k.j u.g/k + tɕʰ.j u	677
+568	Nubri	Cloud	muɡpa	muɡpa	m u g/k + p a	m u.g/k + p a	176
+569	Nubri	Rainbow	tɕja	tɕja	tɕj/tɕ a	tɕj/tɕ a	1358
+570	Nubri	Wind	hlawa	hlawa	h l a + w a	h.l a + w a	1486
+571	Nubri	Stone	t̪oh	t̪oh	t̪ o h	t̪ o.h	1416
+572	Nubri	Sand	pɛ̃:	pɛ̃:	p ɛ̃ː/ɛ + Ø/m Ø/a	p ɛ̃ː/ɛ + Ø/m Ø/a	1382
+573	Nubri	Fire	mẽ	mẽ	m !ẽ/e	m !ẽ/e	1251
+574	Nubri	Mud	t̪ampa	t̪ampa	t̪ a m + p a	t̪ a.m + p a	1342
+575	Nubri	Dust	t̪ʰala	t̪ʰala	t̪ʰ a + l a	t̪ʰ a + l a	1237
+576	Nubri	Tree	t̪oŋpo	t̪oŋpo	t̪ o ŋ + p o	t̪ o.ŋ + p o	1039
+577	Nubri	Leaf	loma	loma	l o + m a	l o + m a	1315
+578	Nubri	Root	tsa	tsa	ts a	ts a	1371
+579	Nubri	Flower	met̪o	met̪o	m e + t̪ o !Ø/ʔ	m e + t̪ o.!Ø/ʔ	1257
+580	Nubri	Fruit	ɕiŋt̪oʔ	ɕiŋt̪oʔ	ɕ i ŋ + t̪ o ʔ	ɕ i.ŋ + t̪ o.ʔ	1263
+581	Nubri	Wheat (husked)	toh	toh	t̪ o h	t̪ o.h	1091
+582	Nubri	Barley	n̪e:	n̪e:	n eː	n eː	53
+583	Nubri	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+584	Nubri	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+585	Nubri	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+586	Nubri	Egg	koõ	koõ	k o + !Ø/ŋ õ/o	k o + !Ø/ŋ õ/o	1242
+587	Nubri	Horns	adkjo	adkjo	!a/ɹ !d/a + k j o	!a/ɹ.!d/a + k.j o	1292
+588	Nubri	Tail	ŋõ	ŋõ	ŋ !õ/o	ŋ !õ/o	1419
+589	Nubri	Goat	ɹatse	ɹatse	ɹ a + ts e	ɹ a + ts e	1269
+590	Nubri	Dog	kʰji	kʰji	!kʰj/kʰ i	!kʰj/kʰ i	1231
+591	Nubri	Snake	tul	tul	t̪ u l	t̪ u.l	1401
+592	Nubri	Mosquito	t̪ukɖaŋ	t̪ukɖaŋ	t̪ u k + ɖ a ŋ	t̪ u.k + ɖ a.ŋ	1333
+593	Nubri	Ant	hɹomo	hɹomo	h ɹ o + m o	h.ɹ o + m o	1183
+594	Nubri	Spider	pabla	pabla	p a bl/l + !Ø/b a	p a.bl/l + !Ø/b a	748
+595	Nubri	Name	min̪	min̪	m i n	m i.n	1344
+596	Nubri	Woman	põbetsa	põbetsa	p !õ/o + !b/p e + ts a	p !õ/o + !b/p e + ts a	1134
+597	Nubri	Father	jɛ	jɛ	j ɛ	j ɛ	277
+598	Nubri	Mother	aã	aã	a + !Ø/m !ã/a	a + !Ø/m !ã/a	1338
+599	Nubri	Son	puh	puh	p u h	p u.h	1403
+600	Nubri	Daughter	poõ	poõ	p o/u Ø/h + Ø/m õ/o	p o/u.Ø/h + Ø/m õ/o	1227
+601	Nubri	Husband	kʰjoka	kʰjoka	kʰ j o + k a	kʰ.j o + k a	1304
+602	Nubri	Wife	ɕɛt̪aŋ	ɕɛt̪aŋ	ɕ ɛ + t̪ a ŋ	ɕ ɛ + t̪ a.ŋ	1125
+603	Nubri	Morning	tõŋkõ	tõŋkõ	t̪ !õ/o ŋ + k !õ/o	t̪ !õ/o.ŋ + k !õ/o	507
+604	Nubri	Yesterday	t̪aŋ	t̪aŋ	t̪ a ŋ	t̪ a.ŋ	1151
+605	Nubri	Today	t̪iɹiŋ	t̪iɹiŋ	t̪ i + ɹ i ŋ	t̪ i + ɹ i.ŋ	1438
+606	Nubri	Tomorrow	ŋaɹo	ŋaɹo	ŋ a !Ø/ɹ + ɹ o	ŋ a.!Ø/ɹ + ɹ o	1028
+607	Nubri	Year	lo	lo	l o	l o	1494
+608	Nubri	New	sampa	sampa	s a + ⁿp/p a	s a + ⁿp/p a	1349
+609	Nubri	Good	koŋ	koŋ	k o ŋ	k o.ŋ	335
+610	Nubri	Bad	ɦawɛ	ɦawɛ	ɦ a + w ɛ	ɦ a + w ɛ	40
+611	Nubri	Wet	lompa	lompa	l o m + p a	l o.m + p a	1462
+612	Nubri	Dry	kombo	kombo	k o m + b o	k o.m + b o	1234
+613	Nubri	Long	ɹiŋpo	ɹiŋpo	ɹ i ŋ + p o	ɹ i.ŋ + p o	1321
+614	Nubri	Short	t̪ɛ̃n̪d̪ɛ̃	t̪ɛ̃n̪d̪ɛ̃	t̪ ɛ̃ + ⁿd̪/d̪ !ɛ̃/ɛ	t̪ ɛ̃ + ⁿd̪/d̪ !ɛ̃/ɛ	1386
+615	Nubri	Hot	tsʰawo	tsʰawo	tsʰ a + w o	tsʰ a + w o	1296
+616	Nubri	Cold	taŋmo	taŋmo	t̪ a ŋ + m o	t̪ a.ŋ + m o	179
+617	Nubri	Right	je	je	j e	j e	1365
+618	Nubri	Left	jon̪	jon̪	j o n	j o.n	1317
+619	Nubri	Near	t̪ʰaɲiw	t̪ʰaɲiw	t̪ʰ a + ɲ i w	t̪ʰ a + ɲ i.w	1345
+620	Nubri	Far	t̪ʰaɹiŋpo	t̪ʰaɹiŋpo	t̪ʰ a + ɹ i ŋ + p o	t̪ʰ a + ɹ i.ŋ + p o	1247
+621	Nubri	Big	tɕjɔ̃mpu	tɕjɔ̃mpu	tɕʰj/tɕʰ !ɔ̃/ɔ + ⁿp/p u	tɕʰj/tɕʰ !ɔ̃/ɔ + ⁿp/p u	1195
+622	Nubri	Small	tɛtɛ	tɛtɛ	t̪ ɛ + t̪ ɛ	t̪ ɛ + t̪ ɛ	14
+623	Nubri	Heavy	tsʰint̪i	tsʰint̪i	!tsʰ/tɕ i + ⁿt̪/t̪ i	!tsʰ/tɕ i + ⁿt̪/t̪ i	1290
+624	Nubri	Light	jaŋpo	jaŋpo	j a ŋ + p o	j a.ŋ + p o	1319
+625	Nubri	Above	kaŋ	kaŋ	k a ŋ	k a.ŋ	6
+626	Nubri	White	kaɹpo	kaɹpo	k a ɹ + p o	k a.ɹ + p o	1472
+627	Nubri	Black	n̪akpo	n̪akpo	!n̪/n a k + p o	!n̪/n a.k + p o	1203
+628	Nubri	Red	maɹpo	maɹpo	m a ɹ + p o	m a.ɹ + p o	1360
+629	Nubri	One	tɕik	tɕik	tɕ i k	tɕ i.k	1354
+630	Nubri	Two	ɲi	ɲi	ɲ i	ɲ i	1452
+631	Nubri	Three	sum	sum	s u m	s u.m	1433
+632	Nubri	Four	ɕi	ɕi	ɕ i	ɕ i	1230
+633	Nubri	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+634	Nubri	Six	tuk	tuk	t̪ u k	t̪ u.k	1388
+635	Nubri	Seven	t̪yn̪	t̪yn̪	t̪ y n	t̪ y.n	1384
+636	Nubri	Eight	ke	ke	k e	k e	1245
+637	Nubri	Eight	kxe	kxe	!kx/k e	!kx/k e	1245
+638	Nubri	Nine	ku	ku	k u	k u	1351
+639	Nubri	Ten	tɕju	tɕju	tɕj/tɕ u	tɕj/tɕ u	1422
+640	Nubri	Twenty	ɲiɕu	ɲiɕu	ɲ i + ɕ/tɕ u	ɲ i + ɕ/tɕ u	1451
+641	Nubri	One Hundred	kjat̪ʰamba	kjat̪ʰamba	k j a + t̪ʰ a m + b a	k.j a + t̪ʰ a.m + b a	1303
+642	Nubri	Who	su	su	s u	s u	1474
+643	Nubri	What	tɕi	tɕi	tɕ i	tɕ i	1464
+644	Nubri	Where	kønt̪a	kønt̪a	k ø n + t̪ a	k ø.n + t̪ a	1100
+645	Nubri	This	t̪i	t̪i	!t̪/d̪ i	!t̪/d̪ i	1428
+646	Nubri	This	d̪i	d̪i	d̪ i	d̪ i	1428
+647	Nubri	That	pʰu	pʰu	pʰ u	pʰ u	118
+648	Nubri	Many	aŋsaŋ	aŋsaŋ	a ŋ + s a ŋ	a.ŋ + s a.ŋ	477
+649	Nubri	All	tɕjapt̪a	tɕjapt̪a	tɕj/tɕ a p + t̪ a	tɕj/tɕ a.p + t̪ a	10
+650	Nubri	To eat	seji	seji	s e + j i	s e + j i	1240
+651	Nubri	To bite	soɡjap	soɡjap	s o + g j a p	s o + g.j a.p	1198
+652	Nubri	To drink	t̪ʰuŋ	t̪ʰuŋ	t̪ʰ u ŋ	t̪ʰ u.ŋ	1232
+653	Nubri	To sleep	ɲal	ɲal	ɲ a l	ɲ a.l	1394
+654	Nubri	To give	t̪e	t̪e	t̪ e	t̪ e	1268
+655	Nubri	To die	ɕi	ɕi	ɕ i	ɕ i	1230
+656	Nubri	To kill	se	se	s e	s e	1311
+657	Nubri	To fly	pʰuɹ	pʰuɹ	pʰ u ɹ	pʰ u.ɹ	1259
+658	Nubri	To walk	kombaɡjap	kombaɡjap	k o m + b a g/k + j a p	k o.m + b a.g/k + j a.p	1013
+659	Nubri	To run	lat̪aŋ	lat̪aŋ	l a + t̪ a ŋ	l a + t̪ a.ŋ	7
+660	Nubri	To come	oŋ	oŋ	o ŋ	o.ŋ	1223
+661	Nubri	I	ŋa	ŋa	ŋ a	ŋ a	1310
+662	Nubri	You (informal)	kʰjo	kʰjo	kʰ j o	kʰ.j o	1430
+663	Nubri	We (inclusive)	woɹoŋd̪o	woɹoŋd̪o	w o + ɹ o ŋ + d̪ o	w o + ɹ o.ŋ + d̪ o	1066
+664	Nubri	You (plural)	kʰed̪o	kʰed̪o	kʰ e + d̪ o	kʰ e + d̪ o	1160
+665	Nubri	Hailstone	kʰaɕjol	kʰaɕjol	kʰ a + ɕ j o l	kʰ a + ɕ.j o.l	349
+666	Nubri	Horse	t̪a	t̪a	t̪ a	t̪ a	1294
+667	Nubri	Pig	pʰa	pʰa	pʰ a	pʰ a	1356
+668	Nubri	Stick	pikpa	pikpa	p i k + p a	p i.k + p a	762
+669	Nubri	Stick	peɹka	peɹka	p e ɹ + k a	p e.ɹ + k a	762
+670	Nubri	To chew	muɹ	muɹ	m u ɹ	m u.ɹ	1214
+671	Nubri	To throw	juk	juk	j u k	j u.k	178
+672	Sherpa	Head	ɡo	ɡo	g o	g o	1284
+673	Sherpa	Hair	hɹa	hɹa	h ɹ a	h.ɹ a	1282
+674	Sherpa	Eye	mik	mik	m i k	m i.k	1246
+675	Sherpa	Ear	namdzjok	namdzjok	n a m + !dzj/dʑ o k	n a.m + !dzj/dʑ o.k	1238
+676	Sherpa	Nose	nəu	nəu	n əu	n əu	1352
+677	Sherpa	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+678	Sherpa	Teeth	sa	sa	s a	s a	1446
+679	Sherpa	Tongue	tɕjalak	tɕjalak	tɕj/tɕ a + l a k	tɕj/tɕ a + l a.k	1444
+680	Sherpa	Breast	oma	oma	o + m a	o + m a	1211
+681	Sherpa	Belly	tʰopa	tʰopa	t̪ʰ o + p a	t̪ʰ o + p a	1193
+682	Sherpa	Skin	kwa	kwa	!kʷ/k !Ø/o + !Ø/w a	!kʷ/k !Ø/o + !Ø/w a	726
+683	Sherpa	Bone	ɹukjok	ɹukjok	ɹ u + k j o k	ɹ u + k.j o.k	1208
+684	Sherpa	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+685	Sherpa	Blood	tʰak	tʰak	t̪ʰ a k	t̪ʰ a.k	1206
+686	Sherpa	House	kʰaŋba	kʰaŋba	kʰ a ŋ + b a	kʰ a.ŋ + b a	1301
+687	Sherpa	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+688	Sherpa	Knife	tʰitɕjuŋ	tʰitɕjuŋ	t̪ʰ i + tɕ j u ŋ	t̪ʰ i + tɕ.j u.ŋ	1313
+689	Sherpa	Rope	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	1374
+690	Sherpa	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+691	Sherpa	Sun	ɲima	ɲima	ɲ i + m a	ɲ i + m a	1418
+692	Sherpa	Moon	əud̪əkar	əud̪əkar	əu + d̪ ə + g/k a r	əu + d̪ ə + g/k a.r	1327
+693	Sherpa	Sky	nam	nam	n a m	n a.m	1392
+694	Sherpa	Star	kərma	kərma	k ə/a r + m a	k ə/a.r + m a	1410
+695	Sherpa	Star	kərdzjaŋ	kərdzjaŋ	k ə/a r + dz j a ŋ	k ə/a.r + dz.j a.ŋ	1410
+696	Sherpa	Water	tɕʰju	tɕʰju	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+697	Sherpa	River	tsəŋbu	tsəŋbu	ts ə ŋ + b u	ts ə.ŋ + b u	1368
+698	Sherpa	Cloud	mukpa	mukpa	m u k + p a	m u.k + p a	176
+699	Sherpa	Rainbow	dza	dza	dz a	dz a	1358
+700	Sherpa	Wind	luŋ	luŋ	l u ŋ	l u.ŋ	1485
+701	Sherpa	Stone	d̪o	d̪o	d̪ o	d̪ o	1416
+702	Sherpa	Sand	pʰema	pʰema	pʰ e + m a	pʰ e + m a	1382
+703	Sherpa	Fire	me	me	m e	m e	1251
+704	Sherpa	Mud	t̪ʰala	t̪ʰala	t̪ʰ a + l a	t̪ʰ a + l a	1342
+705	Sherpa	Dust	t̪ʰald̪uk	t̪ʰald̪uk	t̪ʰ a + l !Ø/a + d̪ u k	t̪ʰ a + l !Ø/a + d̪ u.k	1237
+706	Sherpa	Tree	d̪oŋbu	d̪oŋbu	d̪ o ŋ + b u	d̪ o.ŋ + b u	1039
+707	Sherpa	Leaf	d̪əma	d̪əma	d̪ ə + m a	d̪ ə + m a	9
+708	Sherpa	Root	dzət̪ak	dzət̪ak	dz ə + t̪ a k	dz ə + t̪ a.k	1371
+709	Sherpa	Flower	mend̪o	mend̪o	m e + ⁿd̪/d̪ o	m e + ⁿd̪/d̪ o	1257
+710	Sherpa	Fruit	pʰalpʰul	pʰalpʰul	pʰ a l + pʰ u l	pʰ a.l + pʰ u.l	310
+711	Sherpa	Wheat (husked)	tʰa	tʰa	t̪ʰ a	t̪ʰ a	1091
+712	Sherpa	Barley	dzəu	dzəu	!dz/ts əu	!dz/ts əu	1190
+713	Sherpa	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+714	Sherpa	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+715	Sherpa	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+716	Sherpa	Egg	tɕʰeɡoŋa	tɕʰeɡoŋa	tɕʰ e + g o + ŋ a	tɕʰ e + g o + ŋ a	1242
+717	Sherpa	Horns	arkjok	arkjok	!a/r !r/a + k j o k	!a/r.!r/a + k.j o.k	1292
+718	Sherpa	Tail	ŋəma	ŋəma	ŋ ə + m a	ŋ ə + m a	1419
+719	Sherpa	Goat	ra	ra	r a	r a	1269
+720	Sherpa	Dog	ki	ki	!k/kʰ i	!k/kʰ i	1231
+721	Sherpa	Snake	dul	dul	d̪ u l	d̪ u.l	1401
+722	Sherpa	Mosquito	lamkʰute	lamkʰute	l a m + !kʰ/k u + t̪ e	l a.m + !kʰ/k u + t̪ e	523
+723	Sherpa	Ant	tʰəksəŋma	tʰəksəŋma	t̪ʰ ə k + s ə ŋ + m a	t̪ʰ ə.k + s ə.ŋ + m a	1183
+724	Sherpa	Spider	bəldzjaŋ	bəldzjaŋ	b ə l + dz j a ŋ	b ə.l + dz.j a.ŋ	748
+725	Sherpa	Name	min	min	m i n	m i.n	1344
+726	Sherpa	Woman	pʰumpʰedza	pʰumpʰedza	pʰ u m + pʰ e + dz a	pʰ u.m + pʰ e + dz a	1134
+727	Sherpa	Father	apa	apa	a + p a	a + p a	1249
+728	Sherpa	Mother	ama	ama	a + m a	a + m a	1338
+729	Sherpa	Son	pʰudʑjuŋ	pʰudʑjuŋ	pʰ u + dʑ j u ŋ	pʰ u + dʑ.j u.ŋ	1403
+730	Sherpa	Daughter	pʰumu	pʰumu	pʰ u + m u	pʰ u + m u	1227
+731	Sherpa	Husband	kʰjoa	kʰjoa	kʰ j o + Ø/w a	kʰ.j o + Ø/w a	1304
+732	Sherpa	Wife	pʰermi	pʰermi	pʰ e r + m i	pʰ e.r + m i	1121
+733	Sherpa	Morning	tʰop	tʰop	t̪ʰ o p	t̪ʰ o.p	91
+734	Sherpa	Yesterday	d̪aŋ	d̪aŋ	d̪ a ŋ	d̪ a.ŋ	1151
+735	Sherpa	Today	ariŋ	ariŋ	a + r i ŋ	a + r i.ŋ	1439
+736	Sherpa	Tomorrow	sala	sala	s a + l a	s a + l a	1031
+737	Sherpa	Year	lo	lo	l o	l o	1494
+738	Sherpa	New	samba	samba	s a + ⁿb/b a	s a + ⁿb/b a	1349
+739	Sherpa	Good	lemu	lemu	l e + m u	l e + m u	1273
+740	Sherpa	Bad	melokpa	melokpa	m e + l o k + p a	m e + l o.k + p a	112
+741	Sherpa	Wet	tʰeŋa	tʰeŋa	t̪ʰ e ŋ + !Ø/ŋ a	t̪ʰ e.ŋ + !Ø/ŋ a	179
+742	Sherpa	Dry	kaŋbu	kaŋbu	k a ŋ + b u	k a.ŋ + b u	1234
+743	Sherpa	Long	riŋbu	riŋbu	r i ŋ + b u	r i.ŋ + b u	1321
+744	Sherpa	Short	t̪ʰinme	t̪ʰinme	t̪ʰ i n + m e	t̪ʰ i.n + m e	1386
+745	Sherpa	Hot	tsʰand̪i	tsʰand̪i	tsʰ a + ⁿd̪/d̪ i	tsʰ a + ⁿd̪/d̪ i	1296
+746	Sherpa	Cold	tʰeŋa	tʰeŋa	t̪ʰ e ŋ + !Ø/ŋ a	t̪ʰ e.ŋ + !Ø/ŋ a	179
+747	Sherpa	Right	laɡpaɡa	laɡpaɡa	l a g/k + p a + g a	l a.g/k + p a + g a	660
+748	Sherpa	Left	pʰiloɡpa	pʰiloɡpa	pʰ i + l !o/a g/k + p a	pʰ i + l !o/a.g/k + p a	437
+749	Sherpa	Near	t̪ʰakŋemo	t̪ʰakŋemo	t̪ʰ a k + ŋ e + m o	t̪ʰ a.k + ŋ e + m o	1345
+750	Sherpa	Far	t̪ʰakriŋbu	t̪ʰakriŋbu	t̪ʰ a k + r i ŋ + b u	t̪ʰ a.k + r i.ŋ + b u	1247
+751	Sherpa	Big	tɕʰend̪i	tɕʰend̪i	tɕʰ e + ⁿd̪/d̪ i	tɕʰ e + ⁿd̪/d̪ i	1195
+752	Sherpa	Small	tikpe	tikpe	t̪ i k + p e	t̪ i.k + p e	733
+753	Sherpa	Heavy	tsend̪i	tsend̪i	!ts/tɕ e + ⁿd̪/d̪ i	!ts/tɕ e + ⁿd̪/d̪ i	1290
+754	Sherpa	Light	jeŋɡa	jeŋɡa	j e ŋ + g a	j e.ŋ + g a	1319
+755	Sherpa	Above	jajo	jajo	j a + j o	j a + j o	4
+756	Sherpa	White	karbu	karbu	k a r + b u	k a.r + b u	1472
+757	Sherpa	Black	nakpu	nakpu	n a k + p u	n a.k + p u	1203
+758	Sherpa	Red	mərbu	mərbu	m !ə/a r + b u	m !ə/a.r + b u	1360
+759	Sherpa	One	tɕik	tɕik	tɕ i k	tɕ i.k	1354
+760	Sherpa	Two	ɲi	ɲi	ɲ i	ɲ i	1452
+761	Sherpa	Three	sum	sum	s u m	s u.m	1433
+762	Sherpa	Four	ɕi	ɕi	ɕ i	ɕ i	1262
+763	Sherpa	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+764	Sherpa	Six	tʰuk	tʰuk	t̪ʰ u k	t̪ʰ u.k	1388
+765	Sherpa	Seven	d̪in	d̪in	d̪ i n	d̪ i.n	1384
+766	Sherpa	Eight	ɡeʔ	ɡeʔ	g e ʔ	g e.ʔ	1245
+767	Sherpa	Nine	ɡu	ɡu	g u	g u	1351
+768	Sherpa	Ten	tɕju	tɕju	tɕj/tɕ u	tɕj/tɕ u	1422
+769	Sherpa	Twenty	ɲiɕju	ɲiɕju	ɲ i + ɕ/tɕ u	ɲ i + ɕ/tɕ u	1451
+770	Sherpa	One Hundred	ɡjatɕik	ɡjatɕik	g j a + tɕ i k	g.j a + tɕ i.k	1303
+771	Sherpa	Who	su	su	s u	s u	1474
+772	Sherpa	What	kʰaŋ	kʰaŋ	kʰ a ŋ	kʰ a.ŋ	1090
+773	Sherpa	Where	kʰani	kʰani	kʰ a + n i	kʰ a + n i	1470
+774	Sherpa	This	d̪i	d̪i	d̪ i	d̪ i	1428
+775	Sherpa	That	t̪ʰi	t̪ʰi	t̪ʰ i	t̪ʰ i	785
+776	Sherpa	Many	ala	ala	a + l a	a + l a	482
+777	Sherpa	All	jukəj	jukəj	j u + k əi	j u + k əi	148
+778	Sherpa	To eat	sap	sap	s a p	s a.p	1240
+779	Sherpa	To bite	sət̪əbu	sət̪əbu	s ə + t̪ ə + b u	s ə + t̪ ə + b u	850
+780	Sherpa	To drink	t̪ʰuŋɡu	t̪ʰuŋɡu	t̪ʰ u ŋ + g u	t̪ʰ u.ŋ + g u	1232
+781	Sherpa	To sleep	ŋiloku	ŋiloku	ŋ i + l o + k u	ŋ i + l o + k u	5
+782	Sherpa	To give	t̪eru	t̪eru	t̪ e Ø/r + r u	t̪ e.Ø/r + r u	1268
+783	Sherpa	To die	ɕiu	ɕiu	ɕ i + u	ɕ i + u	1230
+784	Sherpa	To kill	seku	seku	s e + k u	s e + k u	1311
+785	Sherpa	To fly	pʰirku	pʰirku	pʰ i r + k u	pʰ i.r + k u	1259
+786	Sherpa	To walk	dop	dop	!d/d̪ o p	!d/d̪ o.p	1453
+787	Sherpa	To run	tɕʰjoŋɡu	tɕʰjoŋɡu	tɕʰj/tɕʰ o ŋ + g u	tɕʰj/tɕʰ o.ŋ + g u	967
+788	Sherpa	To come	uŋgu	uŋgu	u ŋ + g u	u.ŋ + g u	1223
+789	Sherpa	I	ŋa	ŋa	ŋ a	ŋ a	1310
+790	Sherpa	You (informal)	kʰjoroŋ	kʰjoroŋ	kʰ j o + r o ŋ	kʰ.j o + r o.ŋ	1430
+791	Sherpa	We (inclusive)	oraŋ	oraŋ	o + r a ŋ	o + r a.ŋ	1066
+792	Sherpa	You (plural)	kʰiraŋd̪iba	kʰiraŋd̪iba	kʰ i + r a ŋ + d̪ i + b a	kʰ i + r a.ŋ + d̪ i + b a	1160
+793	Sherpa	Hailstone	sertɕjuŋma	sertɕjuŋma	s e r + tɕ j u ŋ + m a	s e.r + tɕ.j u.ŋ + m a	1280
+794	Sherpa	Horse	t̪a	t̪a	t̪ a	t̪ a	1294
+795	Sherpa	Pig	pʰakpa	pʰakpa	pʰ a k + p a	pʰ a.k + p a	1356
+796	Sherpa	Stick	t̪oŋləŋ	t̪oŋləŋ	t̪ o ŋ + l ə ŋ	t̪ o.ŋ + l ə.ŋ	177
+797	Sherpa	To chew	leku	leku	l e + k u	l e + k u	867
+798	Sherpa	To throw	juku	juku	j u + k u	j u + k u	178
+799	Tsum	Head	ŋɡo	ŋɡo	ⁿg/g o	ⁿg/g o	1284
+800	Tsum	Hair	tɹa	tɹa	t̪ ɹ a	t̪.ɹ a	1282
+801	Tsum	Eye	miʔ	miʔ	m i ʔ	m i.ʔ	1246
+802	Tsum	Ear	amdʑjoʔ	amdʑjoʔ	a m + dʑj/dʑ o ʔ	a.m + dʑj/dʑ o.ʔ	1239
+803	Tsum	Nose	na	na	n a	n a	1352
+804	Tsum	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+805	Tsum	Teeth	sa	sa	s a	s a	534
+806	Tsum	Tongue	tɕe	tɕe	tɕ e	tɕ e	1444
+807	Tsum	Breast	paʔ	paʔ	p a ʔ	p a.ʔ	123
+808	Tsum	Belly	pʰowa	pʰowa	pʰ o + w a	pʰ o + w a	1192
+809	Tsum	Skin	koa	koa	k o + !Ø/w a	k o + !Ø/w a	726
+810	Tsum	Bone	ɹiɡoʔ	ɹiɡoʔ	ɹ i + g o ʔ	ɹ i + g o.ʔ	1208
+811	Tsum	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+812	Tsum	Blood	tʰɹaʔ	tʰɹaʔ	t̪ʰ ɹ a ʔ	t̪ʰ.ɹ a.ʔ	1206
+813	Tsum	House	koɹtsa	koɹtsa	k o ɹ + ts a	k o.ɹ + ts a	405
+814	Tsum	House	kʰim	kʰim	kʰ i m	kʰ i.m	1300
+815	Tsum	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+816	Tsum	Knife	tʰɹiu	tʰɹiu	t̪ʰ ɹ iu	t̪ʰ.ɹ iu	1313
+817	Tsum	Rope	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	1374
+818	Tsum	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+819	Tsum	Sun	ɲiã	ɲiã	ɲ i + !Ø/m ã/a	ɲ i + !Ø/m ã/a	1418
+820	Tsum	Moon	nd̪akar	nd̪akar	ⁿd/d̪ a + k a ɹ	ⁿd/d̪ a + k a.ɹ	1327
+821	Tsum	Sky	n̪am	n̪am	!n̪/n a m	!n̪/n a.m	1392
+822	Tsum	Star	kaɹma	kaɹma	k a ɹ + m a	k a.ɹ + m a	1410
+823	Tsum	Water	tɕʰju	tɕʰju	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+824	Tsum	River	tsaŋbo	tsaŋbo	ts a ŋ + b o	ts a.ŋ + b o	1368
+825	Tsum	Cloud	mukpaʔ	mukpaʔ	m u k + p a ʔ	m u.k + p a.ʔ	176
+826	Tsum	Rainbow	ndʑjabe	ndʑjabe	ⁿdʑj/dʑ a + b e	ⁿdʑj/dʑ a + b e	1358
+827	Tsum	Wind	hlapa	hlapa	h l a + p a	h.l a + p a	1486
+828	Tsum	Stone	t̪o	t̪o	t̪ o	t̪ o	1416
+829	Tsum	Sand	ijãʔ	ijãʔ	i + j ã ʔ	i + j ã.ʔ	715
+830	Tsum	Fire	me	me	m e	m e	1251
+831	Tsum	Mud	sa	sa	s a	s a	534
+832	Tsum	Dust	t̪ʰala	t̪ʰala	t̪ʰ a + l a	t̪ʰ a + l a	1237
+833	Tsum	Tree	t̪oŋbo	t̪oŋbo	t̪ o ŋ + b o	t̪ o.ŋ + b o	1039
+834	Tsum	Leaf	hlawa	hlawa	h l a + w a	h.l a + w a	11
+835	Tsum	Root	tɹat̪oʔ	tɹat̪oʔ	t̪ ɹ a + t̪ o ʔ	t̪.ɹ a + t̪ o.ʔ	182
+836	Tsum	Flower	mend̪oʔ	mend̪oʔ	m e + ⁿd̪/d̪ o ʔ	m e + ⁿd̪/d̪ o.ʔ	1257
+837	Tsum	Fruit	ɕiŋd̪oʔ	ɕiŋd̪oʔ	ɕ i ŋ + d̪ o ʔ	ɕ i.ŋ + d̪ o.ʔ	1263
+838	Tsum	Wheat (husked)	ne	ne	n e	n e	1092
+839	Tsum	Barley	tsau	tsau	ts au	ts au	1190
+840	Tsum	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+841	Tsum	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+842	Tsum	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+843	Tsum	Egg	koã	koã	k o + !Ø/ŋ !ã/a	k o + !Ø/ŋ !ã/a	1242
+844	Tsum	Horns	padʑjo	padʑjo	p a + dʑj/dʑ o	p a + dʑj/dʑ o	43
+845	Tsum	Tail	ŋa	ŋa	ŋ a	ŋ a	1310
+846	Tsum	Goat	ɹa	ɹa	ɹ a	ɹ a	1269
+847	Tsum	Dog	ki	ki	!k/kʰ i	!k/kʰ i	1231
+848	Tsum	Snake	tɹul	tɹul	t̪ ɹ u l	t̪.ɹ u.l	1401
+849	Tsum	Mosquito	lamkute	lamkute	l a m + k u + t̪ e	l a.m + k u + t̪ e	523
+850	Tsum	Ant	tɹomu	tɹomu	t̪ ɹ o + m u	t̪.ɹ o + m u	1183
+851	Tsum	Spider	tɹaula	tɹaula	t̪ ɹ au + l a	t̪.ɹ au + l a	60
+852	Tsum	Name	min	min	m i n	m i.n	1344
+853	Tsum	Woman	poĩpiza	poĩpiza	p oĩ + p i + z a	p oĩ + p i + z a	1134
+854	Tsum	Father	awa	awa	a + w a	a + w a	1249
+855	Tsum	Mother	ãã	ãã	!ã/a + !Ø/m !ã/a	!ã/a + !Ø/m !ã/a	1338
+856	Tsum	Son	pu	pu	p u	p u	1403
+857	Tsum	Daughter	poõ	poõ	p o/u + Ø/m õ/o	p o/u + Ø/m õ/o	1227
+858	Tsum	Husband	kʰjowa	kʰjowa	kʰ j o + w a	kʰ.j o + w a	413
+859	Tsum	Wife	tɕʰjumma	tɕʰjumma	tɕʰ j u m + m a	tɕʰ.j u.m + m a	74
+860	Tsum	Morning	ɕjuo	ɕjuo	ɕ j uo	ɕ.j uo	1330
+861	Tsum	Yesterday	nd̪aŋ	nd̪aŋ	ⁿd/d̪ a ŋ	ⁿd/d̪ a.ŋ	1151
+862	Tsum	Today	t̪iɾiŋ	t̪iɾiŋ	t̪ i + ɹ i ŋ	t̪ i + ɹ i.ŋ	1438
+863	Tsum	Tomorrow	ŋaɾt̪o	ŋaɾt̪o	ŋ a ɹ + t̪ o	ŋ a.ɹ + t̪ o	1028
+864	Tsum	Year	lo	lo	l o	l o	1494
+865	Tsum	New	samba	samba	s a + ⁿb/b a	s a + ⁿb/b a	1349
+866	Tsum	Good	jamu	jamu	j a + m u	j a + m u	1272
+867	Tsum	Bad	nepo	nepo	n e + p o	n e + p o	1185
+868	Tsum	Wet	nd̪ompa	nd̪ompa	ⁿd/d̪ o m + p a	ⁿd/d̪ o.m + p a	1462
+869	Tsum	Dry	kampo	kampo	k a m + p o	k a.m + p o	1234
+870	Tsum	Long	ɹiŋmu	ɹiŋmu	ɹ i ŋ + m u	ɹ i.ŋ + m u	1321
+871	Tsum	Short	t̪ʰyma	t̪ʰyma	t̪ʰ y + m a	t̪ʰ y + m a	1386
+872	Tsum	Hot	tsʰand̪e	tsʰand̪e	tsʰ a + ⁿd̪/d̪ e	tsʰ a + ⁿd̪/d̪ e	1296
+873	Tsum	Cold	ɹaŋd̪a	ɹaŋd̪a	ɹ a ŋ + d̪ a	ɹ a.ŋ + d̪ a	1218
+874	Tsum	Right	jepa	jepa	j e + p a	j e + p a	1365
+875	Tsum	Left	joma	joma	j o + m a	j o + m a	1317
+876	Tsum	Near	tɹala	tɹala	t̪ ɹ a + l a	t̪.ɹ a + l a	541
+877	Tsum	Far	t̪ʰaɹiŋmu	t̪ʰaɹiŋmu	t̪ʰ a + ɹ i ŋ + m u	t̪ʰ a + ɹ i.ŋ + m u	1247
+878	Tsum	Big	tɕʰemo	tɕʰemo	tɕʰ e + m o	tɕʰ e + m o	1195
+879	Tsum	Small	tɕʰyma	tɕʰyma	tɕʰ y + m a	tɕʰ y + m a	1397
+880	Tsum	Heavy	tɕend̪e	tɕend̪e	tɕ e + ⁿd̪/d̪ e	tɕ e + ⁿd̪/d̪ e	1290
+881	Tsum	Light	jaŋbo	jaŋbo	j a ŋ + b o	j a.ŋ + b o	1319
+882	Tsum	Above	jau	jau	j a + !Ø/j u	j a + !Ø/j u	4
+883	Tsum	White	kaɹbo	kaɹbo	k a ɹ + b o	k a.ɹ + b o	1472
+884	Tsum	Black	nakpo	nakpo	n a k + p o	n a.k + p o	1203
+885	Tsum	Red	maɹbo	maɹbo	m a ɹ + b o	m a.ɹ + b o	1360
+886	Tsum	One	tɕik	tɕik	tɕ i k	tɕ i.k	1354
+887	Tsum	Two	ɲi	ɲi	ɲ i	ɲ i	1452
+888	Tsum	Three	sum	sum	s u m	s u.m	1433
+889	Tsum	Four	ʑi	ʑi	ʑ i	ʑ i	1262
+890	Tsum	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+891	Tsum	Six	tɹu	tɹu	t̪ ɹ u	t̪.ɹ u	1388
+892	Tsum	Seven	t̪un	t̪un	t̪ u n	t̪ u.n	1384
+893	Tsum	Eight	keʔ	keʔ	k e ʔ	k e.ʔ	1245
+894	Tsum	Nine	ku	ku	k u	k u	1351
+895	Tsum	Ten	tɕu	tɕu	tɕ u	tɕ u	1422
+896	Tsum	Twenty	ɲiɕu	ɲiɕu	ɲ i + ɕ/tɕ u	ɲ i + ɕ/tɕ u	1451
+897	Tsum	One Hundred	kja	kja	k j a	k.j a	1303
+898	Tsum	Who	su	su	s u	s u	1474
+899	Tsum	What	tɕi	tɕi	tɕ i	tɕ i	1464
+900	Tsum	Where	kana	kana	k a + n a	k a + n a	1470
+901	Tsum	This	nd̪i	nd̪i	ⁿd/d̪ i	ⁿd/d̪ i	1428
+902	Tsum	That	o	o	o	o	786
+903	Tsum	Many	kaʑin	kaʑin	k a + ʑ i n	k a + ʑ i.n	479
+904	Tsum	All	tɕjop	tɕjop	tɕj/tɕ o p	tɕj/tɕ o.p	10
+905	Tsum	To eat	so	so	s o	s o	1240
+906	Tsum	To eat	seso	seso	s e + s o	s e + s o	1311
+907	Tsum	To bite	sat̪ob	sat̪ob	s a + t̪ o b	s a + t̪ o.b	850
+908	Tsum	To drink	t̪ʰuŋ	t̪ʰuŋ	t̪ʰ u ŋ	t̪ʰ u.ŋ	1232
+909	Tsum	To sleep	ɲol	ɲol	ɲ !o/a l	ɲ !o/a.l	1394
+910	Tsum	To sleep	ɲalso	ɲalso	ɲ a l + s o	ɲ a.l + s o	1394
+911	Tsum	To give	t̪øʔ	t̪øʔ	t̪ ø ʔ	t̪ ø.ʔ	1268
+912	Tsum	To give	t̪eʔso	t̪eʔso	t̪ e ʔ + s o	t̪ e.ʔ + s o	1268
+913	Tsum	To die	ɕiso	ɕiso	ɕ i + s o	ɕ i + s o	1230
+914	Tsum	To kill	seso	seso	s e + s o	s e + s o	1311
+915	Tsum	To fly	pʰiɹso	pʰiɹso	pʰ i ɹ + s o	pʰ i.ɹ + s o	1259
+916	Tsum	To walk	ndo	ndo	ⁿd/d̪ o	ⁿd/d̪ o	1453
+917	Tsum	To run	tɕʰoŋdo	tɕʰoŋdo	tɕʰ o ŋ + d̪ o	tɕʰ o.ŋ + d̪ o	967
+918	Tsum	To come	ɕjoʔ	ɕjoʔ	ɕ j o ʔ	ɕ.j o.ʔ	1224
+919	Tsum	To come	leuʑuŋ	leuʑuŋ	l eu + ʑ u ŋ	l eu + ʑ u.ŋ	21
+920	Tsum	I	ŋa	ŋa	ŋ a	ŋ a	1310
+921	Tsum	You (informal)	kʰjøʔ	kʰjøʔ	kʰ j ø ʔ	kʰ.j ø.ʔ	1430
+922	Tsum	We (inclusive)	ɲoɹoŋ	ɲoɹoŋ	ɲ o + ɹ o ŋ	ɲ o + ɹ o.ŋ	1066
+923	Tsum	We (inclusive)	ɲoɹoŋkja	ɲoɹoŋkja	ɲ o + ɹ o ŋ + k j a	ɲ o + ɹ o.ŋ + k.j a	1066
+924	Tsum	You (plural)	kʰeɹaŋkja	kʰeɹaŋkja	kʰ e + ɹ a ŋ + k j a	kʰ e + ɹ a.ŋ + k.j a	1159
+925	Tsum	Hailstone	seɹa	seɹa	s e + ɹ a	s e + ɹ a	1280
+926	Tsum	Hailstone	tɕʰjaɹwa	tɕʰjaɹwa	tɕʰ j a + !ɹw/ɹ a	tɕʰ.j a + !ɹw/ɹ a	348
+927	Tsum	Horse	t̪a	t̪a	t̪ a	t̪ a	1294
+928	Tsum	Pig	pʰaʔ	pʰaʔ	pʰ a ʔ	pʰ a.ʔ	1356
+929	Tsum	Stick	perka	perka	p e ɹ + k a	p e.ɹ + k a	762
+930	Tsum	To chew	tɹoʔ	tɹoʔ	t̪ ɹ o ʔ	t̪.ɹ o.ʔ	873
+931	Tsum	To throw	kjut	kjut	k j u t̪	k.j u.t̪	1000
+932	Tsum	To throw	kjuɾtsoŋ	kjuɾtsoŋ	k j u ɹ + ts o ŋ	k.j u.ɹ + ts o.ŋ	1000
+933	Yolmo	Head	ŋɡo	ŋɡo	ⁿg/g o	ⁿg/g o	1284
+934	Yolmo	Hair	tɹa	tɹa	t̪ ɹ a	t̪.ɹ a	1282
+935	Yolmo	Eye	mi	mi	m i	m i	1246
+936	Yolmo	Ear	nəmdʑjo	nəmdʑjo	n ə m + dʑj/dʑ o	n ə.m + dʑj/dʑ o	1238
+937	Yolmo	Nose	n̪aɾko	n̪aɾko	n aɾ/a + k o	n aɾ/a + k o	1352
+938	Yolmo	Mouth	kʰa	kʰa	kʰ a	kʰ a	1340
+939	Yolmo	Teeth	so	so	s o	s o	1240
+940	Yolmo	Tongue	tsele	tsele	!ts/tɕ e + l e	!ts/tɕ e + l e	1444
+941	Yolmo	Breast	praŋɡo	praŋɡo	p r a ŋ + g o	p.r a.ŋ + g o	119
+942	Yolmo	Breast	woma	woma	w o + m a	w o + m a	1211
+943	Yolmo	Belly	pʰo	pʰo	pʰ o	pʰ o	1192
+944	Yolmo	Skin	pawa	pawa	p a + w a	p a + w a	1389
+945	Yolmo	Bone	ɹeko	ɹeko	ɹ e + k o	ɹ e + k o	1208
+946	Yolmo	Heart	ɲiŋ	ɲiŋ	ɲ i ŋ	ɲ i.ŋ	1288
+947	Yolmo	Blood	tʰa	tʰa	t̪ʰ a	t̪ʰ a	1206
+948	Yolmo	House	kʰaŋba	kʰaŋba	kʰ a ŋ + b a	kʰ a.ŋ + b a	1301
+949	Yolmo	Firewood	ɕiŋ	ɕiŋ	ɕ i ŋ	ɕ i.ŋ	1254
+950	Yolmo	Knife	kaɹt̪a	kaɹt̪a	k a ɹ + t̪ a	k a.ɹ + t̪ a	422
+951	Yolmo	Rope	t̪ʰakpa	t̪ʰakpa	t̪ʰ a k + p a	t̪ʰ a.k + p a	1374
+952	Yolmo	Needle	kʰap	kʰap	kʰ a p	kʰ a.p	1348
+953	Yolmo	Sun	ɲima	ɲima	ɲ i + m a	ɲ i + m a	1418
+954	Yolmo	Moon	nd̪awa	nd̪awa	ⁿd/d̪ a + w a	ⁿd/d̪ a + w a	1327
+955	Yolmo	Sky	n̪əm	n̪əm	!n̪/n ə m	!n̪/n ə.m	1392
+956	Yolmo	Star	kəɾma	kəɾma	k ə/a ɾ/ɹ + m a	k ə/a.ɾ/ɹ + m a	1410
+957	Yolmo	Water	tɕʰu	tɕʰu	tɕʰj/tɕʰ u	tɕʰj/tɕʰ u	1458
+958	Yolmo	River	tsəŋbu	tsəŋbu	ts ə ŋ + b u	ts ə.ŋ + b u	1368
+959	Yolmo	Cloud	mukpa	mukpa	m u k + p a	m u.k + p a	176
+960	Yolmo	Rainbow	za	za	z a	z a	1358
+961	Yolmo	Wind	hlawa	hlawa	h l a + w a	h.l a + w a	1486
+962	Yolmo	Stone	t̪o	t̪o	t̪ o	t̪ o	1416
+963	Yolmo	Sand	pema	pema	p e + m a	p e + m a	1382
+964	Yolmo	Fire	me	me	m e	m e	1251
+965	Yolmo	Mud	sasa	sasa	s a + s a	s a + s a	534
+966	Yolmo	Dust	t̪ʰalbi	t̪ʰalbi	t̪ʰ a + l !Ø/a + b i	t̪ʰ a + l !Ø/a + b i	1237
+967	Yolmo	Tree	t̪uŋbu	t̪uŋbu	t̪ u ŋ + b u	t̪ u.ŋ + b u	1039
+968	Yolmo	Leaf	loma	loma	l o + m a	l o + m a	1315
+969	Yolmo	Root	tsaɾki	tsaɾki	ts a ɾ/ɹ + k i	ts a.ɾ/ɹ + k i	1371
+970	Yolmo	Flower	mend̪o	mend̪o	m e + ⁿd̪/d̪ o	m e + ⁿd̪/d̪ o	1257
+971	Yolmo	Fruit	pʰəlbul	pʰəlbul	pʰ ə l + b u l	pʰ ə.l + b u.l	310
+972	Yolmo	Wheat (husked)	ne	ne	n e	n e	1092
+973	Yolmo	Barley	dzəu	dzəu	!dz/ts əu	!dz/ts əu	1190
+974	Yolmo	Salt	tsʰa	tsʰa	tsʰ a	tsʰ a	1380
+975	Yolmo	Meat	ɕja	ɕja	ɕ j a	ɕ.j a	1325
+976	Yolmo	Fish	ɲa	ɲa	ɲ a	ɲ a	1255
+977	Yolmo	Egg	koŋa	koŋa	k o + ŋ a	k o + ŋ a	1242
+978	Yolmo	Horns	ɹowa	ɹowa	ɹ o + w a	ɹ o + w a	1292
+979	Yolmo	Tail	ŋama	ŋama	ŋ a + m a	ŋ a + m a	1419
+980	Yolmo	Goat	ra	ra	!r/ɹ a	!r/ɹ a	1269
+981	Yolmo	Dog	kʰi	kʰi	kʰ i	kʰ i	1231
+982	Yolmo	Snake	pɹul	pɹul	p ɹ u l	p.ɹ u.l	1401
+983	Yolmo	Mosquito	mətɕʰəɹ	mətɕʰəɹ	m ə + tɕʰ ə ɹ	m ə + tɕʰ ə.ɹ	528
+984	Yolmo	Ant	tomaŋ	tomaŋ	t̪ !Ø/ɹ o + m a ŋ	t̪.!Ø/ɹ o + m a.ŋ	1183
+985	Yolmo	Spider	ɕwabu	ɕwabu	ɕ w a + b u	ɕ.w a + b u	58
+986	Yolmo	Name	min	min	m i n	m i.n	1344
+987	Yolmo	Woman	pimi	pimi	p i + m i	p i + m i	1121
+988	Yolmo	Father	aba	aba	a + b a	a + b a	1249
+989	Yolmo	Mother	ãmã	ãmã	!ã/a + m !ã/a	!ã/a + m !ã/a	1338
+990	Yolmo	Son	pu	pu	p u	p u	1403
+991	Yolmo	Daughter	pomo	pomo	p o/u + m o	p o/u + m o	1227
+992	Yolmo	Husband	kʰjowa	kʰjowa	kʰ j o + w a	kʰ.j o + w a	413
+993	Yolmo	Wife	pimi	pimi	p i + m i	p i + m i	1121
+994	Yolmo	Morning	ɕjole	ɕjole	ɕ j o + l e	ɕ.j o + l e	1330
+995	Yolmo	Yesterday	nd̪aŋ	nd̪aŋ	ⁿd/d̪ a ŋ	ⁿd/d̪ a.ŋ	1151
+996	Yolmo	Today	t̪iɹiŋ	t̪iɹiŋ	t̪ i + ɹ i ŋ	t̪ i + ɹ i.ŋ	1438
+997	Yolmo	Tomorrow	n̪aŋbaɹ	n̪aŋbaɹ	n a ŋ + b a ɹ	n a.ŋ + b a.ɹ	1442
+998	Yolmo	Year	lo	lo	l o	l o	1494
+999	Yolmo	New	samba	samba	s a + ⁿb/b a	s a + ⁿb/b a	1349
+1000	Yolmo	Good	jabu	jabu	j a + b u	j a + b u	1272
+1001	Yolmo	Bad	tsokpa	tsokpa	ts o k + p a	ts o.k + p a	116
+1002	Yolmo	Wet	taŋmu	taŋmu	t̪ a ŋ + m u	t̪ a.ŋ + m u	179
+1003	Yolmo	Dry	kambu	kambu	k a m + b u	k a.m + b u	1234
+1004	Yolmo	Long	ɹiŋbu	ɹiŋbu	ɹ i ŋ + b u	ɹ i.ŋ + b u	1321
+1005	Yolmo	Short	t̪ʰemu	t̪ʰemu	t̪ʰ e + m u	t̪ʰ e + m u	1386
+1006	Yolmo	Hot	tomu	tomu	t̪ o + m u	t̪ o + m u	398
+1007	Yolmo	Cold	taŋmu	taŋmu	t̪ a ŋ + m u	t̪ a.ŋ + m u	179
+1008	Yolmo	Right	joba	joba	j o + b a	j o + b a	1365
+1009	Yolmo	Left	joma	joma	j o + m a	j o + m a	1317
+1010	Yolmo	Near	poɰla	poɰla	p o ɰ + l a	p o.ɰ + l a	545
+1011	Yolmo	Far	t̪ʰaɹiŋbu	t̪ʰaɹiŋbu	t̪ʰ a + ɹ i ŋ + b u	t̪ʰ a + ɹ i.ŋ + b u	1247
+1012	Yolmo	Big	tɕʰjimbu	tɕʰjimbu	tɕʰj/tɕʰ i + ⁿb/b u	tɕʰj/tɕʰ i + ⁿb/b u	1195
+1013	Yolmo	Small	tsemu	tsemu	ts e + m u	ts e + m u	13
+1014	Yolmo	Heavy	tɕjand̪i	tɕjand̪i	tɕj/tɕ a + ⁿd̪/d̪ i	tɕj/tɕ a + ⁿd̪/d̪ i	1290
+1015	Yolmo	Light	jaŋd̪i	jaŋd̪i	j a ŋ + d̪ i	j a.ŋ + d̪ i	1319
+1016	Yolmo	Above	t̪ʰola	t̪ʰola	t̪ʰ o + l a	t̪ʰ o + l a	1
+1017	Yolmo	White	kaɾpu	kaɾpu	k a ɾ/ɹ + p u	k a.ɾ/ɹ + p u	1472
+1018	Yolmo	Black	n̪akpu	n̪akpu	!n̪/n a k + p u	!n̪/n a.k + p u	1203
+1019	Yolmo	Red	maɹmu	maɹmu	m a ɹ + m u	m a.ɹ + m u	1360
+1020	Yolmo	One	tɕi	tɕi	tɕ i	tɕ i	1464
+1021	Yolmo	Two	ɲi	ɲi	ɲ i	ɲ i	1452
+1022	Yolmo	Three	sum	sum	s u m	s u.m	1433
+1023	Yolmo	Four	ʑi	ʑi	ʑ i	ʑ i	1262
+1024	Yolmo	Five	ŋa	ŋa	ŋ a	ŋ a	1310
+1025	Yolmo	Six	tu	tu	t̪ u	t̪ u	1388
+1026	Yolmo	Seven	t̪in	t̪in	t̪ i n	t̪ i.n	1384
+1027	Yolmo	Eight	ke	ke	k e	k e	1245
+1028	Yolmo	Nine	ku	ku	k u	k u	1351
+1029	Yolmo	Ten	tɕju	tɕju	tɕj/tɕ u	tɕj/tɕ u	1422
+1030	Yolmo	Twenty	ɲiɕju	ɲiɕju	ɲ i + ɕ/tɕ u	ɲ i + ɕ/tɕ u	1451
+1031	Yolmo	Twenty	kʰaldʑi	kʰaldʑi	kʰ a l + dʑ/tɕ i	kʰ a.l + dʑ/tɕ i	1051
+1032	Yolmo	One Hundred	kjatɕi	kjatɕi	k j a + tɕ i	k.j a + tɕ i	1303
+1033	Yolmo	Who	su	su	s u	s u	1474
+1034	Yolmo	What	tɕi	tɕi	tɕ i	tɕ i	1464
+1035	Yolmo	Where	ka	ka	k a	k a	1470
+1036	Yolmo	This	nd̪i	nd̪i	ⁿd/d̪ i	ⁿd/d̪ i	1428
+1037	Yolmo	That	pʰarŋe	pʰarŋe	pʰ a r + ŋ e	pʰ a.r + ŋ e	791
+1038	Yolmo	Many	maŋbu	maŋbu	m a ŋ + b u	m a.ŋ + b u	1323
+1039	Yolmo	All	ndzamaɹaŋ	ndzamaɹaŋ	ⁿdz/dz a + m a + ɹ a ŋ	ⁿdz/dz a + m a + ɹ a.ŋ	1177
+1040	Yolmo	To eat	so	so	s o	s o	1240
+1041	Yolmo	To bite	muɹd̪uŋ	muɹd̪uŋ	m u ɹ + d̪ u ŋ	m u.ɹ + d̪ u.ŋ	1202
+1042	Yolmo	To drink	t̪ʰuŋd̪uŋ	t̪ʰuŋd̪uŋ	t̪ʰ u ŋ + !d̪/t̪ʰ u ŋ	t̪ʰ u.ŋ + !d̪/t̪ʰ u.ŋ	1232
+1043	Yolmo	To sleep	ɲald̪uŋ	ɲald̪uŋ	ɲ a l + d̪ u ŋ	ɲ a.l + d̪ u.ŋ	1394
+1044	Yolmo	To give	t̪eɾt̪uŋ	t̪eɾt̪uŋ	t̪ e ɾ/ɹ + t̪ u ŋ	t̪ e.ɾ/ɹ + t̪ u.ŋ	1268
+1045	Yolmo	To die	ɕid̪e	ɕid̪e	ɕ i + d̪ e	ɕ i + d̪ e	1230
+1046	Yolmo	To kill	set̪oŋ	set̪oŋ	s e + t̪ o ŋ	s e + t̪ o.ŋ	1311
+1047	Yolmo	To fly	loŋ	loŋ	l o ŋ	l o.ŋ	901
+1048	Yolmo	To walk	ndo	ndo	ⁿd/d̪ o	ⁿd/d̪ o	1453
+1049	Yolmo	To run	tɕʰjuŋd̪uŋ	tɕʰjuŋd̪uŋ	tɕʰj/tɕʰ u ŋ + d̪ u ŋ	tɕʰj/tɕʰ u.ŋ + d̪ u.ŋ	967
+1050	Yolmo	To come	ɕjo	ɕjo	ɕ j o	ɕ.j o	1224
+1051	Yolmo	I	ŋa	ŋa	ŋ a	ŋ a	1310
+1052	Yolmo	You (informal)	kʰje	kʰje	kʰ j e	kʰ.j e	1430
+1053	Yolmo	You (informal)	kʰjø	kʰjø	kʰ j ø	kʰ.j ø	1430
+1054	Yolmo	We (inclusive)	ɲiɹaŋ	ɲiɹaŋ	ɲ i + ɹ a ŋ	ɲ i + ɹ a.ŋ	1066
+1055	Yolmo	You (plural)	kʰjapəti	kʰjapəti	kʰ j a + p ə + t̪ i	kʰ.j a + p ə + t̪ i	1498
+1056	Yolmo	Hailstone	seɹa	seɹa	s e + ɹ a	s e + ɹ a	1280
+1057	Yolmo	Horse	t̪əbu	t̪əbu	t̪ ə + b u	t̪ ə + b u	1294
+1058	Yolmo	Pig	pʰa	pʰa	pʰ a	pʰ a	1356
+1059	Yolmo	Stick	pɹeka	pɹeka	p !ɹ/e !Ø/ɹ + k a	p !ɹ/e.!Ø/ɹ + k a	762
+1060	Yolmo	To chew	muɾt̪oŋ	muɾt̪oŋ	m u !ɾ/ɹ + !t̪/d̪ !o/u ŋ	m u.!ɾ/ɹ + !t̪/d̪ !o/u.ŋ	1214
+1061	Yolmo	To throw	kjuɹd̪uŋ	kjuɹd̪uŋ	k j u ɹ + d̪ u ŋ	k.j u.ɹ + d̪ u.ŋ	1000
+1062	OldTibetan	Above	s.t.e.ŋ	s.t.e.ŋ	s t e ŋ	s.t e.ŋ	1172
+1063	Lhasa	Above	j.ɛ̃.∼.¹³.◦.tɕʰ.ɛ.⁵²	j.ɛ̃.∼.¹³.◦.tɕʰ.ɛ.⁵²	j ɛ̃ ¹³ + tɕʰ ɛ ⁵²	j ɛ̃ ¹³ + tɕʰ ɛ ⁵²	1173
+1064	Lhasa	Above	kʰ.o.ŋ.¹³.◦.l.a	kʰ.o.ŋ.¹³.◦.l.a	kʰ o ŋ ¹³ + l a	kʰ o.ŋ ¹³ + l a	1174
+1065	Batang	Above	j.a.¹³.◦.tɕ.ø.ʔ.⁵³	j.a.¹³.◦.tɕ.ø.ʔ.⁵³	j a ¹³ + tɕ ø ʔ ⁵³	j a ¹³ + tɕ ø.ʔ ⁵³	1173
+1066	Xiahe	Above	j.a.n._.tɕh.a.r	j.a.n._.tɕh.a.r	j a n + tɕʰ a r	j a.n + tɕʰ a.r	1173
+1067	OldChinese	Above	d.a.ŋ.ʔ.+.s	d.a.ŋ.ʔ.+.s	d a ŋ ʔ + s	d a.ŋ ʔ + s	1172
+1068	OldTibetan	All	tʰ.a.m.s.◦.tɕ.a.d	tʰ.a.m.s.◦.tɕ.a.d	tʰ a m s + tɕ a d	tʰ a.m s + tɕ a.d	1175
+1069	Xiahe	All	h.a._.n.o	h.a._.n.o	h a + n o	h a + n o	1176
+1070	Lhasa	All	tsh.a.ŋ.⁵⁵.◦.m.a.⁵⁵	tsh.a.ŋ.⁵⁵.◦.m.a.⁵⁵	tsʰ a ŋ ⁵⁵ + m a ⁵⁵	tsʰ a.ŋ ⁵⁵ + m a ⁵⁵	1177
+1071	Batang	All	j.ø.¹³.◦.tsh.ɛ.ʔ.⁵³	j.ø.¹³.◦.tsh.ɛ.ʔ.⁵³	j ø ¹³ + tsʰ ɛ ʔ ⁵³	j ø ¹³ + tsʰ ɛ.ʔ ⁵³	1178
+1072	Lhasa	All	k.a.ŋ.¹³.◦.k.a.⁵⁵	k.a.ŋ.¹³.◦.k.a.⁵⁵	k a ŋ ¹³ + k a ⁵⁵	k a.ŋ ¹³ + k a ⁵⁵	1179
+1073	Alike	All	tsh.a.ŋ._.m.æ	tsh.a.ŋ._.m.æ	tsʰ a ŋ + m æ	tsʰ a.ŋ + m æ	1177
+1074	OldChinese	All	b.r.o.m	b.r.o.m	b r o m	b.r o.m	1180
+1075	OldChinese	All	gˤ.r.ə.m	gˤ.r.ə.m	gˤ r ə m	gˤ.r ə.m	1181
+1076	OldTibetan	All	k.u.n	k.u.n	k u n	k u.n	1182
+1077	Xiahe	Ant	m.b.ə._.tɕ.a.χ._.m.a	m.b.ə._.tɕ.a.χ._.m.a	m b ə + tɕ a χ + m a	m.b ə + tɕ a.χ + m a	1183
+1078	Alike	Ant	cç.o.k._.m.æ	cç.o.k._.m.æ	cç o k + m æ	cç o.k + m æ	1183
+1079	Lhasa	Ant	tʂh.oː.¹³.◦.m.a.⁵⁵	tʂh.oː.¹³.◦.m.a.⁵⁵	ʈʂʰ oː ¹³ + m a ⁵⁵	ʈʂʰ oː ¹³ + m a ⁵⁵	1183
+1080	Batang	Ant	dʑ.a.⁵⁵.◦.dʐ.o.ʔ.⁵³.◦.tʂ.ᴜ.¹³.◦.m.a.⁵³	dʑ.a.⁵⁵.◦.dʐ.o.ʔ.⁵³.◦.tʂ.ᴜ.¹³.◦.m.a.⁵³	dʑ a ⁵⁵ + ɖʐ o ʔ ⁵³ + ʈʂ u ¹³ + m a ⁵³	dʑ a ⁵⁵ + ɖʐ o.ʔ ⁵³ + ʈʂ u ¹³ + m a ⁵³	1183
+1081	OldChinese	Ant	m.+.qʰ.a.j.ʔ	m.+.qʰ.a.j.ʔ	m + qʰ a j ʔ	m + qʰ a.j ʔ	1184
+1082	OldChinese	Ant	qʰˤ.o.ʔ	qʰˤ.o.ʔ	qʰˤ o ʔ	qʰˤ o ʔ	1183
+1083	OldTibetan	Ant	g.r.o.g.+.m.a	g.r.o.g.+.m.a	g r o g + m a	g r o.g + m a	1183
+1084	OldTibetan	Bad	ŋ.a.n	ŋ.a.n	ŋ a n	ŋ a.n	1185
+1085	Lhasa	Bad	ŋ.ɛ̃.∼.¹³.◦.p.o.⁵⁵	ŋ.ɛ̃.∼.¹³.◦.p.o.⁵⁵	ŋ ɛ̃ ¹³ + p o ⁵⁵	ŋ ɛ̃ ¹³ + p o ⁵⁵	1185
+1086	Lhasa	Bad	t.u.¹³.◦.k.o.⁵⁵	t.u.¹³.◦.k.o.⁵⁵	t u ¹³ + k o ⁵⁵	t u ¹³ + k o ⁵⁵	1186
+1087	Batang	Bad	d.u.⁵⁵.◦.p.ᴜ.⁵³	d.u.⁵⁵.◦.p.ᴜ.⁵³	d u ⁵⁵ + p u ⁵³	d u ⁵⁵ + p u ⁵³	1186
+1088	Batang	Bad	ɕ.ɑ.u.⁵⁵.◦.d.ɛ.ʔ.⁵³	ɕ.ɑ.u.⁵⁵.◦.d.ɛ.ʔ.⁵³	ɕ ɑu ⁵⁵ + d ɛ ʔ ⁵³	ɕ ɑu ⁵⁵ + d ɛ ʔ ⁵³	1187
+1089	Xiahe	Bad	a._.χ.a._.m.a	a._.χ.a._.m.a	a + χ a + m a	a + χ a + m a	1188
+1090	Xiahe	Bad	ŋ.a.n	ŋ.a.n	ŋ a n	ŋ a.n	1185
+1091	Alike	Bad	ŋ.a.n._.b.æ	ŋ.a.n._.b.æ	ŋ a n + b æ	ŋ a.n + b æ	1185
+1092	OldChinese	Bad	ʔˤ.a.k	ʔˤ.a.k	ʔˤ a k	ʔˤ a.k	1189
+1093	Lhasa	Barley	s.oː.⁵⁵	s.oː.⁵⁵	s oː ⁵⁵	s oː ⁵⁵	1190
+1094	Lhasa	Barley	s.o.⁵⁵.◦.w.a.⁵⁵	s.o.⁵⁵.◦.w.a.⁵⁵	s o ⁵⁵ + w a ⁵⁵	s o ⁵⁵ + w a ⁵⁵	1190
+1095	Batang	Barley	sh.ɑ.⁵⁵	sh.ɑ.⁵⁵	sʰ ɑ ⁵⁵	sʰ ɑ ⁵⁵	1190
+1096	OldTibetan	Barley	n.a.s	n.a.s	n a s	n a.s	1191
+1097	OldTibetan	Belly	pʰ.o.b.a	pʰ.o.b.a	pʰ o + b a	pʰ o + b a	1192
+1098	Alike	Belly	h.o	h.o	h o	h o	1192
+1099	Lhasa	Belly	tʂh.o.¹³.◦.k.o.⁵²	tʂh.o.¹³.◦.k.o.⁵²	ʈʂʰ o ¹³ + k o ⁵²	ʈʂʰ o ¹³ + k o ⁵²	1193
+1100	Batang	Belly	tʂ.ᴜ.¹³.◦.p.a.⁵³	tʂ.ᴜ.¹³.◦.p.a.⁵³	ʈʂ u ¹³ + p a ⁵³	ʈʂ u ¹³ + p a ⁵³	1193
+1101	Xiahe	Belly	h.o	h.o	h o	h o	1192
+1102	OldChinese	Belly	p.u.k	p.u.k	p u k	p u.k	1194
+1103	OldTibetan	Big	tɕʰ.e	tɕʰ.e	tɕʰ e	tɕʰ e	1195
+1104	Lhasa	Big	tɕʰ.ẽ.∼.⁵⁵.◦.p.o.⁵⁵	tɕʰ.ẽ.∼.⁵⁵.◦.p.o.⁵⁵	tɕʰ ẽ ⁵⁵ + p o ⁵⁵	tɕʰ ẽ ⁵⁵ + p o ⁵⁵	1195
+1105	Batang	Big	tɕʰ.ɪ.⁵³	tɕʰ.ɪ.⁵³	tɕʰ ɪ ⁵³	tɕʰ ɪ ⁵³	1195
+1106	Batang	Big	tɕʰ.ɑ.u.¹³	tɕʰ.ɑ.u.¹³	tɕʰ ɑu ¹³	tɕʰ ɑu ¹³	1195
+1107	Xiahe	Big	tɕh.e._.w.o	tɕh.e._.w.o	tɕʰ e + w o	tɕʰ e + w o	1195
+1108	Alike	Big	tɕh.e	tɕh.e	tɕʰ e	tɕʰ e	1195
+1109	OldChinese	Big	lˤ.a.t.+.s	lˤ.a.t.+.s	lˤ a t + s	lˤ a.t + s	1196
+1110	OldTibetan	To bite	b.z.a.s	b.z.a.s	b z a s	b.z a.s	1197
+1111	Lhasa	To bite	s.o.⁵⁵._.c.a.¹³²	s.o.⁵⁵._.c.a.¹³²	s o ⁵⁵ + c a ¹³²	s o ⁵⁵ + c a ¹³²	1198
+1112	Batang	To bite	ndʐ.ɛ.ʔ.⁵³	ndʐ.ɛ.ʔ.⁵³	ⁿɖʐ ɛ ʔ ⁵³	ⁿɖʐ ɛ.ʔ ⁵³	1199
+1113	Xiahe	To bite	sʰ.o._.nd.e.p	sʰ.o._.nd.e.p	sʰ o + ⁿd e p	sʰ o + ⁿd e.p	1198
+1114	Alike	To bite	w.a._.w.d.i._.w.ɟ.j.a.p	w.a._.w.d.i._.w.ɟ.j.a.p	w a + w d i + w ɟ j a p	w a + w.d i + w.ɟ.j a.p	1200
+1115	OldChinese	To bite	d.e.t.+.s	d.e.t.+.s	d e t + s	d e.t + s	1201
+1116	OldTibetan	To bite	r.m.u.g	r.m.u.g	r m u g	r.m u.g	1202
+1117	OldTibetan	Black	n.a.g.◦	n.a.g.◦	n a g	n a.g	1203
+1118	Lhasa	Black	n.a.¹³.◦.k.o.⁵⁵	n.a.¹³.◦.k.o.⁵⁵	n a ¹³ + k o ⁵⁵	n a ¹³ + k o ⁵⁵	1203
+1119	Batang	Black	n.ɑ.¹³.◦.n.ɑ.ʔ.⁵³	n.ɑ.¹³.◦.n.ɑ.ʔ.⁵³	n ɑ ¹³ + n ɑ ʔ ⁵³	n ɑ ¹³ + n ɑ.ʔ ⁵³	1203
+1120	Xiahe	Black	n.a.χ._.k.w.o	n.a.χ._.k.w.o	n a χ + k w o	n a.χ + k.w o	1203
+1121	Alike	Black	n.o.k._.k.o	n.o.k._.k.o	n o k + k o	n o.k + k o	1203
+1122	OldChinese	Black	ts.r.ə	ts.r.ə	ts r ə	ts.r ə	1204
+1123	OldChinese	Black	m̥ˤ.ə.k	m̥ˤ.ə.k	m̥ˤ ə k	m̥ˤ ə.k	1205
+1124	OldTibetan	Blood	kʰ.r.a.g	kʰ.r.a.g	kʰ r a g	kʰ.r a.g	1206
+1125	Lhasa	Blood	tʂh.a.⁵²	tʂh.a.⁵²	ʈʂʰ a ⁵²	ʈʂʰ a ⁵²	1206
+1126	Batang	Blood	tʂh.ɑ.ʔ.⁵³	tʂh.ɑ.ʔ.⁵³	ʈʂʰ ɑ ʔ ⁵³	ʈʂʰ ɑ.ʔ ⁵³	1206
+1127	Xiahe	Blood	tɕh.a.χ	tɕh.a.χ	tɕʰ a χ	tɕʰ a.χ	1206
+1128	Alike	Blood	cçh.a.k	cçh.a.k	cçʰ a k	cçʰ a.k	1206
+1129	OldChinese	Blood	m̥ˤ.i.k	m̥ˤ.i.k	m̥ˤ i k	m̥ˤ i.k	1207
+1130	OldTibetan	Bone	r.u.s	r.u.s	r u s	r u.s	1208
+1131	Alike	Bone	r.ə._.p.æ	r.ə._.p.æ	r ə + p æ	r ə + p æ	1208
+1132	Lhasa	Bone	r.y.⁵⁵.◦.k.o.⁵²	r.y.⁵⁵.◦.k.o.⁵²	r y ⁵⁵ + k o ⁵²	r y ⁵⁵ + k o ⁵²	1208
+1133	Batang	Bone	ʐ.ᴜ.¹³.◦.p.a.⁵³	ʐ.ᴜ.¹³.◦.p.a.⁵³	ʐ u ¹³ + p a ⁵³	ʐ u ¹³ + p a ⁵³	1208
+1134	Lhasa	Bone	r.y.¹³.◦.p.ə.⁵⁵	r.y.¹³.◦.p.ə.⁵⁵	r y ¹³ + p ə ⁵⁵	r y ¹³ + p ə ⁵⁵	1208
+1135	Xiahe	Bone	r.ə._.p.a	r.ə._.p.a	r ə + p a	r ə + p a	1208
+1136	OldChinese	Bone	kˤ.u.t	kˤ.u.t	kˤ u t	kˤ u.t	1209
+1137	OldTibetan	Breast	n.u.m.a	n.u.m.a	n u + m a	n u + m a	1210
+1138	Lhasa	Breast	o.¹³.◦.m.a.⁵⁵	o.¹³.◦.m.a.⁵⁵	o ¹³ + m a ⁵⁵	o ¹³ + m a ⁵⁵	1211
+1139	Batang	Breast	ȵ.ɑ.⁵⁵.◦.ȵ.ɑ.ʔ.⁵³	ȵ.ɑ.⁵⁵.◦.ȵ.ɑ.ʔ.⁵³	ȵ ɑ ⁵⁵ + ȵ ɑ ʔ ⁵³	ȵ ɑ ⁵⁵ + ȵ ɑ.ʔ ⁵³	1210
+1140	Xiahe	Breast	n.ə._.m.a	n.ə._.m.a	n ə + m a	n ə + m a	1210
+1141	Alike	Breast	n.ə._.m.æ	n.ə._.m.æ	n ə + m æ	n ə + m æ	1210
+1142	OldChinese	Breast	n.o.ʔ	n.o.ʔ	n o ʔ	n o.ʔ	1210
+1143	OldTibetan	To chew	ɴ.tɕʰ.a	ɴ.tɕʰ.a	ɴ tɕʰ a	ɴ.tɕʰ a	1212
+1144	Xiahe	To chew	d.a.l	d.a.l	d a l	d a.l	1213
+1145	Lhasa	To chew	m.u.r.¹³	m.u.r.¹³	m u r ¹³	m u.r ¹³	1214
+1146	Batang	To chew	tɕ.a.⁵³	tɕ.a.⁵³	tɕ a ⁵³	tɕ a ⁵³	1212
+1147	Alike	To chew	m.o._.r.e	m.o._.r.e	m o + r e	m o + r e	1214
+1148	Alike	To chew	r.d.a.t	r.d.a.t	r d a t	r.d a.t	1213
+1149	Batang	To chew	m.ᴜ.²³¹	m.ᴜ.²³¹	m u ²³¹	m u ²³¹	1214
+1150	OldChinese	To chew	dz.e.w.k.+.s	dz.e.w.k.+.s	dz e w k + s	dz e.w.k + s	1215
+1151	OldTibetan	Cloud	s.p.r.i.n	s.p.r.i.n	s p r i n	s.p.r i.n	1216
+1152	Batang	Cloud	tʂ.ĩ.∼.⁵⁵	tʂ.ĩ.∼.⁵⁵	ʈʂ ĩ ⁵⁵	ʈʂ ĩ ⁵⁵	1216
+1153	Xiahe	Cloud	ʂ.ə.n	ʂ.ə.n	ʂ ə n	ʂ ə n	1216
+1154	Lhasa	Cloud	tʂ.ĩ.∼.⁵⁵.◦.p.ə.⁵⁵	tʂ.ĩ.∼.⁵⁵.◦.p.ə.⁵⁵	ʈʂ ĩ ⁵⁵ + p ə ⁵⁵	ʈʂ ĩ ⁵⁵ + p ə ⁵⁵	1216
+1155	Alike	Cloud	w.tʂ.ə.n	w.tʂ.ə.n	w ʈʂ ə n	w.ʈʂ ə.n	1216
+1156	OldChinese	Cloud	ɢʷ.ə.n	ɢʷ.ə.n	ɢʷ ə n	ɢʷ ə n	1217
+1157	OldTibetan	Cold	g.r.a.ŋ.◦	g.r.a.ŋ.◦	g r a ŋ	g.r a.ŋ	1218
+1158	Xiahe	Cold	tɕ.a.ŋ	tɕ.a.ŋ	tɕ a ŋ	tɕ a.ŋ	1218
+1159	Lhasa	Cold	tʂh.ə.ŋ.¹³.◦.ŋ.u.⁵⁵	tʂh.ə.ŋ.¹³.◦.ŋ.u.⁵⁵	ʈʂʰ ə ŋ ¹³ + ŋ u ⁵⁵	ʈʂʰ ə.ŋ ¹³ + ŋ u ⁵⁵	1218
+1160	Lhasa	Cold	ch.a.⁵⁵.◦.k.o.⁵⁵	ch.a.⁵⁵.◦.k.o.⁵⁵	ch/ts a ⁵⁵ + k o ⁵⁵	ch/ts a ⁵⁵ + k o ⁵⁵	1219
+1161	Batang	Cold	tʂ.õ.∼.¹³.◦.m.ᴜ.⁵³	tʂ.õ.∼.¹³.◦.m.ᴜ.⁵³	ʈʂ õ ¹³ + m u ⁵³	ʈʂ õ ¹³ + m u ⁵³	1218
+1162	Xiahe	Cold	tɕh.a.χ._.k.w.a	tɕh.a.χ._.k.w.a	tɕʰ a χ + k w a	tɕʰ a.χ + k.w a	1219
+1163	Alike	Cold	n.cçh.a.k	n.cçh.a.k	n cçʰ a k	n.cçʰ a.k	1219
+1164	OldChinese	Cold	tsʰ.e.ŋ.+.s	tsʰ.e.ŋ.+.s	tsʰ e ŋ + s	tsʰ e.ŋ + s	1220
+1165	OldChinese	Cold	tsʰˤ.a.ŋ	tsʰˤ.a.ŋ	tsʰˤ a ŋ	tsʰˤ a.ŋ	1221
+1166	OldChinese	Cold	C/.+.r.a.ŋ	C/.+.r.a.ŋ	ç/k + r a ŋ	ç/k + r a.ŋ	1218
+1167	OldChinese	Cold	C/.ə.+.gˤ.a.n	C/.ə.+.gˤ.a.n	ç/k ə + gˤ a n	ç/k ə + gˤ a.n	1222
+1168	OldChinese	Cold	rˤ.e.ŋ.ʔ	rˤ.e.ŋ.ʔ	rˤ e ŋ ʔ	rˤ e.ŋ ʔ	1218
+1169	OldTibetan	To come	j.o.ŋ	j.o.ŋ	j o ŋ	j o.ŋ	1223
+1170	Lhasa	To come	ɕ.o.⁵²	ɕ.o.⁵²	ɕ o ⁵²	ɕ o.⁵²	1224
+1171	Lhasa	To come	j.o.ŋ.¹³	j.o.ŋ.¹³	j o ŋ ¹³	j o.ŋ ¹³	1223
+1172	Lhasa	To come	ph.e.⁵²	ph.e.⁵²	pʰ e ⁵²	pʰ e ⁵²	1225
+1173	Batang	To come	ʔ.õ.∼.¹³	ʔ.õ.∼.¹³	ʔ õ ¹³	ʔ õ ¹³	1223
+1174	Batang	To come	xh.o.ʔ.⁵³	xh.o.ʔ.⁵³	xʰ o ʔ ⁵³	xʰ o.ʔ ⁵³	1224
+1175	Xiahe	To come	j.o.ŋ	j.o.ŋ	j o ŋ	j o.ŋ	1223
+1176	Alike	To come	j.o.ŋ	j.o.ŋ	j o ŋ	j o.ŋ	1223
+1177	Alike	To come	xh.o.k	xh.o.k	xʰ o k	xʰ o.k	1224
+1178	OldChinese	To come	m.ə.+.rˤ.ə.k	m.ə.+.rˤ.ə.k	m ə + rˤ ə k	m ə + rˤ ə.k	1226
+1179	Lhasa	Daughter	ph.o.¹³.◦.m.o.⁵⁵	ph.o.¹³.◦.m.o.⁵⁵	pʰ o ¹³ + m o ⁵⁵	pʰ o ¹³ + m o ⁵⁵	1227
+1180	Batang	Daughter	p.ɑ̃.∼.¹³.◦.m.ᴜ.⁵³	p.ɑ̃.∼.¹³.◦.m.ᴜ.⁵³	p ɑ̃ ¹³ + m u ⁵³	p ɑ̃ ¹³ + m u ⁵³	1227
+1181	Xiahe	Daughter	ɕ.ə._.m.o	ɕ.ə._.m.o	ɕ ə + m o	ɕ ə + m o	1228
+1182	Alike	Daughter	ɕ.ə._.m.o	ɕ.ə._.m.o	ɕ ə + m o	ɕ ə + m o	1228
+1183	OldChinese	Daughter	n.r.a.ʔ	n.r.a.ʔ	n r a ʔ	n.r a ʔ	1229
+1184	OldTibetan	Daughter	b.u.+.m.o	b.u.+.m.o	b u + m o	b u + m o	1227
+1185	OldTibetan	To die	ɕ.i	ɕ.i	ɕ i	ɕ i	1230
+1186	Lhasa	To die	ɕ.i.⁵⁵	ɕ.i.⁵⁵	ɕ i ⁵⁵	ɕ i ⁵⁵	1230
+1187	Batang	To die	xh.i.⁵³	xh.i.⁵³	xʰ i ⁵³	xʰ i ⁵³	1230
+1188	Xiahe	To die	xh.ə	xh.ə	xʰ ə	xʰ ə	1230
+1189	Alike	To die	xh.ə	xh.ə	xʰ ə	xʰ ə	1230
+1190	OldChinese	To die	s.i.j.ʔ	s.i.j.ʔ	s i j ʔ	s i.j ʔ	1230
+1191	OldTibetan	Dog	kʰʲ.i	kʰʲ.i	kʲʰ i	kʲʰ i	1231
+1192	Lhasa	Dog	ch.i.⁵⁵	ch.i.⁵⁵	ch/ts i ⁵⁵	ch/ts i ⁵⁵	1231
+1193	Batang	Dog	tɕʰ.ɪ.⁵³	tɕʰ.ɪ.⁵³	tɕʰ ɪ ⁵³	tɕʰ ɪ ⁵³	1231
+1194	Xiahe	Dog	tɕh.ə._.ɣ.ə	tɕh.ə._.ɣ.ə	tɕʰ ə + ɣ ə	tɕʰ ə + ɣ ə	1231
+1195	Alike	Dog	tɕh.ə._.ɣ.ə	tɕh.ə._.ɣ.ə	tɕʰ ə + ɣ ə	tɕʰ ə + ɣ ə	1231
+1196	OldChinese	Dog	kʷʰˤ.e.n.ʔ	kʷʰˤ.e.n.ʔ	kʷʰˤ e n ʔ	kʷʰˤ e.n ʔ	1231
+1197	OldTibetan	To drink	ɴ.tʰ.u.ŋ	ɴ.tʰ.u.ŋ	ɴ tʰ u ŋ	ɴ.tʰ u.ŋ	1232
+1198	Lhasa	To drink	th.u.ŋ.⁵⁵	th.u.ŋ.⁵⁵	tʰ u ŋ ⁵⁵	tʰ u.ŋ ⁵⁵	1232
+1199	Xiahe	To drink	th.o.ŋ	th.o.ŋ	tʰ o ŋ	tʰ o.ŋ	1232
+1200	Alike	To drink	th.o.ŋ	th.o.ŋ	tʰ o ŋ	tʰ o.ŋ	1232
+1201	Batang	To drink	th.û.⁵⁵	th.û.⁵⁵	tʰ û/u ⁵⁵	tʰ û/u ⁵⁵	1232
+1202	OldChinese	To drink	q.u.m.ʔ	q.u.m.ʔ	q u m ʔ	q u.m ʔ	1233
+1203	OldTibetan	Dry	s.k.a.m.◦	s.k.a.m.◦	s k a m	s.k a.m	1234
+1204	Lhasa	Dry	k.a.m.⁵⁵.◦.p.o.⁵⁵	k.a.m.⁵⁵.◦.p.o.⁵⁵	k a m ⁵⁵ + p o ⁵⁵	k a.m ⁵⁵ + p o ⁵⁵	1234
+1205	Batang	Dry	k.a.⁵⁵.◦.m.b.ᴜ.⁵³	k.a.⁵⁵.◦.m.b.ᴜ.⁵³	k a ⁵⁵ + m b u ⁵³	k a ⁵⁵ + m.b u ⁵³	1234
+1206	Xiahe	Dry	h.k.a._.m.b.o	h.k.a._.m.b.o	h k a + m b o	h.k a + m.b o	1234
+1207	Alike	Dry	r.k.a.m._.b.o	r.k.a.m._.b.o	r k a m + b o	r.k a.m + b o	1234
+1208	OldChinese	Dry	kˤ.a.r	kˤ.a.r	kˤ a r	kˤ a.r	1235
+1209	OldTibetan	Dust	r.d.u.l	r.d.u.l	r d u l	r.d u.l	1236
+1210	Lhasa	Dust	th.ɛ.⁵⁵.◦.l.a.⁵⁵	th.ɛ.⁵⁵.◦.l.a.⁵⁵	tʰ ɛ ⁵⁵ + l a ⁵⁵	tʰ ɛ ⁵⁵ + l a ⁵⁵	1237
+1211	Batang	Dust	th.e.i.¹³.◦.k.ɑ.⁵⁵	th.e.i.¹³.◦.k.ɑ.⁵⁵	tʰ ei ¹³ + k ɑ ⁵⁵	tʰ ei ¹³ + k ɑ ⁵⁵	1237
+1212	Batang	Dust	th.e.⁵⁵.◦.w.ɑ.⁵⁵	th.e.⁵⁵.◦.w.ɑ.⁵⁵	tʰ e ⁵⁵ + w ɑ ⁵⁵	tʰ e ⁵⁵ + w ɑ ⁵⁵	1237
+1213	Xiahe	Dust	sʰ.a._.d.u	sʰ.a._.d.u	sʰ a + d u	sʰ a + d u	1236
+1214	Alike	Dust	th.a.r._.d.u	th.a.r._.d.u	tʰ a r + d u	tʰ a.r + d u	1237
+1215	OldChinese	Dust	d.r.ə.n	d.r.ə.n	d r ə n	d.r ə.n	1236
+1216	OldTibetan	Ear	r.n.a	r.n.a	r n a	r.n a	1238
+1217	Alike	Ear	r.n.æ	r.n.æ	r n æ	r.n æ	1238
+1218	Lhasa	Ear	a.m.⁵⁵.◦.tɕ.o.⁵²	a.m.⁵⁵.◦.tɕ.o.⁵²	a m ⁵⁵ + tɕ o ⁵²	a.m ⁵⁵ + tɕ o ⁵²	1239
+1219	Batang	Ear	n.a.⁵⁵.◦.j.o.⁵³	n.a.⁵⁵.◦.j.o.⁵³	n a ⁵⁵ + j o ⁵³	n a ⁵⁵ + j o ⁵³	1238
+1220	Xiahe	Ear	n.a._.ndʑ.o.χ	n.a._.ndʑ.o.χ	n a + ⁿdʑ o /o χ	n a + ⁿdʑ o./o χ	1238
+1221	OldChinese	Ear	C/.+.n.ə.ʔ	C/.+.n.ə.ʔ	ç/k + n ə ʔ	ç/k + n ə.ʔ	1238
+1222	OldTibetan	To eat	z.a	z.a	z a	z a	1240
+1223	Lhasa	To eat	s.a.¹³	s.a.¹³	s a ¹³	s a ¹³	1240
+1224	Batang	To eat	s.a.²³¹	s.a.²³¹	s a ²³¹	s a ²³¹	1240
+1225	Xiahe	To eat	s.a	s.a	s a	s a	1240
+1226	Alike	To eat	s.æ	s.æ	s æ	s æ	1240
+1227	OldChinese	To eat	m.ə.+.l.ə.k	m.ə.+.l.ə.k	m ə + l ə k	m ə + l ə.k	1241
+1228	OldTibetan	Egg	s.g.o.ŋ.a	s.g.o.ŋ.a	s g o + ŋ a	s.g o + ŋ a	1242
+1229	Alike	Egg	w.ɕ.a.r._.r.g.o.ŋ	w.ɕ.a.r._.r.g.o.ŋ	w ɕ a r + r g o ŋ	w.ɕ a.r + r.g o.ŋ	1242
+1230	Lhasa	Egg	k.o.¹³.◦.ŋ.a.⁵⁵	k.o.¹³.◦.ŋ.a.⁵⁵	k o ¹³ + ŋ a ⁵⁵	k o ¹³ + ŋ a ⁵⁵	1242
+1231	Batang	Egg	g.ũ.∼.¹³.◦.ŋ.ɑ.ʔ.⁵³	g.ũ.∼.¹³.◦.ŋ.ɑ.ʔ.⁵³	g ũ ¹³ + ŋ ɑ ʔ ⁵³	g ũ ¹³ + ŋ ɑ.ʔ ⁵³	1242
+1232	Xiahe	Egg	g.o.ŋ._.ŋ.a	g.o.ŋ._.ŋ.a	g o ŋ + ŋ a	g o.ŋ + ŋ a	1242
+1233	OldChinese	Egg	k.rˤ.o.r.ʔ	k.rˤ.o.r.ʔ	k rˤ o r ʔ	k.rˤ o.r ʔ	1243
+1234	OldChinese	Egg	tʰ.u.r	tʰ.u.r	tʰ u r	tʰ u.r	1244
+1235	OldTibetan	Eight	b.r.gʲ.a.d	b.r.gʲ.a.d	b r gʲ a d	b.r.gʲ a.d	1245
+1236	Lhasa	Eight	c.ɛ.¹³²	c.ɛ.¹³²	c ɛ ¹³²	c ɛ ¹³²	1245
+1237	Xiahe	Eight	dʑ.a.l	dʑ.a.l	dʑ a l	dʑ a.l	1245
+1238	Batang	Eight	dʑ.ɛ.ʔ.⁵³	dʑ.ɛ.ʔ.⁵³	dʑ ɛ ʔ ⁵³	dʑ ɛ.ʔ ⁵³	1245
+1239	Alike	Eight	w.dʑ.a.t	w.dʑ.a.t	w dʑ a t	w.dʑ a.t	1245
+1240	OldChinese	Eight	pˤ.r.e.t	pˤ.r.e.t	pˤ r e t	pˤ.r e.t	1245
+1241	OldTibetan	Eye	d.mʲ.i.g	d.mʲ.i.g	d mʲ i g	d.mʲ i.g	1246
+1242	Lhasa	Eye	m.i.⁵²	m.i.⁵²	m i ⁵²	m i ⁵²	1246
+1243	Batang	Eye	m.i.ʔ.⁵³	m.i.ʔ.⁵³	m i ʔ ⁵³	m i.ʔ ⁵³	1246
+1244	Xiahe	Eye	h.ȵ.ɔ.χ	h.ȵ.ɔ.χ	h ȵ ɔ χ	h.ȵ ɔ.χ	1246
+1245	Alike	Eye	ɣ.ȵ.ə.k	ɣ.ȵ.ə.k	ɣ ȵ ə k	ɣ.ȵ ə.k	1246
+1246	OldChinese	Eye	C/.+.m.u.k	C/.+.m.u.k	ç/k + m u k	ç/k + m u.k	1246
+1247	OldTibetan	Far	tʰ.a.g.+.r.i.ŋ.+.p.o	tʰ.a.g.+.r.i.ŋ.+.p.o	tʰ a g + r i ŋ + p o	tʰ a.g + r i.ŋ + p o	1247
+1248	Lhasa	Far	th.a.⁵²._.r.i.ŋ.¹³.◦.k.u.⁵⁵	th.a.⁵²._.r.i.ŋ.¹³.◦.k.u.⁵⁵	tʰ a ⁵² + r i ŋ ¹³ + k u ⁵⁵	tʰ a ⁵² + r i.ŋ ¹³ + k u ⁵⁵	1247
+1249	Xiahe	Far	th.a.χ._.r.a.ŋ	th.a.χ._.r.a.ŋ	tʰ a χ + r a ŋ	tʰ a.χ + r a ŋ	1247
+1250	Batang	Far	th.a.ʔ.⁵³.◦.r.ĩ.∼.¹³.◦.p.ᴜ.⁵³	th.a.ʔ.⁵³.◦.r.ĩ.∼.¹³.◦.p.ᴜ.⁵³	tʰ a ʔ ⁵³ + r ĩ ¹³ + p u ⁵³	tʰ a.ʔ ⁵³ + r ĩ ¹³ + p u ⁵³	1247
+1251	Alike	Far	th.a.k._.r.a.ŋ	th.a.k._.r.a.ŋ	tʰ a k + r a ŋ	tʰ a.k + r a.ŋ	1247
+1252	OldChinese	Far	C/.+.ɢʷ.a.n.ʔ	C/.+.ɢʷ.a.n.ʔ	ç/k + ɢʷ a n ʔ	ç/k + ɢʷ a.n ʔ	1248
+1253	OldTibetan	Father	a.pʰ.a	a.pʰ.a	a + pʰ a	a + pʰ a	1249
+1254	Lhasa	Father	a.⁵⁵.◦.p.a.⁵⁵	a.⁵⁵.◦.p.a.⁵⁵	a ⁵⁵ + p a ⁵⁵	a ⁵⁵ + p a ⁵⁵	1249
+1255	Lhasa	Father	p.a.⁵⁵.◦.p.a.⁵⁵	p.a.⁵⁵.◦.p.a.⁵⁵	p a ⁵⁵ + p a ⁵⁵	p a ⁵⁵ + p a ⁵⁵	1249
+1256	Batang	Father	ʔ.a.⁵⁵.◦.ph.a.⁵³	ʔ.a.⁵⁵.◦.ph.a.⁵³	ʔ a ⁵⁵ + pʰ a ⁵³	ʔ a ⁵⁵ + pʰ a ⁵³	1249
+1257	Batang	Father	ph.a.⁵⁵.◦.g.ẽ.∼.⁵⁵	ph.a.⁵⁵.◦.g.ẽ.∼.⁵⁵	pʰ a ⁵⁵ + g ẽ ⁵⁵	pʰ a ⁵⁵ + g ẽ ⁵⁵	1249
+1258	Xiahe	Father	ʔ.a._.dʑ.a	ʔ.a._.dʑ.a	ʔ a + dʑ a	ʔ a + dʑ a	1250
+1259	Alike	Father	a._.r.dʑ.æ	a._.r.dʑ.æ	a + r dʑ æ	a + r.dʑ æ	1250
+1260	OldChinese	Father	ɴ.+.p.a.ʔ	ɴ.+.p.a.ʔ	ɴ + p a ʔ	ɴ + p a ʔ	1249
+1261	OldTibetan	Fire	m.e	m.e	m e	m e	1251
+1262	Lhasa	Fire	m.e.¹³	m.e.¹³	m e ¹³	m e ¹³	1251
+1263	Batang	Fire	ȵ.e.⁵³	ȵ.e.⁵³	ȵ e ⁵³	ȵ e ⁵³	1251
+1264	Alike	Fire	m.ȵ.e	m.ȵ.e	m ȵ e	m.ȵ e	1251
+1265	Xiahe	Fire	ȵ.e	ȵ.e	ȵ e	ȵ e	1251
+1266	OldChinese	Fire	qʷʰˤ.ə.j.ʔ	qʷʰˤ.ə.j.ʔ	qʷʰˤ ə j ʔ	qʷʰˤ ə.j ʔ	1252
+1267	Alike	Firewood	tɕh.æ._.m.æ	tɕh.æ._.m.æ	tɕʰ æ + m æ	tɕʰ æ + m æ	1253
+1268	Lhasa	Firewood	m.i.¹³.◦.ɕ.i.ŋ.⁵⁵	m.i.¹³.◦.ɕ.i.ŋ.⁵⁵	m i ¹³ + ɕ i ŋ ⁵⁵	m i ¹³ + ɕ i.ŋ ⁵⁵	1254
+1269	Batang	Firewood	xh.ĩ.∼.⁵⁵	xh.ĩ.∼.⁵⁵	xʰ ĩ ⁵⁵	xʰ ĩ ⁵⁵	1254
+1270	Xiahe	Firewood	tɕh.a._.m.a	tɕh.a._.m.a	tɕʰ a + m a	tɕʰ a + m a	1253
+1271	OldChinese	Firewood	s.i.n	s.i.n	s i n	s i.n	1254
+1272	OldTibetan	Fish	ɲ.a	ɲ.a	ɲ a	ɲ a	1255
+1273	Alike	Fish	ȵ.æ	ȵ.æ	ȵ æ	ȵ æ	1255
+1274	Lhasa	Fish	ȵ.a.¹³	ȵ.a.¹³	ȵ a ¹³	ȵ a ¹³	1255
+1275	Batang	Fish	ȵ.a.²³¹	ȵ.a.²³¹	ȵ a ²³¹	ȵ a ²³¹	1255
+1276	Xiahe	Fish	ȵ.a	ȵ.a	ȵ a	ȵ a	1255
+1277	OldChinese	Fish	r.+.ŋ.a	r.+.ŋ.a	r + ŋ a	r + ŋ a	1255
+1278	OldTibetan	Five	l.ŋ.a	l.ŋ.a	l ŋ a	l.ŋ a	1256
+1279	Lhasa	Five	ŋ.a.⁵⁵	ŋ.a.⁵⁵	ŋ a ⁵⁵	ŋ a ⁵⁵	1256
+1280	Batang	Five	ŋ.a.⁵³	ŋ.a.⁵³	ŋ a ⁵³	ŋ a ⁵³	1256
+1281	Xiahe	Five	h.ŋ.a	h.ŋ.a	h ŋ a	h.ŋ a	1256
+1282	Alike	Five	r.ŋ.æ	r.ŋ.æ	r ŋ æ	r.ŋ æ	1256
+1283	OldChinese	Five	C/.+.ŋˤ.a.ʔ	C/.+.ŋˤ.a.ʔ	ç/k + ŋˤ a ʔ	ç/k + ŋˤ a ʔ	1256
+1284	OldTibetan	Flower	m.e.+.t.o.g	m.e.+.t.o.g	m e + t o g	m e + t o.g	1257
+1285	Batang	Flower	m.e.¹³.◦.t.o.ʔ.⁵³	m.e.¹³.◦.t.o.ʔ.⁵³	m e ¹³ + t o ʔ ⁵³	m e ¹³ + t o.ʔ ⁵³	1257
+1286	Lhasa	Flower	m.e.¹³.◦.t.o.⁵²	m.e.¹³.◦.t.o.⁵²	m e ¹³ + t o ⁵²	m e ¹³ + t o ⁵²	1257
+1287	Xiahe	Flower	m.e._.t.o.χ	m.e._.t.o.χ	m e + t o χ	m e + t o.χ	1257
+1288	Alike	Flower	m.e._.tʰ.o.k	m.e._.tʰ.o.k	m e + tʰ o k	m e + tʰ o.k	1257
+1289	OldChinese	Flower	ɴ.+.qʷʰˤ.r.a	ɴ.+.qʷʰˤ.r.a	ɴ + qʷʰˤ r a	ɴ + qʷʰˤ.r a	1258
+1290	OldTibetan	To fly	ɴ.pʰ.u.r.◦	ɴ.pʰ.u.r.◦	ɴ pʰ u r	ɴ.pʰ u.r	1259
+1291	Batang	To fly	d.ĩ.∼.⁵⁵	d.ĩ.∼.⁵⁵	d ĩ ⁵⁵	d ĩ ⁵⁵	1260
+1292	Xiahe	To fly	ph.ə.r	ph.ə.r	pʰ ə r	pʰ ə.r	1259
+1293	Lhasa	To fly	ph.i.r.⁵⁵	ph.i.r.⁵⁵	pʰ i r ⁵⁵	pʰ i.r ⁵⁵	1259
+1294	Alike	To fly	m.p.ə.r	m.p.ə.r	m p ə r	m.p ə.r	1259
+1295	OldChinese	To fly	C/.ə.+.p.ə.r	C/.ə.+.p.ə.r	ç/k ə + p ə r	ç/k ə + p ə.r	1261
+1296	OldTibetan	Four	b.ʑ.i	b.ʑ.i	b ʑ i	b.ʑ i	1262
+1297	Lhasa	Four	ɕ.i.¹³	ɕ.i.¹³	ɕ i ¹³	ɕ i ¹³	1262
+1298	Alike	Four	w.ʑ.ə	w.ʑ.ə	w ʑ ə	w.ʑ ə	1262
+1299	Batang	Four	ɣ.ɪ.⁵³	ɣ.ɪ.⁵³	ɣ ɪ ⁵³	ɣ ɪ ⁵³	1262
+1300	Xiahe	Four	ʑ.ə	ʑ.ə	ʑ ə	ʑ ə	1262
+1301	OldChinese	Four	s.l.i.j.+.s	s.l.i.j.+.s	s l i j + s	s.l i.j + s	1262
+1302	OldTibetan	Fruit	ɕ.i.ŋ.+.t.o.g	ɕ.i.ŋ.+.t.o.g	ɕ i ŋ + t o g	ɕ i.ŋ + t o.g	1263
+1303	Alike	Fruit	s.i	s.i	s i	s i	1264
+1304	Lhasa	Fruit	ɕ.i.ŋ.⁵⁵.◦.t.o.⁵²	ɕ.i.ŋ.⁵⁵.◦.t.o.⁵²	ɕ i ŋ ⁵⁵ + t o ⁵²	ɕ i.ŋ ⁵⁵ + t o ⁵²	1263
+1305	Batang	Fruit	xh.ĩ.∼.⁵⁵.◦.th.o.ʔ.⁵³	xh.ĩ.∼.⁵⁵.◦.th.o.ʔ.⁵³	xʰ ĩ ⁵⁵ + tʰ o ʔ ⁵³	xʰ ĩ ⁵⁵ + tʰ o.ʔ ⁵³	1263
+1306	Xiahe	Fruit	sʰ.i._.t.o.χ	sʰ.i._.t.o.χ	sʰ i + t o χ	sʰ i + t o.χ	1263
+1307	OldChinese	Fruit	m.ə.l.i.t	m.ə.l.i.t	m ə + l i t	m ə + l i t	1265
+1308	OldTibetan	To give	s.b.ʲ.i.n	s.b.ʲ.i.n	s b j i n	s.b.j i.n	1266
+1309	Lhasa	To give	tʂ.ɛ.⁵²	tʂ.ɛ.⁵²	ʈʂ ɛ ⁵²	ʈʂ ɛ ⁵²	1267
+1310	Lhasa	To give	t.eː.⁵⁵	t.eː.⁵⁵	t eː ⁵⁵	t eː ⁵⁵	1268
+1311	Xiahe	To give	h.t.e.r	h.t.e.r	h t e r	h.t e.r	1268
+1312	Alike	To give	r.t.e.r	r.t.e.r	r t e r	r.t e.r	1268
+1313	Alike	To give	w.ɕ.ə.n	w.ɕ.ə.n	w ɕ ə n	w.ɕ ə.n	1266
+1314	Batang	To give	t.ɛ.ʔ.⁵³	t.ɛ.ʔ.⁵³	t ɛ ʔ ⁵³	t ɛ.ʔ ⁵³	1268
+1315	OldChinese	To give	p.i.t.+.s	p.i.t.+.s	p i t + s	p i.t + s	1266
+1316	Alike	Goat	tɕh.ə._.r.a	tɕh.ə._.r.a	tɕʰ ə + r a	tɕʰ ə + r a	1269
+1317	Lhasa	Goat	r.a.¹³	r.a.¹³	r a ¹³	r a ¹³	1269
+1318	Batang	Goat	ʐ.a.²³¹	ʐ.a.²³¹	ʐ a ²³¹	ʐ a ²³¹	1269
+1319	Alike	Goat	r.æ._.m.æ	r.æ._.m.æ	r æ + m æ	r æ + m æ	1269
+1320	Xiahe	Goat	r.a._.m.a	r.a._.m.a	r a + m a	r a + m a	1269
+1321	OldChinese	Goat	ɢ.a.ŋ	ɢ.a.ŋ	ɢ a ŋ	ɢ a.ŋ	1270
+1322	OldTibetan	Goat	r.a	r.a	r a	r a	1269
+1323	OldTibetan	Good	b.z.a.ŋ	b.z.a.ŋ	b z a ŋ	b.z a.ŋ	1271
+1324	Lhasa	Good	j.a.¹³.◦.k.o.⁵⁵	j.a.¹³.◦.k.o.⁵⁵	j a ¹³ + k o ⁵⁵	j a ¹³ + k o ⁵⁵	1272
+1325	Lhasa	Good	l.e.k.¹³.◦.p.o.⁵⁵	l.e.k.¹³.◦.p.o.⁵⁵	l e k ¹³ + p o ⁵⁵	l e.k ¹³ + p o ⁵⁵	1273
+1326	Batang	Good	j.ɑ.¹³.◦.p.ᴜ.⁵³	j.ɑ.¹³.◦.p.ᴜ.⁵³	j ɑ ¹³ + p u ⁵³	j ɑ ¹³ + p u ⁵³	1272
+1327	Batang	Good	z.õ.∼.⁵⁵.◦.b.ᴜ.⁵³	z.õ.∼.⁵⁵.◦.b.ᴜ.⁵³	z õ ⁵⁵ + b u ⁵³	z õ ⁵⁵ + b u ⁵³	1271
+1328	Xiahe	Good	a._.dz.o	a._.dz.o	a + dz o	a + dz o	1274
+1329	Xiahe	Good	z.a.ŋ	z.a.ŋ	z a ŋ	z a.ŋ	1271
+1330	Alike	Good	j.a.k._.k.ə	j.a.k._.k.ə	j a k + k ə	j a.k + k ə	1272
+1331	OldChinese	Good	g.e.n.ʔ	g.e.n.ʔ	g e n ʔ	g e.n ʔ	1275
+1332	OldChinese	Good	kˤ.r.e	kˤ.r.e	kˤ r e	kˤ.r e	1276
+1333	OldChinese	Good	r.a.ŋ	r.a.ŋ	r a ŋ	r a.ŋ	1277
+1334	OldChinese	Good	tsˤ.a.ŋ	tsˤ.a.ŋ	tsˤ a ŋ	tsˤ a.ŋ	1271
+1335	OldChinese	Good	kˤ.r.a.j	kˤ.r.a.j	kˤ r a j	kˤ.r a.j	1278
+1336	OldChinese	Good	qʰˤ.u.ʔ	qʰˤ.u.ʔ	qʰˤ u ʔ	qʰˤ u ʔ	1279
+1337	Batang	Hailstone	sh.ɑ.⁵⁵	sh.ɑ.⁵⁵	sʰ ɑ ⁵⁵	sʰ ɑ ⁵⁵	1280
+1338	Lhasa	Hailstone	s.eː.⁵⁵.◦.r.a.⁵⁵	s.eː.⁵⁵.◦.r.a.⁵⁵	s eː ⁵⁵ + r a ⁵⁵	s eː ⁵⁵ + r a ⁵⁵	1280
+1339	Xiahe	Hailstone	sʰ.e._.r.a	sʰ.e._.r.a	sʰ e + r a	sʰ e + r a	1280
+1340	Alike	Hailstone	s.e._.r.a	s.e._.r.a	s e + r a	s e + r a	1280
+1341	OldChinese	Hailstone	C/.+.bˤ.r.u.k	C/.+.bˤ.r.u.k	ç/k + bˤ r u k	ç/k + bˤ.r u.k	1281
+1342	OldChinese	Hailstone	sˤ.e.r.+.s	sˤ.e.r.+.s	sˤ e r + s	sˤ e.r + s	1280
+1343	OldTibetan	Hailstone	s.e.r.+.b.a	s.e.r.+.b.a	s e r + b a	s e.r + b a	1280
+1344	OldTibetan	Hair	s.k.r.a	s.k.r.a	s k r a	s.k r.a	1282
+1345	Alike	Hair	r.cç.æ	r.cç.æ	r cç æ	r.cç æ	1282
+1346	Batang	Hair	tʂ.a.⁵³	tʂ.a.⁵³	ʈʂ a ⁵³	ʈʂ a ⁵³	1282
+1347	Lhasa	Hair	tʂ.a.⁵⁵	tʂ.a.⁵⁵	ʈʂ a ⁵⁵	ʈʂ a ⁵⁵	1282
+1348	Xiahe	Hair	h.tɕ.a	h.tɕ.a	h tɕ a	h tɕ a	1282
+1349	OldChinese	Hair	p.o.t	p.o.t	p o t	p o.t	1283
+1350	OldTibetan	Head	m.g.o	m.g.o	m g o	m.g o	1284
+1351	Lhasa	Head	k.o.¹³	k.o.¹³	k o ¹³	k o ¹³	1284
+1352	Batang	Head	ŋ.g.ᴜ.⁵³	ŋ.g.ᴜ.⁵³	ⁿg u ⁵³	ⁿg u ⁵³	1284
+1353	Xiahe	Head	n.g.o._.t.ə	n.g.o._.t.ə	ⁿg o + t ə	ⁿg o + t ə	1284
+1354	Alike	Head	n.g.o	n.g.o	ⁿg o	ⁿg o	1284
+1355	OldChinese	Head	ŋ.o.r	ŋ.o.r	ŋ o r	ŋ o.r	1285
+1356	OldChinese	Head	l̥.u.ʔ	l̥.u.ʔ	l̥ u ʔ	l̥ u.ʔ	1286
+1357	OldTibetan	Head	d.b.u	d.b.u	d b u	d.b u	1287
+1358	OldTibetan	Heart	s.ɲ.i.ŋ	s.ɲ.i.ŋ	s ɲ i ŋ	s.ɲ i.ŋ	1288
+1359	Lhasa	Heart	ȵ.i.ŋ.⁵⁵	ȵ.i.ŋ.⁵⁵	ȵ i ŋ ⁵⁵	ȵ i.ŋ ⁵⁵	1288
+1360	Batang	Heart	ȵ.ĩ.∼.⁵⁵	ȵ.ĩ.∼.⁵⁵	ȵ ĩ ⁵⁵	ȵ ĩ ⁵⁵	1288
+1361	Xiahe	Heart	h.ȵ.a.ŋ	h.ȵ.a.ŋ	h ȵ a ŋ	h.ȵ a.ŋ	1288
+1362	Alike	Heart	r.ȵ̥.a.ŋ	r.ȵ̥.a.ŋ	r ȵ̥ a ŋ	r.ȵ̥ a.ŋ	1288
+1363	OldChinese	Heart	s.ə.m	s.ə.m	s ə m	s ə.m	1289
+1364	OldTibetan	Heavy	l.dʑ.i.d	l.dʑ.i.d	l dʑ i d	l.dʑ i.d	1290
+1365	Alike	Heavy	r.dʑ.ə._.ɣ.ə	r.dʑ.ə._.ɣ.ə	r dʑ ə + ɣ ə	r.dʑ ə + ɣ ə	1290
+1366	Lhasa	Heavy	tɕ.i.¹³.◦.p.u.⁵⁵	tɕ.i.¹³.◦.p.u.⁵⁵	tɕ i ¹³ + p u ⁵⁵	tɕ i ¹³ + p u ⁵⁵	1290
+1367	Batang	Heavy	dʑ.i.⁵⁵.◦.p.ᴜ.⁵³	dʑ.i.⁵⁵.◦.p.ᴜ.⁵³	dʑ i ⁵⁵ + p u ⁵³	dʑ i ⁵⁵ + p u ⁵³	1290
+1368	Xiahe	Heavy	dʑ.ə._.m.o	dʑ.ə._.m.o	dʑ ə + m o	dʑ ə + m o	1290
+1369	OldChinese	Heavy	ɴ.+.t.r.o.ŋ.ʔ	ɴ.+.t.r.o.ŋ.ʔ	ɴ + t r o ŋ ʔ	ɴ + t.r o.ŋ ʔ	1291
+1370	OldTibetan	Horns	g.r.u	g.r.u	g r u	g.r u	1292
+1371	Lhasa	Horns	r.a.⁵⁵.◦.k.o.⁵²	r.a.⁵⁵.◦.k.o.⁵²	r a ⁵⁵ + k o ⁵²	r a ⁵⁵ + k o ⁵²	1292
+1372	Alike	Horns	r.a._.tɕh.o	r.a._.tɕh.o	r a + tɕʰ o	r a + tɕʰ o	1292
+1373	Batang	Horns	ʐ.a.¹³.◦.j.o.⁵³	ʐ.a.¹³.◦.j.o.⁵³	ʐ a ¹³ + j o ⁵³	ʐ a ¹³ + j o ⁵³	1292
+1374	Xiahe	Horns	r.a._.tɕ.o	r.a._.tɕ.o	r a + tɕ o	r a + tɕ o	1292
+1375	OldChinese	Horns	C/.+.kˤ.r.o.k	C/.+.kˤ.r.o.k	ç/k + kˤ r o k	ç/k + kˤ.r o.k	1293
+1376	Alike	Horse	r.t.æ	r.t.æ	r t æ	r.t æ	1294
+1377	Lhasa	Horse	t.a.⁵⁵	t.a.⁵⁵	t a ⁵⁵	t a ⁵⁵	1294
+1378	Batang	Horse	t.a.⁵³	t.a.⁵³	t a ⁵³	t a ⁵³	1294
+1379	Xiahe	Horse	h.t.a	h.t.a	h t a	h.t a	1294
+1380	OldChinese	Horse	mˤ.r.a.ʔ	mˤ.r.a.ʔ	mˤ r a ʔ	mˤ.r a ʔ	1295
+1381	OldTibetan	Horse	r.t.a	r.t.a	r t a	r.t a	1294
+1382	Lhasa	Hot	tsʰ.a.⁵⁵.◦.p.o.⁵⁵	tsʰ.a.⁵⁵.◦.p.o.⁵⁵	tsʰ a ⁵⁵ + p o ⁵⁵	tsʰ a ⁵⁵ + p o ⁵⁵	1296
+1383	Batang	Hot	tsʰ.a.⁵⁵.◦.m.ᴜ.⁵³	tsʰ.a.⁵⁵.◦.m.ᴜ.⁵³	tsʰ a ⁵⁵ + m u ⁵³	tsʰ a ⁵⁵ + m u ⁵³	1296
+1384	Xiahe	Hot	h.ŋ.u	h.ŋ.u	h ŋ u	h.ŋ u	1297
+1385	Xiahe	Hot	tsʰ.a._.nd.e	tsʰ.a._.nd.e	tsʰ a + ⁿd e	tsʰ a + ⁿd e	1296
+1386	Alike	Hot	tʂ.o._.ɣ.ə	tʂ.o._.ɣ.ə	ʈʂ o + ɣ ə	ʈʂ o + ɣ ə	1298
+1387	OldChinese	Hot	C/.+.n.a.t	C/.+.n.a.t	ç/k + n a t	ç/k + n a.t	1299
+1388	OldTibetan	Hot	tsʰ.a	tsʰ.a	tsʰ a	tsʰ a	1296
+1389	OldTibetan	House	kʰ.j.i.m	kʰ.j.i.m	kʰ j i m	kʰ.j i.m	1300
+1390	Batang	House	kʰ.õ.∼.⁵⁵.◦.m.b.a.⁵³	kʰ.õ.∼.⁵⁵.◦.m.b.a.⁵³	kʰ õ ⁵⁵ + ⁿb a ⁵³	kʰ õ ⁵⁵ + ⁿb a ⁵³	1301
+1391	Xiahe	House	kʰ.a.ŋ._.w.a	kʰ.a.ŋ._.w.a	kʰ a ŋ + w a	kʰ a.ŋ + w a	1301
+1392	Lhasa	House	kʰ.a.ŋ.⁵⁵._.p.a.⁵⁵	kʰ.a.ŋ.⁵⁵._.p.a.⁵⁵	kʰ a ŋ ⁵⁵ + p a ⁵⁵	kʰ a.ŋ ⁵⁵ + p a ⁵⁵	1301
+1393	Alike	House	n.kʰ.o.ŋ._.ŋ.æ	n.kʰ.o.ŋ._.ŋ.æ	ⁿkʰ o ŋ + ŋ æ	ⁿkʰ o.ŋ + ŋ æ	1301
+1394	OldChinese	House	qˤ.o.k	qˤ.o.k	qˤ o k	qˤ o.k	1302
+1395	OldTibetan	One Hundred	b.r.g.ʲ.a	b.r.g.ʲ.a	b r g j a	b.r.g.j a	1303
+1396	Lhasa	One Hundred	c.a.¹³	c.a.¹³	c a ¹³	c a ¹³	1303
+1397	Batang	One Hundred	dʑ.a.⁵³	dʑ.a.⁵³	dʑ a ⁵³	dʑ a ⁵³	1303
+1398	Xiahe	One Hundred	dʑ.a._.th.a._.m.b.a	dʑ.a._.th.a._.m.b.a	dʑ a + tʰ a + m b a	dʑ a + tʰ a + m.b a	1303
+1399	Alike	One Hundred	w.ɟ.j.æ	w.ɟ.j.æ	w ɟ j æ	w.ɟ.j æ	1303
+1400	OldChinese	One Hundred	pˤ.r.a.k	pˤ.r.a.k	pˤ r a k	pˤ.r a.k	1303
+1401	OldTibetan	Husband	kʰ.ʲ.o.+.g.a	kʰ.ʲ.o.+.g.a	kʰ j o + g a	kʰ.j o + g a	1304
+1402	Lhasa	Husband	ch.o.⁵⁵.◦.k.a.⁵⁵	ch.o.⁵⁵.◦.k.a.⁵⁵	ch/ts o /o ⁵⁵ + k a ⁵⁵	ch/ts o./o ⁵⁵ + k a ⁵⁵	1304
+1403	Batang	Husband	ɕ.e.⁵⁵.◦.p.a.⁵³	ɕ.e.⁵⁵.◦.p.a.⁵³	ɕ e ⁵⁵ + p a ⁵³	ɕ e ⁵⁵ + p a ⁵³	1305
+1404	Batang	Husband	nd.u.¹³.◦.r.o.ʔ.⁵³	nd.u.¹³.◦.r.o.ʔ.⁵³	ⁿd u ¹³ + r o ʔ ⁵³	ⁿd u ¹³ + r o.ʔ ⁵³	1306
+1405	Xiahe	Husband	ȵ.ə._.r.u	ȵ.ə._.r.u	ȵ ə + r u	ȵ ə + r u	1307
+1406	Alike	Husband	r.g.a._.p.o	r.g.a._.p.o	r g a + p o	r.g a + p o	1308
+1407	OldChinese	Husband	p.a	p.a	p a	p a	1309
+1408	OldTibetan	I	ŋ.a	ŋ.a	ŋ a	ŋ a	1310
+1409	Batang	I	ŋ.a.²³¹	ŋ.a.²³¹	ŋ a ²³¹	ŋ a ²³¹	1310
+1410	Xiahe	I	ŋ.a	ŋ.a	ŋ a	ŋ a	1310
+1411	Lhasa	I	ŋ.a.¹³	ŋ.a.¹³	ŋ a ¹³	ŋ a ¹³	1310
+1412	Alike	I	ŋ.æ	ŋ.æ	ŋ æ	ŋ æ	1310
+1413	OldChinese	I	ŋˤ.a	ŋˤ.a	ŋˤ a	ŋˤ a	1310
+1414	OldTibetan	To kill	g.s.o.d	g.s.o.d	g s o d	g.s o.d	1311
+1415	Lhasa	To kill	s.ɛ.⁵²	s.ɛ.⁵²	s ɛ ⁵²	s ɛ ⁵²	1311
+1416	Batang	To kill	tʂ.ũ.∼.⁵⁵	tʂ.ũ.∼.⁵⁵	ʈʂ ũ ⁵⁵	ʈʂ ũ ⁵⁵	1312
+1417	Batang	To kill	s.ɛ.ʔ.⁵³	s.ɛ.ʔ.⁵³	s ɛ ʔ ⁵³	s ɛ.ʔ ⁵³	1311
+1418	Xiahe	To kill	s.ɕ.l	s.ɕ.l	s ɕ !Ø/a l	s.ɕ !Ø/a.l	1311
+1419	Xiahe	To kill	ɕ.a	ɕ.a	ɕ a	ɕ a	1311
+1420	Alike	To kill	p.s.a.t	p.s.a.t	p s a t	p.s a.t	1311
+1421	OldChinese	To kill	s.r.a.t	s.r.a.t	s r a t	s.r a.t	1311
+1422	Alike	Knife	cç.ə	cç.ə	cç ə	cç ə	1313
+1423	Xiahe	Knife	tɕ.ə	tɕ.ə	tɕ ə	tɕ ə	1313
+1424	Lhasa	Knife	tʂh.i.¹³	tʂh.i.¹³	ʈʂʰ i ¹³	ʈʂʰ i ¹³	1313
+1425	Batang	Knife	tʂ.ɪ.²³¹	tʂ.ɪ.²³¹	ʈʂ ɪ ²³¹	ʈʂ ɪ ²³¹	1313
+1426	Alike	Knife	tɕ.ə	tɕ.ə	tɕ ə	tɕ ə	1313
+1427	OldChinese	Knife	C/.+.tˤ.a.w	C/.+.tˤ.a.w	ç/k + tˤ a w	ç/k + tˤ a.w	1314
+1428	OldTibetan	Knife	g.r.i	g.r.i	g r i	g.r i	1313
+1429	OldTibetan	Leaf	l.o.m.a	l.o.m.a	l o + m a	l o + m a	1315
+1430	Lhasa	Leaf	l.o.¹³.◦.m.a.⁵⁵	l.o.¹³.◦.m.a.⁵⁵	l o ¹³ + m a ⁵⁵	l o ¹³ + m a ⁵⁵	1315
+1431	Batang	Leaf	l.o.¹³.◦.m.a.⁵³	l.o.¹³.◦.m.a.⁵³	l o ¹³ + m a ⁵³	l o ¹³ + m a ⁵³	1315
+1432	Alike	Leaf	l.o._.m.a	l.o._.m.a	l o + m a	l o + m a	1315
+1433	Xiahe	Leaf	l.o._.m.a	l.o._.m.a	l o + m a	l o + m a	1315
+1434	OldChinese	Leaf	l.a.p	l.a.p	l a p	l a.p	1316
+1435	OldTibetan	Left	g.j.o.n	g.j.o.n	g j o n	g.j o.n	1317
+1436	Batang	Left	j.o.⁵⁵.◦.ɣ.ᴜ.⁵³	j.o.⁵⁵.◦.ɣ.ᴜ.⁵³	j o ⁵⁵ + ɣ u ⁵³	j o ⁵⁵ + ɣ u ⁵³	1317
+1437	Xiahe	Left	h.j.o.n	h.j.o.n	h j o n	h.j o.n	1317
+1438	Lhasa	Left	j.ø̃.∼.⁵⁵	j.ø̃.∼.⁵⁵	j ø̃ ⁵⁵	j ø̃ ⁵⁵	1317
+1439	Alike	Left	ɣ.j.o.n	ɣ.j.o.n	ɣ j o n	ɣ.j o.n	1317
+1440	OldChinese	Left	tsˤ.a.j.ʔ	tsˤ.a.j.ʔ	tsˤ a j ʔ	tsˤ a.j ʔ	1318
+1441	Lhasa	Light	j.a.ŋ.¹³.◦.k.o.⁵⁵	j.a.ŋ.¹³.◦.k.o.⁵⁵	j a ŋ ¹³ + k o ⁵⁵	j a.ŋ ¹³ + k o ⁵⁵	1319
+1442	Batang	Light	j.õ.∼.¹³.◦.m.ᴜ.⁵³	j.õ.∼.¹³.◦.m.ᴜ.⁵³	j õ ¹³ + m u ⁵³	j õ ¹³ + m u ⁵³	1319
+1443	Xiahe	Light	j.a.ŋ._.m.o	j.a.ŋ._.m.o	j a ŋ + m o	j a.ŋ + m o	1319
+1444	Alike	Light	j.a.ŋ._.m.o	j.a.ŋ._.m.o	j a ŋ + m o	j a.ŋ + m o	1319
+1445	OldChinese	Light	kʰ.e.ŋ	kʰ.e.ŋ	kʰ e ŋ	kʰ e.ŋ	1320
+1446	OldTibetan	Light	j.a.ŋ	j.a.ŋ	j a ŋ	j a.ŋ	1319
+1447	OldTibetan	Long	r.i.ŋ.◦	r.i.ŋ.◦	r i ŋ	r i.ŋ	1321
+1448	Alike	Long	r.a.ŋ._.k.ə	r.a.ŋ._.k.ə	r a ŋ + k ə	r a.ŋ + k ə	1321
+1449	Batang	Long	r.ĩ.∼.¹³.◦.m.b.ᴜ.⁵³	r.ĩ.∼.¹³.◦.m.b.ᴜ.⁵³	r ĩ ¹³ + m b u ⁵³	r ĩ ¹³ + m.b u ⁵³	1321
+1450	Lhasa	Long	r.i.ŋ.¹³.◦.k.u.⁵⁵	r.i.ŋ.¹³.◦.k.u.⁵⁵	r i ŋ ¹³ + k u ⁵⁵	r i.ŋ ¹³ + k u ⁵⁵	1321
+1451	Xiahe	Long	r.a.ŋ._.w.o	r.a.ŋ._.w.o	r a ŋ + w o	r a.ŋ + w o	1321
+1452	OldChinese	Long	C/.ə.+.ɴ.+.t.r.a.ŋ	C/.ə.+.ɴ.+.t.r.a.ŋ	ç/k ə + ɴ + t r a ŋ	ç/k ə + ɴ + t.r a.ŋ	1322
+1453	OldTibetan	Many	m.a.ŋ.+	m.a.ŋ.+	m a ŋ	m a.ŋ	1323
+1454	Lhasa	Many	m.a.ŋ.¹³.◦.k.o.⁵⁵	m.a.ŋ.¹³.◦.k.o.⁵⁵	m a ŋ ¹³ + k o ⁵⁵	m a.ŋ ¹³ + k o ⁵⁵	1323
+1455	Batang	Many	m.õ.∼.¹³.◦.m.b.ᴜ.⁵³	m.õ.∼.¹³.◦.m.b.ᴜ.⁵³	m õ ¹³ + m b u ⁵³	m õ ¹³ + m.b u ⁵³	1323
+1456	Xiahe	Many	m.a.ŋ	m.a.ŋ	m a ŋ	m a.ŋ	1323
+1457	Alike	Many	m.a.ŋ._.ŋ.æ	m.a.ŋ._.ŋ.æ	m a ŋ + ŋ æ	m a.ŋ + ŋ æ	1323
+1458	OldChinese	Many	t.lˤ.a.j	t.lˤ.a.j	t lˤ a j	t.lˤ a.j	1324
+1459	OldTibetan	Meat	ɕ.a	ɕ.a	ɕ a	ɕ a	1325
+1460	Batang	Meat	xh.a.⁵³	xh.a.⁵³	xʰ a ⁵³	xʰ a ⁵³	1325
+1461	Lhasa	Meat	ɕ.a.⁵⁵	ɕ.a.⁵⁵	ɕ a ⁵⁵	ɕ a ⁵⁵	1325
+1462	Alike	Meat	xh.a	xh.a	xʰ a	xʰ a	1325
+1463	Xiahe	Meat	xh.a	xh.a	xʰ a	xʰ a	1325
+1464	OldChinese	Meat	k.+.n.u.k	k.+.n.u.k	k + n u k	k + n u.k	1326
+1465	OldTibetan	Moon	s.l.a	s.l.a	s l a	s.l a	1327
+1466	Lhasa	Moon	t.a.¹³.◦.w.a.⁵⁵	t.a.¹³.◦.w.a.⁵⁵	t a ¹³ + w a ⁵⁵	t a ¹³ + w a ⁵⁵	1327
+1467	Batang	Moon	nd.a.¹³.◦.ɣ.ɑ.⁵⁵	nd.a.¹³.◦.ɣ.ɑ.⁵⁵	ⁿd a ¹³ + ɣ ɑ ⁵⁵	ⁿd a ¹³ + ɣ ɑ ⁵⁵	1327
+1468	Xiahe	Moon	dz.a	dz.a	dz a	dz a	1327
+1469	Alike	Moon	r.dz.a	r.dz.a	r dz a	r.dz a	1327
+1470	Xiahe	Moon	d.a._.w.a	d.a._.w.a	d a + w a	d a + w a	1327
+1471	OldChinese	Moon	ŋʷ.a.t	ŋʷ.a.t	ŋʷ a t	ŋʷ a.t	1328
+1472	Xiahe	Morning	n.a.ŋ._.d.i	n.a.ŋ._.d.i	n a ŋ + d i	n a.ŋ + d i	1329
+1473	Lhasa	Morning	ɕ.o.¹³.◦.k.ɛ.⁵²	ɕ.o.¹³.◦.k.ɛ.⁵²	ɕ o ¹³ + k ɛ ⁵²	ɕ o ¹³ + k ɛ ⁵²	1330
+1474	Batang	Morning	x.o.¹³.◦.p.ɑ.⁵⁵	x.o.¹³.◦.p.ɑ.⁵⁵	x o ¹³ + p ɑ ⁵⁵	x o ¹³ + p ɑ ⁵⁵	1330
+1475	Alike	Morning	r.ŋ.a._.m.o	r.ŋ.a._.m.o	r ŋ a + m o	r.ŋ a + m o	1331
+1476	Alike	Morning	r.ŋ.a._.r.o	r.ŋ.a._.r.o	r ŋ a + r o	r.ŋ a + r o	1331
+1477	OldChinese	Morning	d.ə.r	d.ə.r	d ə r	d ə.r	1332
+1478	OldTibetan	Morning	ʑ.o.g.s.+.p.a	ʑ.o.g.s.+.p.a	ʑ o g s + p a	ʑ o.g s + p a	1330
+1479	Lhasa	Mosquito	th.u.k.¹³.◦.p.a.ŋ.⁵⁵	th.u.k.¹³.◦.p.a.ŋ.⁵⁵	tʰ u k ¹³ + p a ŋ ⁵⁵	tʰ u.k ¹³ + p a.ŋ ⁵⁵	1333
+1480	Batang	Mosquito	m.b.ᴜ.⁵⁵.◦.l.ũ.∼.⁵⁵	m.b.ᴜ.⁵⁵.◦.l.ũ.∼.⁵⁵	m b u ⁵⁵ + l ũ ⁵⁵	m.b u ⁵⁵ + l ũ ⁵⁵	1334
+1481	Alike	Mosquito	w.a._.d.a.k._.ɣ.a	w.a._.d.a.k._.ɣ.a	w a + d a k + ɣ a	w a + d a.k + ɣ a	1335
+1482	Xiahe	Mosquito	a._.j.a.ŋ._.ndz.ə	a._.j.a.ŋ._.ndz.ə	a + j a ŋ + ⁿdz ə	a + j a.ŋ + ⁿdz ə	1336
+1483	OldChinese	Mosquito	C/.+.m.ə.r	C/.+.m.ə.r	ç/k + m ə r	ç/k + m ə.r	1337
+1484	OldTibetan	Mother	ʔa.m.a	ʔa.m.a	ʔ a + m a	ʔ a + m a	1338
+1485	Lhasa	Mother	a.⁵⁵.◦.m.a.⁵⁵	a.⁵⁵.◦.m.a.⁵⁵	a ⁵⁵ + m a ⁵⁵	a ⁵⁵ + m a ⁵⁵	1338
+1486	Batang	Mother	ʔ.a.⁵⁵.◦.m.a.⁵³	ʔ.a.⁵⁵.◦.m.a.⁵³	ʔ a ⁵⁵ + m a ⁵³	ʔ a ⁵⁵ + m a ⁵³	1338
+1487	Batang	Mother	m.a.¹³.◦.g.ẽ.∼.⁵⁵	m.a.¹³.◦.g.ẽ.∼.⁵⁵	m a ¹³ + g ẽ ⁵⁵	m a ¹³ + g ẽ ⁵⁵	1338
+1488	Xiahe	Mother	ʔ.a._.m.a	ʔ.a._.m.a	ʔ a + m a	ʔ a + m a	1338
+1489	Alike	Mother	æ._.m.æ	æ._.m.æ	æ + m æ	æ + m æ	1338
+1490	OldChinese	Mother	m.ə.ʔ	m.ə.ʔ	m ə ʔ	m ə ʔ	1339
+1491	OldTibetan	Mouth	kʰ.a	kʰ.a	kʰ a	kʰ a	1340
+1492	Lhasa	Mouth	kʰ.a.⁵⁵	kʰ.a.⁵⁵	kʰ a ⁵⁵	kʰ a ⁵⁵	1340
+1493	Batang	Mouth	kʰ.a.⁵³	kʰ.a.⁵³	kʰ a ⁵³	kʰ a ⁵³	1340
+1494	Alike	Mouth	kʰ.æ	kʰ.æ	kʰ æ	kʰ æ	1340
+1495	Xiahe	Mouth	kʰ.a	kʰ.a	kʰ a	kʰ a	1340
+1496	OldChinese	Mouth	kʰˤ.o.ʔ	kʰˤ.o.ʔ	kʰˤ o ʔ	kʰˤ o ʔ	1341
+1497	Batang	Mud	nd.ɑ.¹³.◦.b.ɑ.ʔ.⁵³	nd.ɑ.¹³.◦.b.ɑ.ʔ.⁵³	ⁿd ɑ ¹³ + b ɑ ʔ ⁵³	ⁿd ɑ ¹³ + b ɑ.ʔ ⁵³	1342
+1498	Xiahe	Mud	nd.a._.m.b.a.x	nd.a._.m.b.a.x	ⁿd a + m b a x	ⁿd a + m.b a.x	1342
+1499	Lhasa	Mud	t.a.k.¹³.◦.p.a.⁵²	t.a.k.¹³.◦.p.a.⁵²	t a k ¹³ + p a ⁵²	t a.k ¹³ + p a ⁵²	1342
+1500	Alike	Mud	n.d.a.m._.m.b.a.k	n.d.a.m._.m.b.a.k	n d a m + m b a k	n.d a.m + m.b a.k	1342
+1501	OldChinese	Mud	C/.+.nˤ.ə.j	C/.+.nˤ.ə.j	ç/k + nˤ ə j	ç/k + nˤ ə.j	1343
+1502	OldTibetan	Mud	ɴ.d.a.m.+.p.a	ɴ.d.a.m.+.p.a	ɴ d a m + p a	ɴ.d a.m + p a	1342
+1503	OldTibetan	Name	mʲ.i.ŋ	mʲ.i.ŋ	mʲ i ŋ	mʲ i ŋ	1344
+1504	Lhasa	Name	m.i.ŋ.¹³	m.i.ŋ.¹³	m i ŋ ¹³	m i.ŋ ¹³	1344
+1505	Batang	Name	m.ĩ.∼.¹³	m.ĩ.∼.¹³	m ĩ ¹³	m ĩ ¹³	1344
+1506	Xiahe	Name	ȵ.a.ŋ	ȵ.a.ŋ	ȵ a ŋ	ȵ a ŋ	1344
+1507	Alike	Name	ȵ.a.ŋ._.ŋ.æ	ȵ.a.ŋ._.ŋ.æ	ȵ a ŋ + ŋ æ	ȵ a.ŋ + ŋ æ	1344
+1508	OldChinese	Name	C/.+.m.e.ŋ	C/.+.m.e.ŋ	ç/k + m e ŋ	ç/k + m e.ŋ	1344
+1509	OldTibetan	Near	tʰ.a.g.+.ɲ.e.+.p.o	tʰ.a.g.+.ɲ.e.+.p.o	tʰ a g + ɲ e + p o	tʰ a.g + ɲ e + p o	1345
+1510	Xiahe	Near	th.a.χ._.ȵ.i	th.a.χ._.ȵ.i	tʰ a χ + ȵ i	tʰ a.χ + ȵ i	1345
+1511	Lhasa	Near	th.a.⁵²._.ȵ.e.¹³.◦.p.o.⁵⁵	th.a.⁵²._.ȵ.e.¹³.◦.p.o.⁵⁵	tʰ a ⁵² + ȵ e ¹³ + p o ⁵⁵	tʰ a ⁵² + ȵ e ¹³ + p o ⁵⁵	1345
+1512	Batang	Near	th.ɑ.ʔ.⁵³.◦.th.ũ.∼.¹³.◦.th.ũ.∼.⁵⁵	th.ɑ.ʔ.⁵³.◦.th.ũ.∼.¹³.◦.th.ũ.∼.⁵⁵	tʰ ɑ ʔ ⁵³ + tʰ ũ ¹³ + tʰ ũ ⁵⁵	tʰ ɑ.ʔ ⁵³ + tʰ ũ ¹³ + tʰ ũ ⁵⁵	1346
+1513	Alike	Near	th.a.k._.ȵ.e	th.a.k._.ȵ.e	tʰ a k + ȵ e	tʰ a.k + ȵ e	1345
+1514	OldChinese	Near	ɴ.+.k.ə.r.ʔ	ɴ.+.k.ə.r.ʔ	ɴ + k ə r ʔ	ɴ + k ə.r ʔ	1347
+1515	OldChinese	Near	n.ə.r.ʔ	n.ə.r.ʔ	n ə r ʔ	n ə.r ʔ	1345
+1516	OldTibetan	Needle	kʰ.a.b	kʰ.a.b	kʰ a b	kʰ a.b	1348
+1517	Lhasa	Needle	kʰ.ə.p.⁵²	kʰ.ə.p.⁵²	kʰ ə p ⁵²	kʰ ə.p ⁵²	1348
+1518	Batang	Needle	kʰ.ɑ.u.ʔ.⁵³	kʰ.ɑ.u.ʔ.⁵³	kʰ ɑu ʔ ⁵³	kʰ ɑu.ʔ ⁵³	1348
+1519	Alike	Needle	kʰ.a.p	kʰ.a.p	kʰ a p	kʰ a.p	1348
+1520	Xiahe	Needle	kʰ.a.p	kʰ.a.p	kʰ a p	kʰ a.p	1348
+1521	OldChinese	Needle	t.+.k.ə.m	t.+.k.ə.m	t + k ə m	t + k ə.m	1348
+1522	OldTibetan	New	g.s.a.r.◦	g.s.a.r.◦	g s a r	g.s a.r	1349
+1523	Xiahe	New	sʰ.o._.m.a	sʰ.o._.m.a	sʰ o + m a	sʰ o + m a	1349
+1524	Lhasa	New	s.aː.⁵⁵.◦.p.a.⁵⁵	s.aː.⁵⁵.◦.p.a.⁵⁵	s aː ⁵⁵ + p a ⁵⁵	s aː ⁵⁵ + p a ⁵⁵	1349
+1525	Batang	New	s.ɛ.⁵⁵.◦.b.a.⁵³	s.ɛ.⁵⁵.◦.b.a.⁵³	s ɛ ⁵⁵ + b a ⁵³	s ɛ ⁵⁵ + b a ⁵³	1349
+1526	Alike	New	sʰ.o._.m.æ	sʰ.o._.m.æ	sʰ o + m æ	sʰ o + m æ	1349
+1527	OldChinese	New	s.+.tsʰ.i.n	s.+.tsʰ.i.n	s + tsʰ i n	s + tsʰ i.n	1350
+1528	OldTibetan	Nine	d.g.u	d.g.u	d g u	d.g u	1351
+1529	Xiahe	Nine	g.ə	g.ə	g ə	g ə	1351
+1530	Lhasa	Nine	k.u.¹³	k.u.¹³	k u ¹³	k u ¹³	1351
+1531	Batang	Nine	g.ᴜ.⁵³	g.ᴜ.⁵³	g u ⁵³	g u ⁵³	1351
+1532	Alike	Nine	r.g.ə	r.g.ə	r g ə	r.g ə	1351
+1533	OldChinese	Nine	k.u.ʔ	k.u.ʔ	k u ʔ	k u ʔ	1351
+1534	OldTibetan	Nose	s.n.a	s.n.a	s n a	s.n a	1352
+1535	Lhasa	Nose	n.ə.⁵⁵.◦.k.u.⁵²	n.ə.⁵⁵.◦.k.u.⁵²	n ə ⁵⁵ + k u ⁵²	n ə ⁵⁵ + k u ⁵²	1352
+1536	Batang	Nose	n̥.a.⁵³	n̥.a.⁵³	n̥ a ⁵³	n̥ a ⁵³	1352
+1537	Alike	Nose	r.n̥.æ	r.n̥.æ	r n̥ æ	r.n̥ æ	1352
+1538	Xiahe	Nose	h.n.a._.ʁ.o.ŋ	h.n.a._.ʁ.o.ŋ	h n a + ʁ o /o ŋ	h.n a + ʁ o./o ŋ	1352
+1539	OldChinese	Nose	m.+.b.i.t.+.s	m.+.b.i.t.+.s	m + b i t + s	m + b i.t + s	1353
+1540	OldTibetan	One	g.tɕ.i.g	g.tɕ.i.g	g tɕ i g	g.tɕ i.g	1354
+1541	Lhasa	One	tɕ.i.⁵²	tɕ.i.⁵²	tɕ i ⁵²	tɕ i ⁵²	1354
+1542	Batang	One	tɕ.i.ʔ.⁵³	tɕ.i.ʔ.⁵³	tɕ i ʔ ⁵³	tɕ i.ʔ ⁵³	1354
+1543	Alike	One	ɣ.cç.ə.k	ɣ.cç.ə.k	ɣ cç ə k	ɣ.cç ə.k	1354
+1544	Xiahe	One	h.tɕ.ə.χ	h.tɕ.ə.χ	h tɕ ə χ	h.tɕ ə.χ	1354
+1545	OldChinese	One	ʔ.i.t	ʔ.i.t	ʔ i t	ʔ i.t	1355
+1546	Batang	Pig	ph.ɑ.ʔ.⁵³	ph.ɑ.ʔ.⁵³	pʰ ɑ ʔ ⁵³	pʰ ɑ.ʔ ⁵³	1356
+1547	Xiahe	Pig	h.a.χ	h.a.χ	h a χ	h a.χ	1356
+1548	Lhasa	Pig	ph.a.k.⁵⁵.◦.p.a.⁵⁵	ph.a.k.⁵⁵.◦.p.a.⁵⁵	pʰ a k ⁵⁵ + p a ⁵⁵	pʰ a.k ⁵⁵ + p a ⁵⁵	1356
+1549	Alike	Pig	h.a.k	h.a.k	h a k	h a.k	1356
+1550	OldChinese	Pig	l̥.a.j.ʔ	l̥.a.j.ʔ	l̥ a j ʔ	l̥ a.j ʔ	1357
+1551	OldTibetan	Pig	pʰ.a.g	pʰ.a.g	pʰ a g	pʰ a.g	1356
+1552	Batang	Rainbow	ndʑ.a.⁵³	ndʑ.a.⁵³	ⁿdʑ a ⁵³	ⁿdʑ a ⁵³	1358
+1553	Lhasa	Rainbow	tɕ.a.¹³	tɕ.a.¹³	tɕ a ¹³	tɕ a ¹³	1358
+1554	Alike	Rainbow	n.dʑ.æ	n.dʑ.æ	ⁿdʑ æ	ⁿdʑ æ	1358
+1555	Xiahe	Rainbow	ndʑ.a	ndʑ.a	ⁿdʑ a	ⁿdʑ a	1358
+1556	OldChinese	Rainbow	m.+.kˤ.o.ŋ	m.+.kˤ.o.ŋ	m + kˤ o ŋ	m + kˤ o.ŋ	1359
+1557	OldTibetan	Rainbow	ɴ.dʑ.a	ɴ.dʑ.a	ɴ dʑ a	ɴ.dʑ a	1358
+1558	OldTibetan	Red	d.m.a.r.◦	d.m.a.r.◦	d m a r	d.m a.r	1360
+1559	Lhasa	Red	m.aː.⁵⁵.◦.p.o.⁵⁵	m.aː.⁵⁵.◦.p.o.⁵⁵	m aː ⁵⁵ + p o ⁵⁵	m aː ⁵⁵ + p o ⁵⁵	1360
+1560	Batang	Red	m.ɑ.⁵⁵.◦.m.ɑ.⁵⁵	m.ɑ.⁵⁵.◦.m.ɑ.⁵⁵	m ɑ ⁵⁵ + m ɑ ⁵⁵	m ɑ ⁵⁵ + m ɑ ⁵⁵	1360
+1561	Xiahe	Red	h.m.a._.r.o	h.m.a._.r.o	h m a + r o	h.m a + r o	1360
+1562	Alike	Red	ɣ.m.æ._.r.o	ɣ.m.æ._.r.o	ɣ m æ + r o	ɣ.m æ + r o	1360
+1563	OldChinese	Red	t.+.qʰ.ᴀ.k	t.+.qʰ.ᴀ.k	t + qʰ ɑ̟ k	t + qʰ ɑ̟.k	1361
+1564	OldChinese	Red	ɴ.+.rˤ.u.m	ɴ.+.rˤ.u.m	ɴ + rˤ u m	ɴ + rˤ u.m	1362
+1565	OldChinese	Red	t.+.kʰ.r.e.ŋ	t.+.kʰ.r.e.ŋ	t + kʰ r e ŋ	t + kʰ.r e.ŋ	1363
+1566	OldChinese	Red	t.o	t.o	t o	t o	15
+1567	OldTibetan	Right	g.j.a.s	g.j.a.s	g j a s	g.j a.s	1365
+1568	Xiahe	Right	h.j.e	h.j.e	h j e	h.j e	1365
+1569	Lhasa	Right	j.ɛ.⁵²	j.ɛ.⁵²	j ɛ ⁵²	j ɛ ⁵²	1365
+1570	Batang	Right	tʂ.õ.∼.¹³.◦.k.ᴜ.⁵³	tʂ.õ.∼.¹³.◦.k.ᴜ.⁵³	ʈʂ õ ¹³ + k u ⁵³	ʈʂ õ ¹³ + k u ⁵³	1366
+1571	Alike	Right	ɣ.j.i	ɣ.j.i	ɣ j i	ɣ.j i	1365
+1572	OldChinese	Right	ɢʷ.ə.ʔ	ɢʷ.ə.ʔ	ɢʷ ə ʔ	ɢʷ ə ʔ	1367
+1573	OldTibetan	River	g.ts.a.ŋ.p.o	g.ts.a.ŋ.p.o	g ts a ŋ + p o	g.ts a.ŋ + p o	1368
+1574	Batang	River	tɕʰ.ᴜ.⁵³	tɕʰ.ᴜ.⁵³	tɕʰ u ⁵³	tɕʰ u ⁵³	1369
+1575	Lhasa	River	ts.a.ŋ.⁵⁵.◦.p.o.⁵⁵	ts.a.ŋ.⁵⁵.◦.p.o.⁵⁵	ts a ŋ ⁵⁵ + p o ⁵⁵	ts a.ŋ ⁵⁵ + p o ⁵⁵	1368
+1576	Lhasa	River	tɕʰ.u.⁵⁵	tɕʰ.u.⁵⁵	tɕʰ u ⁵⁵	tɕʰ u ⁵⁵	1369
+1577	Xiahe	River	tɕh.ə	tɕh.ə	tɕʰ ə	tɕʰ ə	1369
+1578	Alike	River	tɕh.ə	tɕh.ə	tɕʰ ə	tɕʰ ə	1369
+1579	OldChinese	River	s.+.t.u.r.ʔ	s.+.t.u.r.ʔ	s + t u r ʔ	s + t u.r ʔ	1370
+1580	OldTibetan	River	tɕʰ.u	tɕʰ.u	tɕʰ u	tɕʰ u	1370
+1581	OldTibetan	Root	r.ts.a.b.a	r.ts.a.b.a	r ts a + b a	r.ts a + b a	1371
+1582	Xiahe	Root	h.ts.a._.p.a	h.ts.a._.p.a	h ts a + p a	h.ts a + p a	1371
+1583	Lhasa	Root	ts.aː.⁵⁵	ts.aː.⁵⁵	ts aː ⁵⁵	ts aː ⁵⁵	1371
+1584	Batang	Root	ndʐ.ɛ.ʔ.⁵³	ndʐ.ɛ.ʔ.⁵³	ⁿɖʐ ɛ ʔ ⁵³	ⁿɖʐ ɛ.ʔ ⁵³	1372
+1585	Alike	Root	ɣ.ts.a._.p.a	ɣ.ts.a._.p.a	ɣ ts a + p a	ɣ.ts a + p a	1371
+1586	OldChinese	Root	kˤ.ə.r	kˤ.ə.r	kˤ ə r	kˤ ə.r	1373
+1587	OldTibetan	Rope	tʰ.a.g.+.p.a	tʰ.a.g.+.p.a	tʰ a g + p a	tʰ a.g + p a	1374
+1588	Lhasa	Rope	th.a.k.⁵⁵._.p.a.⁵⁵	th.a.k.⁵⁵._.p.a.⁵⁵	tʰ a k ⁵⁵ + p a ⁵⁵	tʰ a.k ⁵⁵ + p a ⁵⁵	1374
+1589	Batang	Rope	th.ɑ.⁵⁵.◦.p.a.⁵³	th.ɑ.⁵⁵.◦.p.a.⁵³	tʰ ɑ ⁵⁵ + p a ⁵³	tʰ ɑ ⁵⁵ + p a ⁵³	1374
+1590	Xiahe	Rope	th.a.χ._.k.w.a	th.a.χ._.k.w.a	tʰ a χ + k w a	tʰ a.χ + k.w a	1374
+1591	Alike	Rope	r.n̥.e	r.n̥.e	r n̥ e	r.n̥ e	1375
+1592	Alike	Rope	th.o.k._.k.w.a	th.o.k._.k.w.a	tʰ o k + k w a	tʰ o.k + k.w a	1374
+1593	OldChinese	Rope	C/.ə.+.m.r.ə.ŋ	C/.ə.+.m.r.ə.ŋ	ç/k ə + m r ə ŋ	ç/k ə + m.r ə.ŋ	1376
+1594	Lhasa	To run	c.u.¹³²	c.u.¹³²	c u ¹³²	c u ¹³²	1377
+1595	Batang	To run	dʑ.u.ʔ.⁵³	dʑ.u.ʔ.⁵³	dʑ u ʔ ⁵³	dʑ u.ʔ ⁵³	1377
+1596	Alike	To run	r.ɟj.u.k	r.ɟj.u.k	r ɟʲ u k	r.ɟʲ u.k	1377
+1597	Xiahe	To run	dʑ.ə.χ	dʑ.ə.χ	dʑ ə χ	dʑ ə.χ	1377
+1598	OldChinese	To run	pˤ.u.r	pˤ.u.r	pˤ u r	pˤ u.r	1378
+1599	OldChinese	To run	tsˤ.o.ʔ	tsˤ.o.ʔ	tsˤ o ʔ	tsˤ o ʔ	1379
+1600	OldTibetan	Salt	tsʰʷ.a	tsʰʷ.a	tsʷʰ a	tsʷʰ a	1380
+1601	Lhasa	Salt	tsh.a.⁵⁵	tsh.a.⁵⁵	tsʰ a ⁵⁵	tsʰ a ⁵⁵	1380
+1602	Batang	Salt	tsʰ.a.⁵³	tsʰ.a.⁵³	tsʰ a ⁵³	tsʰ a ⁵³	1380
+1603	Xiahe	Salt	tsʰ.a._.k.ə	tsʰ.a._.k.ə	tsʰ a + k ə	tsʰ a + k ə	1380
+1604	Alike	Salt	tsh.a._.kʰ.ə	tsh.a._.kʰ.ə	tsʰ a + kʰ ə	tsʰ a + kʰ ə	1380
+1605	OldChinese	Salt	ɢ.r.o.m	ɢ.r.o.m	ɢ r o m	ɢ.r o.m	1381
+1606	OldChinese	Salt	ɴ.+.tsˤ.a.j	ɴ.+.tsˤ.a.j	ɴ + tsˤ a j	ɴ + tsˤ a.j	1380
+1607	OldTibetan	Sand	bʲ.e.m.a	bʲ.e.m.a	bʲ e + m a	bʲ e + m a	1382
+1608	Batang	Sand	ɕ.ɪ.¹³.◦.m.a.⁵⁵	ɕ.ɪ.¹³.◦.m.a.⁵⁵	ɕ ɪ ¹³ + m a ⁵⁵	ɕ ɪ ¹³ + m a ⁵⁵	1382
+1609	Lhasa	Sand	tɕʰ.e.¹³.◦.m.a.⁵⁵	tɕʰ.e.¹³.◦.m.a.⁵⁵	tɕʰ e ¹³ + m a ⁵⁵	tɕʰ e ¹³ + m a ⁵⁵	1382
+1610	Xiahe	Sand	ɕ.e._.m.a	ɕ.e._.m.a	ɕ e + m a	ɕ e + m a	1382
+1611	Alike	Sand	w.ɕ.e._.m.æ	w.ɕ.e._.m.æ	w ɕ e + m æ	w.ɕ e + m æ	1382
+1612	OldChinese	Sand	sˤ.r.a.j	sˤ.r.a.j	sˤ r a j	sˤ.r a.j	1383
+1613	OldTibetan	Seven	b.d.u.n	b.d.u.n	b d u n	b.d u.n	1384
+1614	Lhasa	Seven	t.ỹ.∼.¹³	t.ỹ.∼.¹³	t ỹ ¹³	t ỹ ¹³	1384
+1615	Batang	Seven	d.ỹ.∼.⁵⁵	d.ỹ.∼.⁵⁵	d ỹ ⁵⁵	d ỹ ⁵⁵	1384
+1616	Xiahe	Seven	d.ə.n	d.ə.n	d ə n	d ə.n	1384
+1617	Alike	Seven	w.d.ə.n	w.d.ə.n	w d ə n	w.d ə.n	1384
+1618	OldChinese	Seven	tsʰ.i.t	tsʰ.i.t	tsʰ i t	tsʰ i.t	1385
+1619	OldTibetan	Short	tʰ.u.ŋ	tʰ.u.ŋ	tʰ u ŋ	tʰ u.ŋ	1386
+1620	Alike	Short	th.o.ŋ	th.o.ŋ	tʰ o ŋ	tʰ o.ŋ	1386
+1621	Xiahe	Short	th.o.ŋ._.th.o.ŋ	th.o.ŋ._.th.o.ŋ	tʰ o ŋ + tʰ o ŋ	tʰ o.ŋ + tʰ o.ŋ	1386
+1622	Batang	Short	th.ũ.∼.¹³.◦.th.ũ.∼.⁵⁵	th.ũ.∼.¹³.◦.th.ũ.∼.⁵⁵	tʰ ũ ¹³ + tʰ ũ ⁵⁵	tʰ ũ ¹³ + tʰ ũ ⁵⁵	1386
+1623	Lhasa	Short	th.ỹ.∼.⁵⁵.◦.th.ỹ.∼.⁵⁵	th.ỹ.∼.⁵⁵.◦.th.ỹ.∼.⁵⁵	tʰ ỹ ⁵⁵ + tʰ ỹ ⁵⁵	tʰ ỹ ⁵⁵ + tʰ ỹ ⁵⁵	1386
+1624	OldChinese	Short	tˤ.o.r.ʔ	tˤ.o.r.ʔ	tˤ o r ʔ	tˤ o.r ʔ	1387
+1625	OldTibetan	Six	d.r.u.g	d.r.u.g	d r u g	d.r u.g	1388
+1626	Lhasa	Six	tʂh.u.¹³²	tʂh.u.¹³²	ʈʂʰ u ¹³²	ʈʂʰ u ¹³²	1388
+1627	Batang	Six	tʂ.u.ʔ.²³¹	tʂ.u.ʔ.²³¹	ʈʂ u ʔ ²³¹	ʈʂ u.ʔ ²³¹	1388
+1628	Alike	Six	tʂ.u.k	tʂ.u.k	ʈʂ u k	ʈʂ u.k	1388
+1629	Xiahe	Six	tʂ.ə.χ	tʂ.ə.χ	ʈʂ ə χ	ʈʂ ə.χ	1388
+1630	OldChinese	Six	k.r.u.k	k.r.u.k	k r u k	k.r u.k	1388
+1631	OldTibetan	Skin	l.p.a.g.s	l.p.a.g.s	l p a g s	l.p a.g s	1389
+1632	Batang	Skin	xh.a.⁵⁵.◦.p.ɑ.⁵³	xh.a.⁵⁵.◦.p.ɑ.⁵³	xʰ a ⁵⁵ + p ɑ ⁵³	xʰ a ⁵⁵ + p ɑ ⁵³	1390
+1633	Lhasa	Skin	p.a.k.⁵⁵.◦.p.a.⁵⁵	p.a.k.⁵⁵.◦.p.a.⁵⁵	p a k ⁵⁵ + p a ⁵⁵	p a.k ⁵⁵ + p a ⁵⁵	1389
+1634	Xiahe	Skin	h.tɕ.ə._.m.o	h.tɕ.ə._.m.o	h tɕ ə + m o	h.tɕ ə + m o	1390
+1635	OldChinese	Skin	m.+.p.a.j	m.+.p.a.j	m + p a j	m + p a.j	1391
+1636	OldChinese	Skin	p.r.a	p.r.a	p r a	p.r a	1389
+1637	OldTibetan	Sky	g.n.a.m	g.n.a.m	g n a m	g.n a.m	1392
+1638	Lhasa	Sky	n.a.m.¹³.◦.kʰ.a.⁵⁵	n.a.m.¹³.◦.kʰ.a.⁵⁵	n a m ¹³ + kʰ a ⁵⁵	n a.m ¹³ + kʰ a ⁵⁵	1392
+1639	Batang	Sky	n.ã.∼.⁵⁵	n.ã.∼.⁵⁵	n ã ⁵⁵	n ã ⁵⁵	1392
+1640	Lhasa	Sky	n.a.m.⁵⁵	n.a.m.⁵⁵	n a m ⁵⁵	n a.m ⁵⁵	1392
+1641	Xiahe	Sky	h.n.a.m	h.n.a.m	h n a m	h.n a.m	1392
+1642	Alike	Sky	ɣ.n.a.m	ɣ.n.a.m	ɣ n a m	ɣ.n a.m	1392
+1643	OldChinese	Sky	l̥ˤ.i.n	l̥ˤ.i.n	l̥ˤ i n	l̥ˤ i.n	1393
+1644	OldTibetan	To sleep	g.ɲ.i.d._.ɲ.a.l	g.ɲ.i.d._.ɲ.a.l	g ɲ i d + ɲ a l	g.ɲ i.d + ɲ a.l	1394
+1645	Lhasa	To sleep	ȵ.ɛ.¹³	ȵ.ɛ.¹³	ȵ ɛ ¹³	ȵ ɛ ¹³	1394
+1646	Batang	To sleep	ȵ.e.¹³	ȵ.e.¹³	ȵ e ¹³	ȵ e ¹³	1394
+1647	Xiahe	To sleep	n.a	n.a	n a	n a	1394
+1648	Alike	To sleep	ȵ.a	ȵ.a	ȵ a	ȵ a	1394
+1649	OldChinese	To sleep	tsʰ.i.m.ʔ	tsʰ.i.m.ʔ	tsʰ i m ʔ	tsʰ i.m ʔ	1395
+1650	OldChinese	To sleep	m.i.t.+.s	m.i.t.+.s	m i t + s	m i.t + s	1396
+1651	OldTibetan	Small	tɕʰ.u.ŋ	tɕʰ.u.ŋ	tɕʰ u ŋ	tɕʰ u.ŋ	1397
+1652	Xiahe	Small	tɕh.o.ŋ._.w.o	tɕh.o.ŋ._.w.o	tɕʰ o ŋ + w o	tɕʰ o.ŋ + w o	1397
+1653	Lhasa	Small	tɕʰ.ỹ.∼.⁵⁵.◦.tɕʰ.ỹ.∼.⁵⁵	tɕʰ.ỹ.∼.⁵⁵.◦.tɕʰ.ỹ.∼.⁵⁵	tɕʰ ỹ ⁵⁵ + tɕʰ ỹ ⁵⁵	tɕʰ ỹ ⁵⁵ + tɕʰ ỹ ⁵⁵	1397
+1654	Alike	Small	tɕh.o.ŋ	tɕh.o.ŋ	tɕʰ o ŋ	tɕʰ o.ŋ	1397
+1655	Batang	Small	tɕʰ.ũ.∼.¹³.◦.tɕʰ.ũ.∼.⁵⁵	tɕʰ.ũ.∼.¹³.◦.tɕʰ.ũ.∼.⁵⁵	tɕʰ ũ ¹³ + tɕʰ ũ ⁵⁵	tɕʰ ũ ¹³ + tɕʰ ũ ⁵⁵	1397
+1656	OldChinese	Small	s.e.w.ʔ	s.e.w.ʔ	s e w ʔ	s e.w ʔ	1398
+1657	OldChinese	Small	sˤ.e.+.s	sˤ.e.+.s	sˤ e + s	sˤ e + s	1399
+1658	OldChinese	Small	m.ə.j	m.ə.j	m ə j	m ə.j	1400
+1659	OldTibetan	Snake	s.b.r.u.l	s.b.r.u.l	s b r u l	s.b.r u.l	1401
+1660	Alike	Snake	r.b.u	r.b.u	r b u	r.b u	1401
+1661	Lhasa	Snake	tʂ.y.¹³	tʂ.y.¹³	ʈʂ y ¹³	ʈʂ y ¹³	1401
+1662	Batang	Snake	dʐ.y.⁵⁵	dʐ.y.⁵⁵	ɖʐ y ⁵⁵	ɖʐ y ⁵⁵	1401
+1663	Xiahe	Snake	r.u	r.u	r u	r u	1401
+1664	OldChinese	Snake	C/.ə.+.l.ᴀ.j	C/.ə.+.l.ᴀ.j	ç/k ə + l ɑ̟ j	ç/k ə + l ɑ̟.j	1402
+1665	Lhasa	Son	ph.u.¹³	ph.u.¹³	pʰ u ¹³	pʰ u ¹³	1403
+1666	Batang	Son	p.ᴜ.²³¹	p.ᴜ.²³¹	p u ²³¹	p u ²³¹	1403
+1667	Xiahe	Son	ɕ.ə._.l.ə	ɕ.ə._.l.ə	ɕ ə + l ə	ɕ ə + l ə	1404
+1668	Alike	Son	ɕ.ə._.l.ə	ɕ.ə._.l.ə	ɕ ə + l ə	ɕ ə + l ə	1404
+1669	OldChinese	Son	ts.ə.ʔ	ts.ə.ʔ	ts ə ʔ	ts ə ʔ	1405
+1670	OldTibetan	Son	b.u	b.u	b u	b u	1403
+1671	OldTibetan	Spider	s.d.o.m	s.d.o.m	s d o m	s.d o.m	1406
+1672	Batang	Spider	dʐ.a.⁵³.◦.k.a.⁵⁵.◦.r.a.⁵³	dʐ.a.⁵³.◦.k.a.⁵⁵.◦.r.a.⁵³	ɖʐ a ⁵³ + k a ⁵⁵ + r a ⁵³	ɖʐ a ⁵³ + k a ⁵⁵ + r a ⁵³	1407
+1673	Lhasa	Spider	t.o.m.¹³	t.o.m.¹³	t o m ¹³	t o.m ¹³	1406
+1674	Xiahe	Spider	d.o.m	d.o.m	d o m	d o.m	1406
+1675	Alike	Spider	n.g.o.ŋ._.ŋ.o._.n.a.k._.r.b.ə.t	n.g.o.ŋ._.ŋ.o._.n.a.k._.r.b.ə.t	n g o ŋ + ŋ o + n a k + r b ə t	n.g o.ŋ + ŋ o + n a.k + r.b ə.t	1408
+1676	OldChinese	Spider	t.r.e.+.t.r.o	t.r.e.+.t.r.o	t r e + t r o	t.r e + t.r o	1409
+1677	OldTibetan	Star	s.k.a.r.m.a	s.k.a.r.m.a	s k a r + m a	s.k a.r + m a	1410
+1678	Batang	Star	m.a.⁵⁵.◦.m.a.⁵³	m.a.⁵⁵.◦.m.a.⁵³	m a ⁵⁵ + m a ⁵³	m a ⁵⁵ + m a ⁵³	1411
+1679	Lhasa	Star	k.aː.⁵⁵.◦.m.a.⁵⁵	k.aː.⁵⁵.◦.m.a.⁵⁵	k aː ⁵⁵ + m a ⁵⁵	k aː ⁵⁵ + m a ⁵⁵	1410
+1680	Alike	Star	r.k.a.r._.m.æ	r.k.a.r._.m.æ	r k a r + m æ	r.k a.r + m æ	1410
+1681	Xiahe	Star	h.k.a.r._.m.a	h.k.a.r._.m.a	h k a r + m a	h.k a.r + m a	1410
+1682	OldChinese	Star	s.+.tsʰˤ.e.ŋ	s.+.tsʰˤ.e.ŋ	s + tsʰˤ e ŋ	s + tsʰˤ e.ŋ	1412
+1683	OldTibetan	Stick	d.b.j.u.g	d.b.j.u.g	d b j u g	d.b.j u.g	1413
+1684	Batang	Stick	j.ᴜ.⁵⁵.◦.p.ɑ.ʔ.⁵³	j.ᴜ.⁵⁵.◦.p.ɑ.ʔ.⁵³	j u ⁵⁵ + p ɑ ʔ ⁵³	j u ⁵⁵ + p ɑ.ʔ ⁵³	1413
+1685	Lhasa	Stick	j.u.k.⁵⁵.◦.p.ə.⁵⁵	j.u.k.⁵⁵.◦.p.ə.⁵⁵	j u k ⁵⁵ + p ə ⁵⁵	j u.k ⁵⁵ + p ə ⁵⁵	1413
+1686	Xiahe	Stick	ʔ.o._.tɕ.o	ʔ.o._.tɕ.o	ʔ o /o + tɕ o	ʔ o./o + tɕ o	1414
+1687	Lhasa	Stick	c.u.k.¹³.◦.p.a.⁵²	c.u.k.¹³.◦.p.a.⁵²	c u k ¹³ + p a ⁵²	c u.k ¹³ + p a ⁵²	1413
+1688	Alike	Stick	o._.tɕh.o	o._.tɕh.o	o + tɕʰ o	o + tɕʰ o	1414
+1689	OldChinese	Stick	m.+.t.r.a.ŋ.ʔ	m.+.t.r.a.ŋ.ʔ	m + t r a ŋ ʔ	m + t r a ŋ ʔ	1415
+1690	OldTibetan	Stone	r.d.o	r.d.o	r d o	r.d o	1416
+1691	Alike	Stone	r.d.o	r.d.o	r d o	r.d o	1416
+1692	Xiahe	Stone	d.o	d.o	d o	d o	1416
+1693	Batang	Stone	d.ᴜ.⁵³	d.ᴜ.⁵³	d u ⁵³	d u ⁵³	1416
+1694	Lhasa	Stone	t.o.¹³	t.o.¹³	t o ¹³	t o ¹³	1416
+1695	OldChinese	Stone	d.ᴀ.k	d.ᴀ.k	d ɑ̟ k	d ɑ̟.k	1417
+1696	OldTibetan	Sun	ɲ.i.m.a	ɲ.i.m.a	ɲ i + m a	ɲ i + m a	1418
+1697	Batang	Sun	n.ɪ.¹³.◦.m.ɑ.⁵⁵	n.ɪ.¹³.◦.m.ɑ.⁵⁵	n ɪ ¹³ + m ɑ ⁵⁵	n ɪ ¹³ + m ɑ ⁵⁵	1418
+1698	Lhasa	Sun	ȵ.i.¹³.◦.m.ə.⁵⁵	ȵ.i.¹³.◦.m.ə.⁵⁵	ȵ i ¹³ + m ə ⁵⁵	ȵ i ¹³ + m ə ⁵⁵	1418
+1699	Xiahe	Sun	ȵ.ə._.m.a	ȵ.ə._.m.a	ȵ ə + m a	ȵ ə + m a	1418
+1700	Alike	Sun	ȵ.ə._.m.æ	ȵ.ə._.m.æ	ȵ ə + m æ	ȵ ə + m æ	1418
+1701	OldChinese	Sun	C/.+.n.i.k	C/.+.n.i.k	ç/k + n i k	ç/k + n i.k	1418
+1702	OldTibetan	Tail	r.ŋ.a.m.a	r.ŋ.a.m.a	r ŋ a + m a	r.ŋ a + m a	1419
+1703	Lhasa	Tail	ŋ.a.⁵⁵.◦.m.a.⁵⁵	ŋ.a.⁵⁵.◦.m.a.⁵⁵	ŋ a ⁵⁵ + m a ⁵⁵	ŋ a ⁵⁵ + m a ⁵⁵	1419
+1704	Lhasa	Tail	ɕ.u.¹³.◦.k.u.⁵⁵	ɕ.u.¹³.◦.k.u.⁵⁵	ɕ u ¹³ + k u ⁵⁵	ɕ u ¹³ + k u ⁵⁵	1420
+1705	Batang	Tail	ŋ.a.⁵⁵.◦.m.a.⁵³	ŋ.a.⁵⁵.◦.m.a.⁵³	ŋ a ⁵⁵ + m a ⁵³	ŋ a ⁵⁵ + m a ⁵³	1419
+1706	Alike	Tail	r.ŋ.a._.m.æ	r.ŋ.a._.m.æ	r ŋ a + m æ	r.ŋ a + m æ	1419
+1707	Xiahe	Tail	h.ŋ.a._.m.a	h.ŋ.a._.m.a	h ŋ a + m a	h.ŋ a + m a	1419
+1708	OldChinese	Tail	m.ə.j.ʔ	m.ə.j.ʔ	m ə j ʔ	m ə.j ʔ	1421
+1709	OldTibetan	Tail	m.dʑ.u.g.+.m.a	m.dʑ.u.g.+.m.a	m dʑ u g + m a	m.dʑ u.g + m a	1420
+1710	OldTibetan	Ten	b.tɕ.u	b.tɕ.u	b tɕ u	b.tɕ u	1422
+1711	Xiahe	Ten	tɕ.ə._.th.a._.m.b.a	tɕ.ə._.th.a._.m.b.a	tɕ ə + tʰ a + m b a	tɕ ə + tʰ a + m.b a	1422
+1712	Lhasa	Ten	tɕ.u.⁵⁵	tɕ.u.⁵⁵	tɕ u ⁵⁵	tɕ u ⁵⁵	1422
+1713	Alike	Ten	p.tɕ.ə	p.tɕ.ə	p tɕ ə	p.tɕ ə	1422
+1714	Batang	Ten	tɕ.ᴜ.⁵³	tɕ.ᴜ.⁵³	tɕ u ⁵³	tɕ u ⁵³	1422
+1715	OldChinese	Ten	t.+.g.ə.p	t.+.g.ə.p	t + g ə p	t + g ə.p	1423
+1716	OldTibetan	That	d.e	d.e	d e	d e	1424
+1717	Lhasa	That	ph.ə.⁵⁵._.k.i.⁵⁵	ph.ə.⁵⁵._.k.i.⁵⁵	pʰ ə ⁵⁵ + k i ⁵⁵	pʰ ə ⁵⁵ + k i ⁵⁵	1425
+1718	Batang	That	e.¹³._.d.e.⁵³	e.¹³._.d.e.⁵³	e ¹³ + d e ⁵³	e ¹³ + d e ⁵³	1424
+1719	Xiahe	That	k.a.n	k.a.n	k a n	k a.n	1426
+1720	Alike	That	k.a.n._.n.æ	k.a.n._.n.æ	k a n + n æ	k a.n + n æ	1426
+1721	OldChinese	That	p.a.j.ʔ	p.a.j.ʔ	p a j ʔ	p a.j ʔ	1427
+1722	OldTibetan	This	ɴ.d.i	ɴ.d.i	ɴ d i	ɴ.d i	1428
+1723	Lhasa	This	t.i.¹³	t.i.¹³	t i ¹³	t i ¹³	1428
+1724	Xiahe	This	n.d.ə	n.d.ə	n d ə	n.d ə	1428
+1725	Batang	This	ʔ.e.⁵⁵._.d.e.⁵³	ʔ.e.⁵⁵._.d.e.⁵³	ʔ e ⁵⁵ + d e ⁵³	ʔ e ⁵⁵ + d e ⁵³	1428
+1726	Alike	This	n.d.ə	n.d.ə	n d ə	n.d ə	1428
+1727	OldChinese	This	tsʰ.e.ʔ	tsʰ.e.ʔ	tsʰ e ʔ	tsʰ e.ʔ	1429
+1728	OldTibetan	You (informal)	kʰ.ʲ.o.d	kʰ.ʲ.o.d	kʰ j o d	kʰ.j o.d	1430
+1729	Lhasa	You (informal)	ch.e.⁵⁵._.r.a.ŋ.⁵⁵	ch.e.⁵⁵._.r.a.ŋ.⁵⁵	ch/ts e ⁵⁵ + r a ŋ ⁵⁵	ch/ts e ⁵⁵ + r a.ŋ ⁵⁵	1430
+1730	Batang	You (informal)	h.ø.ʔ.⁵³	h.ø.ʔ.⁵³	h ø ʔ ⁵³	h ø.ʔ ⁵³	1430
+1731	Xiahe	You (informal)	tɕh.o	tɕh.o	tɕʰ o	tɕʰ o	1430
+1732	Alike	You (informal)	cçh.o	cçh.o	cçʰ o	cçʰ o	1430
+1733	OldChinese	You (informal)	n.a.ʔ	n.a.ʔ	n a ʔ	n a.ʔ	1431
+1734	OldChinese	You (informal)	nˤ.ə.r.ʔ	nˤ.ə.r.ʔ	nˤ ə r ʔ	nˤ ə.r ʔ	1432
+1735	OldTibetan	Three	g.s.u.m	g.s.u.m	g s u m	g.s u.m	1433
+1736	Batang	Three	s.ɑ̃.∼.⁵⁵	s.ɑ̃.∼.⁵⁵	s ɑ̃ ⁵⁵	s ɑ̃ ⁵⁵	1433
+1737	Xiahe	Three	h.s.ə.m	h.s.ə.m	h s ə m	h.s ə.m	1433
+1738	Lhasa	Three	s.u.m.⁵⁵	s.u.m.⁵⁵	s u m ⁵⁵	s u.m ⁵⁵	1433
+1739	Alike	Three	ɣ.s.ə.m	ɣ.s.ə.m	ɣ s ə m	ɣ.s ə.m	1433
+1740	OldChinese	Three	s.r.u.m	s.r.u.m	s r u m	s.r u.m	1433
+1741	OldTibetan	To throw	d.b.j.u.g	d.b.j.u.g	d b j u g	d.b.j u.g	1434
+1742	Lhasa	To throw	j.u.⁵²	j.u.⁵²	j u ⁵²	j u ⁵²	1434
+1743	Batang	To throw	dʑ.õ.∼.¹³	dʑ.õ.∼.¹³	dʑ õ ¹³	dʑ õ ¹³	1435
+1744	Batang	To throw	ʑ.u.ʔ.⁵³	ʑ.u.ʔ.⁵³	ʑ u ʔ ⁵³	ʑ u.ʔ ⁵³	1434
+1745	Xiahe	To throw	h.e.n	h.e.n	h e n	h e.n	1436
+1746	OldChinese	To throw	dˤ.o	dˤ.o	dˤ o	dˤ o	1437
+1747	OldTibetan	To throw	ɴ.pʰ.e.n	ɴ.pʰ.e.n	ɴ pʰ e n	ɴ.pʰ e.n	1436
+1748	Lhasa	Today	th.ə.¹³.◦.r.i.⁵²	th.ə.¹³.◦.r.i.⁵²	tʰ ə ¹³ + r i ⁵²	tʰ ə ¹³ + r i ⁵²	1438
+1749	Batang	Today	a.¹³.◦.r.i.⁵⁵	a.¹³.◦.r.i.⁵⁵	a ¹³ + r i ⁵⁵	a ¹³ + r i ⁵⁵	1439
+1750	Xiahe	Today	t.e._.r.a.ŋ	t.e._.r.a.ŋ	t e + r a ŋ	t e + r a.ŋ	1438
+1751	Alike	Today	t.e._.r.a.ŋ	t.e._.r.a.ŋ	t e + r a ŋ	t e + r a.ŋ	1438
+1752	OldChinese	Today	k.r.ə.m	k.r.ə.m	k r ə m	k.r ə.m	1440
+1753	OldTibetan	Today	d.e.+.r.i.ŋ	d.e.+.r.i.ŋ	d e + r i ŋ	d e + r i.ŋ	1438
+1754	Lhasa	Tomorrow	s.ə.ŋ.⁵⁵.◦.ȵ.ĩ.∼.⁵⁵	s.ə.ŋ.⁵⁵.◦.ȵ.ĩ.∼.⁵⁵	s ə ŋ ⁵⁵ + ȵ ĩ ⁵⁵	s ə.ŋ ⁵⁵ + ȵ ĩ ⁵⁵	1441
+1755	Alike	Tomorrow	n.a.ŋ._.r.k.a	n.a.ŋ._.r.k.a	n a ŋ + r k a	n a.ŋ + r.k a	1442
+1756	Batang	Tomorrow	s.õ.∼.ŋ.¹³.◦.ȵ.ĩ.∼.⁵⁵	s.õ.∼.ŋ.¹³.◦.ȵ.ĩ.∼.⁵⁵	s õ ŋ ¹³ + ȵ ĩ ⁵⁵	s õ.ŋ ¹³ + ȵ ĩ ⁵⁵	1441
+1757	Xiahe	Tomorrow	n.a.ŋ._.h.k.a	n.a.ŋ._.h.k.a	n a ŋ + h k a	n a.ŋ + h.k a	1442
+1758	OldChinese	Tomorrow	m.r.a.ŋ	m.r.a.ŋ	m r a ŋ	m.r a.ŋ	1443
+1759	OldTibetan	Tomorrow	s.a.ŋ.+.ɲ.i.n	s.a.ŋ.+.ɲ.i.n	s a ŋ + ɲ i n	s a.ŋ + ɲ i.n	1441
+1760	OldTibetan	Tongue	l.dʑ.e	l.dʑ.e	l dʑ e	l.dʑ e	1444
+1761	Lhasa	Tongue	tɕ.e.⁵⁵	tɕ.e.⁵⁵	tɕ e ⁵⁵	tɕ e ⁵⁵	1444
+1762	Lhasa	Tongue	tɕ.e.⁵⁵.◦.l.e.⁵²	tɕ.e.⁵⁵.◦.l.e.⁵²	tɕ e ⁵⁵ + l e ⁵²	tɕ e ⁵⁵ + l e ⁵²	1444
+1763	Batang	Tongue	tɕ.e.⁵⁵.◦.l.e.⁵³	tɕ.e.⁵⁵.◦.l.e.⁵³	tɕ e ⁵⁵ + l e ⁵³	tɕ e ⁵⁵ + l e ⁵³	1444
+1764	Xiahe	Tongue	h.tɕ.e	h.tɕ.e	h tɕ e	h.tɕ e	1444
+1765	Alike	Tongue	r.tɕ.i	r.tɕ.i	r tɕ i	r.tɕ i	1444
+1766	OldChinese	Tongue	m.ə.+.l.a.t	m.ə.+.l.a.t	m ə + l a t	m ə + l a.t	1445
+1767	OldTibetan	Teeth	s.o	s.o	s o	s o	1446
+1768	Batang	Teeth	s.ᴜ.⁵³	s.ᴜ.⁵³	s u ⁵³	s u ⁵³	1446
+1769	Xiahe	Teeth	sʰ.o	sʰ.o	sʰ o	sʰ o	1446
+1770	Lhasa	Teeth	s.o.⁵⁵	s.o.⁵⁵	s o ⁵⁵	s o ⁵⁵	1446
+1771	Alike	Teeth	sʰ.o	sʰ.o	sʰ o	sʰ o	1446
+1772	OldChinese	Teeth	t.+.kʰ.ə.ʔ	t.+.kʰ.ə.ʔ	t + kʰ ə ʔ	t + kʰ ə.ʔ	1447
+1773	OldTibetan	Tree	ɕ.i.ŋ	ɕ.i.ŋ	ɕ i ŋ	ɕ i.ŋ	1448
+1774	Batang	Tree	x.ĩ.∼.⁵⁵.◦.ph.ũ.∼.⁵⁵	x.ĩ.∼.⁵⁵.◦.ph.ũ.∼.⁵⁵	x ĩ ⁵⁵ + pʰ ũ ⁵⁵	x ĩ ⁵⁵ + pʰ ũ ⁵⁵	1448
+1775	Xiahe	Tree	d.o.ŋ._.w.o	d.o.ŋ._.w.o	d o ŋ + w o	d o.ŋ + w o	1039
+1776	Lhasa	Tree	ɕ.i.ŋ.⁵⁵.◦.t.u.ŋ.⁵⁵	ɕ.i.ŋ.⁵⁵.◦.t.u.ŋ.⁵⁵	ɕ i ŋ ⁵⁵ + t u ŋ ⁵⁵	ɕ i.ŋ ⁵⁵ + t u.ŋ ⁵⁵	1448
+1777	Alike	Tree	ɣ.d.o.ŋ._.ŋ.o	ɣ.d.o.ŋ._.ŋ.o	ɣ d o ŋ + ŋ o	ɣ.d o.ŋ + ŋ o	1039
+1778	OldChinese	Tree	C/.+.mˤ.o.k	C/.+.mˤ.o.k	ç/k + mˤ o k	ç/k + mˤ o k	1450
+1779	OldTibetan	Tree	ɕ.i.ŋ.+.s.d.o.ŋ	ɕ.i.ŋ.+.s.d.o.ŋ	ɕ i ŋ + s d o ŋ	ɕ i.ŋ + s.d o.ŋ	1448
+1780	OldTibetan	Twenty	ɲ.i.+.+.ɕ.u	ɲ.i.+.+.ɕ.u	ɲ i + ɕ u	ɲ i + ɕ u	1451
+1781	Batang	Twenty	ȵ.ɪ.¹³.◦.xh.u.⁵³	ȵ.ɪ.¹³.◦.xh.u.⁵³	ȵ ɪ ¹³ + xʰ u ⁵³	ȵ ɪ ¹³ + xʰ u ⁵³	1451
+1782	Xiahe	Twenty	ȵ.u._.xh.ə	ȵ.u._.xh.ə	ȵ u + xʰ ə	ȵ u + xʰ ə	1451
+1783	Lhasa	Twenty	ȵ.i.¹³.◦.ɕ.u.⁵⁵	ȵ.i.¹³.◦.ɕ.u.⁵⁵	ȵ i ¹³ + ɕ u ⁵⁵	ȵ i ¹³ + ɕ u ⁵⁵	1451
+1784	Alike	Twenty	ȵ.u._.x.ə	ȵ.u._.x.ə	ȵ u + x ə	ȵ u + x ə	1451
+1785	OldTibetan	Two	g.ɲ.i.s	g.ɲ.i.s	g ɲ i s	g.ɲ i s	1452
+1786	Xiahe	Two	h.ȵ.i	h.ȵ.i	h ȵ i	h.ȵ i	1452
+1787	Lhasa	Two	ȵ.iː.⁵⁵	ȵ.iː.⁵⁵	ȵ iː ⁵⁵	ȵ iː ⁵⁵	1452
+1788	Batang	Two	ȵ.i.⁵⁵	ȵ.i.⁵⁵	ȵ i ⁵⁵	ȵ i ⁵⁵	1452
+1789	Alike	Two	ɣ.ȵ.i	ɣ.ȵ.i	ɣ ȵ i	ɣ.ȵ i	1452
+1790	OldChinese	Two	n.i.j.+.s	n.i.j.+.s	n i j + s	n i.j + s	1452
+1791	OldTibetan	To walk	ɴ.g.r.o.◦	ɴ.g.r.o.◦	ɴ g r o	ɴ.g r o	1453
+1792	Lhasa	To walk	tʂ.o.¹³	tʂ.o.¹³	ʈʂ o ¹³	ʈʂ o ¹³	1453
+1793	Batang	To walk	ndʐ.o.⁵³	ndʐ.o.⁵³	ⁿɖʐ o ⁵³	ⁿɖʐ o ⁵³	1453
+1794	Batang	To walk	tɕʰ.ø.⁵⁵	tɕʰ.ø.⁵⁵	tɕʰ ø ⁵⁵	tɕʰ ø ⁵⁵	1454
+1795	Xiahe	To walk	ndʑ.o	ndʑ.o	ⁿdʑ o	ⁿdʑ o	1453
+1796	Lhasa	To walk	ph.e.⁵²	ph.e.⁵²	pʰ e ⁵²	pʰ e ⁵²	1455
+1797	Alike	To walk	n.ɟ.j.o	n.ɟ.j.o	n ɟ j o	n.ɟ.j o	1453
+1798	Batang	To walk	xh.ɛ.ʔ.⁵³	xh.ɛ.ʔ.⁵³	xʰ ɛ ʔ ⁵³	xʰ ɛ.ʔ ⁵³	1456
+1799	OldChinese	To walk	C/.ə.+.gˤ.r.a.ŋ	C/.ə.+.gˤ.r.a.ŋ	ç/k ə + gˤ r a ŋ	ç/k ə + gˤ.r a.ŋ	1457
+1800	OldTibetan	Water	tɕʰ.u	tɕʰ.u	tɕʰ u	tɕʰ u	1458
+1801	Lhasa	Water	tɕʰ.u.⁵⁵	tɕʰ.u.⁵⁵	tɕʰ u ⁵⁵	tɕʰ u ⁵⁵	1458
+1802	Xiahe	Water	tɕh.ə	tɕh.ə	tɕʰ ə	tɕʰ ə	1458
+1803	Batang	Water	tɕʰ.ᴜ.⁵³	tɕʰ.ᴜ.⁵³	tɕʰ u ⁵³	tɕʰ u ⁵³	1458
+1804	Alike	Water	tɕh.ə	tɕh.ə	tɕʰ ə	tɕʰ ə	1458
+1805	OldChinese	Water	s.t.u.r.ʔ	s.t.u.r.ʔ	s t u r ʔ	s.t u.r ʔ	1458
+1806	OldTibetan	We (inclusive)	ɦ.o.+.s.k.o.l	ɦ.o.+.s.k.o.l	ɦ o + s k o l	ɦ o + s.k o.l	1459
+1807	Xiahe	We (inclusive)	ʔ.o._.tɕh.o	ʔ.o._.tɕh.o	ʔ o + tɕʰ o	ʔ o + tɕʰ o	1459
+1808	Lhasa	We (inclusive)	ŋ.ã.∼.¹³.◦.tsh.o.⁵⁵	ŋ.ã.∼.¹³.◦.tsh.o.⁵⁵	ŋ ã ¹³ + tsʰ o ⁵⁵	ŋ ã ¹³ + tsʰ o ⁵⁵	1460
+1809	Alike	We (inclusive)	ŋ.ə._.tɕh.o	ŋ.ə._.tɕh.o	ŋ ə + tɕʰ o	ŋ ə + tɕʰ o	1460
+1810	Batang	We (inclusive)	ŋ.ø.y.¹³	ŋ.ø.y.¹³	ŋ øy ¹³	ŋ øy ¹³	1461
+1811	OldTibetan	Wet	r.l.o.n	r.l.o.n	r l o n	r.l o.n	1462
+1812	Batang	Wet	l.ẽ.∼.⁵⁵.◦.m.b.a.⁵³	l.ẽ.∼.⁵⁵.◦.m.b.a.⁵³	l ẽ ⁵⁵ + m b a ⁵³	l ẽ ⁵⁵ + m.b a ⁵³	1462
+1813	Lhasa	Wet	l.ø̃.∼.⁵⁵.◦.p.o.⁵⁵	l.ø̃.∼.⁵⁵.◦.p.o.⁵⁵	l ø̃ ⁵⁵ + p o ⁵⁵	l ø̃ ⁵⁵ + p o ⁵⁵	1462
+1814	Xiahe	Wet	h.l.o._.m.b.a	h.l.o._.m.b.a	h l o + m b a	h.l o + m.b a	1462
+1815	Alike	Wet	ɣ.l.o.n._.b.æ	ɣ.l.o.n._.b.æ	ɣ l o n + b æ	ɣ.l o.n + b æ	1462
+1816	OldChinese	Wet	qʰ.i.p	qʰ.i.p	qʰ i p	qʰ i.p	1463
+1817	OldTibetan	What	tɕʰ.i	tɕʰ.i	tɕʰ i	tɕʰ i	1464
+1818	Lhasa	What	kh.a.¹³.◦.r.e.⁵⁵	kh.a.¹³.◦.r.e.⁵⁵	kʰ a ¹³ + r e ⁵⁵	kʰ a ¹³ + r e ⁵⁵	1465
+1819	Batang	What	tɕh.ɪ.⁵³	tɕh.ɪ.⁵³	tɕʰ ɪ ⁵³	tɕʰ ɪ ⁵³	1464
+1820	Xiahe	What	tɕh.ə._.z.ə.χ	tɕh.ə._.z.ə.χ	tɕʰ ə + z ə χ	tɕʰ ə + z ə.χ	1464
+1821	Alike	What	tɕh.ə._.z.u.k	tɕh.ə._.z.u.k	tɕʰ ə + z u k	tɕʰ ə + z u.k	1464
+1822	OldChinese	What	gˤ.a	gˤ.a	gˤ a	gˤ a	1466
+1823	OldChinese	What	gˤ.a.j	gˤ.a.j	gˤ a j	gˤ a.j	1467
+1824	Alike	Wheat (husked)	cç.o	cç.o	cç o	cç o	1468
+1825	Lhasa	Wheat (husked)	tʂh.o.¹³	tʂh.o.¹³	ʈʂʰ o ¹³	ʈʂʰ o ¹³	1468
+1826	Batang	Wheat (husked)	tʂ.o.²³¹	tʂ.o.²³¹	ʈʂ o ²³¹	ʈʂ o ²³¹	1468
+1827	Xiahe	Wheat (husked)	tɕ.o	tɕ.o	tɕ o	tɕ o	1468
+1828	OldChinese	Wheat (husked)	m.+.rˤ.ə.k	m.+.rˤ.ə.k	m + rˤ ə k	m + rˤ ə.k	1469
+1829	OldTibetan	Wheat (husked)	g.r.o	g.r.o	g r o	g.r o	1468
+1830	OldTibetan	Where	g.a.+.n.a	g.a.+.n.a	g a + n a	g a + n a	1470
+1831	Batang	Where	k.ɑ.¹³	k.ɑ.¹³	k ɑ ¹³	k ɑ ¹³	1470
+1832	Xiahe	Where	k.a.ŋ._.n.a	k.a.ŋ._.n.a	k a ŋ + n a	k a.ŋ + n a	1470
+1833	Lhasa	Where	kh.a.¹³.◦.p.aː.⁵⁵	kh.a.¹³.◦.p.aː.⁵⁵	kʰ a ¹³ + p aː ⁵⁵	kʰ a ¹³ + p aː ⁵⁵	1470
+1834	Alike	Where	k.a.ŋ._.n.æ	k.a.ŋ._.n.æ	k a ŋ + n æ	k a.ŋ + n æ	1470
+1835	OldChinese	Where	ɢʷ.a.n	ɢʷ.a.n	ɢʷ a n	ɢʷ a.n	1471
+1836	OldTibetan	White	d.k.a.r.+	d.k.a.r.+	d k a r	d.k a.r	1472
+1837	Lhasa	White	k.aː.⁵⁵.◦.p.o.⁵⁵	k.aː.⁵⁵.◦.p.o.⁵⁵	k aː ⁵⁵ + p o ⁵⁵	k aː ⁵⁵ + p o ⁵⁵	1472
+1838	Batang	White	k.ɑ.⁵⁵.◦.k.a.⁵⁵	k.ɑ.⁵⁵.◦.k.a.⁵⁵	k ɑ ⁵⁵ + k a ⁵⁵	k ɑ ⁵⁵ + k a ⁵⁵	1472
+1839	Xiahe	White	k.a._.r.o	k.a._.r.o	k a + r o	k a + r o	1472
+1840	Alike	White	k.a._.r.o	k.a._.r.o	k a + r o	k a + r o	1472
+1841	OldChinese	White	bˤ.r.a.k	bˤ.r.a.k	bˤ r a k	bˤ.r a.k	1473
+1842	OldTibetan	Who	s.u	s.u	s u	s u	1474
+1843	Xiahe	Who	sʰ.ə	sʰ.ə	sʰ ə	sʰ ə	1474
+1844	Lhasa	Who	s.u.⁵⁵	s.u.⁵⁵	s u ⁵⁵	s u ⁵⁵	1474
+1845	Alike	Who	s.ə	s.ə	s ə	s ə	1474
+1846	Batang	Who	s.ᴜ.⁵³	s.ᴜ.⁵³	s u ⁵³	s u ⁵³	1474
+1847	OldChinese	Who	d.u.j	d.u.j	d u j	d u.j	1475
+1848	OldTibetan	Wife	kʰ.j.o.+.m.o	kʰ.j.o.+.m.o	kʰ j o + m o	kʰ.j o + m o	1476
+1849	Lhasa	Wife	a.⁵⁵.◦.tɕ.e.⁵⁵	a.⁵⁵.◦.tɕ.e.⁵⁵	a ⁵⁵ + tɕ e ⁵⁵	a ⁵⁵ + tɕ e ⁵⁵	1477
+1850	Lhasa	Wife	c.e.⁵⁵.◦.m.ɛ̃.∼.⁵⁵	c.e.⁵⁵.◦.m.ɛ̃.∼.⁵⁵	c e ⁵⁵ + m ɛ̃ ⁵⁵	c e ⁵⁵ + m ɛ̃ ⁵⁵	1478
+1851	Batang	Wife	m.o.¹³.◦.ȵ.o.ʔ.⁵³	m.o.¹³.◦.ȵ.o.ʔ.⁵³	m o ¹³ + ȵ o ʔ ⁵³	m o ¹³ + ȵ o.ʔ ⁵³	1479
+1852	Batang	Wife	nd.u.¹³.◦.r.o.ʔ.⁵³	nd.u.¹³.◦.r.o.ʔ.⁵³	ⁿd u ¹³ + r o ʔ ⁵³	ⁿd u ¹³ + r o.ʔ ⁵³	1480
+1853	Alike	Wife	tɕ.o.ŋ._.m.a	tɕ.o.ŋ._.m.a	tɕ o ŋ + m a	tɕ o.ŋ + m a	1481
+1854	Xiahe	Wife	n.a.χ._.m.o	n.a.χ._.m.o	n a χ + m o	n a.χ + m o	1482
+1855	OldChinese	Wife	tsʰˤ.ə.j	tsʰˤ.ə.j	tsʰˤ ə j	tsʰˤ ə.j	1483
+1856	OldChinese	Wife	m.ə.+.b.ə.ʔ	m.ə.+.b.ə.ʔ	m ə + b ə ʔ	m ə + b ə.ʔ	1484
+1857	OldTibetan	Wind	r.l.u.ŋ	r.l.u.ŋ	r l u ŋ	r.l u.ŋ	1485
+1858	Batang	Wind	l.ũ.∼.⁵⁵	l.ũ.∼.⁵⁵	l ũ ⁵⁵	l ũ ⁵⁵	1485
+1859	Lhasa	Wind	ɬ.a.k.⁵⁵.◦.p.a.⁵⁵	ɬ.a.k.⁵⁵.◦.p.a.⁵⁵	ɬ a k ⁵⁵ + p a ⁵⁵	ɬ a.k ⁵⁵ + p a ⁵⁵	1486
+1860	Xiahe	Wind	sʰ.e._.r.ə	sʰ.e._.r.ə	sʰ e + r ə	sʰ e + r ə	1487
+1861	Alike	Wind	w.l.o.ŋ	w.l.o.ŋ	w l o ŋ	w.l o ŋ	1485
+1862	OldChinese	Wind	p.r.ə.m	p.r.ə.m	p r ə m	p.r ə.m	1488
+1863	OldTibetan	Woman	b.u.d.+.m.e.d	b.u.d.+.m.e.d	b u d + m e d	b u.d + m e.d	1489
+1864	Lhasa	Woman	ph.y.¹³.◦.m.e.⁵²	ph.y.¹³.◦.m.e.⁵²	pʰ y ¹³ + m e ⁵²	pʰ y ¹³ + m e ⁵²	1489
+1865	Batang	Woman	m.ᴜ.¹³.◦.ȵ.o.ʔ.⁵³	m.ᴜ.¹³.◦.ȵ.o.ʔ.⁵³	m u ¹³ + ȵ o ʔ ⁵³	m u ¹³ + ȵ o.ʔ ⁵³	1490
+1866	Alike	Woman	w.ə._.m.ȵ.ə.t	w.ə._.m.ȵ.ə.t	w ə + m ȵ ə t	w ə + m.ȵ ə.t	1491
+1867	Xiahe	Woman	ʔ.a._.j.i._.tɕh.o	ʔ.a._.j.i._.tɕh.o	ʔ a + j i + tɕʰ o	ʔ a + j i + tɕʰ o	1492
+1868	OldChinese	Woman	n.r.a.ʔ	n.r.a.ʔ	n r a ʔ	n.r a ʔ	1493
+1869	OldTibetan	Year	l.o	l.o	l o	l o	1494
+1870	Alike	Year	l.o	l.o	l o	l o	1494
+1871	Lhasa	Year	l.o.¹³	l.o.¹³	l o ¹³	l o ¹³	1494
+1872	Batang	Year	l.ᴜ.²³¹	l.ᴜ.²³¹	l u ²³¹	l u ²³¹	1494
+1873	Xiahe	Year	l.o	l.o	l o	l o	1494
+1874	OldChinese	Year	C/.+.nˤ.i.ŋ	C/.+.nˤ.i.ŋ	ç/k + nˤ i ŋ	ç/k + nˤ i.ŋ	1495
+1875	Xiahe	Yesterday	kʰ.a._.h.ts.a.ŋ	kʰ.a._.h.ts.a.ŋ	kʰ a + h ts a ŋ	kʰ a + h.ts a.ŋ	1496
+1876	Batang	Yesterday	kʰ.a.¹³.◦.ts.õ.∼.⁵⁵	kʰ.a.¹³.◦.ts.õ.∼.⁵⁵	kʰ a ¹³ + ts õ ⁵⁵	kʰ a ¹³ + ts õ ⁵⁵	1496
+1877	Lhasa	Yesterday	kʰ.eː.⁵⁵.◦.s.ə.⁵⁵	kʰ.eː.⁵⁵.◦.s.ə.⁵⁵	kʰ eː ⁵⁵ + s ə ⁵⁵	kʰ eː ⁵⁵ + s ə ⁵⁵	1496
+1878	Alike	Yesterday	kʰ.a._.r.ts.a.ŋ	kʰ.a._.r.ts.a.ŋ	kʰ a + r ts a ŋ	kʰ a + r.ts a.ŋ	1496
+1879	OldChinese	Yesterday	dzˤ.a.k	dzˤ.a.k	dzˤ a k	dzˤ a.k	1497
+1880	OldTibetan	Yesterday	kʰ.a.r.+.s.a.ŋ	kʰ.a.r.+.s.a.ŋ	kʰ a r + s a ŋ	kʰ a.r + s a.ŋ	1496
+1881	OldTibetan	You (plural)	kʰ.j.o.d	kʰ.j.o.d	kʰ j o d	kʰ.j o.d	1498
+1882	Alike	You (plural)	c.çh.ə._.tɕh.o	c.çh.ə._.tɕh.o	c çʰ ə + tɕʰ o	c.çʰ ə + tɕʰ o	1498
+1883	Batang	You (plural)	h.ø.y.⁵³	h.ø.y.⁵³	h øy ⁵³	h øy ⁵³	1498
+1884	Lhasa	You (plural)	ch.e.⁵⁵.◦.r.a.ŋ.⁵⁵.◦.tsh.o	ch.e.⁵⁵.◦.r.a.ŋ.⁵⁵.◦.tsh.o	ch/ts e ⁵⁵ + r a ŋ ⁵⁵ + tsʰ o	ch/ts e ⁵⁵ + r a ŋ ⁵⁵ + tsʰ o	1498
+1885	Xiahe	You (plural)	tɕh.ə._.tɕh.o	tɕh.ə._.tɕh.o	tɕʰ ə + tɕʰ o	tɕʰ ə + tɕʰ o	1498

@@ -1,0 +1,1886 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	COGID	SOURCE	NOTE
+160	Gyalsumdo	Above	ɲala	ɲ a + l a		Dhakal2024	[x]
+419	Jirel	Above	jine	j i + n e		Dhakal2024	[x]
+677	Kagate	Above	t̪ʰola	t̪ʰ o + l a		Dhakal2024	[x]
+933	Lowa	Above	t̪ʰøʔ	t̪ʰ ø.ʔ		Dhakal2024	[x]
+1183	Nubri	Above	kaŋ	k a.ŋ		Dhakal2024	[x]
+1434	Sherpa	Above	jajo	j a + j o		Dhakal2024	[x]
+1677	Tsum	Above	jau	j a + !Ø/j u		Dhakal2024	[x]
+1939	Yolmo	Above	t̪ʰola	t̪ʰ o + l a		Dhakal2024	[x]
+2042	OldTibetan	Above	s.t.e.ŋ	s.t e.ŋ		Sagart2019	
+2043	Lhasa	Above	j.ɛ̃.∼.¹³.◦.tɕʰ.ɛ.⁵²	j ɛ̃ ¹³ + tɕʰ ɛ ⁵²		Sagart2019	
+2044	Lhasa	Above	kʰ.o.ŋ.¹³.◦.l.a	kʰ o.ŋ ¹³ + l a		Sagart2019	
+2045	Batang	Above	j.a.¹³.◦.tɕ.ø.ʔ.⁵³	j a ¹³ + tɕ ø.ʔ ⁵³		Sagart2019	
+2046	Xiahe	Above	j.a.n._.tɕh.a.r	j a.n + tɕʰ a.r		Sagart2019	
+2047	OldChinese	Above	d.a.ŋ.ʔ.+.s	d a.ŋ ʔ + s		Sagart2019	
+198	Gyalsumdo	All	t̪aɡɹaŋ	t̪ a.g/k + ɹ a.ŋ		Dhakal2024	[x]
+455	Jirel	All	ŋɡaŋe	ⁿg/g a + ŋ e		Dhakal2024	[x]
+713	Kagate	All	t̪ʰamdzer	t̪ʰ a.m + dz e.r		Dhakal2024	[x]
+973	Lowa	All	kiɾi	k i + ɾ i		Dhakal2024	[x]
+1220	Nubri	All	tɕjapt̪a	tɕj/tɕ a.p + t̪ a		Dhakal2024	[x]
+1469	Sherpa	All	jukəj	j u + k əi		Dhakal2024	[x]
+1712	Tsum	All	tɕjop	tɕj/tɕ o.p		Dhakal2024	[x]
+1976	Yolmo	All	ndzamaɹaŋ	ⁿdz/dz a + m a + ɹ a.ŋ		Dhakal2024	[x]
+2048	OldTibetan	All	tʰ.a.m.s.◦.tɕ.a.d	tʰ a.m s + tɕ a.d		Sagart2019	
+2049	Xiahe	All	h.a._.n.o	h a + n o		Sagart2019	
+2050	Lhasa	All	tsh.a.ŋ.⁵⁵.◦.m.a.⁵⁵	tsʰ a.ŋ ⁵⁵ + m a ⁵⁵		Sagart2019	
+2051	Batang	All	j.ø.¹³.◦.tsh.ɛ.ʔ.⁵³	j ø ¹³ + tsʰ ɛ.ʔ ⁵³		Sagart2019	
+2052	Lhasa	All	k.a.ŋ.¹³.◦.k.a.⁵⁵	k a.ŋ ¹³ + k a ⁵⁵		Sagart2019	
+2053	Alike	All	tsh.a.ŋ._.m.æ	tsʰ a.ŋ + m æ		Sagart2019	
+2054	OldChinese	All	b.r.o.m	b.r o.m		Sagart2019	
+2055	OldChinese	All	gˤ.r.ə.m	gˤ.r ə.m		Sagart2019	
+2056	OldTibetan	All	k.u.n	k u.n		Sagart2019	
+110	Gyalsumdo	Ant	tomaɹ	t̪ o + m a.ɹ		Dhakal2024	[x]
+371	Jirel	Ant	tʰoŋmatsi	t̪ʰ o.ŋ + m a + ts i		Dhakal2024	[x]
+627	Kagate	Ant	tomak	t̪ o + m a.k		Dhakal2024	[x]
+884	Lowa	Ant	mbudaɲa	ⁿb/b u + d a + ɲ a		Dhakal2024	[x]
+1136	Nubri	Ant	hɹomo	h.ɹ o + m o		Dhakal2024	grog «Ameise»
+1387	Sherpa	Ant	tʰəksəŋma	t̪ʰ ə.k + s ə.ŋ + m a		Dhakal2024	grog «Ameise»
+1630	Tsum	Ant	tɹomu	t̪.ɹ o + m u		Dhakal2024	grog «Ameise»
+1892	Yolmo	Ant	tomaŋ	t̪.!Ø/ɹ o + m a.ŋ		Dhakal2024	grog «Ameise»
+2057	Xiahe	Ant	m.b.ə._.tɕ.a.χ._.m.a	m.b ə + tɕ a.χ + m a		Sagart2019	!
+2058	Alike	Ant	cç.o.k._.m.æ	cç o.k + m æ		Sagart2019	!
+2059	Lhasa	Ant	tʂh.oː.¹³.◦.m.a.⁵⁵	ʈʂʰ oː ¹³ + m a ⁵⁵		Sagart2019	
+2060	Batang	Ant	dʑ.a.⁵⁵.◦.dʐ.o.ʔ.⁵³.◦.tʂ.ᴜ.¹³.◦.m.a.⁵³	dʑ a ⁵⁵ + ɖʐ o.ʔ ⁵³ + ʈʂ u ¹³ + m a ⁵³		Sagart2019	
+2061	OldChinese	Ant	m.+.qʰ.a.j.ʔ	m + qʰ a.j ʔ		Sagart2019	
+2062	OldChinese	Ant	qʰˤ.o.ʔ	qʰˤ o ʔ		Sagart2019	WT grog-ma, etc.
+2063	OldTibetan	Ant	g.r.o.g.+.m.a	g r o.g + m a		Sagart2019	not in OT?
+145	Gyalsumdo	Bad	majabu	m a + j a + b u		Dhakal2024	[x]
+403	Jirel	Bad	meleba	m e + l e + b a		Dhakal2024	[x]
+661	Kagate	Bad	majiba	m a + j i + b a		Dhakal2024	[x]
+662	Kagate	Bad	marikpa	m a + r i.k + !p/b a		Dhakal2024	[x]
+917	Lowa	Bad	a	a		Dhakal2024	[x]
+918	Lowa	Bad	ŋempa	ŋ e.m + p a		Dhakal2024	[x]
+1168	Nubri	Bad	ɦawɛ	ɦ a + w ɛ		Dhakal2024	[x]
+1419	Sherpa	Bad	melokpa	m e + l o.k + p a		Dhakal2024	[x]
+1662	Tsum	Bad	nepo	n e + p o		Dhakal2024	[x]
+1924	Yolmo	Bad	tsokpa	ts o.k + p a		Dhakal2024	[x]
+2064	OldTibetan	Bad	ŋ.a.n	ŋ a.n		Sagart2019	
+2065	Lhasa	Bad	ŋ.ɛ̃.∼.¹³.◦.p.o.⁵⁵	ŋ ɛ̃ ¹³ + p o ⁵⁵		Sagart2019	
+2066	Lhasa	Bad	t.u.¹³.◦.k.o.⁵⁵	t u ¹³ + k o ⁵⁵		Sagart2019	
+2067	Batang	Bad	d.u.⁵⁵.◦.p.ᴜ.⁵³	d u ⁵⁵ + p u ⁵³		Sagart2019	
+2068	Batang	Bad	ɕ.ɑ.u.⁵⁵.◦.d.ɛ.ʔ.⁵³	ɕ ɑu ⁵⁵ + d ɛ ʔ ⁵³		Sagart2019	
+2069	Xiahe	Bad	a._.χ.a._.m.a	a + χ a + m a		Sagart2019	
+2070	Xiahe	Bad	ŋ.a.n	ŋ a.n		Sagart2019	
+2071	Alike	Bad	ŋ.a.n._.b.æ	ŋ a.n + b æ		Sagart2019	
+2072	OldChinese	Bad	ʔˤ.a.k	ʔˤ a.k		Sagart2019	WT ag-po 'bad'
+78	Gyalsumdo	Barley	tsəu	ts əu		Dhakal2024	[x]
+339	Jirel	Barley	ndzəu	!ⁿdz/ts əu		Dhakal2024	[x]
+597	Kagate	Barley	wa	w a		Dhakal2024	[x]
+853	Lowa	Barley	ne	n e		Dhakal2024	[x]
+1107	Nubri	Barley	n̪e:	n eː		Dhakal2024	[x]
+1357	Sherpa	Barley	dzəu	!dz/ts əu		Dhakal2024	[x]
+1601	Tsum	Barley	tsau	ts au		Dhakal2024	[x]
+1863	Yolmo	Barley	dzəu	!dz/ts əu		Dhakal2024	[x]
+2073	Lhasa	Barley	s.oː.⁵⁵	s oː ⁵⁵		Sagart2019	
+2074	Lhasa	Barley	s.o.⁵⁵.◦.w.a.⁵⁵	s o ⁵⁵ + w a ⁵⁵		Sagart2019	
+2075	Batang	Barley	sh.ɑ.⁵⁵	sʰ ɑ ⁵⁵		Sagart2019	
+2076	OldTibetan	Barley	n.a.s	n a.s		Sagart2019	
+14	Gyalsumdo	Belly	toba	t̪ o + b a		Dhakal2024	[x]
+279	Jirel	Belly	suba	s u + b a		Dhakal2024	[x]
+539	Kagate	Belly	topa	t̪ o + p a		Dhakal2024	[x]
+791	Lowa	Belly	pʰowa	pʰ o + w a		Dhakal2024	[x]
+1049	Nubri	Belly	topa	t̪ o + p a		Dhakal2024	[x]
+1297	Sherpa	Belly	tʰopa	t̪ʰ o + p a		Dhakal2024	[x]
+1542	Tsum	Belly	pʰowa	pʰ o + w a		Dhakal2024	[x]
+1804	Yolmo	Belly	pʰo	pʰ o		Dhakal2024	[x]
+2077	OldTibetan	Belly	pʰ.o.b.a	pʰ o + b a		Sagart2019	
+2078	Alike	Belly	h.o	h o		Sagart2019	
+2079	Lhasa	Belly	tʂh.o.¹³.◦.k.o.⁵²	ʈʂʰ o ¹³ + k o ⁵²		Sagart2019	
+2080	Batang	Belly	tʂ.ᴜ.¹³.◦.p.a.⁵³	ʈʂ u ¹³ + p a ⁵³		Sagart2019	
+2081	Xiahe	Belly	h.o	h o		Sagart2019	
+2082	OldChinese	Belly	p.u.k	p u.k		Sagart2019	
+156	Gyalsumdo	Big	tɕʰjumbu	tɕʰj/tɕʰ u + ⁿb/b u		Dhakal2024	tɕʰe «big»
+415	Jirel	Big	ndzod̪a	ⁿdz/dz o + d̪ a		Dhakal2024	tɕʰe «big»
+673	Kagate	Big	tɕʰjombo	tɕʰj/tɕʰ o + ⁿb/b o		Dhakal2024	tɕʰe «big»
+929	Lowa	Big	tsʰe	tsʰ e		Dhakal2024	tɕʰe «big»
+1179	Nubri	Big	tɕjɔ̃mpu	tɕʰj/tɕʰ !ɔ̃/ɔ + ⁿp/p u		Dhakal2024	tɕʰe «big»
+1430	Sherpa	Big	tɕʰend̪i	tɕʰ e + ⁿd̪/d̪ i		Dhakal2024	tɕʰe «big»
+1673	Tsum	Big	tɕʰemo	tɕʰ e + m o		Dhakal2024	tɕʰe «big»
+1935	Yolmo	Big	tɕʰjimbu	tɕʰj/tɕʰ i + ⁿb/b u		Dhakal2024	tɕʰe «big»
+2083	OldTibetan	Big	tɕʰ.e	tɕʰ e		Sagart2019	
+2084	Lhasa	Big	tɕʰ.ẽ.∼.⁵⁵.◦.p.o.⁵⁵	tɕʰ ẽ ⁵⁵ + p o ⁵⁵		Sagart2019	
+2085	Batang	Big	tɕʰ.ɪ.⁵³	tɕʰ ɪ ⁵³		Sagart2019	
+2086	Batang	Big	tɕʰ.ɑ.u.¹³	tɕʰ ɑu ¹³		Sagart2019	
+2087	Xiahe	Big	tɕh.e._.w.o	tɕʰ e + w o		Sagart2019	
+2088	Alike	Big	tɕh.e	tɕʰ e		Sagart2019	
+2089	OldChinese	Big	lˤ.a.t.+.s	lˤ a.t + s		Sagart2019	
+163	Gyalsumdo	Black	nakpu	n a.k + p u		Dhakal2024	nag «black»
+422	Jirel	Black	naɡpo	n a.g/k + p o		Dhakal2024	nag «black»
+680	Kagate	Black	nakpu	n a.k + p u		Dhakal2024	nag «black»
+936	Lowa	Black	naɡpo	n a.g/k + p o		Dhakal2024	nag «black»
+1186	Nubri	Black	n̪akpo	!n̪/n a.k + p o		Dhakal2024	nag «black»
+1437	Sherpa	Black	nakpu	n a.k + p u		Dhakal2024	nag «black»
+1680	Tsum	Black	nakpo	n a.k + p o		Dhakal2024	nag «black»
+1942	Yolmo	Black	n̪akpu	!n̪/n a.k + p u		Dhakal2024	nag «black»
+2097	OldTibetan	Black	n.a.g.◦	n a.g		Sagart2019	
+2098	Lhasa	Black	n.a.¹³.◦.k.o.⁵⁵	n a ¹³ + k o ⁵⁵		Sagart2019	
+2099	Batang	Black	n.ɑ.¹³.◦.n.ɑ.ʔ.⁵³	n ɑ ¹³ + n ɑ.ʔ ⁵³		Sagart2019	
+2100	Xiahe	Black	n.a.χ._.k.w.o	n a.χ + k.w o		Sagart2019	
+2101	Alike	Black	n.o.k._.k.o	n o.k + k o		Sagart2019	
+2102	OldChinese	Black	ts.r.ə	ts.r ə		Sagart2019	!remove!
+2103	OldChinese	Black	m̥ˤ.ə.k	m̥ˤ ə.k		Sagart2019	
+26	Gyalsumdo	Blood	tʰak	t̪ʰ a.k		Dhakal2024	[x]
+289	Jirel	Blood	tʰak	t̪ʰ a.k		Dhakal2024	[x]
+549	Kagate	Blood	tʰa	t̪ʰ a		Dhakal2024	[x]
+802	Lowa	Blood	tʰak	t̪ʰ a.k		Dhakal2024	[x]
+1059	Nubri	Blood	tʰa	t̪ʰ a		Dhakal2024	[x]
+1307	Sherpa	Blood	tʰak	t̪ʰ a.k		Dhakal2024	[x]
+1552	Tsum	Blood	tʰɹaʔ	t̪ʰ.ɹ a.ʔ		Dhakal2024	[x]
+1814	Yolmo	Blood	tʰa	t̪ʰ a		Dhakal2024	[x]
+2104	OldTibetan	Blood	kʰ.r.a.g	kʰ.r a.g		Sagart2019	
+2105	Lhasa	Blood	tʂh.a.⁵²	ʈʂʰ a ⁵²		Sagart2019	
+2106	Batang	Blood	tʂh.ɑ.ʔ.⁵³	ʈʂʰ ɑ.ʔ ⁵³		Sagart2019	
+2107	Xiahe	Blood	tɕh.a.χ	tɕʰ a.χ		Sagart2019	
+2108	Alike	Blood	cçh.a.k	cçʰ a.k		Sagart2019	!
+2109	OldChinese	Blood	m̥ˤ.i.k	m̥ˤ i.k		Sagart2019	
+24	Gyalsumdo	Bone	ɹoɡo	ɹ o + g o		Dhakal2024	[x]
+287	Jirel	Bone	ɹuba	ɹ u + b a		Dhakal2024	[x]
+547	Kagate	Bone	rekok	r e + k o.k		Dhakal2024	[x]
+800	Lowa	Bone	ɹuko	ɹ/ɾ u + k o		Dhakal2024	[x]
+1057	Nubri	Bone	hɹypa	h.ɹ y + p a		Dhakal2024	[x]
+1305	Sherpa	Bone	ɹukjok	ɹ u + k.j o.k		Dhakal2024	[x]
+1550	Tsum	Bone	ɹiɡoʔ	ɹ i + g o.ʔ		Dhakal2024	[x]
+1812	Yolmo	Bone	ɹeko	ɹ e + k o		Dhakal2024	[x]
+2110	OldTibetan	Bone	r.u.s	r u.s		Sagart2019	
+2111	Alike	Bone	r.ə._.p.æ	r ə + p æ		Sagart2019	
+2112	Lhasa	Bone	r.y.⁵⁵.◦.k.o.⁵²	r y ⁵⁵ + k o ⁵²		Sagart2019	
+2113	Batang	Bone	ʐ.ᴜ.¹³.◦.p.a.⁵³	ʐ u ¹³ + p a ⁵³		Sagart2019	
+2114	Lhasa	Bone	r.y.¹³.◦.p.ə.⁵⁵	r y ¹³ + p ə ⁵⁵		Sagart2019	
+2115	Xiahe	Bone	r.ə._.p.a	r ə + p a		Sagart2019	
+2116	OldChinese	Bone	kˤ.u.t	kˤ u.t		Sagart2019	
+12	Gyalsumdo	Breast	oma	o + m a		Dhakal2024	[!] variant, can be excluded
+13	Gyalsumdo	Breast	ɦoma	ɦ o + m a		Dhakal2024	[x]
+278	Jirel	Breast	n̪uma	n u + m a		Dhakal2024	[i] Exception confirmed via internal comparison.
+537	Kagate	Breast	oma	o + m a		Dhakal2024	[x]
+538	Kagate	Breast	praŋɡok	p.r a.ŋ + g o.k		Dhakal2024	[x]
+790	Lowa	Breast	oma	o + m a		Dhakal2024	[x]
+1048	Nubri	Breast	tɕju	tɕ.j u		Dhakal2024	[x]
+1296	Sherpa	Breast	oma	o + m a		Dhakal2024	[x]
+1541	Tsum	Breast	paʔ	p a.ʔ		Dhakal2024	[x]
+1802	Yolmo	Breast	praŋɡo	p.r a.ŋ + g o		Dhakal2024	[x]
+1803	Yolmo	Breast	woma	w o + m a		Dhakal2024	[x]
+2117	OldTibetan	Breast	n.u.m.a	n u + m a		Sagart2019	
+2118	Lhasa	Breast	o.¹³.◦.m.a.⁵⁵	o ¹³ + m a ⁵⁵		Sagart2019	
+2119	Batang	Breast	ȵ.ɑ.⁵⁵.◦.ȵ.ɑ.ʔ.⁵³	ȵ ɑ ⁵⁵ + ȵ ɑ.ʔ ⁵³		Sagart2019	
+2120	Xiahe	Breast	n.ə._.m.a	n ə + m a		Sagart2019	
+2121	Alike	Breast	n.ə._.m.æ	n ə + m æ		Sagart2019	
+2122	OldChinese	Breast	n.o.ʔ	n o.ʔ		Sagart2019	
+55	Gyalsumdo	Cloud	muɡpa	m u.g/k + p a		Dhakal2024	[x]
+316	Jirel	Cloud	mukpa	m u.k + p a		Dhakal2024	[x]
+575	Kagate	Cloud	mukpa	m u.k + p a		Dhakal2024	[x]
+829	Lowa	Cloud	ʂɹiŋpa	ʂ.ɹ/ɾ i.ŋ + p a		Dhakal2024	[x]
+1085	Nubri	Cloud	muɡpa	m u.g/k + p a		Dhakal2024	[x]
+1335	Sherpa	Cloud	mukpa	m u.k + p a		Dhakal2024	[x]
+1579	Tsum	Cloud	mukpaʔ	m u.k + p a.ʔ		Dhakal2024	[x]
+1841	Yolmo	Cloud	mukpa	m u.k + p a		Dhakal2024	[x]
+2131	OldTibetan	Cloud	s.p.r.i.n	s.p.r i.n		Sagart2019	
+2132	Batang	Cloud	tʂ.ĩ.∼.⁵⁵	ʈʂ ĩ ⁵⁵		Sagart2019	
+2133	Xiahe	Cloud	ʂ.ə.n	ʂ ə n		Sagart2019	
+2134	Lhasa	Cloud	tʂ.ĩ.∼.⁵⁵.◦.p.ə.⁵⁵	ʈʂ ĩ ⁵⁵ + p ə ⁵⁵		Sagart2019	
+2135	Alike	Cloud	w.tʂ.ə.n	w.ʈʂ ə.n		Sagart2019	!
+2136	OldChinese	Cloud	ɢʷ.ə.n	ɢʷ ə n		Sagart2019	
+151	Gyalsumdo	Cold	taŋmu	t̪ a.ŋ + m u		Dhakal2024	[x]
+409	Jirel	Cold	tʰəŋɡe	t̪ʰ ə.ŋ + g e		Dhakal2024	[x]
+668	Kagate	Cold	taŋmu	t̪ a.ŋ + m u		Dhakal2024	[x]
+924	Lowa	Cold	taɡmo	t̪ a.!g/ŋ + m o		Dhakal2024	[x]
+1174	Nubri	Cold	taŋmo	t̪ a.ŋ + m o		Dhakal2024	[x]
+1425	Sherpa	Cold	tʰeŋa	t̪ʰ e.ŋ + !Ø/ŋ a		Dhakal2024	[x]
+1668	Tsum	Cold	ɹaŋd̪a	ɹ a.ŋ + d̪ a		Dhakal2024	[x]
+1930	Yolmo	Cold	taŋmu	t̪ a.ŋ + m u		Dhakal2024	[x]
+2137	OldTibetan	Cold	g.r.a.ŋ.◦	g.r a.ŋ		Sagart2019	
+2138	Xiahe	Cold	tɕ.a.ŋ	tɕ a.ŋ		Sagart2019	
+2139	Lhasa	Cold	tʂh.ə.ŋ.¹³.◦.ŋ.u.⁵⁵	ʈʂʰ ə.ŋ ¹³ + ŋ u ⁵⁵		Sagart2019	
+2140	Lhasa	Cold	ch.a.⁵⁵.◦.k.o.⁵⁵	ch/ts a ⁵⁵ + k o ⁵⁵		Sagart2019	
+2141	Batang	Cold	tʂ.õ.∼.¹³.◦.m.ᴜ.⁵³	ʈʂ õ ¹³ + m u ⁵³		Sagart2019	
+2142	Xiahe	Cold	tɕh.a.χ._.k.w.a	tɕʰ a.χ + k.w a		Sagart2019	
+2143	Alike	Cold	n.cçh.a.k	n.cçʰ a.k		Sagart2019	!
+2144	OldChinese	Cold	tsʰ.e.ŋ.+.s	tsʰ e.ŋ + s		Sagart2019	!remove!
+2145	OldChinese	Cold	tsʰˤ.a.ŋ	tsʰˤ a.ŋ		Sagart2019	!remove!
+2146	OldChinese	Cold	C/.+.r.a.ŋ	ç/k + r a.ŋ		Sagart2019	WT grang-ba
+2147	OldChinese	Cold	C/.ə.+.gˤ.a.n	ç/k ə + gˤ a.n		Sagart2019	!remove!
+2148	OldChinese	Cold	rˤ.e.ŋ.ʔ	rˤ e.ŋ ʔ		Sagart2019	!remove!
+123	Gyalsumdo	Daughter	pomo	p o + m o		Dhakal2024	[x]
+384	Jirel	Daughter	pʰumu	pʰ u + m u		Dhakal2024	[x]
+640	Kagate	Daughter	pomo	p o/u + m o		Dhakal2024	[x]
+897	Lowa	Daughter	pomo	p o + m o		Dhakal2024	[x]
+1149	Nubri	Daughter	poõ	p o/u.Ø/h + Ø/m õ/o		Dhakal2024	[x]
+1400	Sherpa	Daughter	pʰumu	pʰ u + m u		Dhakal2024	[x]
+1643	Tsum	Daughter	poõ	p o/u + Ø/m õ/o		Dhakal2024	[x]
+1905	Yolmo	Daughter	pomo	p o/u + m o		Dhakal2024	[x]
+2159	Lhasa	Daughter	ph.o.¹³.◦.m.o.⁵⁵	pʰ o ¹³ + m o ⁵⁵		Sagart2019	
+2160	Batang	Daughter	p.ɑ̃.∼.¹³.◦.m.ᴜ.⁵³	p ɑ̃ ¹³ + m u ⁵³		Sagart2019	
+2161	Xiahe	Daughter	ɕ.ə._.m.o	ɕ ə + m o		Sagart2019	
+2162	Alike	Daughter	ɕ.ə._.m.o	ɕ ə + m o		Sagart2019	
+2163	OldChinese	Daughter	n.r.a.ʔ	n.r a ʔ		Sagart2019	also 'female' in general
+2164	OldTibetan	Daughter	b.u.+.m.o	b u + m o		Sagart2019	
+104	Gyalsumdo	Dog	kjupu	!k/kʰ.j u + p u		Dhakal2024	[x]
+105	Gyalsumdo	Dog	ki	!k/kʰ i		Dhakal2024	[x]
+366	Jirel	Dog	ki	!k/kʰ i		Dhakal2024	[x]
+622	Kagate	Dog	kʰi	kʰ i		Dhakal2024	[x]
+879	Lowa	Dog	kʰi	kʰ i		Dhakal2024	[x]
+1132	Nubri	Dog	kʰji	!kʰj/kʰ i		Dhakal2024	[x]
+1382	Sherpa	Dog	ki	!k/kʰ i		Dhakal2024	[x]
+1626	Tsum	Dog	ki	!k/kʰ i		Dhakal2024	[x]
+1888	Yolmo	Dog	kʰi	kʰ i		Dhakal2024	[x]
+2171	OldTibetan	Dog	kʰʲ.i	kʲʰ i		Sagart2019	
+2172	Lhasa	Dog	ch.i.⁵⁵	ch/ts i ⁵⁵		Sagart2019	???
+2173	Batang	Dog	tɕʰ.ɪ.⁵³	tɕʰ ɪ ⁵³		Sagart2019	
+2174	Xiahe	Dog	tɕh.ə._.ɣ.ə	tɕʰ ə + ɣ ə		Sagart2019	
+2175	Alike	Dog	tɕh.ə._.ɣ.ə	tɕʰ ə + ɣ ə		Sagart2019	
+2176	OldChinese	Dog	kʷʰˤ.e.n.ʔ	kʷʰˤ e.n ʔ		Sagart2019	Probably kwh!ir?
+147	Gyalsumdo	Dry	kəmpu	k ə.m + p u		Dhakal2024	[x]
+405	Jirel	Dry	kombo	k o.m + !b/p o		Dhakal2024	[x]
+664	Kagate	Dry	kambu	k a.m + b u		Dhakal2024	[x]
+920	Lowa	Dry	kampo	k a.m + p o		Dhakal2024	[x]
+1170	Nubri	Dry	kombo	k o.m + b o		Dhakal2024	[x]
+1421	Sherpa	Dry	kaŋbu	k a.ŋ + b u		Dhakal2024	[x]
+1664	Tsum	Dry	kampo	k a.m + p o		Dhakal2024	[x]
+1926	Yolmo	Dry	kambu	k a.m + b u		Dhakal2024	[x]
+2183	OldTibetan	Dry	s.k.a.m.◦	s.k a.m		Sagart2019	
+2184	Lhasa	Dry	k.a.m.⁵⁵.◦.p.o.⁵⁵	k a.m ⁵⁵ + p o ⁵⁵		Sagart2019	
+2185	Batang	Dry	k.a.⁵⁵.◦.m.b.ᴜ.⁵³	k a ⁵⁵ + m.b u ⁵³		Sagart2019	!
+2186	Xiahe	Dry	h.k.a._.m.b.o	h.k a + m.b o		Sagart2019	!
+2187	Alike	Dry	r.k.a.m._.b.o	r.k a.m + b o		Sagart2019	!
+2188	OldChinese	Dry	kˤ.a.r	kˤ a.r		Sagart2019	
+66	Gyalsumdo	Dust	t̪ʰala	t̪ʰ a + l a		Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+328	Jirel	Dust	d̪ulo	!d̪/t̪ʰ !u/a + l !o/a		Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+586	Kagate	Dust	t̪ʰaldzuk	t̪ʰ a + l Ø/a + dz u.k		Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+842	Lowa	Dust	t̪ʰala	t̪ʰ a + l a		Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+1096	Nubri	Dust	t̪ʰala	t̪ʰ a + l a		Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+1346	Sherpa	Dust	t̪ʰald̪uk	t̪ʰ a + l !Ø/a + d̪ u.k		Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+1590	Tsum	Dust	t̪ʰala	t̪ʰ a + l a		Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+1852	Yolmo	Dust	t̪ʰalbi	t̪ʰ a + l !Ø/a + b i		Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+2189	OldTibetan	Dust	r.d.u.l	r.d u.l		Sagart2019	
+2190	Lhasa	Dust	th.ɛ.⁵⁵.◦.l.a.⁵⁵	tʰ ɛ ⁵⁵ + l a ⁵⁵		Sagart2019	
+2191	Batang	Dust	th.e.i.¹³.◦.k.ɑ.⁵⁵	tʰ ei ¹³ + k ɑ ⁵⁵		Sagart2019	
+2192	Batang	Dust	th.e.⁵⁵.◦.w.ɑ.⁵⁵	tʰ e ⁵⁵ + w ɑ ⁵⁵		Sagart2019	
+2193	Xiahe	Dust	sʰ.a._.d.u	sʰ a + d u		Sagart2019	???
+2194	Alike	Dust	th.a.r._.d.u	tʰ a.r + d u		Sagart2019	
+2195	OldChinese	Dust	d.r.ə.n	d.r ə.n		Sagart2019	
+6	Gyalsumdo	Ear	amtɕo	a.m + tɕ o		Dhakal2024	[x]
+7	Gyalsumdo	Ear	amdʑo	a.m + !dʑ/tɕ o		Dhakal2024	[x]
+273	Jirel	Ear	n̪amdʑjok	n a.m + dʑj/dʑ o.k		Dhakal2024	[x]
+532	Kagate	Ear	namdzjo	n a.m + dzj/dʑ o		Dhakal2024	[x]
+785	Lowa	Ear	amtɕjoʔ	a.m + tɕj/tɕ o.ʔ		Dhakal2024	[x]
+1043	Nubri	Ear	amtɕjoʔ	a.m + tɕj/tɕ o.ʔ		Dhakal2024	[x]
+1291	Sherpa	Ear	namdzjok	n a.m + !dzj/dʑ o.k		Dhakal2024	[x]
+1536	Tsum	Ear	amdʑjoʔ	a.m + dʑj/dʑ o.ʔ		Dhakal2024	[x]
+1797	Yolmo	Ear	nəmdʑjo	n ə.m + dʑj/dʑ o		Dhakal2024	[x]
+2196	OldTibetan	Ear	r.n.a	r.n a		Sagart2019	
+2197	Alike	Ear	r.n.æ	r.n æ		Sagart2019	
+2198	Lhasa	Ear	a.m.⁵⁵.◦.tɕ.o.⁵²	a.m ⁵⁵ + tɕ o ⁵²		Sagart2019	
+2199	Batang	Ear	n.a.⁵⁵.◦.j.o.⁵³	n a ⁵⁵ + j o ⁵³		Sagart2019	
+2200	Xiahe	Ear	n.a._.ndʑ.o.χ	n a + ⁿdʑ o./o χ		Sagart2019	!
+2201	OldChinese	Ear	C/.+.n.ə.ʔ	ç/k + n ə.ʔ		Sagart2019	
+97	Gyalsumdo	Egg	koŋa	k o + ŋ a		Dhakal2024	[x]
+357	Jirel	Egg	tsʰemend̪ok	tsʰ e + m e.n + d̪ o.k		Dhakal2024	[x]
+358	Jirel	Egg	tsʰeɡoŋa	tsʰ e + g o + ŋ a		Dhakal2024	[x]
+615	Kagate	Egg	tɕjamuɡoŋa	tɕj/tɕ a + m u + !g/k o + ŋ a		Dhakal2024	[x]
+872	Lowa	Egg	koŋa	k o + ŋ a		Dhakal2024	[x]
+1125	Nubri	Egg	koõ	k o + !Ø/ŋ õ/o		Dhakal2024	[x]
+1375	Sherpa	Egg	tɕʰeɡoŋa	tɕʰ e + g o + ŋ a		Dhakal2024	[x]
+1619	Tsum	Egg	koã	k o + !Ø/ŋ !ã/a		Dhakal2024	[x]
+1881	Yolmo	Egg	koŋa	k o + ŋ a		Dhakal2024	[x]
+2208	OldTibetan	Egg	s.g.o.ŋ.a	s.g o + ŋ a		Sagart2019	
+2209	Alike	Egg	w.ɕ.a.r._.r.g.o.ŋ	w.ɕ a.r + r.g o.ŋ		Sagart2019	!
+2210	Lhasa	Egg	k.o.¹³.◦.ŋ.a.⁵⁵	k o ¹³ + ŋ a ⁵⁵		Sagart2019	
+2211	Batang	Egg	g.ũ.∼.¹³.◦.ŋ.ɑ.ʔ.⁵³	g ũ ¹³ + ŋ ɑ.ʔ ⁵³		Sagart2019	
+2212	Xiahe	Egg	g.o.ŋ._.ŋ.a	g o.ŋ + ŋ a		Sagart2019	
+2213	OldChinese	Egg	k.rˤ.o.r.ʔ	k.rˤ o.r ʔ		Sagart2019	written and spoken but more literary than thur
+2214	OldChinese	Egg	tʰ.u.r	tʰ u.r		Sagart2019	unwritten. Limited to Hakka, Cantonese and some unclassified dialects and patois of the Chinese SE.
+173	Gyalsumdo	Eight	ke	k e		Dhakal2024	[x]
+432	Jirel	Eight	ŋɡet̪	ⁿg/g e.t̪		Dhakal2024	[x]
+689	Kagate	Eight	ke	k e		Dhakal2024	[x]
+946	Lowa	Eight	ke	k e		Dhakal2024	[x]
+1195	Nubri	Eight	ke	k e		Dhakal2024	[x]
+1196	Nubri	Eight	kxe	!kx/k e		Dhakal2024	[x]
+1446	Sherpa	Eight	ɡeʔ	g e.ʔ		Dhakal2024	[x]
+1689	Tsum	Eight	keʔ	k e.ʔ		Dhakal2024	[x]
+1951	Yolmo	Eight	ke	k e		Dhakal2024	[x]
+2215	OldTibetan	Eight	b.r.gʲ.a.d	b.r.gʲ a.d		Sagart2019	
+2216	Lhasa	Eight	c.ɛ.¹³²	c ɛ ¹³²		Sagart2019	
+2217	Xiahe	Eight	dʑ.a.l	dʑ a.l		Sagart2019	
+2218	Batang	Eight	dʑ.ɛ.ʔ.⁵³	dʑ ɛ.ʔ ⁵³		Sagart2019	
+2219	Alike	Eight	w.dʑ.a.t	w.dʑ a.t		Sagart2019	!
+2220	OldChinese	Eight	pˤ.r.e.t	pˤ.r e.t		Sagart2019	
+5	Gyalsumdo	Eye	mi	m i		Dhakal2024	[x] ← Chinese /muk/
+272	Jirel	Eye	mik	m i.k		Dhakal2024	[x] ← Chinese /muk/
+531	Kagate	Eye	mi	m i		Dhakal2024	[x] ← Chinese /muk/
+784	Lowa	Eye	mik	m i.k		Dhakal2024	[x] ← Chinese /muk/
+1042	Nubri	Eye	mik	m i.k		Dhakal2024	[x] ← Chinese /muk/
+1290	Sherpa	Eye	mik	m i.k		Dhakal2024	[x] ← Chinese /muk/
+1535	Tsum	Eye	miʔ	m i.ʔ		Dhakal2024	[x] ← Chinese /muk/
+1796	Yolmo	Eye	mi	m i		Dhakal2024	[x] ← Chinese /muk/
+2221	OldTibetan	Eye	d.mʲ.i.g	d.mʲ i.g		Sagart2019	
+2222	Lhasa	Eye	m.i.⁵²	m i ⁵²		Sagart2019	
+2223	Batang	Eye	m.i.ʔ.⁵³	m i.ʔ ⁵³		Sagart2019	
+2224	Xiahe	Eye	h.ȵ.ɔ.χ	h.ȵ ɔ.χ		Sagart2019	
+2225	Alike	Eye	ɣ.ȵ.ə.k	ɣ.ȵ ə.k		Sagart2019	
+2226	OldChinese	Eye	C/.+.m.u.k	ç/k + m u.k		Sagart2019	
+155	Gyalsumdo	Far	t̪ʰaɹiŋbu	t̪ʰ a + ɹ i.ŋ + b u		Dhakal2024	[x]
+413	Jirel	Far	t̪ʰaɹid̪u	t̪ʰ a + ɹ i.!Ø/n + d̪ u		Dhakal2024	[x]
+414	Jirel	Far	t̪ʰaɹipa	t̪ʰ a + ɹ i.!Ø/n + p a		Dhakal2024	[x]
+672	Kagate	Far	t̪ʰariŋbu	t̪ʰ a + r i.ŋ + b u		Dhakal2024	[x]
+928	Lowa	Far	t̪ʰaɡɾiŋa	t̪ʰ a.g/k + ɾ i.!Ø/ŋ + ŋ a		Dhakal2024	[x]
+1178	Nubri	Far	t̪ʰaɹiŋpo	t̪ʰ a + ɹ i.ŋ + p o		Dhakal2024	[x]
+1429	Sherpa	Far	t̪ʰakriŋbu	t̪ʰ a.k + r i.ŋ + b u		Dhakal2024	[x]
+1672	Tsum	Far	t̪ʰaɹiŋmu	t̪ʰ a + ɹ i.ŋ + m u		Dhakal2024	[x]
+1934	Yolmo	Far	t̪ʰaɹiŋbu	t̪ʰ a + ɹ i.ŋ + b u		Dhakal2024	[x]
+2227	OldTibetan	Far	tʰ.a.g.+.r.i.ŋ.+.p.o	tʰ a.g + r i.ŋ + p o		Sagart2019	
+2228	Lhasa	Far	th.a.⁵²._.r.i.ŋ.¹³.◦.k.u.⁵⁵	tʰ a ⁵² + r i.ŋ ¹³ + k u ⁵⁵		Sagart2019	
+2229	Xiahe	Far	th.a.χ._.r.a.ŋ	tʰ a.χ + r a ŋ		Sagart2019	
+2230	Batang	Far	th.a.ʔ.⁵³.◦.r.ĩ.∼.¹³.◦.p.ᴜ.⁵³	tʰ a.ʔ ⁵³ + r ĩ ¹³ + p u ⁵³		Sagart2019	
+2231	Alike	Far	th.a.k._.r.a.ŋ	tʰ a.k + r a.ŋ		Sagart2019	
+2232	OldChinese	Far	C/.+.ɢʷ.a.n.ʔ	ç/k + ɢʷ a.n ʔ		Sagart2019	
+116	Gyalsumdo	Father	apa	a + p a		Dhakal2024	[x]
+377	Jirel	Father	aba	a + b a		Dhakal2024	[x]
+633	Kagate	Father	aba	a + b a		Dhakal2024	[x]
+890	Lowa	Father	ake	a + k e		Dhakal2024	[x]
+1142	Nubri	Father	jɛ	j ɛ		Dhakal2024	[borrowed from Chinese]
+1393	Sherpa	Father	apa	a + p a		Dhakal2024	[x]
+1636	Tsum	Father	awa	a + w a		Dhakal2024	[x]
+1898	Yolmo	Father	aba	a + b a		Dhakal2024	[x]
+2233	OldTibetan	Father	a.pʰ.a	a + pʰ a		Sagart2019	
+2234	Lhasa	Father	a.⁵⁵.◦.p.a.⁵⁵	a ⁵⁵ + p a ⁵⁵		Sagart2019	
+2235	Lhasa	Father	p.a.⁵⁵.◦.p.a.⁵⁵	p a ⁵⁵ + p a ⁵⁵		Sagart2019	
+2236	Batang	Father	ʔ.a.⁵⁵.◦.ph.a.⁵³	ʔ a ⁵⁵ + pʰ a ⁵³		Sagart2019	
+2237	Batang	Father	ph.a.⁵⁵.◦.g.ẽ.∼.⁵⁵	pʰ a ⁵⁵ + g ẽ ⁵⁵		Sagart2019	
+2238	Xiahe	Father	ʔ.a._.dʑ.a	ʔ a + dʑ a		Sagart2019	
+2239	Alike	Father	a._.r.dʑ.æ	a + r.dʑ æ		Sagart2019	!
+2240	OldChinese	Father	ɴ.+.p.a.ʔ	ɴ + p a ʔ		Sagart2019	
+62	Gyalsumdo	Fire	me	m e		Dhakal2024	[x]
+324	Jirel	Fire	me	m e		Dhakal2024	[x]
+582	Kagate	Fire	me	m e		Dhakal2024	[x]
+837	Lowa	Fire	me	m e		Dhakal2024	[x]
+1092	Nubri	Fire	mẽ	m !ẽ/e		Dhakal2024	[x]
+1342	Sherpa	Fire	me	m e		Dhakal2024	[x]
+1586	Tsum	Fire	me	m e		Dhakal2024	[x]
+1848	Yolmo	Fire	me	m e		Dhakal2024	[x]
+2241	OldTibetan	Fire	m.e	m e		Sagart2019	
+2242	Lhasa	Fire	m.e.¹³	m e ¹³		Sagart2019	
+2243	Batang	Fire	ȵ.e.⁵³	ȵ e ⁵³		Sagart2019	
+2244	Alike	Fire	m.ȵ.e	m.ȵ e		Sagart2019	!
+2245	Xiahe	Fire	ȵ.e	ȵ e		Sagart2019	
+2246	OldChinese	Fire	qʷʰˤ.ə.j.ʔ	qʷʰˤ ə.j ʔ		Sagart2019	
+34	Gyalsumdo	Firewood	ɕiŋ	ɕ i.ŋ		Dhakal2024	[x]
+296	Jirel	Firewood	ɕiŋ	ɕ i.ŋ		Dhakal2024	[x]
+556	Kagate	Firewood	siŋ	s i.ŋ		Dhakal2024	[x]
+810	Lowa	Firewood	ɕiŋ	ɕ i.ŋ		Dhakal2024	[x]
+1066	Nubri	Firewood	ɕiŋ	ɕ i.ŋ		Dhakal2024	[x]
+1315	Sherpa	Firewood	ɕiŋ	ɕ i.ŋ		Dhakal2024	[x]
+1560	Tsum	Firewood	ɕiŋ	ɕ i.ŋ		Dhakal2024	[x]
+1820	Yolmo	Firewood	ɕiŋ	ɕ i.ŋ		Dhakal2024	[x]
+2247	Alike	Firewood	tɕh.æ._.m.æ	tɕʰ æ + m æ		Sagart2019	
+2248	Lhasa	Firewood	m.i.¹³.◦.ɕ.i.ŋ.⁵⁵	m i ¹³ + ɕ i.ŋ ⁵⁵		Sagart2019	
+2249	Batang	Firewood	xh.ĩ.∼.⁵⁵	xʰ ĩ ⁵⁵		Sagart2019	?
+2250	Xiahe	Firewood	tɕh.a._.m.a	tɕʰ a + m a		Sagart2019	
+2251	OldChinese	Firewood	s.i.n	s i.n		Sagart2019	
+95	Gyalsumdo	Fish	ɲa	ɲ a		Dhakal2024	[x]
+355	Jirel	Fish	ɲa	ɲ a		Dhakal2024	[x]
+613	Kagate	Fish	ɲa	ɲ a		Dhakal2024	[x]
+870	Lowa	Fish	ɲa	ɲ a		Dhakal2024	[x]
+1123	Nubri	Fish	ɲa	ɲ a		Dhakal2024	[x]
+1373	Sherpa	Fish	ɲa	ɲ a		Dhakal2024	[x]
+1617	Tsum	Fish	ɲa	ɲ a		Dhakal2024	[x]
+1879	Yolmo	Fish	ɲa	ɲ a		Dhakal2024	[x]
+2252	OldTibetan	Fish	ɲ.a	ɲ a		Sagart2019	
+2253	Alike	Fish	ȵ.æ	ȵ æ		Sagart2019	
+2254	Lhasa	Fish	ȵ.a.¹³	ȵ a ¹³		Sagart2019	
+2255	Batang	Fish	ȵ.a.²³¹	ȵ a ²³¹		Sagart2019	
+2256	Xiahe	Fish	ȵ.a	ȵ a		Sagart2019	
+2257	OldChinese	Fish	r.+.ŋ.a	r + ŋ a		Sagart2019	
+169	Gyalsumdo	Five	ŋa	ŋ a		Dhakal2024	[x]
+429	Jirel	Five	ŋa	ŋ a		Dhakal2024	[x]
+686	Kagate	Five	ŋa	ŋ a		Dhakal2024	[x]
+942	Lowa	Five	ŋa	ŋ a		Dhakal2024	[x]
+1192	Nubri	Five	ŋa	ŋ a		Dhakal2024	[x]
+1443	Sherpa	Five	ŋa	ŋ a		Dhakal2024	[x]
+1686	Tsum	Five	ŋa	ŋ a		Dhakal2024	[x]
+1948	Yolmo	Five	ŋa	ŋ a		Dhakal2024	[x]
+2258	OldTibetan	Five	l.ŋ.a	l.ŋ a		Sagart2019	
+2259	Lhasa	Five	ŋ.a.⁵⁵	ŋ a ⁵⁵		Sagart2019	
+2260	Batang	Five	ŋ.a.⁵³	ŋ a ⁵³		Sagart2019	
+2261	Xiahe	Five	h.ŋ.a	h.ŋ a		Sagart2019	
+2262	Alike	Five	r.ŋ.æ	r.ŋ æ		Sagart2019	!
+2263	OldChinese	Five	C/.+.ŋˤ.a.ʔ	ç/k + ŋˤ a ʔ		Sagart2019	
+73	Gyalsumdo	Flower	mend̪o	m e + ⁿd̪/d̪ o		Dhakal2024	[x]
+334	Jirel	Flower	mend̪ok	m e + ⁿd/d̪ o.k		Dhakal2024	[x]
+592	Kagate	Flower	mend̪o	m e + ⁿd̪/d̪ o		Dhakal2024	[x]
+848	Lowa	Flower	ment̪o	m e + ⁿt̪/t̪ o.!Ø/ʔ		Dhakal2024	[x]
+1102	Nubri	Flower	met̪o	m e + t̪ o.!Ø/ʔ		Dhakal2024	[x]
+1352	Sherpa	Flower	mend̪o	m e + ⁿd̪/d̪ o		Dhakal2024	[x]
+1596	Tsum	Flower	mend̪oʔ	m e + ⁿd̪/d̪ o.ʔ		Dhakal2024	[x]
+1858	Yolmo	Flower	mend̪o	m e + ⁿd̪/d̪ o		Dhakal2024	[x]
+2264	OldTibetan	Flower	m.e.+.t.o.g	m e + t o.g		Sagart2019	
+2265	Batang	Flower	m.e.¹³.◦.t.o.ʔ.⁵³	m e ¹³ + t o.ʔ ⁵³		Sagart2019	
+2266	Lhasa	Flower	m.e.¹³.◦.t.o.⁵²	m e ¹³ + t o ⁵²		Sagart2019	
+2267	Xiahe	Flower	m.e._.t.o.χ	m e + t o.χ		Sagart2019	
+2268	Alike	Flower	m.e._.tʰ.o.k	m e + tʰ o.k		Sagart2019	
+2269	OldChinese	Flower	ɴ.+.qʷʰˤ.r.a	ɴ + qʷʰˤ.r a		Sagart2019	
+168	Gyalsumdo	Four	ɕi	ɕ i		Dhakal2024	[x]
+428	Jirel	Four	ɕi	ɕ i		Dhakal2024	[x]
+685	Kagate	Four	ɕi	ɕ i		Dhakal2024	[x]
+941	Lowa	Four	ɕi	ɕ i		Dhakal2024	[x]
+1191	Nubri	Four	ɕi	ɕ i		Dhakal2024	[x]
+1442	Sherpa	Four	ɕi	ɕ i		Dhakal2024	[x]
+1685	Tsum	Four	ʑi	ʑ i		Dhakal2024	[x]
+1947	Yolmo	Four	ʑi	ʑ i		Dhakal2024	[x]
+2276	OldTibetan	Four	b.ʑ.i	b.ʑ i		Sagart2019	
+2277	Lhasa	Four	ɕ.i.¹³	ɕ i ¹³		Sagart2019	
+2278	Alike	Four	w.ʑ.ə	w.ʑ ə		Sagart2019	!
+2279	Batang	Four	ɣ.ɪ.⁵³	ɣ ɪ ⁵³		Sagart2019	
+2280	Xiahe	Four	ʑ.ə	ʑ ə		Sagart2019	
+2281	OldChinese	Four	s.l.i.j.+.s	s.l i.j + s		Sagart2019	
+74	Gyalsumdo	Fruit	ɕiŋd̪o	ɕ i.ŋ + d̪ o		Dhakal2024	[x]
+335	Jirel	Fruit	pʰəlpʰul	pʰ ə.l + pʰ u.l		Dhakal2024	[!] borrowing from Nepali
+593	Kagate	Fruit	brumd̪o	b.r u.m + d̪ o		Dhakal2024	[x]
+849	Lowa	Fruit	ɕiŋt̪oʔ	ɕ i.ŋ + t̪ o.ʔ		Dhakal2024	[x]
+1103	Nubri	Fruit	ɕiŋt̪oʔ	ɕ i.ŋ + t̪ o.ʔ		Dhakal2024	[x]
+1353	Sherpa	Fruit	pʰalpʰul	pʰ a.l + pʰ u.l		Dhakal2024	[!] borrowing from Nepali
+1597	Tsum	Fruit	ɕiŋd̪oʔ	ɕ i.ŋ + d̪ o.ʔ		Dhakal2024	[x]
+1859	Yolmo	Fruit	pʰəlbul	pʰ ə.l + b u.l		Dhakal2024	[!] borrowing from Nepali
+2282	OldTibetan	Fruit	ɕ.i.ŋ.+.t.o.g	ɕ i.ŋ + t o.g		Sagart2019	
+2283	Alike	Fruit	s.i	s i		Sagart2019	
+2284	Lhasa	Fruit	ɕ.i.ŋ.⁵⁵.◦.t.o.⁵²	ɕ i.ŋ ⁵⁵ + t o ⁵²		Sagart2019	
+2285	Batang	Fruit	xh.ĩ.∼.⁵⁵.◦.th.o.ʔ.⁵³	xʰ ĩ ⁵⁵ + tʰ o.ʔ ⁵³		Sagart2019	
+2286	Xiahe	Fruit	sʰ.i._.t.o.χ	sʰ i + t o.χ		Sagart2019	???
+2287	OldChinese	Fruit	m.ə.l.i.t	m ə + l i t		Sagart2019	
+103	Gyalsumdo	Goat	ɹa	ɹ a		Dhakal2024	[x]
+365	Jirel	Goat	ɹa	ɹ a		Dhakal2024	[x]
+621	Kagate	Goat	ra	r a		Dhakal2024	[x]
+878	Lowa	Goat	ɹa	!ɹ/ɾ a		Dhakal2024	[x]
+1131	Nubri	Goat	ɹatse	ɹ a + ts e		Dhakal2024	[x]
+1381	Sherpa	Goat	ra	r a		Dhakal2024	[x]
+1625	Tsum	Goat	ɹa	ɹ a		Dhakal2024	[x]
+1887	Yolmo	Goat	ra	!r/ɹ a		Dhakal2024	[x]
+2296	Alike	Goat	tɕh.ə._.r.a	tɕʰ ə + r a		Sagart2019	
+2297	Lhasa	Goat	r.a.¹³	r a ¹³		Sagart2019	
+2298	Batang	Goat	ʐ.a.²³¹	ʐ a ²³¹		Sagart2019	
+2299	Alike	Goat	r.æ._.m.æ	r æ + m æ		Sagart2019	
+2300	Xiahe	Goat	r.a._.m.a	r a + m a		Sagart2019	
+2301	OldChinese	Goat	ɢ.a.ŋ	ɢ a.ŋ		Sagart2019	
+2302	OldTibetan	Goat	r.a	r a		Sagart2019	
+144	Gyalsumdo	Good	jabu	j a + b u		Dhakal2024	[x]
+402	Jirel	Good	lemu	l e + m u		Dhakal2024	[x]
+659	Kagate	Good	jabu	j a + b u		Dhakal2024	[x]
+660	Kagate	Good	dzebu	dz e + b u		Dhakal2024	[x]
+915	Lowa	Good	ka	k a		Dhakal2024	[x]
+916	Lowa	Good	saŋa	s a.ŋ + !Ø/ŋ a		Dhakal2024	[x]
+1167	Nubri	Good	koŋ	k o.ŋ		Dhakal2024	[x]
+1418	Sherpa	Good	lemu	l e + m u		Dhakal2024	[x]
+1661	Tsum	Good	jamu	j a + m u		Dhakal2024	[x]
+1923	Yolmo	Good	jabu	j a + b u		Dhakal2024	[x]
+2303	OldTibetan	Good	b.z.a.ŋ	b.z a.ŋ		Sagart2019	
+2304	Lhasa	Good	j.a.¹³.◦.k.o.⁵⁵	j a ¹³ + k o ⁵⁵		Sagart2019	
+2305	Lhasa	Good	l.e.k.¹³.◦.p.o.⁵⁵	l e.k ¹³ + p o ⁵⁵		Sagart2019	
+2306	Batang	Good	j.ɑ.¹³.◦.p.ᴜ.⁵³	j ɑ ¹³ + p u ⁵³		Sagart2019	
+2307	Batang	Good	z.õ.∼.⁵⁵.◦.b.ᴜ.⁵³	z õ ⁵⁵ + b u ⁵³		Sagart2019	
+2308	Xiahe	Good	a._.dz.o	a + dz o		Sagart2019	
+2309	Xiahe	Good	z.a.ŋ	z a.ŋ		Sagart2019	
+2310	Alike	Good	j.a.k._.k.ə	j a.k + k ə		Sagart2019	
+2311	OldChinese	Good	g.e.n.ʔ	g e.n ʔ		Sagart2019	!remove!
+2312	OldChinese	Good	kˤ.r.e	kˤ.r e		Sagart2019	!remove!
+2313	OldChinese	Good	r.a.ŋ	r a.ŋ		Sagart2019	!remove!
+2314	OldChinese	Good	tsˤ.a.ŋ	tsˤ a.ŋ		Sagart2019	
+2315	OldChinese	Good	kˤ.r.a.j	kˤ.r a.j		Sagart2019	!remove!
+2316	OldChinese	Good	qʰˤ.u.ʔ	qʰˤ u ʔ		Sagart2019	
+235	Gyalsumdo	Hailstone	seɹa	s e + ɹ a		Dhakal2024	
+497	Jirel	Hailstone	seɹe	s e + ɹ e		Dhakal2024	
+745	Kagate	Hailstone	serak	s e + r a.k		Dhakal2024	
+1005	Lowa	Hailstone	seɾa	s e + ɾ a		Dhakal2024	
+1252	Nubri	Hailstone	kʰaɕjol	kʰ a + ɕ.j o.l		Dhakal2024	
+1501	Sherpa	Hailstone	sertɕjuŋma	s e.r + tɕ.j u.ŋ + m a		Dhakal2024	
+1752	Tsum	Hailstone	seɹa	s e + ɹ a		Dhakal2024	
+1753	Tsum	Hailstone	tɕʰjaɹwa	tɕʰ.j a + !ɹw/ɹ a		Dhakal2024	
+2008	Yolmo	Hailstone	seɹa	s e + ɹ a		Dhakal2024	
+2317	Batang	Hailstone	sh.ɑ.⁵⁵	sʰ ɑ ⁵⁵		Sagart2019	
+2318	Lhasa	Hailstone	s.eː.⁵⁵.◦.r.a.⁵⁵	s eː ⁵⁵ + r a ⁵⁵		Sagart2019	!
+2319	Xiahe	Hailstone	sʰ.e._.r.a	sʰ e + r a		Sagart2019	???
+2320	Alike	Hailstone	s.e._.r.a	s e + r a		Sagart2019	
+2321	OldChinese	Hailstone	C/.+.bˤ.r.u.k	ç/k + bˤ.r u.k		Sagart2019	
+2322	OldChinese	Hailstone	sˤ.e.r.+.s	sˤ e.r + s		Sagart2019	
+2323	OldTibetan	Hailstone	s.e.r.+.b.a	s e.r + b a		Sagart2019	
+3	Gyalsumdo	Hair	ta	t̪ a		Dhakal2024	skra «Haar»
+270	Jirel	Hair	ŋɡokita	ⁿg/g o + k i + t̪ a		Dhakal2024	skra «Haar»
+529	Kagate	Hair	ta	t̪ a		Dhakal2024	skra «Haar»
+782	Lowa	Hair	ʂɹa	ʂ.ɹ/ɾ a		Dhakal2024	skra «Haar»
+1040	Nubri	Hair	hɹa	h.ɹ a		Dhakal2024	skra «Haar»
+1288	Sherpa	Hair	hɹa	h.ɹ a		Dhakal2024	skra «Haar»
+1533	Tsum	Hair	tɹa	t̪.ɹ a		Dhakal2024	skra «Haar»
+1794	Yolmo	Hair	tɹa	t̪.ɹ a		Dhakal2024	skra «Haar»
+2324	OldTibetan	Hair	s.k.r.a	s.k r.a		Sagart2019	
+2325	Alike	Hair	r.cç.æ	r.cç æ		Sagart2019	!
+2326	Batang	Hair	tʂ.a.⁵³	ʈʂ a ⁵³		Sagart2019	
+2327	Lhasa	Hair	tʂ.a.⁵⁵	ʈʂ a ⁵⁵		Sagart2019	
+2328	Xiahe	Hair	h.tɕ.a	h tɕ a		Sagart2019	!
+2329	OldChinese	Hair	p.o.t	p o.t		Sagart2019	
+2	Gyalsumdo	Head	ko	k o		Dhakal2024	[x]
+269	Jirel	Head	ŋɡo	ⁿg/g o		Dhakal2024	[x]
+528	Kagate	Head	ɡo	g o		Dhakal2024	[x]
+780	Lowa	Head	ŋɡo	ⁿg/g o		Dhakal2024	[x]
+781	Lowa	Head	ŋɡowa	ⁿg/g o + w a		Dhakal2024	[ ] wa-suffix
+1039	Nubri	Head	ko	k o		Dhakal2024	[x]
+1287	Sherpa	Head	ɡo	g o		Dhakal2024	[x]
+1532	Tsum	Head	ŋɡo	ⁿg/g o		Dhakal2024	[x]
+1793	Yolmo	Head	ŋɡo	ⁿg/g o		Dhakal2024	[x]
+2330	OldTibetan	Head	m.g.o	m.g o		Sagart2019	
+2331	Lhasa	Head	k.o.¹³	k o ¹³		Sagart2019	
+2332	Batang	Head	ŋ.g.ᴜ.⁵³	ⁿg u ⁵³		Sagart2019	!
+2333	Xiahe	Head	n.g.o._.t.ə	ⁿg o + t ə		Sagart2019	!
+2334	Alike	Head	n.g.o	ⁿg o		Sagart2019	!
+2335	OldChinese	Head	ŋ.o.r	ŋ o.r		Sagart2019	!remove!
+2336	OldChinese	Head	l̥.u.ʔ	l̥ u.ʔ		Sagart2019	
+2337	OldTibetan	Head	d.b.u	d.b u		Sagart2019	
+25	Gyalsumdo	Heart	ɲiŋ	ɲ i.ŋ		Dhakal2024	[x]
+288	Jirel	Heart	ɲiŋ	ɲ i.ŋ		Dhakal2024	[x]
+548	Kagate	Heart	niŋ	n i.ŋ		Dhakal2024	[x]
+801	Lowa	Heart	ɲiŋ	ɲ i.ŋ		Dhakal2024	[x]
+1058	Nubri	Heart	ɲiŋ	ɲ i.ŋ		Dhakal2024	[x]
+1306	Sherpa	Heart	ɲiŋ	ɲ i.ŋ		Dhakal2024	[x]
+1551	Tsum	Heart	ɲiŋ	ɲ i.ŋ		Dhakal2024	[x]
+1813	Yolmo	Heart	ɲiŋ	ɲ i.ŋ		Dhakal2024	[x]
+2338	OldTibetan	Heart	s.ɲ.i.ŋ	s.ɲ i.ŋ		Sagart2019	
+2339	Lhasa	Heart	ȵ.i.ŋ.⁵⁵	ȵ i.ŋ ⁵⁵		Sagart2019	
+2340	Batang	Heart	ȵ.ĩ.∼.⁵⁵	ȵ ĩ ⁵⁵		Sagart2019	
+2341	Xiahe	Heart	h.ȵ.a.ŋ	h.ȵ a.ŋ		Sagart2019	
+2342	Alike	Heart	r.ȵ̥.a.ŋ	r.ȵ̥ a.ŋ		Sagart2019	!
+2343	OldChinese	Heart	s.ə.m	s ə.m		Sagart2019	
+158	Gyalsumdo	Heavy	tɕent̪i	tɕ e + ⁿt̪/t̪ i		Dhakal2024	l.dʑ.i.d «heavy»
+417	Jirel	Heavy	tsend̪e	!ts/tɕ e + ⁿd̪/d̪ e		Dhakal2024	l.dʑ.i.d «heavy»
+675	Kagate	Heavy	tsend̪i	!ts/tɕ e + ⁿd̪/d̪ i		Dhakal2024	l.dʑ.i.d «heavy»
+931	Lowa	Heavy	ndze	!ⁿdz/tɕ e		Dhakal2024	l.dʑ.i.d «heavy»
+1181	Nubri	Heavy	tsʰint̪i	!tsʰ/tɕ i + ⁿt̪/t̪ i		Dhakal2024	l.dʑ.i.d «heavy»
+1432	Sherpa	Heavy	tsend̪i	!ts/tɕ e + ⁿd̪/d̪ i		Dhakal2024	l.dʑ.i.d «heavy»
+1675	Tsum	Heavy	tɕend̪e	tɕ e + ⁿd̪/d̪ e		Dhakal2024	l.dʑ.i.d «heavy»
+1937	Yolmo	Heavy	tɕjand̪i	tɕj/tɕ a + ⁿd̪/d̪ i		Dhakal2024	l.dʑ.i.d «heavy»
+2344	OldTibetan	Heavy	l.dʑ.i.d	l.dʑ i.d		Sagart2019	
+2345	Alike	Heavy	r.dʑ.ə._.ɣ.ə	r.dʑ ə + ɣ ə		Sagart2019	!
+2346	Lhasa	Heavy	tɕ.i.¹³.◦.p.u.⁵⁵	tɕ i ¹³ + p u ⁵⁵		Sagart2019	
+2347	Batang	Heavy	dʑ.i.⁵⁵.◦.p.ᴜ.⁵³	dʑ i ⁵⁵ + p u ⁵³		Sagart2019	
+2348	Xiahe	Heavy	dʑ.ə._.m.o	dʑ ə + m o		Sagart2019	
+2349	OldChinese	Heavy	ɴ.+.t.r.o.ŋ.ʔ	ɴ + t.r o.ŋ ʔ		Sagart2019	
+101	Gyalsumdo	Horns	ɹakjo	ɹ a + k.j o		Dhakal2024	[x]
+363	Jirel	Horns	ɹodʑjo	ɹ o + dʑj/dʑ o		Dhakal2024	[x]
+619	Kagate	Horns	rwaɡa	r.w a + g a		Dhakal2024	[x]
+876	Lowa	Horns	ɹakjoʔ	ɹ/ɾ a + k.j o.ʔ		Dhakal2024	[x]
+1129	Nubri	Horns	adkjo	!a/ɹ.!d/a + k.j o		Dhakal2024	[x]
+1379	Sherpa	Horns	arkjok	!a/r.!r/a + k.j o.k		Dhakal2024	[x]
+1623	Tsum	Horns	padʑjo	p a + dʑj/dʑ o		Dhakal2024	[x]
+1885	Yolmo	Horns	ɹowa	ɹ o + w a		Dhakal2024	[x]
+2350	OldTibetan	Horns	g.r.u	g.r u		Sagart2019	
+2351	Lhasa	Horns	r.a.⁵⁵.◦.k.o.⁵²	r a ⁵⁵ + k o ⁵²		Sagart2019	
+2352	Alike	Horns	r.a._.tɕh.o	r a + tɕʰ o		Sagart2019	
+2353	Batang	Horns	ʐ.a.¹³.◦.j.o.⁵³	ʐ a ¹³ + j o ⁵³		Sagart2019	
+2354	Xiahe	Horns	r.a._.tɕ.o	r a + tɕ o		Sagart2019	
+2355	OldChinese	Horns	C/.+.kˤ.r.o.k	ç/k + kˤ.r o.k		Sagart2019	
+243	Gyalsumdo	Horse	t̪abu	t̪ a + b u		Dhakal2024	
+504	Jirel	Horse	ŋɡoda	ⁿg/g o + !d/t̪ a		Dhakal2024	
+753	Kagate	Horse	t̪abu	t̪ a + b u		Dhakal2024	
+1012	Lowa	Horse	t̪a	t̪ a		Dhakal2024	
+1259	Nubri	Horse	t̪a	t̪ a		Dhakal2024	
+1508	Sherpa	Horse	t̪a	t̪ a		Dhakal2024	
+1761	Tsum	Horse	t̪a	t̪ a		Dhakal2024	
+2016	Yolmo	Horse	t̪əbu	t̪ ə + b u		Dhakal2024	
+2356	Alike	Horse	r.t.æ	r.t æ		Sagart2019	!
+2357	Lhasa	Horse	t.a.⁵⁵	t a ⁵⁵		Sagart2019	
+2358	Batang	Horse	t.a.⁵³	t a ⁵³		Sagart2019	
+2359	Xiahe	Horse	h.t.a	h.t a		Sagart2019	!
+2360	OldChinese	Horse	mˤ.r.a.ʔ	mˤ.r a ʔ		Sagart2019	final nasal lost: loan < Qiangic
+2361	OldTibetan	Horse	r.t.a	r.t a		Sagart2019	Mongolian axt 'castrated horse'. LS
+150	Gyalsumdo	Hot	tsʰant̪i	tsʰ a + ⁿt̪/t̪ i		Dhakal2024	[x]
+408	Jirel	Hot	tʰommu	t̪ʰ o + mː/m u		Dhakal2024	[x]
+667	Kagate	Hot	dombo	d̪ o + ⁿb/b o		Dhakal2024	[x]
+923	Lowa	Hot	tsʰa	tsʰ a		Dhakal2024	[x]
+1173	Nubri	Hot	tsʰawo	tsʰ a + w o		Dhakal2024	[x]
+1424	Sherpa	Hot	tsʰand̪i	tsʰ a + ⁿd̪/d̪ i		Dhakal2024	[x]
+1667	Tsum	Hot	tsʰand̪e	tsʰ a + ⁿd̪/d̪ e		Dhakal2024	[x]
+1929	Yolmo	Hot	tomu	t̪ o + m u		Dhakal2024	[x]
+2362	Lhasa	Hot	tsʰ.a.⁵⁵.◦.p.o.⁵⁵	tsʰ a ⁵⁵ + p o ⁵⁵		Sagart2019	
+2363	Batang	Hot	tsʰ.a.⁵⁵.◦.m.ᴜ.⁵³	tsʰ a ⁵⁵ + m u ⁵³		Sagart2019	
+2364	Xiahe	Hot	h.ŋ.u	h.ŋ u		Sagart2019	
+2365	Xiahe	Hot	tsʰ.a._.nd.e	tsʰ a + ⁿd e		Sagart2019	!
+2366	Alike	Hot	tʂ.o._.ɣ.ə	ʈʂ o + ɣ ə		Sagart2019	
+2367	OldChinese	Hot	C/.+.n.a.t	ç/k + n a.t		Sagart2019	
+2368	OldTibetan	Hot	tsʰ.a	tsʰ a		Sagart2019	
+30	Gyalsumdo	House	kʰaŋpa	kʰ a.ŋ + p a		Dhakal2024	[ ] check ba status
+293	Jirel	House	kʰamba	kʰ a.!m/ŋ + b a		Dhakal2024	[ ] check ba status
+553	Kagate	House	kʰim	kʰ i.m		Dhakal2024	[x]
+807	Lowa	House	kʰaŋpa	kʰ a.ŋ + p a		Dhakal2024	[ ] check ba status
+1063	Nubri	House	kʰim	kʰ i.m		Dhakal2024	[x]
+1312	Sherpa	House	kʰaŋba	kʰ a.ŋ + b a		Dhakal2024	[ ] check ba status
+1556	Tsum	House	koɹtsa	k o.ɹ + ts a		Dhakal2024	[x]
+1557	Tsum	House	kʰim	kʰ i.m		Dhakal2024	[x]
+1818	Yolmo	House	kʰaŋba	kʰ a.ŋ + b a		Dhakal2024	[ ] check ba status
+2369	OldTibetan	House	kʰ.j.i.m	kʰ.j i.m		Sagart2019	
+2370	Batang	House	kʰ.õ.∼.⁵⁵.◦.m.b.a.⁵³	kʰ õ ⁵⁵ + ⁿb a ⁵³		Sagart2019	!
+2371	Xiahe	House	kʰ.a.ŋ._.w.a	kʰ a.ŋ + w a		Sagart2019	
+2372	Lhasa	House	kʰ.a.ŋ.⁵⁵._.p.a.⁵⁵	kʰ a.ŋ ⁵⁵ + p a ⁵⁵		Sagart2019	
+2373	Alike	House	n.kʰ.o.ŋ._.ŋ.æ	ⁿkʰ o.ŋ + ŋ æ		Sagart2019	!
+2374	OldChinese	House	qˤ.o.k	qˤ o.k		Sagart2019	
+124	Gyalsumdo	Husband	kʰjoka	kʰ.j o + k a		Dhakal2024	[x]
+125	Gyalsumdo	Husband	kʰjoɡa	kʰ.j o + g a		Dhakal2024	[x]
+385	Jirel	Husband	kʰjobo	kʰ.j o + b o		Dhakal2024	[x]
+641	Kagate	Husband	kʰjobo	kʰ.j o + b o		Dhakal2024	[x]
+898	Lowa	Husband	kʰjoɡa	kʰ.j o + g a		Dhakal2024	[x]
+1150	Nubri	Husband	kʰjoka	kʰ.j o + k a		Dhakal2024	[x]
+1401	Sherpa	Husband	kʰjoa	kʰ.j o + Ø/w a		Dhakal2024	[x]
+1644	Tsum	Husband	kʰjowa	kʰ.j o + w a		Dhakal2024	[x]
+1906	Yolmo	Husband	kʰjowa	kʰ.j o + w a		Dhakal2024	[x]
+2381	OldTibetan	Husband	kʰ.ʲ.o.+.g.a	kʰ.j o + g a		Sagart2019	
+2382	Lhasa	Husband	ch.o.⁵⁵.◦.k.a.⁵⁵	ch/ts o./o ⁵⁵ + k a ⁵⁵		Sagart2019	ch??
+2383	Batang	Husband	ɕ.e.⁵⁵.◦.p.a.⁵³	ɕ e ⁵⁵ + p a ⁵³		Sagart2019	
+2384	Batang	Husband	nd.u.¹³.◦.r.o.ʔ.⁵³	ⁿd u ¹³ + r o.ʔ ⁵³		Sagart2019	!
+2385	Xiahe	Husband	ȵ.ə._.r.u	ȵ ə + r u		Sagart2019	
+2386	Alike	Husband	r.g.a._.p.o	r.g a + p o		Sagart2019	!
+2387	OldChinese	Husband	p.a	p a		Sagart2019	
+221	Gyalsumdo	I	ŋa	ŋ a		Dhakal2024	[x]
+487	Jirel	I	ŋa	ŋ a		Dhakal2024	[x]
+734	Kagate	I	ŋa	ŋ a		Dhakal2024	[x]
+995	Lowa	I	ŋa	ŋ a		Dhakal2024	[x]
+1242	Nubri	I	ŋa	ŋ a		Dhakal2024	[x]
+1490	Sherpa	I	ŋa	ŋ a		Dhakal2024	[x]
+1741	Tsum	I	ŋa	ŋ a		Dhakal2024	[x]
+1997	Yolmo	I	ŋa	ŋ a		Dhakal2024	[x]
+2388	OldTibetan	I	ŋ.a	ŋ a		Sagart2019	
+2389	Batang	I	ŋ.a.²³¹	ŋ a ²³¹		Sagart2019	
+2390	Xiahe	I	ŋ.a	ŋ a		Sagart2019	
+2391	Lhasa	I	ŋ.a.¹³	ŋ a ¹³		Sagart2019	
+2392	Alike	I	ŋ.æ	ŋ æ		Sagart2019	
+2393	OldChinese	I	ŋˤ.a	ŋˤ a		Sagart2019	
+40	Gyalsumdo	Knife	kaɾt̪a	k a.ɾ + t̪ a		Dhakal2024	[x]
+301	Jirel	Knife	tɕʰuɹa	!tɕʰ/t̪ʰ u + ɹ a		Dhakal2024	[x]
+302	Jirel	Knife	tsəku	ts ə + k u		Dhakal2024	[x]
+561	Kagate	Knife	kart̪a	k a.r + t̪ a		Dhakal2024	[x]
+815	Lowa	Knife	tʰi	t̪ʰ i		Dhakal2024	[x]
+1071	Nubri	Knife	tuku	t̪ u + k u		Dhakal2024	[x]
+1320	Sherpa	Knife	tʰitɕjuŋ	t̪ʰ i + tɕ.j u.ŋ		Dhakal2024	[x]
+1565	Tsum	Knife	tʰɹiu	t̪ʰ.ɹ iu		Dhakal2024	[x]
+1826	Yolmo	Knife	kaɹt̪a	k a.ɹ + t̪ a		Dhakal2024	[x]
+2402	Alike	Knife	cç.ə	cç ə		Sagart2019	!
+2403	Xiahe	Knife	tɕ.ə	tɕ ə		Sagart2019	
+2404	Lhasa	Knife	tʂh.i.¹³	ʈʂʰ i ¹³		Sagart2019	
+2405	Batang	Knife	tʂ.ɪ.²³¹	ʈʂ ɪ ²³¹		Sagart2019	
+2406	Alike	Knife	tɕ.ə	tɕ ə		Sagart2019	
+2407	OldChinese	Knife	C/.+.tˤ.a.w	ç/k + tˤ a.w		Sagart2019	
+2408	OldTibetan	Knife	g.r.i	g.r i		Sagart2019	
+69	Gyalsumdo	Leaf	lapt̪i	l a.p + t̪ i		Dhakal2024	[x]
+70	Gyalsumdo	Leaf	loma	l o + m a		Dhakal2024	[x]
+331	Jirel	Leaf	ɕjomak	ɕj/ɕ o + m a.k		Dhakal2024	[x]
+589	Kagate	Leaf	loma	l o + m a		Dhakal2024	[x]
+845	Lowa	Leaf	loma	l o + m a		Dhakal2024	[x]
+1099	Nubri	Leaf	loma	l o + m a		Dhakal2024	[x]
+1349	Sherpa	Leaf	d̪əma	d̪ ə + m a		Dhakal2024	[x]
+1593	Tsum	Leaf	hlawa	h.l a + w a		Dhakal2024	[x]
+1855	Yolmo	Leaf	loma	l o + m a		Dhakal2024	[x]
+2409	OldTibetan	Leaf	l.o.m.a	l o + m a		Sagart2019	
+2410	Lhasa	Leaf	l.o.¹³.◦.m.a.⁵⁵	l o ¹³ + m a ⁵⁵		Sagart2019	
+2411	Batang	Leaf	l.o.¹³.◦.m.a.⁵³	l o ¹³ + m a ⁵³		Sagart2019	
+2412	Alike	Leaf	l.o._.m.a	l o + m a		Sagart2019	
+2413	Xiahe	Leaf	l.o._.m.a	l o + m a		Sagart2019	
+2414	OldChinese	Leaf	l.a.p	l a.p		Sagart2019	
+153	Gyalsumdo	Left	jøma	j ø + m a		Dhakal2024	[x]
+411	Jirel	Left	d̪ebɹepa	d̪ e + b.ɹ e + p a		Dhakal2024	[x]
+670	Kagate	Left	joma	j o + m a		Dhakal2024	[x]
+926	Lowa	Left	jømpa	j ø.m/n + p a		Dhakal2024	[x]
+1176	Nubri	Left	jon̪	j o.n		Dhakal2024	[x]
+1427	Sherpa	Left	pʰiloɡpa	pʰ i + l !o/a.g/k + p a		Dhakal2024	[x]
+1670	Tsum	Left	joma	j o + m a		Dhakal2024	[x]
+1932	Yolmo	Left	joma	j o + m a		Dhakal2024	[x]
+2415	OldTibetan	Left	g.j.o.n	g.j o.n		Sagart2019	
+2416	Batang	Left	j.o.⁵⁵.◦.ɣ.ᴜ.⁵³	j o ⁵⁵ + ɣ u ⁵³		Sagart2019	
+2417	Xiahe	Left	h.j.o.n	h.j o.n		Sagart2019	
+2418	Lhasa	Left	j.ø̃.∼.⁵⁵	j ø̃ ⁵⁵		Sagart2019	
+2419	Alike	Left	ɣ.j.o.n	ɣ.j o.n		Sagart2019	
+2420	OldChinese	Left	tsˤ.a.j.ʔ	tsˤ a.j ʔ		Sagart2019	
+159	Gyalsumdo	Light	jaŋmu	j a.ŋ + m u		Dhakal2024	jaŋ «light»
+418	Jirel	Light	jeŋɡe	j e.ŋ + g e		Dhakal2024	jaŋ «light»
+676	Kagate	Light	jaŋd̪i	j a.ŋ + d̪ i		Dhakal2024	jaŋ «light»
+932	Lowa	Light	jaŋa	j a.!Ø/ŋ + ŋ a		Dhakal2024	jaŋ «light»
+1182	Nubri	Light	jaŋpo	j a.ŋ + p o		Dhakal2024	jaŋ «light»
+1433	Sherpa	Light	jeŋɡa	j e.ŋ + g a		Dhakal2024	jaŋ «light»
+1676	Tsum	Light	jaŋbo	j a.ŋ + b o		Dhakal2024	jaŋ «light»
+1938	Yolmo	Light	jaŋd̪i	j a.ŋ + d̪ i		Dhakal2024	jaŋ «light»
+2421	Lhasa	Light	j.a.ŋ.¹³.◦.k.o.⁵⁵	j a.ŋ ¹³ + k o ⁵⁵		Sagart2019	
+2422	Batang	Light	j.õ.∼.¹³.◦.m.ᴜ.⁵³	j õ ¹³ + m u ⁵³		Sagart2019	
+2423	Xiahe	Light	j.a.ŋ._.m.o	j a.ŋ + m o		Sagart2019	
+2424	Alike	Light	j.a.ŋ._.m.o	j a.ŋ + m o		Sagart2019	
+2425	OldChinese	Light	kʰ.e.ŋ	kʰ e.ŋ		Sagart2019	
+2426	OldTibetan	Light	j.a.ŋ	j a.ŋ		Sagart2019	
+148	Gyalsumdo	Long	ɹiŋbu	ɹ i.ŋ + b u		Dhakal2024	
+406	Jirel	Long	ɹimbu	ɹ i.!m/ŋ + b u		Dhakal2024	
+665	Kagate	Long	riŋbu	r i.ŋ + b u		Dhakal2024	
+921	Lowa	Long	ɹiŋa	ɹ/ɾ i.ŋ + !Ø/ŋ a		Dhakal2024	
+1171	Nubri	Long	ɹiŋpo	ɹ i.ŋ + p o		Dhakal2024	
+1422	Sherpa	Long	riŋbu	r i.ŋ + b u		Dhakal2024	
+1665	Tsum	Long	ɹiŋmu	ɹ i.ŋ + m u		Dhakal2024	
+1927	Yolmo	Long	ɹiŋbu	ɹ i.ŋ + b u		Dhakal2024	
+2427	OldTibetan	Long	r.i.ŋ.◦	r i.ŋ		Sagart2019	
+2428	Alike	Long	r.a.ŋ._.k.ə	r a.ŋ + k ə		Sagart2019	
+2429	Batang	Long	r.ĩ.∼.¹³.◦.m.b.ᴜ.⁵³	r ĩ ¹³ + m.b u ⁵³		Sagart2019	!
+2430	Lhasa	Long	r.i.ŋ.¹³.◦.k.u.⁵⁵	r i.ŋ ¹³ + k u ⁵⁵		Sagart2019	
+2431	Xiahe	Long	r.a.ŋ._.w.o	r a.ŋ + w o		Sagart2019	
+2432	OldChinese	Long	C/.ə.+.ɴ.+.t.r.a.ŋ	ç/k ə + ɴ + t.r a.ŋ		Sagart2019	
+197	Gyalsumdo	Many	maŋbu	m a.ŋ + b u		Dhakal2024	[x]
+454	Jirel	Many	kalbe	k a.l + b e		Dhakal2024	[x]
+712	Kagate	Many	maŋbu	m a.ŋ + b u		Dhakal2024	[x]
+972	Lowa	Many	maŋa	m a.ŋ + !Ø/ŋ a		Dhakal2024	[x]
+1219	Nubri	Many	aŋsaŋ	a.ŋ + s a.ŋ		Dhakal2024	[x]
+1468	Sherpa	Many	ala	a + l a		Dhakal2024	[x]
+1711	Tsum	Many	kaʑin	k a + ʑ i.n		Dhakal2024	[x]
+1975	Yolmo	Many	maŋbu	m a.ŋ + b u		Dhakal2024	[x]
+2433	OldTibetan	Many	m.a.ŋ.+	m a.ŋ		Sagart2019	
+2434	Lhasa	Many	m.a.ŋ.¹³.◦.k.o.⁵⁵	m a.ŋ ¹³ + k o ⁵⁵		Sagart2019	
+2435	Batang	Many	m.õ.∼.¹³.◦.m.b.ᴜ.⁵³	m õ ¹³ + m.b u ⁵³		Sagart2019	!
+2436	Xiahe	Many	m.a.ŋ	m a.ŋ		Sagart2019	
+2437	Alike	Many	m.a.ŋ._.ŋ.æ	m a.ŋ + ŋ æ		Sagart2019	
+2438	OldChinese	Many	t.lˤ.a.j	t.lˤ a.j		Sagart2019	
+93	Gyalsumdo	Meat	ɕja	ɕ.j a		Dhakal2024	[x]
+353	Jirel	Meat	ɕja	ɕ.j a		Dhakal2024	[x]
+611	Kagate	Meat	ɕja	ɕ.j a		Dhakal2024	[x]
+868	Lowa	Meat	ɕja	ɕ.j a		Dhakal2024	[x]
+1121	Nubri	Meat	ɕja	ɕ.j a		Dhakal2024	[x]
+1371	Sherpa	Meat	ɕja	ɕ.j a		Dhakal2024	[x]
+1615	Tsum	Meat	ɕja	ɕ.j a		Dhakal2024	[x]
+1877	Yolmo	Meat	ɕja	ɕ.j a		Dhakal2024	[x]
+2439	OldTibetan	Meat	ɕ.a	ɕ a		Sagart2019	
+2440	Batang	Meat	xh.a.⁵³	xʰ a ⁵³		Sagart2019	
+2441	Lhasa	Meat	ɕ.a.⁵⁵	ɕ a ⁵⁵		Sagart2019	
+2442	Alike	Meat	xh.a	xʰ a		Sagart2019	?
+2443	Xiahe	Meat	xh.a	xʰ a		Sagart2019	???
+2444	OldChinese	Meat	k.+.n.u.k	k + n u.k		Sagart2019	
+48	Gyalsumdo	Moon	t̪akaɹ	t̪ a + k a.ɹ		Dhakal2024	s.l a
+49	Gyalsumdo	Moon	t̪awa	t̪ a + w a		Dhakal2024	s.l a
+310	Jirel	Moon	nd̪aɡaɹ	ⁿd/d̪ a + g/k a.ɹ		Dhakal2024	s.l a
+569	Kagate	Moon	d̪aɡarmu	d̪ a + g/k a.r + m u		Dhakal2024	s.l a
+823	Lowa	Moon	nd̪a	ⁿd/d a		Dhakal2024	s.l a
+1079	Nubri	Moon	t̪a	t̪ a		Dhakal2024	s.l a
+1328	Sherpa	Moon	əud̪əkar	əu + d̪ ə + g/k a.r		Dhakal2024	s.l a
+1573	Tsum	Moon	nd̪akar	ⁿd/d̪ a + k a.ɹ		Dhakal2024	s.l a
+1834	Yolmo	Moon	nd̪awa	ⁿd/d̪ a + w a		Dhakal2024	s.l a
+2445	OldTibetan	Moon	s.l.a	s.l a		Sagart2019	
+2446	Lhasa	Moon	t.a.¹³.◦.w.a.⁵⁵	t a ¹³ + w a ⁵⁵		Sagart2019	
+2447	Batang	Moon	nd.a.¹³.◦.ɣ.ɑ.⁵⁵	ⁿd a ¹³ + ɣ ɑ ⁵⁵		Sagart2019	!
+2448	Xiahe	Moon	dz.a	dz a		Sagart2019	
+2449	Alike	Moon	r.dz.a	r.dz a		Sagart2019	!
+2450	Xiahe	Moon	d.a._.w.a	d a + w a		Sagart2019	
+2451	OldChinese	Moon	ŋʷ.a.t	ŋʷ a.t		Sagart2019	
+132	Gyalsumdo	Morning	namʑen	n a.m + ʑ e.n		Dhakal2024	[x]
+391	Jirel	Morning	ŋomu	ŋ o + m u		Dhakal2024	[x]
+648	Kagate	Morning	ŋamu	ŋ a + m u		Dhakal2024	[x]
+904	Lowa	Morning	ŋat̪o	ŋ a + t̪ o		Dhakal2024	[x]
+1156	Nubri	Morning	tõŋkõ	t̪ !õ/o.ŋ + k !õ/o		Dhakal2024	[x]
+1407	Sherpa	Morning	tʰop	t̪ʰ o.p		Dhakal2024	[x]
+1650	Tsum	Morning	ɕjuo	ɕ.j uo		Dhakal2024	[x]
+1912	Yolmo	Morning	ɕjole	ɕ.j o + l e		Dhakal2024	[x]
+2452	Xiahe	Morning	n.a.ŋ._.d.i	n a.ŋ + d i		Sagart2019	
+2453	Lhasa	Morning	ɕ.o.¹³.◦.k.ɛ.⁵²	ɕ o ¹³ + k ɛ ⁵²		Sagart2019	
+2454	Batang	Morning	x.o.¹³.◦.p.ɑ.⁵⁵	x o ¹³ + p ɑ ⁵⁵		Sagart2019	
+2455	Alike	Morning	r.ŋ.a._.m.o	r.ŋ a + m o		Sagart2019	!
+2456	Alike	Morning	r.ŋ.a._.r.o	r.ŋ a + r o		Sagart2019	!
+2457	OldChinese	Morning	d.ə.r	d ə.r		Sagart2019	
+2458	OldTibetan	Morning	ʑ.o.g.s.+.p.a	ʑ o.g s + p a		Sagart2019	
+109	Gyalsumdo	Mosquito	lamkute	l a.m + k u + t̪ e		Dhakal2024	[x]
+370	Jirel	Mosquito	lamkute	l a.m + k u + t̪ e		Dhakal2024	[x]
+626	Kagate	Mosquito	lamkʰute	l a.m + !kʰ/k u + t̪ e		Dhakal2024	[x]
+883	Lowa	Mosquito	t̪uŋdaŋ	t̪ u.ŋ + d a.ŋ		Dhakal2024	[x]
+1135	Nubri	Mosquito	t̪ukɖaŋ	t̪ u.k + ɖ a.ŋ		Dhakal2024	[x]
+1386	Sherpa	Mosquito	lamkʰute	l a.m + !kʰ/k u + t̪ e		Dhakal2024	[x]
+1629	Tsum	Mosquito	lamkute	l a.m + k u + t̪ e		Dhakal2024	[x]
+1891	Yolmo	Mosquito	mətɕʰəɹ	m ə + tɕʰ ə.ɹ		Dhakal2024	← Hindi «machchhar»
+2459	Lhasa	Mosquito	th.u.k.¹³.◦.p.a.ŋ.⁵⁵	tʰ u.k ¹³ + p a.ŋ ⁵⁵		Sagart2019	
+2460	Batang	Mosquito	m.b.ᴜ.⁵⁵.◦.l.ũ.∼.⁵⁵	m.b u ⁵⁵ + l ũ ⁵⁵		Sagart2019	!
+2461	Alike	Mosquito	w.a._.d.a.k._.ɣ.a	w a + d a.k + ɣ a		Sagart2019	
+2462	Xiahe	Mosquito	a._.j.a.ŋ._.ndz.ə	a + j a.ŋ + ⁿdz ə		Sagart2019	!
+2463	OldChinese	Mosquito	C/.+.m.ə.r	ç/k + m ə.r		Sagart2019	
+117	Gyalsumdo	Mother	ama	a + m a		Dhakal2024	[x]
+378	Jirel	Mother	ãma	!ã/a + m a		Dhakal2024	[x]
+634	Kagate	Mother	ama	a + m a		Dhakal2024	[x]
+891	Lowa	Mother	ama	a + m a		Dhakal2024	[x]
+1143	Nubri	Mother	aã	a + !Ø/m !ã/a		Dhakal2024	[x]
+1394	Sherpa	Mother	ama	a + m a		Dhakal2024	[x]
+1637	Tsum	Mother	ãã	!ã/a + !Ø/m !ã/a		Dhakal2024	[x]
+1899	Yolmo	Mother	ãmã	!ã/a + m !ã/a		Dhakal2024	[x]
+2464	OldTibetan	Mother	ʔa.m.a	ʔ a + m a		Sagart2019	
+2465	Lhasa	Mother	a.⁵⁵.◦.m.a.⁵⁵	a ⁵⁵ + m a ⁵⁵		Sagart2019	
+2466	Batang	Mother	ʔ.a.⁵⁵.◦.m.a.⁵³	ʔ a ⁵⁵ + m a ⁵³		Sagart2019	
+2467	Batang	Mother	m.a.¹³.◦.g.ẽ.∼.⁵⁵	m a ¹³ + g ẽ ⁵⁵		Sagart2019	
+2468	Xiahe	Mother	ʔ.a._.m.a	ʔ a + m a		Sagart2019	
+2469	Alike	Mother	æ._.m.æ	æ + m æ		Sagart2019	
+2470	OldChinese	Mother	m.ə.ʔ	m ə ʔ		Sagart2019	
+9	Gyalsumdo	Mouth	kʰa	kʰ a		Dhakal2024	[x]
+275	Jirel	Mouth	kʰa	kʰ a		Dhakal2024	[x]
+534	Kagate	Mouth	kʰa	kʰ a		Dhakal2024	[x]
+787	Lowa	Mouth	kʰa	kʰ a		Dhakal2024	[x]
+1045	Nubri	Mouth	kʰabt̪u	kʰ !ab/a + t̪ u		Dhakal2024	[x]
+1293	Sherpa	Mouth	kʰa	kʰ a		Dhakal2024	[x]
+1538	Tsum	Mouth	kʰa	kʰ a		Dhakal2024	[x]
+1799	Yolmo	Mouth	kʰa	kʰ a		Dhakal2024	[x]
+2471	OldTibetan	Mouth	kʰ.a	kʰ a		Sagart2019	
+2472	Lhasa	Mouth	kʰ.a.⁵⁵	kʰ a ⁵⁵		Sagart2019	
+2473	Batang	Mouth	kʰ.a.⁵³	kʰ a ⁵³		Sagart2019	
+2474	Alike	Mouth	kʰ.æ	kʰ æ		Sagart2019	
+2475	Xiahe	Mouth	kʰ.a	kʰ a		Sagart2019	
+2476	OldChinese	Mouth	kʰˤ.o.ʔ	kʰˤ o ʔ		Sagart2019	
+65	Gyalsumdo	Mud	sa	s a		Dhakal2024	[x]
+327	Jirel	Mud	səbi	s ə + b i		Dhakal2024	[x]
+585	Kagate	Mud	sebi	s e + b i		Dhakal2024	[x]
+840	Lowa	Mud	n̪d̪ampak	ⁿd/d a.m + p a.k		Dhakal2024	[x]
+841	Lowa	Mud	sa	s a		Dhakal2024	[x]
+1095	Nubri	Mud	t̪ampa	t̪ a.m + p a		Dhakal2024	[!] could be a pa-suffix
+1345	Sherpa	Mud	t̪ʰala	t̪ʰ a + l a		Dhakal2024	[?] loan from Chinese?
+1589	Tsum	Mud	sa	s a		Dhakal2024	[x]
+1851	Yolmo	Mud	sasa	s a + s a		Dhakal2024	[x]
+2477	Batang	Mud	nd.ɑ.¹³.◦.b.ɑ.ʔ.⁵³	ⁿd ɑ ¹³ + b ɑ.ʔ ⁵³		Sagart2019	!
+2478	Xiahe	Mud	nd.a._.m.b.a.x	ⁿd a + m.b a.x		Sagart2019	!
+2479	Lhasa	Mud	t.a.k.¹³.◦.p.a.⁵²	t a.k ¹³ + p a ⁵²		Sagart2019	
+2480	Alike	Mud	n.d.a.m._.m.b.a.k	n.d a.m + m.b a.k		Sagart2019	!
+2481	OldChinese	Mud	C/.+.nˤ.ə.j	ç/k + nˤ ə.j		Sagart2019	
+2482	OldTibetan	Mud	ɴ.d.a.m.+.p.a	ɴ.d a.m + p a		Sagart2019	
+112	Gyalsumdo	Name	miŋ	m i.ŋ		Dhakal2024	[borrowed from Chinese]
+373	Jirel	Name	min̪	m i.n		Dhakal2024	[borrowed from Chinese]
+629	Kagate	Name	min	m i.n		Dhakal2024	[borrowed from Chinese]
+886	Lowa	Name	miŋ	m i.ŋ		Dhakal2024	[borrowed from Chinese]
+1138	Nubri	Name	min̪	m i.n		Dhakal2024	[borrowed from Chinese]
+1389	Sherpa	Name	min	m i.n		Dhakal2024	[borrowed from Chinese]
+1632	Tsum	Name	min	m i.n		Dhakal2024	[borrowed from Chinese]
+1894	Yolmo	Name	min	m i.n		Dhakal2024	[borrowed from Chinese]
+2483	OldTibetan	Name	mʲ.i.ŋ	mʲ i ŋ		Sagart2019	
+2484	Lhasa	Name	m.i.ŋ.¹³	m i.ŋ ¹³		Sagart2019	
+2485	Batang	Name	m.ĩ.∼.¹³	m ĩ ¹³		Sagart2019	
+2486	Xiahe	Name	ȵ.a.ŋ	ȵ a ŋ		Sagart2019	
+2487	Alike	Name	ȵ.a.ŋ._.ŋ.æ	ȵ a.ŋ + ŋ æ		Sagart2019	
+2488	OldChinese	Name	C/.+.m.e.ŋ	ç/k + m e.ŋ		Sagart2019	
+154	Gyalsumdo	Near	ɲemu	ɲ e + m u		Dhakal2024	[x]
+412	Jirel	Near	ɲibid̪u	ɲ i + b i + d̪ u		Dhakal2024	[x]
+671	Kagate	Near	t̪ʰama	t̪ʰ a + m a		Dhakal2024	[x]
+927	Lowa	Near	ŋe	ŋ e		Dhakal2024	[x]
+1177	Nubri	Near	t̪ʰaɲiw	t̪ʰ a + ɲ i.w		Dhakal2024	[x]
+1428	Sherpa	Near	t̪ʰakŋemo	t̪ʰ a.k + ŋ e + m o		Dhakal2024	[x]
+1671	Tsum	Near	tɹala	t̪.ɹ a + l a		Dhakal2024	[x]
+1933	Yolmo	Near	poɰla	p o.ɰ + l a		Dhakal2024	[x]
+2489	OldTibetan	Near	tʰ.a.g.+.ɲ.e.+.p.o	tʰ a.g + ɲ e + p o		Sagart2019	
+2490	Xiahe	Near	th.a.χ._.ȵ.i	tʰ a.χ + ȵ i		Sagart2019	
+2491	Lhasa	Near	th.a.⁵²._.ȵ.e.¹³.◦.p.o.⁵⁵	tʰ a ⁵² + ȵ e ¹³ + p o ⁵⁵		Sagart2019	
+2492	Batang	Near	th.ɑ.ʔ.⁵³.◦.th.ũ.∼.¹³.◦.th.ũ.∼.⁵⁵	tʰ ɑ.ʔ ⁵³ + tʰ ũ ¹³ + tʰ ũ ⁵⁵		Sagart2019	
+2493	Alike	Near	th.a.k._.ȵ.e	tʰ a.k + ȵ e		Sagart2019	
+2494	OldChinese	Near	ɴ.+.k.ə.r.ʔ	ɴ + k ə.r ʔ		Sagart2019	!remove!
+2495	OldChinese	Near	n.ə.r.ʔ	n ə.r ʔ		Sagart2019	
+44	Gyalsumdo	Needle	kʰap	kʰ a.p		Dhakal2024	[x]
+306	Jirel	Needle	kʰap	kʰ a.p		Dhakal2024	[x]
+565	Kagate	Needle	kʰap	kʰ a.p		Dhakal2024	[x]
+819	Lowa	Needle	kʰap	kʰ a.p		Dhakal2024	[x]
+1075	Nubri	Needle	kʰap	kʰ a.p		Dhakal2024	[x]
+1324	Sherpa	Needle	kʰap	kʰ a.p		Dhakal2024	[x]
+1569	Tsum	Needle	kʰap	kʰ a.p		Dhakal2024	[x]
+1830	Yolmo	Needle	kʰap	kʰ a.p		Dhakal2024	[x]
+2496	OldTibetan	Needle	kʰ.a.b	kʰ a.b		Sagart2019	
+2497	Lhasa	Needle	kʰ.ə.p.⁵²	kʰ ə.p ⁵²		Sagart2019	
+2498	Batang	Needle	kʰ.ɑ.u.ʔ.⁵³	kʰ ɑu.ʔ ⁵³		Sagart2019	
+2499	Alike	Needle	kʰ.a.p	kʰ a.p		Sagart2019	
+2500	Xiahe	Needle	kʰ.a.p	kʰ a.p		Sagart2019	
+2501	OldChinese	Needle	t.+.k.ə.m	t + k ə.m		Sagart2019	
+143	Gyalsumdo	New	sampa	s a + ⁿp/p a		Dhakal2024	[x]
+401	Jirel	New	samba	s a + ⁿb/b a		Dhakal2024	[x]
+658	Kagate	New	samba	s a + ⁿb/b a		Dhakal2024	[x]
+914	Lowa	New	sawa	s a + w a		Dhakal2024	[x]
+1166	Nubri	New	sampa	s a + ⁿp/p a		Dhakal2024	[x]
+1417	Sherpa	New	samba	s a + ⁿb/b a		Dhakal2024	[x]
+1660	Tsum	New	samba	s a + ⁿb/b a		Dhakal2024	[x]
+1922	Yolmo	New	samba	s a + ⁿb/b a		Dhakal2024	[x]
+2502	OldTibetan	New	g.s.a.r.◦	g.s a.r		Sagart2019	
+2503	Xiahe	New	sʰ.o._.m.a	sʰ o + m a		Sagart2019	???
+2504	Lhasa	New	s.aː.⁵⁵.◦.p.a.⁵⁵	s aː ⁵⁵ + p a ⁵⁵		Sagart2019	
+2505	Batang	New	s.ɛ.⁵⁵.◦.b.a.⁵³	s ɛ ⁵⁵ + b a ⁵³		Sagart2019	
+2506	Alike	New	sʰ.o._.m.æ	sʰ o + m æ		Sagart2019	!sh?
+2507	OldChinese	New	s.+.tsʰ.i.n	s + tsʰ i.n		Sagart2019	
+174	Gyalsumdo	Nine	ku	k u		Dhakal2024	[x]
+433	Jirel	Nine	ŋɡu	ⁿg/g u		Dhakal2024	[x]
+690	Kagate	Nine	ku	k u		Dhakal2024	[x]
+947	Lowa	Nine	ku	k u		Dhakal2024	[x]
+1197	Nubri	Nine	ku	k u		Dhakal2024	[x]
+1447	Sherpa	Nine	ɡu	g u		Dhakal2024	[x]
+1690	Tsum	Nine	ku	k u		Dhakal2024	[x]
+1952	Yolmo	Nine	ku	k u		Dhakal2024	[x]
+2508	OldTibetan	Nine	d.g.u	d.g u		Sagart2019	
+2509	Xiahe	Nine	g.ə	g ə		Sagart2019	
+2510	Lhasa	Nine	k.u.¹³	k u ¹³		Sagart2019	
+2511	Batang	Nine	g.ᴜ.⁵³	g u ⁵³		Sagart2019	
+2512	Alike	Nine	r.g.ə	r.g ə		Sagart2019	!
+2513	OldChinese	Nine	k.u.ʔ	k u ʔ		Sagart2019	
+8	Gyalsumdo	Nose	naɾki	n aɾ/a + k i		Dhakal2024	[x]
+274	Jirel	Nose	n̪əu	n əu		Dhakal2024	[x]
+533	Kagate	Nose	nasum	n a + s u.m		Dhakal2024	[x]
+786	Lowa	Nose	na	n a		Dhakal2024	[x]
+1044	Nubri	Nose	nat̪u	n a + t̪ u		Dhakal2024	[x]
+1292	Sherpa	Nose	nəu	n əu		Dhakal2024	[x]
+1537	Tsum	Nose	na	n a		Dhakal2024	[x]
+1798	Yolmo	Nose	n̪aɾko	n aɾ/a + k o		Dhakal2024	[x]
+2514	OldTibetan	Nose	s.n.a	s.n a		Sagart2019	
+2515	Lhasa	Nose	n.ə.⁵⁵.◦.k.u.⁵²	n ə ⁵⁵ + k u ⁵²		Sagart2019	
+2516	Batang	Nose	n̥.a.⁵³	n̥ a ⁵³		Sagart2019	
+2517	Alike	Nose	r.n̥.æ	r.n̥ æ		Sagart2019	!
+2518	Xiahe	Nose	h.n.a._.ʁ.o.ŋ	h.n a + ʁ o./o ŋ		Sagart2019	
+2519	OldChinese	Nose	m.+.b.i.t.+.s	m + b i.t + s		Sagart2019	
+165	Gyalsumdo	One	tɕiɡ	tɕ i.g/k		Dhakal2024	[x]
+424	Jirel	One	nd̪okpəi	ⁿd/d̪ o.k + p əi		Dhakal2024	[x]
+425	Jirel	One	tɕik	tɕ i.k		Dhakal2024	[x]
+682	Kagate	One	tɕi	tɕ i.Ø/k		Dhakal2024	[x]
+938	Lowa	One	tɕik	tɕ i.k		Dhakal2024	[x]
+1188	Nubri	One	tɕik	tɕ i.k		Dhakal2024	[x]
+1439	Sherpa	One	tɕik	tɕ i.k		Dhakal2024	[x]
+1682	Tsum	One	tɕik	tɕ i.k		Dhakal2024	[x]
+1944	Yolmo	One	tɕi	tɕ i		Dhakal2024	[x]
+2520	OldTibetan	One	g.tɕ.i.g	g.tɕ i.g		Sagart2019	
+2521	Lhasa	One	tɕ.i.⁵²	tɕ i ⁵²		Sagart2019	
+2522	Batang	One	tɕ.i.ʔ.⁵³	tɕ i.ʔ ⁵³		Sagart2019	
+2523	Alike	One	ɣ.cç.ə.k	ɣ.cç ə.k		Sagart2019	!
+2524	Xiahe	One	h.tɕ.ə.χ	h.tɕ ə.χ		Sagart2019	!
+2525	OldChinese	One	ʔ.i.t	ʔ i.t		Sagart2019	
+179	Gyalsumdo	One Hundred	kja	k.j a		Dhakal2024	[x]
+438	Jirel	One Hundred	kʰalŋa	kʰ a.l + ŋ a		Dhakal2024	[x]
+695	Kagate	One Hundred	kjatɕik	k.j a + tɕ i.k		Dhakal2024	[x]
+952	Lowa	One Hundred	kjat̪ʰampa	k.j a + t̪ʰ a.m + p a		Dhakal2024	[x]
+1202	Nubri	One Hundred	kjat̪ʰamba	k.j a + t̪ʰ a.m + b a		Dhakal2024	[x]
+1452	Sherpa	One Hundred	ɡjatɕik	g.j a + tɕ i.k		Dhakal2024	[x]
+1695	Tsum	One Hundred	kja	k.j a		Dhakal2024	[x]
+1958	Yolmo	One Hundred	kjatɕi	k.j a + tɕ i		Dhakal2024	[x]
+2375	OldTibetan	One Hundred	b.r.g.ʲ.a	b.r.g.j a		Sagart2019	
+2376	Lhasa	One Hundred	c.a.¹³	c a ¹³		Sagart2019	
+2377	Batang	One Hundred	dʑ.a.⁵³	dʑ a ⁵³		Sagart2019	
+2378	Xiahe	One Hundred	dʑ.a._.th.a._.m.b.a	dʑ a + tʰ a + m.b a		Sagart2019	!
+2379	Alike	One Hundred	w.ɟ.j.æ	w.ɟ.j æ		Sagart2019	!
+2380	OldChinese	One Hundred	pˤ.r.a.k	pˤ.r a.k		Sagart2019	
+260	Gyalsumdo	Pig	pʰakpa	pʰ a.k + p a		Dhakal2024	[x]
+521	Jirel	Pig	pʰakpa	pʰ a.k + p a		Dhakal2024	[x]
+772	Kagate	Pig	pʰa	pʰ a		Dhakal2024	[x]
+1031	Lowa	Pig	pʰak	pʰ a.k		Dhakal2024	[x]
+1277	Nubri	Pig	pʰa	pʰ a		Dhakal2024	[x]
+1524	Sherpa	Pig	pʰakpa	pʰ a.k + p a		Dhakal2024	[x]
+1781	Tsum	Pig	pʰaʔ	pʰ a.ʔ		Dhakal2024	[x]
+2035	Yolmo	Pig	pʰa	pʰ a		Dhakal2024	[x]
+2526	Batang	Pig	ph.ɑ.ʔ.⁵³	pʰ ɑ.ʔ ⁵³		Sagart2019	
+2527	Xiahe	Pig	h.a.χ	h a.χ		Sagart2019	
+2528	Lhasa	Pig	ph.a.k.⁵⁵.◦.p.a.⁵⁵	pʰ a.k ⁵⁵ + p a ⁵⁵		Sagart2019	
+2529	Alike	Pig	h.a.k	h a.k		Sagart2019	
+2530	OldChinese	Pig	l̥.a.j.ʔ	l̥ a.j ʔ		Sagart2019	
+2531	OldTibetan	Pig	pʰ.a.g	pʰ a.g		Sagart2019	
+57	Gyalsumdo	Rainbow	sa	s a		Dhakal2024	[x]
+319	Jirel	Rainbow	ndza	ⁿdz/dz a		Dhakal2024	[x]
+577	Kagate	Rainbow	dzakormu	dz a + k o.r + m u		Dhakal2024	[x]
+831	Lowa	Rainbow	ndʑja	ⁿdʑj/dʑ a		Dhakal2024	[x]
+1087	Nubri	Rainbow	tɕja	tɕj/tɕ a		Dhakal2024	[x]
+1337	Sherpa	Rainbow	dza	dz a		Dhakal2024	[x]
+1581	Tsum	Rainbow	ndʑjabe	ⁿdʑj/dʑ a + b e		Dhakal2024	[x]
+1843	Yolmo	Rainbow	za	z a		Dhakal2024	[x]
+2532	Batang	Rainbow	ndʑ.a.⁵³	ⁿdʑ a ⁵³		Sagart2019	!
+2533	Lhasa	Rainbow	tɕ.a.¹³	tɕ a ¹³		Sagart2019	!
+2534	Alike	Rainbow	n.dʑ.æ	ⁿdʑ æ		Sagart2019	!
+2535	Xiahe	Rainbow	ndʑ.a	ⁿdʑ a		Sagart2019	!
+2536	OldChinese	Rainbow	m.+.kˤ.o.ŋ	m + kˤ o.ŋ		Sagart2019	also perhaps *kˤroŋ-s
+2537	OldTibetan	Rainbow	ɴ.dʑ.a	ɴ.dʑ a		Sagart2019	
+164	Gyalsumdo	Red	maɹpu	m a.ɹ + p u		Dhakal2024	d.m a.r
+423	Jirel	Red	məɹmu	m !ə/a.ɹ + m u		Dhakal2024	d.m a.r
+681	Kagate	Red	marmu	m a.r + m u		Dhakal2024	d.m a.r
+937	Lowa	Red	mawo	m a + !w/m o		Dhakal2024	d.m a.r
+1187	Nubri	Red	maɹpo	m a.ɹ + p o		Dhakal2024	d.m a.r
+1438	Sherpa	Red	mərbu	m !ə/a.r + b u		Dhakal2024	d.m a.r
+1681	Tsum	Red	maɹbo	m a.ɹ + b o		Dhakal2024	d.m a.r
+1943	Yolmo	Red	maɹmu	m a.ɹ + m u		Dhakal2024	d.m a.r
+2538	OldTibetan	Red	d.m.a.r.◦	d.m a.r		Sagart2019	
+2539	Lhasa	Red	m.aː.⁵⁵.◦.p.o.⁵⁵	m aː ⁵⁵ + p o ⁵⁵		Sagart2019	
+2540	Batang	Red	m.ɑ.⁵⁵.◦.m.ɑ.⁵⁵	m ɑ ⁵⁵ + m ɑ ⁵⁵		Sagart2019	
+2541	Xiahe	Red	h.m.a._.r.o	h.m a + r o		Sagart2019	
+2542	Alike	Red	ɣ.m.æ._.r.o	ɣ.m æ + r o		Sagart2019	
+2543	OldChinese	Red	t.+.qʰ.ᴀ.k	t + qʰ ɑ̟.k		Sagart2019	
+2544	OldChinese	Red	ɴ.+.rˤ.u.m	ɴ + rˤ u.m		Sagart2019	!remove!
+2545	OldChinese	Red	t.+.kʰ.r.e.ŋ	t + kʰ.r e.ŋ		Sagart2019	
+2546	OldChinese	Red	t.o	t o		Sagart2019	!remove!
+152	Gyalsumdo	Right	jøba	j ø + b a		Dhakal2024	[?]
+410	Jirel	Right	samapa	s a + m a + p a		Dhakal2024	[?]
+669	Kagate	Right	tɕjabutsʰole	tɕ j a + b u + tsʰ o + l e		Dhakal2024	[?]
+925	Lowa	Right	jewa	j e + w a		Dhakal2024	[?]
+1175	Nubri	Right	je	j e		Dhakal2024	[?]
+1426	Sherpa	Right	laɡpaɡa	l a.g/k + p a + g a		Dhakal2024	[?]
+1669	Tsum	Right	jepa	j e + p a		Dhakal2024	[?]
+1931	Yolmo	Right	joba	j o + b a		Dhakal2024	[?]
+2547	OldTibetan	Right	g.j.a.s	g.j a.s		Sagart2019	
+2548	Xiahe	Right	h.j.e	h.j e		Sagart2019	
+2549	Lhasa	Right	j.ɛ.⁵²	j ɛ ⁵²		Sagart2019	
+2550	Batang	Right	tʂ.õ.∼.¹³.◦.k.ᴜ.⁵³	ʈʂ õ ¹³ + k u ⁵³		Sagart2019	
+2551	Alike	Right	ɣ.j.i	ɣ.j i		Sagart2019	
+2552	OldChinese	Right	ɢʷ.ə.ʔ	ɢʷ ə ʔ		Sagart2019	
+54	Gyalsumdo	River	tsaŋpu	ts a.ŋ + p u		Dhakal2024	[x]
+315	Jirel	River	tʰaŋka	!tʰ/ts a.ŋ + k a		Dhakal2024	[x]
+574	Kagate	River	tsaŋbu	ts a.ŋ + b u		Dhakal2024	[x]
+828	Lowa	River	tsaŋpo	ts a.ŋ + p o		Dhakal2024	[x]
+1084	Nubri	River	kjuɡtɕʰju	k.j u.g/k + tɕʰ.j u		Dhakal2024	[x]
+1334	Sherpa	River	tsəŋbu	ts ə.ŋ + b u		Dhakal2024	[x]
+1578	Tsum	River	tsaŋbo	ts a.ŋ + b o		Dhakal2024	[x]
+1840	Yolmo	River	tsəŋbu	ts ə.ŋ + b u		Dhakal2024	[x]
+2553	OldTibetan	River	g.ts.a.ŋ.p.o	g.ts a.ŋ + p o		Sagart2019	
+2554	Batang	River	tɕʰ.ᴜ.⁵³	tɕʰ u ⁵³		Sagart2019	
+2555	Lhasa	River	ts.a.ŋ.⁵⁵.◦.p.o.⁵⁵	ts a.ŋ ⁵⁵ + p o ⁵⁵		Sagart2019	
+2556	Lhasa	River	tɕʰ.u.⁵⁵	tɕʰ u ⁵⁵		Sagart2019	
+2557	Xiahe	River	tɕh.ə	tɕʰ ə		Sagart2019	
+2558	Alike	River	tɕh.ə	tɕʰ ə		Sagart2019	
+2559	OldChinese	River	s.+.t.u.r.ʔ	s + t u.r ʔ		Sagart2019	
+2560	OldTibetan	River	tɕʰ.u	tɕʰ u		Sagart2019	https://stan.hypotheses.org/20 for cognacy with OT
+71	Gyalsumdo	Root	pat̪a	p a + t̪ a		Dhakal2024	[x]
+332	Jirel	Root	tsapɹen	ts a + p.ɹ e.n		Dhakal2024	[x]
+590	Kagate	Root	tsarŋe	ts a.r + ŋ e		Dhakal2024	[x]
+846	Lowa	Root	tsawa	ts a + w a		Dhakal2024	[x]
+1100	Nubri	Root	tsa	ts a		Dhakal2024	[x]
+1350	Sherpa	Root	dzət̪ak	dz ə + t̪ a.k		Dhakal2024	[x]
+1594	Tsum	Root	tɹat̪oʔ	t̪.ɹ a + t̪ o.ʔ		Dhakal2024	[x]
+1856	Yolmo	Root	tsaɾki	ts a.ɾ/ɹ + k i		Dhakal2024	[x]
+2561	OldTibetan	Root	r.ts.a.b.a	r.ts a + b a		Sagart2019	
+2562	Xiahe	Root	h.ts.a._.p.a	h.ts a + p a		Sagart2019	!
+2563	Lhasa	Root	ts.aː.⁵⁵	ts aː ⁵⁵		Sagart2019	!
+2564	Batang	Root	ndʐ.ɛ.ʔ.⁵³	ⁿɖʐ ɛ.ʔ ⁵³		Sagart2019	!
+2565	Alike	Root	ɣ.ts.a._.p.a	ɣ.ts a + p a		Sagart2019	!
+2566	OldChinese	Root	kˤ.ə.r	kˤ ə.r		Sagart2019	
+42	Gyalsumdo	Rope	t̪ʰaɡpa	t̪ʰ a.!g/k + p a		Dhakal2024	[x]
+304	Jirel	Rope	t̪ʰakpa	t̪ʰ a.k + p a		Dhakal2024	[x]
+563	Kagate	Rope	t̪ʰakpa	t̪ʰ a.k + p a		Dhakal2024	[x]
+817	Lowa	Rope	t̪ʰaɡpa	t̪ʰ a.g/k + p a		Dhakal2024	[x]
+1073	Nubri	Rope	t̪ʰaɡpa	t̪ʰ a.g/k + p a		Dhakal2024	[x]
+1322	Sherpa	Rope	t̪ʰakpa	t̪ʰ a.k + p a		Dhakal2024	[x]
+1567	Tsum	Rope	t̪ʰakpa	t̪ʰ a.k + p a		Dhakal2024	[x]
+1828	Yolmo	Rope	t̪ʰakpa	t̪ʰ a.k + p a		Dhakal2024	[x]
+2567	OldTibetan	Rope	tʰ.a.g.+.p.a	tʰ a.g + p a		Sagart2019	
+2568	Lhasa	Rope	th.a.k.⁵⁵._.p.a.⁵⁵	tʰ a.k ⁵⁵ + p a ⁵⁵		Sagart2019	
+2569	Batang	Rope	th.ɑ.⁵⁵.◦.p.a.⁵³	tʰ ɑ ⁵⁵ + p a ⁵³		Sagart2019	
+2570	Xiahe	Rope	th.a.χ._.k.w.a	tʰ a.χ + k.w a		Sagart2019	
+2571	Alike	Rope	r.n̥.e	r.n̥ e		Sagart2019	!
+2572	Alike	Rope	th.o.k._.k.w.a	tʰ o.k + k.w a		Sagart2019	
+2573	OldChinese	Rope	C/.ə.+.m.r.ə.ŋ	ç/k ə + m.r ə.ŋ		Sagart2019	
+92	Gyalsumdo	Salt	tsʰa	tsʰ a		Dhakal2024	[x]
+352	Jirel	Salt	tsʰa	tsʰ a		Dhakal2024	[x]
+610	Kagate	Salt	tsʰa	tsʰ a		Dhakal2024	[x]
+867	Lowa	Salt	tsʰa	tsʰ a		Dhakal2024	[x]
+1120	Nubri	Salt	tsʰa	tsʰ a		Dhakal2024	[x]
+1370	Sherpa	Salt	tsʰa	tsʰ a		Dhakal2024	[x]
+1614	Tsum	Salt	tsʰa	tsʰ a		Dhakal2024	[x]
+1876	Yolmo	Salt	tsʰa	tsʰ a		Dhakal2024	[x]
+2580	OldTibetan	Salt	tsʰʷ.a	tsʷʰ a		Sagart2019	
+2581	Lhasa	Salt	tsh.a.⁵⁵	tsʰ a ⁵⁵		Sagart2019	
+2582	Batang	Salt	tsʰ.a.⁵³	tsʰ a ⁵³		Sagart2019	
+2583	Xiahe	Salt	tsʰ.a._.k.ə	tsʰ a + k ə		Sagart2019	
+2584	Alike	Salt	tsh.a._.kʰ.ə	tsʰ a + kʰ ə		Sagart2019	
+2585	OldChinese	Salt	ɢ.r.o.m	ɢ.r o.m		Sagart2019	
+2586	OldChinese	Salt	ɴ.+.tsˤ.a.j	ɴ + tsˤ a.j		Sagart2019	
+61	Gyalsumdo	Sand	pema	p e + m a		Dhakal2024	[x]
+323	Jirel	Sand	pʰesa	pʰ e + s a		Dhakal2024	[x]
+581	Kagate	Sand	pema	p e + m a		Dhakal2024	[x]
+836	Lowa	Sand	pema	p e + m a		Dhakal2024	[x]
+1091	Nubri	Sand	pɛ̃:	p ɛ̃ː/ɛ + Ø/m Ø/a		Dhakal2024	[x]
+1341	Sherpa	Sand	pʰema	pʰ e + m a		Dhakal2024	[x]
+1585	Tsum	Sand	ijãʔ	i + j ã.ʔ		Dhakal2024	[x]
+1847	Yolmo	Sand	pema	p e + m a		Dhakal2024	[x]
+2587	OldTibetan	Sand	bʲ.e.m.a	bʲ e + m a		Sagart2019	
+2588	Batang	Sand	ɕ.ɪ.¹³.◦.m.a.⁵⁵	ɕ ɪ ¹³ + m a ⁵⁵		Sagart2019	
+2589	Lhasa	Sand	tɕʰ.e.¹³.◦.m.a.⁵⁵	tɕʰ e ¹³ + m a ⁵⁵		Sagart2019	
+2590	Xiahe	Sand	ɕ.e._.m.a	ɕ e + m a		Sagart2019	
+2591	Alike	Sand	w.ɕ.e._.m.æ	w.ɕ e + m æ		Sagart2019	!
+2592	OldChinese	Sand	sˤ.r.a.j	sˤ.r a.j		Sagart2019	
+172	Gyalsumdo	Seven	t̪yn	t̪ y.n		Dhakal2024	[x]
+431	Jirel	Seven	nd̪uin	ⁿd/d̪ ui.n		Dhakal2024	[x]
+688	Kagate	Seven	t̪in	t̪ i.n		Dhakal2024	[x]
+945	Lowa	Seven	t̪yn	t̪ y.n		Dhakal2024	[x]
+1194	Nubri	Seven	t̪yn̪	t̪ y.n		Dhakal2024	[x]
+1445	Sherpa	Seven	d̪in	d̪ i.n		Dhakal2024	[x]
+1688	Tsum	Seven	t̪un	t̪ u.n		Dhakal2024	[x]
+1950	Yolmo	Seven	t̪in	t̪ i.n		Dhakal2024	[x]
+2593	OldTibetan	Seven	b.d.u.n	b.d u.n		Sagart2019	
+2594	Lhasa	Seven	t.ỹ.∼.¹³	t ỹ ¹³		Sagart2019	! ∼
+2595	Batang	Seven	d.ỹ.∼.⁵⁵	d ỹ ⁵⁵		Sagart2019	!?∼
+2596	Xiahe	Seven	d.ə.n	d ə.n		Sagart2019	
+2597	Alike	Seven	w.d.ə.n	w.d ə.n		Sagart2019	!
+2598	OldChinese	Seven	tsʰ.i.t	tsʰ i.t		Sagart2019	
+149	Gyalsumdo	Short	t̪øma	t̪ ø + m a		Dhakal2024	[x]
+407	Jirel	Short	t̪ʰumma	t̪ʰ u.m + m a		Dhakal2024	[x]
+666	Kagate	Short	t̪ʰimi	t̪ʰ i + m i		Dhakal2024	[x]
+922	Lowa	Short	t̪uŋwa	t̪ u.ŋ + w a		Dhakal2024	[x]
+1172	Nubri	Short	t̪ɛ̃n̪d̪ɛ̃	t̪ ɛ̃ + ⁿd̪/d̪ !ɛ̃/ɛ		Dhakal2024	[x]
+1423	Sherpa	Short	t̪ʰinme	t̪ʰ i.n + m e		Dhakal2024	[x]
+1666	Tsum	Short	t̪ʰyma	t̪ʰ y + m a		Dhakal2024	[x]
+1928	Yolmo	Short	t̪ʰemu	t̪ʰ e + m u		Dhakal2024	[x]
+2599	OldTibetan	Short	tʰ.u.ŋ	tʰ u.ŋ		Sagart2019	
+2600	Alike	Short	th.o.ŋ	tʰ o.ŋ		Sagart2019	
+2601	Xiahe	Short	th.o.ŋ._.th.o.ŋ	tʰ o.ŋ + tʰ o.ŋ		Sagart2019	
+2602	Batang	Short	th.ũ.∼.¹³.◦.th.ũ.∼.⁵⁵	tʰ ũ ¹³ + tʰ ũ ⁵⁵		Sagart2019	
+2603	Lhasa	Short	th.ỹ.∼.⁵⁵.◦.th.ỹ.∼.⁵⁵	tʰ ỹ ⁵⁵ + tʰ ỹ ⁵⁵		Sagart2019	! ∼
+2604	OldChinese	Short	tˤ.o.r.ʔ	tˤ o.r ʔ		Sagart2019	
+170	Gyalsumdo	Six	tuk	!t̪/t̪ʰ u.k		Dhakal2024	[x]
+171	Gyalsumdo	Six	tʰuk	t̪ʰ u.k		Dhakal2024	[x]
+430	Jirel	Six	tʰok	t̪ʰ o.k		Dhakal2024	[x]
+687	Kagate	Six	tuk	t̪ u.k		Dhakal2024	[x]
+943	Lowa	Six	tuk	t̪ u.k		Dhakal2024	[x]
+944	Lowa	Six	tʰɹuk	t̪ʰ.ɾ u.k		Dhakal2024	[x]
+1193	Nubri	Six	tuk	t̪ u.k		Dhakal2024	[x]
+1444	Sherpa	Six	tʰuk	t̪ʰ u.k		Dhakal2024	[x]
+1687	Tsum	Six	tɹu	t̪.ɹ u		Dhakal2024	[x]
+1949	Yolmo	Six	tu	t̪ u		Dhakal2024	[x]
+2605	OldTibetan	Six	d.r.u.g	d.r u.g		Sagart2019	
+2606	Lhasa	Six	tʂh.u.¹³²	ʈʂʰ u ¹³²		Sagart2019	
+2607	Batang	Six	tʂ.u.ʔ.²³¹	ʈʂ u.ʔ ²³¹		Sagart2019	
+2608	Alike	Six	tʂ.u.k	ʈʂ u.k		Sagart2019	
+2609	Xiahe	Six	tʂ.ə.χ	ʈʂ ə.χ		Sagart2019	
+2610	OldChinese	Six	k.r.u.k	k.r u.k		Sagart2019	
+22	Gyalsumdo	Skin	paɡpa	p a.g/k + p a		Dhakal2024	[x]
+23	Gyalsumdo	Skin	poɡo	p o + g o		Dhakal2024	[x]
+286	Jirel	Skin	kokt̪en	k o.k + t̪ e.n		Dhakal2024	[x]
+546	Kagate	Skin	koba	k o + b a		Dhakal2024	[x]
+799	Lowa	Skin	pawo	p a + w o		Dhakal2024	[x]
+1056	Nubri	Skin	pau	p a + !Ø/w !u/o		Dhakal2024	[x]
+1304	Sherpa	Skin	kwa	!kʷ/k !Ø/o + !Ø/w a		Dhakal2024	[x]
+1549	Tsum	Skin	koa	k o + !Ø/w a		Dhakal2024	[x]
+1811	Yolmo	Skin	pawa	p a + w a		Dhakal2024	[x]
+2611	OldTibetan	Skin	l.p.a.g.s	l.p a.g s		Sagart2019	
+2612	Batang	Skin	xh.a.⁵⁵.◦.p.ɑ.⁵³	xʰ a ⁵⁵ + p ɑ ⁵³		Sagart2019	?
+2613	Lhasa	Skin	p.a.k.⁵⁵.◦.p.a.⁵⁵	p a.k ⁵⁵ + p a ⁵⁵		Sagart2019	
+2614	Xiahe	Skin	h.tɕ.ə._.m.o	h.tɕ ə + m o		Sagart2019	!
+2615	OldChinese	Skin	m.+.p.a.j	m + p a.j		Sagart2019	(animal)
+2616	OldChinese	Skin	p.r.a	p.r a		Sagart2019	(human), cf. WT lpags
+50	Gyalsumdo	Sky	nam	n a.m		Dhakal2024	[x]
+311	Jirel	Sky	n̪am	!n̪/n a.m		Dhakal2024	[x]
+570	Kagate	Sky	nam	n a.m		Dhakal2024	[x]
+824	Lowa	Sky	nam	n a.m		Dhakal2024	[x]
+1080	Nubri	Sky	nam	n a.m		Dhakal2024	[x]
+1329	Sherpa	Sky	nam	n a.m		Dhakal2024	[x]
+1574	Tsum	Sky	n̪am	!n̪/n a.m		Dhakal2024	[x]
+1835	Yolmo	Sky	n̪əm	!n̪/n ə.m		Dhakal2024	[x]
+2617	OldTibetan	Sky	g.n.a.m	g.n a.m		Sagart2019	
+2618	Lhasa	Sky	n.a.m.¹³.◦.kʰ.a.⁵⁵	n a.m ¹³ + kʰ a ⁵⁵		Sagart2019	
+2619	Batang	Sky	n.ã.∼.⁵⁵	n ã ⁵⁵		Sagart2019	
+2620	Lhasa	Sky	n.a.m.⁵⁵	n a.m ⁵⁵		Sagart2019	
+2621	Xiahe	Sky	h.n.a.m	h.n a.m		Sagart2019	
+2622	Alike	Sky	ɣ.n.a.m	ɣ.n a.m		Sagart2019	
+2623	OldChinese	Sky	l̥ˤ.i.n	l̥ˤ i.n		Sagart2019	
+157	Gyalsumdo	Small	tɕema	!tɕ/tɕʰ e + m a		Dhakal2024	tɕʰuŋ «small»
+416	Jirel	Small	tikti	t̪ i.k + t̪ i		Dhakal2024	tɕʰuŋ «small»
+674	Kagate	Small	tɕʰimi	tɕʰ i + m i		Dhakal2024	tɕʰuŋ «small»
+930	Lowa	Small	tɕuŋwa	tɕ u.ŋ + w a		Dhakal2024	tɕʰuŋ «small»
+1180	Nubri	Small	tɛtɛ	t̪ ɛ + t̪ ɛ		Dhakal2024	tɕʰuŋ «small»
+1431	Sherpa	Small	tikpe	t̪ i.k + p e		Dhakal2024	tɕʰuŋ «small»
+1674	Tsum	Small	tɕʰyma	tɕʰ y + m a		Dhakal2024	tɕʰuŋ «small»
+1936	Yolmo	Small	tsemu	ts e + m u		Dhakal2024	tɕʰuŋ «small»
+2631	OldTibetan	Small	tɕʰ.u.ŋ	tɕʰ u.ŋ		Sagart2019	
+2632	Xiahe	Small	tɕh.o.ŋ._.w.o	tɕʰ o.ŋ + w o		Sagart2019	
+2633	Lhasa	Small	tɕʰ.ỹ.∼.⁵⁵.◦.tɕʰ.ỹ.∼.⁵⁵	tɕʰ ỹ ⁵⁵ + tɕʰ ỹ ⁵⁵		Sagart2019	! ∼
+2634	Alike	Small	tɕh.o.ŋ	tɕʰ o.ŋ		Sagart2019	
+2635	Batang	Small	tɕʰ.ũ.∼.¹³.◦.tɕʰ.ũ.∼.⁵⁵	tɕʰ ũ ¹³ + tɕʰ ũ ⁵⁵		Sagart2019	
+2636	OldChinese	Small	s.e.w.ʔ	s e.w ʔ		Sagart2019	!remove!
+2637	OldChinese	Small	sˤ.e.+.s	sˤ e + s		Sagart2019	
+2638	OldChinese	Small	m.ə.j	m ə.j		Sagart2019	
+106	Gyalsumdo	Snake	tul	t̪ u.l		Dhakal2024	[x]
+367	Jirel	Snake	ɹul	ɹ u.l		Dhakal2024	[x]
+623	Kagate	Snake	prul	p.r u.l		Dhakal2024	sbrul «GiftSchlange»
+880	Lowa	Snake	tu	t̪ u		Dhakal2024	[x]
+881	Lowa	Snake	tʰu	!tʰ/t̪ u		Dhakal2024	[x]
+1133	Nubri	Snake	tul	t̪ u.l		Dhakal2024	[x]
+1383	Sherpa	Snake	dul	d̪ u.l		Dhakal2024	[x]
+1627	Tsum	Snake	tɹul	t̪.ɹ u.l		Dhakal2024	[x]
+1889	Yolmo	Snake	pɹul	p.ɹ u.l		Dhakal2024	sbrul «GiftSchlange»
+2639	OldTibetan	Snake	s.b.r.u.l	s.b.r u.l		Sagart2019	
+2640	Alike	Snake	r.b.u	r.b u		Sagart2019	!
+2641	Lhasa	Snake	tʂ.y.¹³	ʈʂ y ¹³		Sagart2019	
+2642	Batang	Snake	dʐ.y.⁵⁵	ɖʐ y ⁵⁵		Sagart2019	
+2643	Xiahe	Snake	r.u	r u		Sagart2019	
+2644	OldChinese	Snake	C/.ə.+.l.ᴀ.j	ç/k ə + l ɑ̟.j		Sagart2019	
+122	Gyalsumdo	Son	pitsa	p i + ts a		Dhakal2024	[x]
+383	Jirel	Son	pʰudʑuŋ	pʰ u + dʑ u.ŋ		Dhakal2024	[x]
+639	Kagate	Son	pu	p u		Dhakal2024	[x]
+896	Lowa	Son	pidza	p i + dz a		Dhakal2024	[x]
+1148	Nubri	Son	puh	p u.h		Dhakal2024	[x]
+1399	Sherpa	Son	pʰudʑjuŋ	pʰ u + dʑ.j u.ŋ		Dhakal2024	[x]
+1642	Tsum	Son	pu	p u		Dhakal2024	[x]
+1904	Yolmo	Son	pu	p u		Dhakal2024	[x]
+2645	Lhasa	Son	ph.u.¹³	pʰ u ¹³		Sagart2019	
+2646	Batang	Son	p.ᴜ.²³¹	p u ²³¹		Sagart2019	
+2647	Xiahe	Son	ɕ.ə._.l.ə	ɕ ə + l ə		Sagart2019	
+2648	Alike	Son	ɕ.ə._.l.ə	ɕ ə + l ə		Sagart2019	
+2649	OldChinese	Son	ts.ə.ʔ	ts ə ʔ		Sagart2019	
+2650	OldTibetan	Son	b.u	b u		Sagart2019	
+111	Gyalsumdo	Spider	palba	p a.l + b a		Dhakal2024	[x]
+372	Jirel	Spider	ŋɡwãpali	ⁿg/g.w ã + p a + l i		Dhakal2024	[x]
+628	Kagate	Spider	kiɡor	k i + g o.r		Dhakal2024	[x]
+885	Lowa	Spider	mbut̪om	ⁿb/b u + t̪ o.m		Dhakal2024	[x]
+1137	Nubri	Spider	pabla	p a.bl/l + !Ø/b a		Dhakal2024	[x]
+1388	Sherpa	Spider	bəldzjaŋ	b ə.l + dz.j a.ŋ		Dhakal2024	[x]
+1631	Tsum	Spider	tɹaula	t̪.ɹ au + l a		Dhakal2024	[x]
+1893	Yolmo	Spider	ɕwabu	ɕ.w a + b u		Dhakal2024	[x]
+2651	OldTibetan	Spider	s.d.o.m	s.d o.m		Sagart2019	
+2652	Batang	Spider	dʐ.a.⁵³.◦.k.a.⁵⁵.◦.r.a.⁵³	ɖʐ a ⁵³ + k a ⁵⁵ + r a ⁵³		Sagart2019	
+2653	Lhasa	Spider	t.o.m.¹³	t o.m ¹³		Sagart2019	
+2654	Xiahe	Spider	d.o.m	d o.m		Sagart2019	
+2655	Alike	Spider	n.g.o.ŋ._.ŋ.o._.n.a.k._.r.b.ə.t	n.g o.ŋ + ŋ o + n a.k + r.b ə.t		Sagart2019	!
+2656	OldChinese	Spider	t.r.e.+.t.r.o	t.r e + t.r o		Sagart2019	
+51	Gyalsumdo	Star	kaɹma	k a.ɹ + m a		Dhakal2024	s.k a.r
+312	Jirel	Star	kaɹma	k a.ɹ + m a		Dhakal2024	s.k a.r
+571	Kagate	Star	karma	k a.r + m a		Dhakal2024	s.k a.r
+825	Lowa	Star	kaɹma	k aɹ/a + m a		Dhakal2024	s.k a.r
+1081	Nubri	Star	kaɹma	k a.ɹ + m a		Dhakal2024	s.k a.r
+1330	Sherpa	Star	kərma	k ə/a.r + m a		Dhakal2024	s.k a.r
+1331	Sherpa	Star	kərdzjaŋ	k ə/a.r + dz.j a.ŋ		Dhakal2024	s.k a.r
+1575	Tsum	Star	kaɹma	k a.ɹ + m a		Dhakal2024	s.k a.r
+1836	Yolmo	Star	kəɾma	k ə/a.ɾ/ɹ + m a		Dhakal2024	s.k a.r
+2657	OldTibetan	Star	s.k.a.r.m.a	s.k a.r + m a		Sagart2019	
+2658	Batang	Star	m.a.⁵⁵.◦.m.a.⁵³	m a ⁵⁵ + m a ⁵³		Sagart2019	
+2659	Lhasa	Star	k.aː.⁵⁵.◦.m.a.⁵⁵	k aː ⁵⁵ + m a ⁵⁵		Sagart2019	
+2660	Alike	Star	r.k.a.r._.m.æ	r.k a.r + m æ		Sagart2019	!
+2661	Xiahe	Star	h.k.a.r._.m.a	h.k a.r + m a		Sagart2019	!
+2662	OldChinese	Star	s.+.tsʰˤ.e.ŋ	s + tsʰˤ e.ŋ		Sagart2019	
+262	Gyalsumdo	Stick	kjukpa	k.j u.k + p a		Dhakal2024	[x]
+522	Jirel	Stick	dəndi	d̪ ə + ⁿd/d̪ i		Dhakal2024	[x]
+774	Kagate	Stick	perka	p e.r + k a		Dhakal2024	[x]
+1033	Lowa	Stick	pekjoʔ	p e.k + j o.ʔ		Dhakal2024	[x]
+1279	Nubri	Stick	pikpa	p i.k + p a		Dhakal2024	[x]
+1280	Nubri	Stick	peɹka	p e.ɹ + k a		Dhakal2024	[x]
+1526	Sherpa	Stick	t̪oŋləŋ	t̪ o.ŋ + l ə.ŋ		Dhakal2024	[x]
+1784	Tsum	Stick	perka	p e.ɹ + k a		Dhakal2024	[x]
+2037	Yolmo	Stick	pɹeka	p !ɹ/e.!Ø/ɹ + k a		Dhakal2024	[x]
+2663	OldTibetan	Stick	d.b.j.u.g	d.b.j u.g		Sagart2019	
+2664	Batang	Stick	j.ᴜ.⁵⁵.◦.p.ɑ.ʔ.⁵³	j u ⁵⁵ + p ɑ.ʔ ⁵³		Sagart2019	
+2665	Lhasa	Stick	j.u.k.⁵⁵.◦.p.ə.⁵⁵	j u.k ⁵⁵ + p ə ⁵⁵		Sagart2019	
+2666	Xiahe	Stick	ʔ.o._.tɕ.o	ʔ o./o + tɕ o		Sagart2019	
+2667	Lhasa	Stick	c.u.k.¹³.◦.p.a.⁵²	c u.k ¹³ + p a ⁵²		Sagart2019	
+2668	Alike	Stick	o._.tɕh.o	o + tɕʰ o		Sagart2019	
+2669	OldChinese	Stick	m.+.t.r.a.ŋ.ʔ	m + t r a ŋ ʔ		Sagart2019	
+59	Gyalsumdo	Stone	t̪o	t̪ o		Dhakal2024	[x]
+321	Jirel	Stone	nd̪o	ⁿd/d̪ o		Dhakal2024	[x]
+579	Kagate	Stone	t̪o	t̪ o		Dhakal2024	[x]
+834	Lowa	Stone	t̪okoŋ	t̪ o + k o.ŋ		Dhakal2024	[x]
+1089	Nubri	Stone	t̪oh	t̪ o.h		Dhakal2024	[x]
+1339	Sherpa	Stone	d̪o	d̪ o		Dhakal2024	[x]
+1583	Tsum	Stone	t̪o	t̪ o		Dhakal2024	[x]
+1845	Yolmo	Stone	t̪o	t̪ o		Dhakal2024	[x]
+2670	OldTibetan	Stone	r.d.o	r.d o		Sagart2019	
+2671	Alike	Stone	r.d.o	r.d o		Sagart2019	
+2672	Xiahe	Stone	d.o	d o		Sagart2019	
+2673	Batang	Stone	d.ᴜ.⁵³	d u ⁵³		Sagart2019	
+2674	Lhasa	Stone	t.o.¹³	t o ¹³		Sagart2019	
+2675	OldChinese	Stone	d.ᴀ.k	d ɑ̟.k		Sagart2019	
+47	Gyalsumdo	Sun	ɲima	ɲ i + m a		Dhakal2024	[x]
+309	Jirel	Sun	ɲima	ɲ i + m a		Dhakal2024	[x]
+568	Kagate	Sun	ŋima	ŋ i + m a		Dhakal2024	[x]
+822	Lowa	Sun	ɲima	ɲ i + m a		Dhakal2024	[x]
+1078	Nubri	Sun	ɲo	ɲ o		Dhakal2024	[x]
+1327	Sherpa	Sun	ɲima	ɲ i + m a		Dhakal2024	[x]
+1572	Tsum	Sun	ɲiã	ɲ i + !Ø/m ã/a		Dhakal2024	[x]
+1833	Yolmo	Sun	ɲima	ɲ i + m a		Dhakal2024	[x]
+2676	OldTibetan	Sun	ɲ.i.m.a	ɲ i + m a		Sagart2019	
+2677	Batang	Sun	n.ɪ.¹³.◦.m.ɑ.⁵⁵	n ɪ ¹³ + m ɑ ⁵⁵		Sagart2019	
+2678	Lhasa	Sun	ȵ.i.¹³.◦.m.ə.⁵⁵	ȵ i ¹³ + m ə ⁵⁵		Sagart2019	
+2679	Xiahe	Sun	ȵ.ə._.m.a	ȵ ə + m a		Sagart2019	
+2680	Alike	Sun	ȵ.ə._.m.æ	ȵ ə + m æ		Sagart2019	
+2681	OldChinese	Sun	C/.+.n.i.k	ç/k + n i.k		Sagart2019	
+102	Gyalsumdo	Tail	ŋama	ŋ a + m a		Dhakal2024	[x]
+364	Jirel	Tail	ŋama	ŋ a + m a		Dhakal2024	[x]
+620	Kagate	Tail	ŋama	ŋ a + m a		Dhakal2024	[x]
+877	Lowa	Tail	ŋama	ŋ a + m a		Dhakal2024	[x]
+1130	Nubri	Tail	ŋõ	ŋ !õ/o		Dhakal2024	[x]
+1380	Sherpa	Tail	ŋəma	ŋ ə + m a		Dhakal2024	[x]
+1624	Tsum	Tail	ŋa	ŋ a		Dhakal2024	[x]
+1886	Yolmo	Tail	ŋama	ŋ a + m a		Dhakal2024	[x]
+2682	OldTibetan	Tail	r.ŋ.a.m.a	r.ŋ a + m a		Sagart2019	
+2683	Lhasa	Tail	ŋ.a.⁵⁵.◦.m.a.⁵⁵	ŋ a ⁵⁵ + m a ⁵⁵		Sagart2019	
+2684	Lhasa	Tail	ɕ.u.¹³.◦.k.u.⁵⁵	ɕ u ¹³ + k u ⁵⁵		Sagart2019	
+2685	Batang	Tail	ŋ.a.⁵⁵.◦.m.a.⁵³	ŋ a ⁵⁵ + m a ⁵³		Sagart2019	
+2686	Alike	Tail	r.ŋ.a._.m.æ	r.ŋ a + m æ		Sagart2019	!
+2687	Xiahe	Tail	h.ŋ.a._.m.a	h.ŋ a + m a		Sagart2019	
+2688	OldChinese	Tail	m.ə.j.ʔ	m ə.j ʔ		Sagart2019	
+2689	OldTibetan	Tail	m.dʑ.u.g.+.m.a	m.dʑ u.g + m a		Sagart2019	
+10	Gyalsumdo	Teeth	so	s o		Dhakal2024	[x]
+276	Jirel	Teeth	sa	s a		Dhakal2024	[x]
+535	Kagate	Teeth	so	s o		Dhakal2024	[x]
+788	Lowa	Teeth	so	s o		Dhakal2024	[x]
+1046	Nubri	Teeth	sa	s a		Dhakal2024	[x]
+1294	Sherpa	Teeth	sa	s a		Dhakal2024	[x]
+1539	Tsum	Teeth	sa	s a		Dhakal2024	[x]
+1800	Yolmo	Teeth	so	s o		Dhakal2024	[x]
+2747	OldTibetan	Teeth	s.o	s o		Sagart2019	
+2748	Batang	Teeth	s.ᴜ.⁵³	s u ⁵³		Sagart2019	
+2749	Xiahe	Teeth	sʰ.o	sʰ o		Sagart2019	???
+2750	Lhasa	Teeth	s.o.⁵⁵	s o ⁵⁵		Sagart2019	
+2751	Alike	Teeth	sʰ.o	sʰ o		Sagart2019	
+2752	OldChinese	Teeth	t.+.kʰ.ə.ʔ	t + kʰ ə.ʔ		Sagart2019	#634 PTB *d-ŋa TUSK / TOOTH, or *t.ŋ̊əʔ
+175	Gyalsumdo	Ten	tɕu	tɕ u.!Ø/k		Dhakal2024	[x]
+434	Jirel	Ten	tɕut̪amba	tɕ u + t̪ a.m + b a		Dhakal2024	[x]
+691	Kagate	Ten	tɕju	tɕj/tɕ u		Dhakal2024	[x]
+948	Lowa	Ten	tɕu	tɕ u		Dhakal2024	[x]
+1198	Nubri	Ten	tɕju	tɕj/tɕ u		Dhakal2024	[x]
+1448	Sherpa	Ten	tɕju	tɕj/tɕ u		Dhakal2024	[x]
+1691	Tsum	Ten	tɕu	tɕ u		Dhakal2024	[x]
+1953	Yolmo	Ten	tɕju	tɕj/tɕ u		Dhakal2024	[x]
+2690	OldTibetan	Ten	b.tɕ.u	b.tɕ u		Sagart2019	
+2691	Xiahe	Ten	tɕ.ə._.th.a._.m.b.a	tɕ ə + tʰ a + m.b a		Sagart2019	!
+2692	Lhasa	Ten	tɕ.u.⁵⁵	tɕ u ⁵⁵		Sagart2019	
+2693	Alike	Ten	p.tɕ.ə	p.tɕ ə		Sagart2019	!
+2694	Batang	Ten	tɕ.ᴜ.⁵³	tɕ u ⁵³		Sagart2019	
+2695	OldChinese	Ten	t.+.g.ə.p	t + g ə.p		Sagart2019	
+187	Gyalsumdo	That	ot̪i	o + t̪ i		Dhakal2024	[x]
+446	Jirel	That	t̪ʰe	t̪ʰ e		Dhakal2024	[x]
+703	Kagate	That	wokʰo	w o + kʰ o		Dhakal2024	[x]
+961	Lowa	That	jy	j y		Dhakal2024	[x]
+962	Lowa	That	wy	!w/j y		Dhakal2024	[x]
+1211	Nubri	That	pʰu	pʰ u		Dhakal2024	[x]
+1460	Sherpa	That	t̪ʰi	t̪ʰ i		Dhakal2024	[x]
+1703	Tsum	That	o	o		Dhakal2024	[x]
+1966	Yolmo	That	pʰarŋe	pʰ a.r + ŋ e		Dhakal2024	[x]
+2696	OldTibetan	That	d.e	d e		Sagart2019	
+2697	Lhasa	That	ph.ə.⁵⁵._.k.i.⁵⁵	pʰ ə ⁵⁵ + k i ⁵⁵		Sagart2019	
+2698	Batang	That	e.¹³._.d.e.⁵³	e ¹³ + d e ⁵³		Sagart2019	
+2699	Xiahe	That	k.a.n	k a.n		Sagart2019	
+2700	Alike	That	k.a.n._.n.æ	k a.n + n æ		Sagart2019	
+2701	OldChinese	That	p.a.j.ʔ	p a.j ʔ		Sagart2019	
+186	Gyalsumdo	This	t̪i	t̪ i		Dhakal2024	[x]
+445	Jirel	This	nd̪i	ⁿd/d̪ i		Dhakal2024	[x]
+702	Kagate	This	d̪ikʰo	d̪ i + kʰ o		Dhakal2024	[x]
+960	Lowa	This	nd̪i	ⁿd/d i		Dhakal2024	[x]
+1209	Nubri	This	t̪i	!t̪/d̪ i		Dhakal2024	[x]
+1210	Nubri	This	d̪i	d̪ i		Dhakal2024	[x]
+1459	Sherpa	This	d̪i	d̪ i		Dhakal2024	[x]
+1702	Tsum	This	nd̪i	ⁿd/d̪ i		Dhakal2024	[x]
+1965	Yolmo	This	nd̪i	ⁿd/d̪ i		Dhakal2024	[x]
+2702	OldTibetan	This	ɴ.d.i	ɴ.d i		Sagart2019	
+2703	Lhasa	This	t.i.¹³	t i ¹³		Sagart2019	
+2704	Xiahe	This	n.d.ə	n.d ə		Sagart2019	!
+2705	Batang	This	ʔ.e.⁵⁵._.d.e.⁵³	ʔ e ⁵⁵ + d e ⁵³		Sagart2019	
+2706	Alike	This	n.d.ə	n.d ə		Sagart2019	!
+2707	OldChinese	This	tsʰ.e.ʔ	tsʰ e.ʔ		Sagart2019	
+167	Gyalsumdo	Three	sum	s u.m		Dhakal2024	[x]
+427	Jirel	Three	sum	s u.m		Dhakal2024	[x]
+684	Kagate	Three	sum	s u.m		Dhakal2024	[x]
+940	Lowa	Three	sum	s u.m		Dhakal2024	[x]
+1190	Nubri	Three	sum	s u.m		Dhakal2024	[x]
+1441	Sherpa	Three	sum	s u.m		Dhakal2024	[x]
+1684	Tsum	Three	sum	s u.m		Dhakal2024	[x]
+1946	Yolmo	Three	sum	s u.m		Dhakal2024	[x]
+2715	OldTibetan	Three	g.s.u.m	g.s u.m		Sagart2019	
+2716	Batang	Three	s.ɑ̃.∼.⁵⁵	s ɑ̃ ⁵⁵		Sagart2019	
+2717	Xiahe	Three	h.s.ə.m	h.s ə.m		Sagart2019	!
+2718	Lhasa	Three	s.u.m.⁵⁵	s u.m ⁵⁵		Sagart2019	
+2719	Alike	Three	ɣ.s.ə.m	ɣ.s ə.m		Sagart2019	! ɣs
+2720	OldChinese	Three	s.r.u.m	s.r u.m		Sagart2019	
+200	Gyalsumdo	To bite	ale	a + l e		Dhakal2024	[x]
+201	Gyalsumdo	To bite	soɡjapb	s o + g.j a.!pb/p		Dhakal2024	[x]
+459	Jirel	To bite	muɹtɕja	m u.ɹ + tɕ.j a		Dhakal2024	[x]
+460	Jirel	To bite	muɹab	m u.!Ø/ɹ + ɹ a.b		Dhakal2024	[x]
+715	Kagate	To bite	murtse	m u.r + !ts/dz e		Dhakal2024	[x]
+975	Lowa	To bite	soɡjapje	s o + g.j a.p + j e		Dhakal2024	[x]
+976	Lowa	To bite	mukje	m u.g/k + j e		Dhakal2024	[x]
+1222	Nubri	To bite	soɡjap	s o + g.j a.p		Dhakal2024	[x]
+1471	Sherpa	To bite	sət̪əbu	s ə + t̪ ə + b u		Dhakal2024	[x]
+1715	Tsum	To bite	sat̪ob	s a + t̪ o.b		Dhakal2024	[x]
+1978	Yolmo	To bite	muɹd̪uŋ	m u.ɹ + d̪ u.ŋ		Dhakal2024	[x]
+2090	OldTibetan	To bite	b.z.a.s	b.z a.s		Sagart2019	
+2091	Lhasa	To bite	s.o.⁵⁵._.c.a.¹³²	s o ⁵⁵ + c a ¹³²		Sagart2019	
+2092	Batang	To bite	ndʐ.ɛ.ʔ.⁵³	ⁿɖʐ ɛ.ʔ ⁵³		Sagart2019	!
+2093	Xiahe	To bite	sʰ.o._.nd.e.p	sʰ o + ⁿd e.p		Sagart2019	!
+2094	Alike	To bite	w.a._.w.d.i._.w.ɟ.j.a.p	w a + w.d i + w.ɟ.j a.p		Sagart2019	!
+2095	OldChinese	To bite	d.e.t.+.s	d e.t + s		Sagart2019	
+2096	OldTibetan	To bite	r.m.u.g	r.m u.g		Sagart2019	
+264	Gyalsumdo	To chew	leke	l e + k e		Dhakal2024	[x]
+524	Jirel	To chew	muɹat̪e	m u.!Ø/ɹ + ɹ a + t̪ e		Dhakal2024	[x]
+776	Kagate	To chew	d̪etse	d̪ e + !ts/dz e		Dhakal2024	[x]
+1035	Lowa	To chew	leje	l e + j e		Dhakal2024	[x]
+1283	Nubri	To chew	muɹ	m u.ɹ		Dhakal2024	[x]
+1528	Sherpa	To chew	leku	l e + k u		Dhakal2024	[x]
+1787	Tsum	To chew	tɹoʔ	t̪.ɹ o.ʔ		Dhakal2024	[x]
+2039	Yolmo	To chew	muɾt̪oŋ	m u.!ɾ/ɹ + !t̪/d̪ !o/u.ŋ		Dhakal2024	[x]
+2123	OldTibetan	To chew	ɴ.tɕʰ.a	ɴ.tɕʰ a		Sagart2019	
+2124	Xiahe	To chew	d.a.l	d a.l		Sagart2019	
+2125	Lhasa	To chew	m.u.r.¹³	m u.r ¹³		Sagart2019	
+2126	Batang	To chew	tɕ.a.⁵³	tɕ a ⁵³		Sagart2019	
+2127	Alike	To chew	m.o._.r.e	m o + r e		Sagart2019	
+2128	Alike	To chew	r.d.a.t	r.d a.t		Sagart2019	!
+2129	Batang	To chew	m.ᴜ.²³¹	m u ²³¹		Sagart2019	
+2130	OldChinese	To chew	dz.e.w.k.+.s	dz e.w.k + s		Sagart2019	
+216	Gyalsumdo	To come	ɕjo	ɕ.j o		Dhakal2024	
+217	Gyalsumdo	To come	oŋ	o.ŋ		Dhakal2024	
+483	Jirel	To come	ɕjok	ɕ.j o.k		Dhakal2024	
+730	Kagate	To come	oŋdze	o.ŋ + dz e		Dhakal2024	
+991	Lowa	To come	uŋje	u.ŋ + j e		Dhakal2024	
+1237	Nubri	To come	oŋ	o.ŋ		Dhakal2024	
+1486	Sherpa	To come	uŋgu	u.ŋ + g u		Dhakal2024	
+1734	Tsum	To come	ɕjoʔ	ɕ.j o.ʔ		Dhakal2024	
+1735	Tsum	To come	leuʑuŋ	l eu + ʑ u.ŋ		Dhakal2024	
+1993	Yolmo	To come	ɕjo	ɕ.j o		Dhakal2024	
+2149	OldTibetan	To come	j.o.ŋ	j o.ŋ		Sagart2019	
+2150	Lhasa	To come	ɕ.o.⁵²	ɕ o.⁵²		Sagart2019	
+2151	Lhasa	To come	j.o.ŋ.¹³	j o.ŋ ¹³		Sagart2019	
+2152	Lhasa	To come	ph.e.⁵²	pʰ e ⁵²		Sagart2019	
+2153	Batang	To come	ʔ.õ.∼.¹³	ʔ õ ¹³		Sagart2019	
+2154	Batang	To come	xh.o.ʔ.⁵³	xʰ o.ʔ ⁵³		Sagart2019	
+2155	Xiahe	To come	j.o.ŋ	j o.ŋ		Sagart2019	
+2156	Alike	To come	j.o.ŋ	j o.ŋ		Sagart2019	
+2157	Alike	To come	xh.o.k	xʰ o.k		Sagart2019	?
+2158	OldChinese	To come	m.ə.+.rˤ.ə.k	m ə + rˤ ə.k		Sagart2019	
+210	Gyalsumdo	To die	ɕi	ɕ i		Dhakal2024	← Chinese sǐ
+474	Jirel	To die	ɕjapt̪e	ɕ.j a.p + t̪ e		Dhakal2024	? ← Chinese sǐ
+724	Kagate	To die	ɕidze	ɕ i + dz e		Dhakal2024	← Chinese sǐ
+985	Lowa	To die	ɕije	ɕ i + j e		Dhakal2024	← Chinese sǐ
+1231	Nubri	To die	ɕi	ɕ i		Dhakal2024	← Chinese sǐ
+1480	Sherpa	To die	ɕiu	ɕ i + u		Dhakal2024	← Chinese sǐ
+1727	Tsum	To die	ɕiso	ɕ i + s o		Dhakal2024	← Chinese sǐ
+1987	Yolmo	To die	ɕid̪e	ɕ i + d̪ e		Dhakal2024	← Chinese sǐ
+2165	OldTibetan	To die	ɕ.i	ɕ i		Sagart2019	
+2166	Lhasa	To die	ɕ.i.⁵⁵	ɕ i ⁵⁵		Sagart2019	
+2167	Batang	To die	xh.i.⁵³	xʰ i ⁵³		Sagart2019	
+2168	Xiahe	To die	xh.ə	xʰ ə		Sagart2019	
+2169	Alike	To die	xh.ə	xʰ ə		Sagart2019	?
+2170	OldChinese	To die	s.i.j.ʔ	s i.j ʔ		Sagart2019	
+203	Gyalsumdo	To drink	t̪ʰuŋ	t̪ʰ u.ŋ		Dhakal2024	[x]
+463	Jirel	To drink	t̪ʰuŋ	t̪ʰ u.ŋ		Dhakal2024	[x]
+464	Jirel	To drink	t̪ʰubat̪e	t̪ʰ u.!Ø/ŋ + b a + t̪ e		Dhakal2024	[x]
+717	Kagate	To drink	t̪ʰuŋdze	t̪ʰ u.ŋ + dz e		Dhakal2024	[x]
+978	Lowa	To drink	t̪ʰuŋje	t̪ʰ u.ŋ + j e		Dhakal2024	[x]
+1224	Nubri	To drink	t̪ʰuŋ	t̪ʰ u.ŋ		Dhakal2024	[x]
+1473	Sherpa	To drink	t̪ʰuŋɡu	t̪ʰ u.ŋ + g u		Dhakal2024	[x]
+1717	Tsum	To drink	t̪ʰuŋ	t̪ʰ u.ŋ		Dhakal2024	[x]
+1980	Yolmo	To drink	t̪ʰuŋd̪uŋ	t̪ʰ u.ŋ + !d̪/t̪ʰ u.ŋ		Dhakal2024	[x]
+2177	OldTibetan	To drink	ɴ.tʰ.u.ŋ	ɴ.tʰ u.ŋ		Sagart2019	
+2178	Lhasa	To drink	th.u.ŋ.⁵⁵	tʰ u.ŋ ⁵⁵		Sagart2019	
+2179	Xiahe	To drink	th.o.ŋ	tʰ o.ŋ		Sagart2019	
+2180	Alike	To drink	th.o.ŋ	tʰ o.ŋ		Sagart2019	
+2181	Batang	To drink	th.û.⁵⁵	tʰ û/u ⁵⁵		Sagart2019	
+2182	OldChinese	To drink	q.u.m.ʔ	q u.m ʔ		Sagart2019	
+199	Gyalsumdo	To eat	se	s e		Dhakal2024	[x]
+456	Jirel	To eat	so	s o		Dhakal2024	[x]
+457	Jirel	To eat	soba	s o + b a		Dhakal2024	[x]
+458	Jirel	To eat	sabla	s a.b + l a		Dhakal2024	[x]
+714	Kagate	To eat	sadze	s a + dz e		Dhakal2024	[x]
+974	Lowa	To eat	saje	s a + j e		Dhakal2024	[x]
+1221	Nubri	To eat	seji	s e + j i		Dhakal2024	[x]
+1470	Sherpa	To eat	sap	s a.p		Dhakal2024	[x]
+1713	Tsum	To eat	so	s o		Dhakal2024	[x]
+1714	Tsum	To eat	seso	s e + s o		Dhakal2024	[x]
+1977	Yolmo	To eat	so	s o		Dhakal2024	[x]
+2202	OldTibetan	To eat	z.a	z a		Sagart2019	
+2203	Lhasa	To eat	s.a.¹³	s a ¹³		Sagart2019	
+2204	Batang	To eat	s.a.²³¹	s a ²³¹		Sagart2019	
+2205	Xiahe	To eat	s.a	s a		Sagart2019	
+2206	Alike	To eat	s.æ	s æ		Sagart2019	
+2207	OldChinese	To eat	m.ə.+.l.ə.k	m ə + l ə.k		Sagart2019	
+212	Gyalsumdo	To fly	pʰiɹ	pʰ i.ɹ		Dhakal2024	
+476	Jirel	To fly	pʰuɹ	pʰ u.ɹ		Dhakal2024	
+477	Jirel	To fly	pʰuɹat̪e	pʰ u.!Ø/ɹ + ɹ a + t̪ e		Dhakal2024	
+726	Kagate	To fly	urtse	!Ø/pʰ u.r + !ts/dz e		Dhakal2024	
+987	Lowa	To fly	pʰuɾje	pʰ u.ɾ + j e		Dhakal2024	
+1233	Nubri	To fly	pʰuɹ	pʰ u.ɹ		Dhakal2024	
+1482	Sherpa	To fly	pʰirku	pʰ i.r + k u		Dhakal2024	
+1729	Tsum	To fly	pʰiɹso	pʰ i.ɹ + s o		Dhakal2024	
+1989	Yolmo	To fly	loŋ	l o.ŋ		Dhakal2024	
+2270	OldTibetan	To fly	ɴ.pʰ.u.r.◦	ɴ.pʰ u.r		Sagart2019	
+2271	Batang	To fly	d.ĩ.∼.⁵⁵	d ĩ ⁵⁵		Sagart2019	
+2272	Xiahe	To fly	ph.ə.r	pʰ ə.r		Sagart2019	
+2273	Lhasa	To fly	ph.i.r.⁵⁵	pʰ i.r ⁵⁵		Sagart2019	
+2274	Alike	To fly	m.p.ə.r	m.p ə.r		Sagart2019	!
+2275	OldChinese	To fly	C/.ə.+.p.ə.r	ç/k ə + p ə.r		Sagart2019	
+208	Gyalsumdo	To give	t̪eɹ	t̪ e.ɹ		Dhakal2024	
+471	Jirel	To give	mbind̪at̪e	ⁿb/b i.n + d̪ a + t̪ e		Dhakal2024	
+722	Kagate	To give	t̪ertse	t̪ e.r + !ts/dz e		Dhakal2024	
+983	Lowa	To give	t̪eɾje	t̪ e.ɾ + j e		Dhakal2024	
+1229	Nubri	To give	t̪e	t̪ e		Dhakal2024	
+1478	Sherpa	To give	t̪eru	t̪ e.Ø/r + r u		Dhakal2024	
+1724	Tsum	To give	t̪øʔ	t̪ ø.ʔ		Dhakal2024	
+1725	Tsum	To give	t̪eʔso	t̪ e.ʔ + s o		Dhakal2024	
+1985	Yolmo	To give	t̪eɾt̪uŋ	t̪ e.ɾ/ɹ + t̪ u.ŋ		Dhakal2024	
+2288	OldTibetan	To give	s.b.ʲ.i.n	s.b.j i.n		Sagart2019	
+2289	Lhasa	To give	tʂ.ɛ.⁵²	ʈʂ ɛ ⁵²		Sagart2019	
+2290	Lhasa	To give	t.eː.⁵⁵	t eː ⁵⁵		Sagart2019	
+2291	Xiahe	To give	h.t.e.r	h.t e.r		Sagart2019	!
+2292	Alike	To give	r.t.e.r	r.t e.r		Sagart2019	!
+2293	Alike	To give	w.ɕ.ə.n	w.ɕ ə.n		Sagart2019	!
+2294	Batang	To give	t.ɛ.ʔ.⁵³	t ɛ.ʔ ⁵³		Sagart2019	
+2295	OldChinese	To give	p.i.t.+.s	p i.t + s		Sagart2019	
+211	Gyalsumdo	To kill	se	s e		Dhakal2024	← Chinese shā
+475	Jirel	To kill	set̪at̪e	s e + t̪ a + t̪ e		Dhakal2024	← Chinese shā
+725	Kagate	To kill	setse	s e + !ts/dz e		Dhakal2024	← Chinese shā
+986	Lowa	To kill	seje	s e + j e		Dhakal2024	← Chinese shā
+1232	Nubri	To kill	se	s e		Dhakal2024	← Chinese shā
+1481	Sherpa	To kill	seku	s e + k u		Dhakal2024	← Chinese shā
+1728	Tsum	To kill	seso	s e + s o		Dhakal2024	← Chinese shā
+1988	Yolmo	To kill	set̪oŋ	s e + t̪ o.ŋ		Dhakal2024	← Chinese shā
+2394	OldTibetan	To kill	g.s.o.d	g.s o.d		Sagart2019	
+2395	Lhasa	To kill	s.ɛ.⁵²	s ɛ ⁵²		Sagart2019	
+2396	Batang	To kill	tʂ.ũ.∼.⁵⁵	ʈʂ ũ ⁵⁵		Sagart2019	
+2397	Batang	To kill	s.ɛ.ʔ.⁵³	s ɛ.ʔ ⁵³		Sagart2019	
+2398	Xiahe	To kill	s.ɕ.l	s.ɕ !Ø/a.l		Sagart2019	!
+2399	Xiahe	To kill	ɕ.a	ɕ a		Sagart2019	
+2400	Alike	To kill	p.s.a.t	p.s a.t		Sagart2019	!
+2401	OldChinese	To kill	s.r.a.t	s.r a.t		Sagart2019	
+214	Gyalsumdo	To run	t̪aɹkjulaŋ	t̪ a.ɹ + k.j u + l a.ŋ		Dhakal2024	
+480	Jirel	To run	tɕʰwabat̪e	tɕʰ.w a + b a + t̪ e		Dhakal2024	
+728	Kagate	To run	tɕʰjoŋdze	tɕʰj/tɕʰ o.ŋ + dz e		Dhakal2024	
+989	Lowa	To run	paŋt̪aŋje	p a.ŋ + t̪ a + ŋ.j e		Dhakal2024	
+1235	Nubri	To run	lat̪aŋ	l a + t̪ a.ŋ		Dhakal2024	
+1484	Sherpa	To run	tɕʰjoŋɡu	tɕʰj/tɕʰ o.ŋ + g u		Dhakal2024	
+1731	Tsum	To run	tɕʰoŋdo	tɕʰ o.ŋ + d̪ o		Dhakal2024	
+1991	Yolmo	To run	tɕʰjuŋd̪uŋ	tɕʰj/tɕʰ u.ŋ + d̪ u.ŋ		Dhakal2024	
+2574	Lhasa	To run	c.u.¹³²	c u ¹³²		Sagart2019	
+2575	Batang	To run	dʑ.u.ʔ.⁵³	dʑ u.ʔ ⁵³		Sagart2019	
+2576	Alike	To run	r.ɟj.u.k	r.ɟʲ u.k		Sagart2019	!
+2577	Xiahe	To run	dʑ.ə.χ	dʑ ə.χ		Sagart2019	
+2578	OldChinese	To run	pˤ.u.r	pˤ u.r		Sagart2019	
+2579	OldChinese	To run	tsˤ.o.ʔ	tsˤ o ʔ		Sagart2019	
+205	Gyalsumdo	To sleep	ɲal	ɲ a.l		Dhakal2024	[x]
+466	Jirel	To sleep	ɲol	ɲ !o/a.l		Dhakal2024	[x]
+467	Jirel	To sleep	ɲalat̪e	ɲ a.!Ø/l + l a + t̪ e		Dhakal2024	[x]
+719	Kagate	To sleep	ɲaldze	ɲ a.l + dz e		Dhakal2024	[x]
+980	Lowa	To sleep	ɲaje	ɲ a + j e		Dhakal2024	[x]
+1226	Nubri	To sleep	ɲal	ɲ a.l		Dhakal2024	[x]
+1475	Sherpa	To sleep	ŋiloku	ŋ i + l o + k u		Dhakal2024	[x]
+1719	Tsum	To sleep	ɲol	ɲ !o/a.l		Dhakal2024	[x]
+1720	Tsum	To sleep	ɲalso	ɲ a.l + s o		Dhakal2024	[x]
+1982	Yolmo	To sleep	ɲald̪uŋ	ɲ a.l + d̪ u.ŋ		Dhakal2024	[x]
+2624	OldTibetan	To sleep	g.ɲ.i.d._.ɲ.a.l	g.ɲ i.d + ɲ a.l		Sagart2019	
+2625	Lhasa	To sleep	ȵ.ɛ.¹³	ȵ ɛ ¹³		Sagart2019	
+2626	Batang	To sleep	ȵ.e.¹³	ȵ e ¹³		Sagart2019	
+2627	Xiahe	To sleep	n.a	n a		Sagart2019	
+2628	Alike	To sleep	ȵ.a	ȵ a		Sagart2019	
+2629	OldChinese	To sleep	tsʰ.i.m.ʔ	tsʰ i.m ʔ		Sagart2019	
+2630	OldChinese	To sleep	m.i.t.+.s	m i.t + s		Sagart2019	
+266	Gyalsumdo	To throw	jukɛ	j u + k ɛ		Dhakal2024	[x]
+267	Gyalsumdo	To throw	juɹkɛ	j u.ɹ + k ɛ		Dhakal2024	[x]
+526	Jirel	To throw	kjuɹat̪e	k.j u.ɹ + a + t̪ e		Dhakal2024	[x]
+778	Kagate	To throw	kurtse	k.!Ø/j u.r + !ts/dz e		Dhakal2024	[x]
+1037	Lowa	To throw	juɡje	j u.!g/k + j e		Dhakal2024	[x]
+1285	Nubri	To throw	juk	j u.k		Dhakal2024	[x]
+1530	Sherpa	To throw	juku	j u + k u		Dhakal2024	[x]
+1790	Tsum	To throw	kjut	k.j u.t̪		Dhakal2024	[x]
+1791	Tsum	To throw	kjuɾtsoŋ	k.j u.ɹ + ts o.ŋ		Dhakal2024	[x]
+2041	Yolmo	To throw	kjuɹd̪uŋ	k.j u.ɹ + d̪ u.ŋ		Dhakal2024	[x]
+2721	OldTibetan	To throw	d.b.j.u.g	d.b.j u.g		Sagart2019	
+2722	Lhasa	To throw	j.u.⁵²	j u ⁵²		Sagart2019	
+2723	Batang	To throw	dʑ.õ.∼.¹³	dʑ õ ¹³		Sagart2019	
+2724	Batang	To throw	ʑ.u.ʔ.⁵³	ʑ u.ʔ ⁵³		Sagart2019	
+2725	Xiahe	To throw	h.e.n	h e.n		Sagart2019	
+2726	OldChinese	To throw	dˤ.o	dˤ o		Sagart2019	
+2727	OldTibetan	To throw	ɴ.pʰ.e.n	ɴ.pʰ e.n		Sagart2019	
+213	Gyalsumdo	To walk	kju	k.j u		Dhakal2024	?
+478	Jirel	To walk	kʰjom	kʰ.j o.m		Dhakal2024	?
+479	Jirel	To walk	kʰjambat̪e	kʰ.j a.m + b a + t̪ e		Dhakal2024	?
+727	Kagate	To walk	dodze	d̪ o + dz e		Dhakal2024	?
+988	Lowa	To walk	ndoje	ⁿd/d o + j e		Dhakal2024	?
+1234	Nubri	To walk	kombaɡjap	k o.m + b a.g/k + j a.p		Dhakal2024	?
+1483	Sherpa	To walk	dop	!d/d̪ o.p		Dhakal2024	?
+1730	Tsum	To walk	ndo	ⁿd/d̪ o		Dhakal2024	?
+1990	Yolmo	To walk	ndo	ⁿd/d̪ o		Dhakal2024	?
+2771	OldTibetan	To walk	ɴ.g.r.o.◦	ɴ.g r o		Sagart2019	
+2772	Lhasa	To walk	tʂ.o.¹³	ʈʂ o ¹³		Sagart2019	
+2773	Batang	To walk	ndʐ.o.⁵³	ⁿɖʐ o ⁵³		Sagart2019	!
+2774	Batang	To walk	tɕʰ.ø.⁵⁵	tɕʰ ø ⁵⁵		Sagart2019	
+2775	Xiahe	To walk	ndʑ.o	ⁿdʑ o		Sagart2019	!
+2776	Lhasa	To walk	ph.e.⁵²	pʰ e ⁵²		Sagart2019	
+2777	Alike	To walk	n.ɟ.j.o	n.ɟ.j o		Sagart2019	!
+2778	Batang	To walk	xh.ɛ.ʔ.⁵³	xʰ ɛ.ʔ ⁵³		Sagart2019	
+2779	OldChinese	To walk	C/.ə.+.gˤ.r.a.ŋ	ç/k ə + gˤ.r a.ŋ		Sagart2019	
+136	Gyalsumdo	Today	t̪iɹiŋ	t̪ i + ɹ i.ŋ		Dhakal2024	[x]
+395	Jirel	Today	tʰəɹiŋ	!tʰ/t̪ ə + ɹ i.ŋ		Dhakal2024	[x]
+653	Kagate	Today	t̪iriŋ	t̪ i + r i.ŋ		Dhakal2024	[x]
+908	Lowa	Today	t̪iɾiŋ	t̪ i + ɾ i.ŋ		Dhakal2024	[x]
+1160	Nubri	Today	t̪iɹiŋ	t̪ i + ɹ i.ŋ		Dhakal2024	[x]
+1411	Sherpa	Today	ariŋ	a + r i.ŋ		Dhakal2024	[x]
+1654	Tsum	Today	t̪iɾiŋ	t̪ i + ɹ i.ŋ		Dhakal2024	[x]
+1916	Yolmo	Today	t̪iɹiŋ	t̪ i + ɹ i.ŋ		Dhakal2024	[x]
+2728	Lhasa	Today	th.ə.¹³.◦.r.i.⁵²	tʰ ə ¹³ + r i ⁵²		Sagart2019	
+2729	Batang	Today	a.¹³.◦.r.i.⁵⁵	a ¹³ + r i ⁵⁵		Sagart2019	
+2730	Xiahe	Today	t.e._.r.a.ŋ	t e + r a.ŋ		Sagart2019	
+2731	Alike	Today	t.e._.r.a.ŋ	t e + r a.ŋ		Sagart2019	
+2732	OldChinese	Today	k.r.ə.m	k.r ə.m		Sagart2019	
+2733	OldTibetan	Today	d.e.+.r.i.ŋ	d e + r i.ŋ		Sagart2019	
+137	Gyalsumdo	Tomorrow	ŋato	ŋ a.!Ø/ɹ + t̪ o		Dhakal2024	[x]
+396	Jirel	Tomorrow	ŋaɹo	ŋ a.!Ø/ɹ + ɹ o		Dhakal2024	[x]
+654	Kagate	Tomorrow	ŋart̪o	ŋ a.r + t̪ o		Dhakal2024	[x]
+909	Lowa	Tomorrow	ŋeto	ŋ !e/a + t̪ o		Dhakal2024	[x]
+1161	Nubri	Tomorrow	ŋaɹo	ŋ a.!Ø/ɹ + ɹ o		Dhakal2024	[x]
+1412	Sherpa	Tomorrow	sala	s a + l a		Dhakal2024	[x]
+1655	Tsum	Tomorrow	ŋaɾt̪o	ŋ a.ɹ + t̪ o		Dhakal2024	[x]
+1917	Yolmo	Tomorrow	n̪aŋbaɹ	n a.ŋ + b a.ɹ		Dhakal2024	[x]
+2734	Lhasa	Tomorrow	s.ə.ŋ.⁵⁵.◦.ȵ.ĩ.∼.⁵⁵	s ə.ŋ ⁵⁵ + ȵ ĩ ⁵⁵		Sagart2019	
+2735	Alike	Tomorrow	n.a.ŋ._.r.k.a	n a.ŋ + r.k a		Sagart2019	!
+2736	Batang	Tomorrow	s.õ.∼.ŋ.¹³.◦.ȵ.ĩ.∼.⁵⁵	s õ.ŋ ¹³ + ȵ ĩ ⁵⁵		Sagart2019	!
+2737	Xiahe	Tomorrow	n.a.ŋ._.h.k.a	n a.ŋ + h.k a		Sagart2019	!
+2738	OldChinese	Tomorrow	m.r.a.ŋ	m.r a.ŋ		Sagart2019	
+2739	OldTibetan	Tomorrow	s.a.ŋ.+.ɲ.i.n	s a.ŋ + ɲ i.n		Sagart2019	
+11	Gyalsumdo	Tongue	tɕemu	tɕ e + m u		Dhakal2024	[x]
+277	Jirel	Tongue	tselak	!ts/tɕ e + l a.k		Dhakal2024	[ ] why lick?
+536	Kagate	Tongue	tse	!ts/tɕ e		Dhakal2024	[x]
+789	Lowa	Tongue	tsemu	!ts/tɕ e + m u		Dhakal2024	[x]
+1047	Nubri	Tongue	tɕe	tɕ e		Dhakal2024	[x]
+1295	Sherpa	Tongue	tɕjalak	tɕj/tɕ a + l a.k		Dhakal2024	[ ] why lick?
+1540	Tsum	Tongue	tɕe	tɕ e		Dhakal2024	[x]
+1801	Yolmo	Tongue	tsele	!ts/tɕ e + l e		Dhakal2024	[ ] why lick?
+2740	OldTibetan	Tongue	l.dʑ.e	l.dʑ e		Sagart2019	
+2741	Lhasa	Tongue	tɕ.e.⁵⁵	tɕ e ⁵⁵		Sagart2019	
+2742	Lhasa	Tongue	tɕ.e.⁵⁵.◦.l.e.⁵²	tɕ e ⁵⁵ + l e ⁵²		Sagart2019	
+2743	Batang	Tongue	tɕ.e.⁵⁵.◦.l.e.⁵³	tɕ e ⁵⁵ + l e ⁵³		Sagart2019	
+2744	Xiahe	Tongue	h.tɕ.e	h.tɕ e		Sagart2019	!
+2745	Alike	Tongue	r.tɕ.i	r.tɕ i		Sagart2019	!
+2746	OldChinese	Tongue	m.ə.+.l.a.t	m ə + l a.t		Sagart2019	
+68	Gyalsumdo	Tree	t̪oŋbu	t̪ o.ŋ + b u		Dhakal2024	[x]
+330	Jirel	Tree	nd̪oŋbo	ⁿd/d̪ o.ŋ + b o		Dhakal2024	[x]
+588	Kagate	Tree	t̪oŋbo	t̪ o.ŋ + b o		Dhakal2024	[x]
+844	Lowa	Tree	t̪oŋbo	t̪ o.ŋ + b o		Dhakal2024	[x]
+1098	Nubri	Tree	t̪oŋpo	t̪ o.ŋ + p o		Dhakal2024	[x]
+1348	Sherpa	Tree	d̪oŋbu	d̪ o.ŋ + b u		Dhakal2024	[x]
+1592	Tsum	Tree	t̪oŋbo	t̪ o.ŋ + b o		Dhakal2024	[x]
+1854	Yolmo	Tree	t̪uŋbu	t̪ u.ŋ + b u		Dhakal2024	[x]
+2753	OldTibetan	Tree	ɕ.i.ŋ	ɕ i.ŋ		Sagart2019	
+2754	Batang	Tree	x.ĩ.∼.⁵⁵.◦.ph.ũ.∼.⁵⁵	x ĩ ⁵⁵ + pʰ ũ ⁵⁵		Sagart2019	
+2755	Xiahe	Tree	d.o.ŋ._.w.o	d o.ŋ + w o		Sagart2019	
+2756	Lhasa	Tree	ɕ.i.ŋ.⁵⁵.◦.t.u.ŋ.⁵⁵	ɕ i.ŋ ⁵⁵ + t u.ŋ ⁵⁵		Sagart2019	
+2757	Alike	Tree	ɣ.d.o.ŋ._.ŋ.o	ɣ.d o.ŋ + ŋ o		Sagart2019	!
+2758	OldChinese	Tree	C/.+.mˤ.o.k	ç/k + mˤ o k		Sagart2019	cf. #243 'wood'
+2759	OldTibetan	Tree	ɕ.i.ŋ.+.s.d.o.ŋ	ɕ i.ŋ + s.d o.ŋ		Sagart2019	
+178	Gyalsumdo	Twenty	ɲiɕu	ɲ i + ɕ/tɕ u.!Ø/k		Dhakal2024	[x]
+437	Jirel	Twenty	kʰaldʑik	kʰ a.l + !dʑ/tɕ i.k		Dhakal2024	[x]
+694	Kagate	Twenty	ŋiɕju	ŋ i + ɕj/tɕ u		Dhakal2024	[x]
+951	Lowa	Twenty	ɲidʑu	ɲ i + dʑ/tɕ u		Dhakal2024	[x]
+1201	Nubri	Twenty	ɲiɕu	ɲ i + ɕ/tɕ u		Dhakal2024	[x]
+1451	Sherpa	Twenty	ɲiɕju	ɲ i + ɕ/tɕ u		Dhakal2024	[x]
+1694	Tsum	Twenty	ɲiɕu	ɲ i + ɕ/tɕ u		Dhakal2024	[x]
+1956	Yolmo	Twenty	ɲiɕju	ɲ i + ɕ/tɕ u		Dhakal2024	[x]
+1957	Yolmo	Twenty	kʰaldʑi	kʰ a.l + dʑ/tɕ i		Dhakal2024	[x]
+2760	OldTibetan	Twenty	ɲ.i.+.+.ɕ.u	ɲ i + ɕ u		Sagart2019	
+2761	Batang	Twenty	ȵ.ɪ.¹³.◦.xh.u.⁵³	ȵ ɪ ¹³ + xʰ u ⁵³		Sagart2019	
+2762	Xiahe	Twenty	ȵ.u._.xh.ə	ȵ u + xʰ ə		Sagart2019	???
+2763	Lhasa	Twenty	ȵ.i.¹³.◦.ɕ.u.⁵⁵	ȵ i ¹³ + ɕ u ⁵⁵		Sagart2019	
+2764	Alike	Twenty	ȵ.u._.x.ə	ȵ u + x ə		Sagart2019	
+166	Gyalsumdo	Two	ɲi	ɲ i		Dhakal2024	[x]
+426	Jirel	Two	ɲi	ɲ i		Dhakal2024	[x]
+683	Kagate	Two	ŋi	ŋ i		Dhakal2024	[x]
+939	Lowa	Two	ɲi	ɲ i		Dhakal2024	[x]
+1189	Nubri	Two	ɲi	ɲ i		Dhakal2024	[x]
+1440	Sherpa	Two	ɲi	ɲ i		Dhakal2024	[x]
+1683	Tsum	Two	ɲi	ɲ i		Dhakal2024	[x]
+1945	Yolmo	Two	ɲi	ɲ i		Dhakal2024	[x]
+2765	OldTibetan	Two	g.ɲ.i.s	g.ɲ i s		Sagart2019	
+2766	Xiahe	Two	h.ȵ.i	h.ȵ i		Sagart2019	
+2767	Lhasa	Two	ȵ.iː.⁵⁵	ȵ iː ⁵⁵		Sagart2019	
+2768	Batang	Two	ȵ.i.⁵⁵	ȵ i ⁵⁵		Sagart2019	
+2769	Alike	Two	ɣ.ȵ.i	ɣ.ȵ i		Sagart2019	
+2770	OldChinese	Two	n.i.j.+.s	n i.j + s		Sagart2019	
+53	Gyalsumdo	Water	tɕʰu	tɕʰ u		Dhakal2024	[x]
+314	Jirel	Water	tɕʰju	tɕʰj/tɕʰ u		Dhakal2024	[x]
+573	Kagate	Water	tɕʰju	tɕʰj/tɕʰ u		Dhakal2024	[x]
+827	Lowa	Water	tɕʰju	tɕʰj/tɕʰ u		Dhakal2024	[x]
+1083	Nubri	Water	tɕʰju	tɕʰj/tɕʰ u		Dhakal2024	[x]
+1333	Sherpa	Water	tɕʰju	tɕʰj/tɕʰ u		Dhakal2024	[x]
+1577	Tsum	Water	tɕʰju	tɕʰj/tɕʰ u		Dhakal2024	[x]
+1839	Yolmo	Water	tɕʰu	tɕʰj/tɕʰ u		Dhakal2024	[x]
+2780	OldTibetan	Water	tɕʰ.u	tɕʰ u		Sagart2019	https://stan.hypotheses.org/20 for the cognay of OT and OC
+2781	Lhasa	Water	tɕʰ.u.⁵⁵	tɕʰ u ⁵⁵		Sagart2019	
+2782	Xiahe	Water	tɕh.ə	tɕʰ ə		Sagart2019	
+2783	Batang	Water	tɕʰ.ᴜ.⁵³	tɕʰ u ⁵³		Sagart2019	
+2784	Alike	Water	tɕh.ə	tɕʰ ə		Sagart2019	
+2785	OldChinese	Water	s.t.u.r.ʔ	s.t u.r ʔ		Sagart2019	
+227	Gyalsumdo	We (inclusive)	ɲi	ɲ i		Dhakal2024	
+228	Gyalsumdo	We (inclusive)	ɲija	ɲ i + j a		Dhakal2024	
+229	Gyalsumdo	We (inclusive)	ɲiɹaŋ	ɲ i + ɹ a.ŋ		Dhakal2024	
+491	Jirel	We (inclusive)	oɹoŋ	o + ɹ o.ŋ		Dhakal2024	
+492	Jirel	We (inclusive)	ŋɡaŋe	ⁿg/g a + ŋ e		Dhakal2024	
+739	Kagate	We (inclusive)	u	u		Dhakal2024	
+1000	Lowa	We (inclusive)	woɾoŋ	w o + ɾ o.ŋ		Dhakal2024	
+1247	Nubri	We (inclusive)	woɹoŋd̪o	w o + ɹ o.ŋ + d̪ o		Dhakal2024	
+1495	Sherpa	We (inclusive)	oraŋ	o + r a.ŋ		Dhakal2024	
+1746	Tsum	We (inclusive)	ɲoɹoŋ	ɲ o + ɹ o.ŋ		Dhakal2024	
+1747	Tsum	We (inclusive)	ɲoɹoŋkja	ɲ o + ɹ o.ŋ + k.j a		Dhakal2024	
+2003	Yolmo	We (inclusive)	ɲiɹaŋ	ɲ i + ɹ a.ŋ		Dhakal2024	
+2786	OldTibetan	We (inclusive)	ɦ.o.+.s.k.o.l	ɦ o + s.k o.l		Sagart2019	
+2787	Xiahe	We (inclusive)	ʔ.o._.tɕh.o	ʔ o + tɕʰ o		Sagart2019	
+2788	Lhasa	We (inclusive)	ŋ.ã.∼.¹³.◦.tsh.o.⁵⁵	ŋ ã ¹³ + tsʰ o ⁵⁵		Sagart2019	
+2789	Alike	We (inclusive)	ŋ.ə._.tɕh.o	ŋ ə + tɕʰ o		Sagart2019	
+2790	Batang	We (inclusive)	ŋ.ø.y.¹³	ŋ øy ¹³		Sagart2019	
+146	Gyalsumdo	Wet	taŋmu	t̪ a.ŋ + m u		Dhakal2024	[x]
+404	Jirel	Wet	tʰəŋɡe	t̪ʰ ə.ŋ + g e		Dhakal2024	[x]
+663	Kagate	Wet	taŋbu	t̪ a.ŋ + b u		Dhakal2024	[x]
+919	Lowa	Wet	taŋa	t̪ a.ŋ + a		Dhakal2024	[x]
+1169	Nubri	Wet	lompa	l o.m + p a		Dhakal2024	[x]
+1420	Sherpa	Wet	tʰeŋa	t̪ʰ e.ŋ + !Ø/ŋ a		Dhakal2024	[x]
+1663	Tsum	Wet	nd̪ompa	ⁿd/d̪ o.m + p a		Dhakal2024	[x]
+1925	Yolmo	Wet	taŋmu	t̪ a.ŋ + m u		Dhakal2024	[x]
+2791	OldTibetan	Wet	r.l.o.n	r.l o.n		Sagart2019	
+2792	Batang	Wet	l.ẽ.∼.⁵⁵.◦.m.b.a.⁵³	l ẽ ⁵⁵ + m.b a ⁵³		Sagart2019	!
+2793	Lhasa	Wet	l.ø̃.∼.⁵⁵.◦.p.o.⁵⁵	l ø̃ ⁵⁵ + p o ⁵⁵		Sagart2019	
+2794	Xiahe	Wet	h.l.o._.m.b.a	h.l o + m.b a		Sagart2019	!
+2795	Alike	Wet	ɣ.l.o.n._.b.æ	ɣ.l o.n + b æ		Sagart2019	
+2796	OldChinese	Wet	qʰ.i.p	qʰ i.p		Sagart2019	
+181	Gyalsumdo	What	tɕi	tɕ i		Dhakal2024	[x]
+440	Jirel	What	tɕi	tɕ i		Dhakal2024	[x]
+697	Kagate	What	tsi	!ts/tɕ i		Dhakal2024	[x]
+954	Lowa	What	ki	!k/tɕ i		Dhakal2024	[?]
+1204	Nubri	What	tɕi	tɕ i		Dhakal2024	[x]
+1454	Sherpa	What	kʰaŋ	kʰ a.ŋ		Dhakal2024	[x]
+1697	Tsum	What	tɕi	tɕ i		Dhakal2024	[x]
+1960	Yolmo	What	tɕi	tɕ i		Dhakal2024	[x]
+2797	OldTibetan	What	tɕʰ.i	tɕʰ i		Sagart2019	
+2798	Lhasa	What	kh.a.¹³.◦.r.e.⁵⁵	kʰ a ¹³ + r e ⁵⁵		Sagart2019	
+2799	Batang	What	tɕh.ɪ.⁵³	tɕʰ ɪ ⁵³		Sagart2019	
+2800	Xiahe	What	tɕh.ə._.z.ə.χ	tɕʰ ə + z ə.χ		Sagart2019	
+2801	Alike	What	tɕh.ə._.z.u.k	tɕʰ ə + z u.k		Sagart2019	
+2802	OldChinese	What	gˤ.a	gˤ a		Sagart2019	
+2803	OldChinese	What	gˤ.a.j	gˤ a.j		Sagart2019	
+77	Gyalsumdo	Wheat (husked)	to	t̪ o		Dhakal2024	[x]
+338	Jirel	Wheat (husked)	tʰa	t̪ʰ a		Dhakal2024	[x]
+596	Kagate	Wheat (husked)	nẽjã	n ẽ + j ã		Dhakal2024	[x]
+852	Lowa	Wheat (husked)	to	t̪ o		Dhakal2024	[x]
+1106	Nubri	Wheat (husked)	toh	t̪ o.h		Dhakal2024	[x]
+1356	Sherpa	Wheat (husked)	tʰa	t̪ʰ a		Dhakal2024	[x]
+1600	Tsum	Wheat (husked)	ne	n e		Dhakal2024	[x]
+1862	Yolmo	Wheat (husked)	ne	n e		Dhakal2024	[x]
+2804	Alike	Wheat (husked)	cç.o	cç o		Sagart2019	!
+2805	Lhasa	Wheat (husked)	tʂh.o.¹³	ʈʂʰ o ¹³		Sagart2019	
+2806	Batang	Wheat (husked)	tʂ.o.²³¹	ʈʂ o ²³¹		Sagart2019	
+2807	Xiahe	Wheat (husked)	tɕ.o	tɕ o		Sagart2019	
+2808	OldChinese	Wheat (husked)	m.+.rˤ.ə.k	m + rˤ ə.k		Sagart2019	
+2809	OldTibetan	Wheat (husked)	g.r.o	g.r o		Sagart2019	
+182	Gyalsumdo	Where	kəɹu	k ə + ɹ u		Dhakal2024	[x]
+441	Jirel	Where	kʰapa	kʰ a + p a		Dhakal2024	[x]
+698	Kagate	Where	kala	k a + l a		Dhakal2024	[x]
+955	Lowa	Where	karu	k a + !r/ɾ u		Dhakal2024	[x]
+1205	Nubri	Where	kønt̪a	k ø.n + t̪ a		Dhakal2024	[?]
+1455	Sherpa	Where	kʰani	kʰ a + n i		Dhakal2024	[x]
+1698	Tsum	Where	kana	k a + n a		Dhakal2024	[x]
+1961	Yolmo	Where	ka	k a		Dhakal2024	[x]
+2810	OldTibetan	Where	g.a.+.n.a	g a + n a		Sagart2019	
+2811	Batang	Where	k.ɑ.¹³	k ɑ ¹³		Sagart2019	
+2812	Xiahe	Where	k.a.ŋ._.n.a	k a.ŋ + n a		Sagart2019	
+2813	Lhasa	Where	kh.a.¹³.◦.p.aː.⁵⁵	kʰ a ¹³ + p aː ⁵⁵		Sagart2019	
+2814	Alike	Where	k.a.ŋ._.n.æ	k a.ŋ + n æ		Sagart2019	
+2815	OldChinese	Where	ɢʷ.a.n	ɢʷ a.n		Sagart2019	
+162	Gyalsumdo	White	kaɹpu	k a.ɹ + p u		Dhakal2024	d.k a.r
+421	Jirel	White	kaɹmu	k a.ɹ + m u		Dhakal2024	d.k a.r
+679	Kagate	White	karmu	k a.r + m u		Dhakal2024	d.k a.r
+935	Lowa	White	kawo	k a + w o		Dhakal2024	d.k a.r
+1185	Nubri	White	kaɹpo	k a.ɹ + p o		Dhakal2024	d.k a.r
+1436	Sherpa	White	karbu	k a.r + b u		Dhakal2024	d.k a.r
+1679	Tsum	White	kaɹbo	k a.ɹ + b o		Dhakal2024	d.k a.r
+1941	Yolmo	White	kaɾpu	k a.ɾ/ɹ + p u		Dhakal2024	d.k a.r
+2816	OldTibetan	White	d.k.a.r.+	d.k a.r		Sagart2019	
+2817	Lhasa	White	k.aː.⁵⁵.◦.p.o.⁵⁵	k aː ⁵⁵ + p o ⁵⁵		Sagart2019	
+2818	Batang	White	k.ɑ.⁵⁵.◦.k.a.⁵⁵	k ɑ ⁵⁵ + k a ⁵⁵		Sagart2019	
+2819	Xiahe	White	k.a._.r.o	k a + r o		Sagart2019	
+2820	Alike	White	k.a._.r.o	k a + r o		Sagart2019	
+2821	OldChinese	White	bˤ.r.a.k	bˤ.r a.k		Sagart2019	white < clear
+180	Gyalsumdo	Who	su	s u		Dhakal2024	← Chinese shi
+439	Jirel	Who	su	s u		Dhakal2024	← Chinese shi
+696	Kagate	Who	su	s u		Dhakal2024	← Chinese shi
+953	Lowa	Who	su	s u		Dhakal2024	← Chinese shi
+1203	Nubri	Who	su	s u		Dhakal2024	← Chinese shi
+1453	Sherpa	Who	su	s u		Dhakal2024	← Chinese shi
+1696	Tsum	Who	su	s u		Dhakal2024	← Chinese shi
+1959	Yolmo	Who	su	s u		Dhakal2024	← Chinese shi
+2822	OldTibetan	Who	s.u	s u		Sagart2019	
+2823	Xiahe	Who	sʰ.ə	sʰ ə		Sagart2019	???
+2824	Lhasa	Who	s.u.⁵⁵	s u ⁵⁵		Sagart2019	
+2825	Alike	Who	s.ə	s ə		Sagart2019	
+2826	Batang	Who	s.ᴜ.⁵³	s u ⁵³		Sagart2019	
+2827	OldChinese	Who	d.u.j	d u.j		Sagart2019	
+126	Gyalsumdo	Wife	keɹme	k e.ɹ + m e		Dhakal2024	[x]
+386	Jirel	Wife	pʰemme	pʰ e.m + m e		Dhakal2024	[x]
+642	Kagate	Wife	tɕʰjuŋma	tɕʰj/tɕʰ u.ŋ + m a		Dhakal2024	[x]
+643	Kagate	Wife	peme	p e.!Ø/n + m e		Dhakal2024	[x]
+899	Lowa	Wife	keme	k e + m e		Dhakal2024	[x]
+1151	Nubri	Wife	ɕɛt̪aŋ	ɕ ɛ + t̪ a.ŋ		Dhakal2024	[x]
+1402	Sherpa	Wife	pʰermi	pʰ e.r + m i		Dhakal2024	[x]
+1645	Tsum	Wife	tɕʰjumma	tɕʰ.j u.m + m a		Dhakal2024	[x]
+1907	Yolmo	Wife	pimi	p i + m i		Dhakal2024	[x]
+2828	OldTibetan	Wife	kʰ.j.o.+.m.o	kʰ.j o + m o		Sagart2019	
+2829	Lhasa	Wife	a.⁵⁵.◦.tɕ.e.⁵⁵	a ⁵⁵ + tɕ e ⁵⁵		Sagart2019	
+2830	Lhasa	Wife	c.e.⁵⁵.◦.m.ɛ̃.∼.⁵⁵	c e ⁵⁵ + m ɛ̃ ⁵⁵		Sagart2019	
+2831	Batang	Wife	m.o.¹³.◦.ȵ.o.ʔ.⁵³	m o ¹³ + ȵ o.ʔ ⁵³		Sagart2019	
+2832	Batang	Wife	nd.u.¹³.◦.r.o.ʔ.⁵³	ⁿd u ¹³ + r o.ʔ ⁵³		Sagart2019	!
+2833	Alike	Wife	tɕ.o.ŋ._.m.a	tɕ o.ŋ + m a		Sagart2019	
+2834	Xiahe	Wife	n.a.χ._.m.o	n a.χ + m o		Sagart2019	
+2835	OldChinese	Wife	tsʰˤ.ə.j	tsʰˤ ə.j		Sagart2019	consort, wife'. Onset now believed to be *s-l̥-. WT zla-ba.
+2836	OldChinese	Wife	m.ə.+.b.ə.ʔ	m ə + b ə.ʔ		Sagart2019	WT bag-ma 'bride'
+58	Gyalsumdo	Wind	hlawa	h.l a + w a		Dhakal2024	[x]
+320	Jirel	Wind	hlaba	h.l a + b a		Dhakal2024	[x]
+578	Kagate	Wind	hlaba	h.l a + b a		Dhakal2024	[x]
+832	Lowa	Wind	luŋ	l u.ŋ		Dhakal2024	[x]
+833	Lowa	Wind	luŋpo	l u.ŋ + p o		Dhakal2024	[x]
+1088	Nubri	Wind	hlawa	h.l a + w a		Dhakal2024	[x]
+1338	Sherpa	Wind	luŋ	l u.ŋ		Dhakal2024	[x]
+1582	Tsum	Wind	hlapa	h.l a + p a		Dhakal2024	[x]
+1844	Yolmo	Wind	hlawa	h.l a + w a		Dhakal2024	[x]
+2837	OldTibetan	Wind	r.l.u.ŋ	r.l u.ŋ		Sagart2019	
+2838	Batang	Wind	l.ũ.∼.⁵⁵	l ũ ⁵⁵		Sagart2019	
+2839	Lhasa	Wind	ɬ.a.k.⁵⁵.◦.p.a.⁵⁵	ɬ a.k ⁵⁵ + p a ⁵⁵		Sagart2019	
+2840	Xiahe	Wind	sʰ.e._.r.ə	sʰ e + r ə		Sagart2019	???
+2841	Alike	Wind	w.l.o.ŋ	w.l o ŋ		Sagart2019	!
+2842	OldChinese	Wind	p.r.ə.m	p.r ə.m		Sagart2019	
+114	Gyalsumdo	Woman	pomo	p o + m o		Dhakal2024	[?]
+375	Jirel	Woman	pʰemmemi	pʰ e.m + m e + m i		Dhakal2024	[?]
+631	Kagate	Woman	penpidza	p e.n + p i + dz a		Dhakal2024	[?]
+888	Lowa	Woman	keme	k e + m e		Dhakal2024	[?]
+1140	Nubri	Woman	põbetsa	p !õ/o + !b/p e + ts a		Dhakal2024	[?]
+1391	Sherpa	Woman	pʰumpʰedza	pʰ u.m + pʰ e + dz a		Dhakal2024	[?]
+1634	Tsum	Woman	poĩpiza	p oĩ + p i + z a		Dhakal2024	[?]
+1896	Yolmo	Woman	pimi	p i + m i		Dhakal2024	[?]
+2843	OldTibetan	Woman	b.u.d.+.m.e.d	b u.d + m e.d		Sagart2019	
+2844	Lhasa	Woman	ph.y.¹³.◦.m.e.⁵²	pʰ y ¹³ + m e ⁵²		Sagart2019	
+2845	Batang	Woman	m.ᴜ.¹³.◦.ȵ.o.ʔ.⁵³	m u ¹³ + ȵ o.ʔ ⁵³		Sagart2019	
+2846	Alike	Woman	w.ə._.m.ȵ.ə.t	w ə + m.ȵ ə.t		Sagart2019	!
+2847	Xiahe	Woman	ʔ.a._.j.i._.tɕh.o	ʔ a + j i + tɕʰ o		Sagart2019	
+2848	OldChinese	Woman	n.r.a.ʔ	n.r a ʔ		Sagart2019	
+141	Gyalsumdo	Year	lo	l o		Dhakal2024	[x]
+399	Jirel	Year	lo	l o		Dhakal2024	[x]
+656	Kagate	Year	lo	l o		Dhakal2024	[x]
+912	Lowa	Year	lo	l o		Dhakal2024	[x]
+1164	Nubri	Year	lo	l o		Dhakal2024	[x]
+1415	Sherpa	Year	lo	l o		Dhakal2024	[x]
+1658	Tsum	Year	lo	l o		Dhakal2024	[x]
+1920	Yolmo	Year	lo	l o		Dhakal2024	[x]
+2849	OldTibetan	Year	l.o	l o		Sagart2019	
+2850	Alike	Year	l.o	l o		Sagart2019	
+2851	Lhasa	Year	l.o.¹³	l o ¹³		Sagart2019	
+2852	Batang	Year	l.ᴜ.²³¹	l u ²³¹		Sagart2019	
+2853	Xiahe	Year	l.o	l o		Sagart2019	
+2854	OldChinese	Year	C/.+.nˤ.i.ŋ	ç/k + nˤ i.ŋ		Sagart2019	
+135	Gyalsumdo	Yesterday	t̪aŋ	t̪ a.ŋ		Dhakal2024	[x]
+394	Jirel	Yesterday	nd̪aŋ	ⁿd/d̪ a.ŋ		Dhakal2024	[x]
+652	Kagate	Yesterday	d̪aŋ	d̪ a.ŋ		Dhakal2024	[x]
+907	Lowa	Yesterday	nd̪aŋ	ⁿd/d a.ŋ		Dhakal2024	[x]
+1159	Nubri	Yesterday	t̪aŋ	t̪ a.ŋ		Dhakal2024	[x]
+1410	Sherpa	Yesterday	d̪aŋ	d̪ a.ŋ		Dhakal2024	[x]
+1653	Tsum	Yesterday	nd̪aŋ	ⁿd/d̪ a.ŋ		Dhakal2024	[x]
+1915	Yolmo	Yesterday	nd̪aŋ	ⁿd/d̪ a.ŋ		Dhakal2024	[x]
+2855	Xiahe	Yesterday	kʰ.a._.h.ts.a.ŋ	kʰ a + h.ts a.ŋ		Sagart2019	!
+2856	Batang	Yesterday	kʰ.a.¹³.◦.ts.õ.∼.⁵⁵	kʰ a ¹³ + ts õ ⁵⁵		Sagart2019	
+2857	Lhasa	Yesterday	kʰ.eː.⁵⁵.◦.s.ə.⁵⁵	kʰ eː ⁵⁵ + s ə ⁵⁵		Sagart2019	
+2858	Alike	Yesterday	kʰ.a._.r.ts.a.ŋ	kʰ a + r.ts a.ŋ		Sagart2019	!
+2859	OldChinese	Yesterday	dzˤ.a.k	dzˤ a.k		Sagart2019	
+2860	OldTibetan	Yesterday	kʰ.a.r.+.s.a.ŋ	kʰ a.r + s a.ŋ		Sagart2019	not in OT
+222	Gyalsumdo	You (informal)	kʰe	kʰ.!Ø/j e		Dhakal2024	[x]
+488	Jirel	You (informal)	kʰo	kʰ.!Ø/j o		Dhakal2024	[x]
+735	Kagate	You (informal)	kʰjo	kʰ.j o		Dhakal2024	[x]
+996	Lowa	You (informal)	kʰøʔ	kʰ.!Ø/j ø.ʔ		Dhakal2024	[x]
+1243	Nubri	You (informal)	kʰjo	kʰ.j o		Dhakal2024	[x]
+1491	Sherpa	You (informal)	kʰjoroŋ	kʰ.j o + r o.ŋ		Dhakal2024	[x]
+1742	Tsum	You (informal)	kʰjøʔ	kʰ.j ø.ʔ		Dhakal2024	[x]
+1998	Yolmo	You (informal)	kʰje	kʰ.j e		Dhakal2024	[x]
+1999	Yolmo	You (informal)	kʰjø	kʰ.j ø		Dhakal2024	[x] variant of 2006
+2708	OldTibetan	You (informal)	kʰ.ʲ.o.d	kʰ.j o.d		Sagart2019	
+2709	Lhasa	You (informal)	ch.e.⁵⁵._.r.a.ŋ.⁵⁵	ch/ts e ⁵⁵ + r a.ŋ ⁵⁵		Sagart2019	
+2710	Batang	You (informal)	h.ø.ʔ.⁵³	h ø.ʔ ⁵³		Sagart2019	
+2711	Xiahe	You (informal)	tɕh.o	tɕʰ o		Sagart2019	
+2712	Alike	You (informal)	cçh.o	cçʰ o		Sagart2019	!
+2713	OldChinese	You (informal)	n.a.ʔ	n a.ʔ		Sagart2019	
+2714	OldChinese	You (informal)	nˤ.ə.r.ʔ	nˤ ə.r ʔ		Sagart2019	爾 nyeX < *n[ə][r]ʔ
+231	Gyalsumdo	You (plural)	kʰija	kʰ i + j a		Dhakal2024	
+493	Jirel	You (plural)	kʰjokjon	kʰ.j o + k.j o n		Dhakal2024	
+741	Kagate	You (plural)	kʰjokja	kʰ.j o + k.j a		Dhakal2024	
+1002	Lowa	You (plural)	kʰekja	kʰ e + k.j a		Dhakal2024	
+1249	Nubri	You (plural)	kʰed̪o	kʰ e + d̪ o		Dhakal2024	
+1497	Sherpa	You (plural)	kʰiraŋd̪iba	kʰ i + r a.ŋ + d̪ i + b a		Dhakal2024	
+1748	Tsum	You (plural)	kʰeɹaŋkja	kʰ e + ɹ a.ŋ + k.j a		Dhakal2024	
+2005	Yolmo	You (plural)	kʰjapəti	kʰ.j a + p ə + t̪ i		Dhakal2024	
+2861	OldTibetan	You (plural)	kʰ.j.o.d	kʰ.j o.d		Sagart2019	
+2862	Alike	You (plural)	c.çh.ə._.tɕh.o	c.çʰ ə + tɕʰ o		Sagart2019	
+2863	Batang	You (plural)	h.ø.y.⁵³	h øy ⁵³		Sagart2019	
+2864	Lhasa	You (plural)	ch.e.⁵⁵.◦.r.a.ŋ.⁵⁵.◦.tsh.o	ch/ts e ⁵⁵ + r a ŋ ⁵⁵ + tsʰ o		Sagart2019	
+2865	Xiahe	You (plural)	tɕh.ə._.tɕh.o	tɕʰ ə + tɕʰ o		Sagart2019	

@@ -1,0 +1,2042 @@
+ID	DOCULECT	CONCEPT	FORM	TOKENS	COGIDS	MORPHEMES	ALIGNMENT	COGID	SOURCE	NOTE
+160	Gyalsumdo	Above	ɲala	ɲ a + l a	1 200	above/nya _there/la		180	Dhakal2024	[x]
+419	Jirel	Above	jine	j i + n e	2 24	above/ji above/ne		3	Dhakal2024	[x]
+677	Kagate	Above	t̪ʰola	t̪ʰ o + l a	4 200	above/tho _there/la		1	Dhakal2024	[x]
+933	Lowa	Above	t̪ʰøʔ	t̪ʰ ø.ʔ	4	above/tho		1	Dhakal2024	[x]
+1183	Nubri	Above	kaŋ	k a.ŋ	5	above/kang		6	Dhakal2024	[x]
+1434	Sherpa	Above	jajo	j a + j o	6 3	above/ja above/jo		4	Dhakal2024	[x]
+1677	Tsum	Above	jau	j a + !Ø/j u	6 3	above/ja above/jo		4	Dhakal2024	[x]
+1939	Yolmo	Above	t̪ʰola	t̪ʰ o + l a	4 200	above/tho _there/la		1	Dhakal2024	[x]
+198	Gyalsumdo	All	t̪aɡɹaŋ	t̪ a.g/k + ɹ a.ŋ	22 16	all/tag _all/rang		154	Dhakal2024	[x]
+455	Jirel	All	ŋɡaŋe	ⁿg/g a + ŋ e	17 18	all/nga _all/nge		8	Dhakal2024	[x]
+713	Kagate	All	t̪ʰamdzer	t̪ʰ a.m + dz e.r	91 19	whole/tam all/dzer		150	Dhakal2024	[x]
+973	Lowa	All	kiɾi	k i + ɾ i	95 3651	whole/kei whole/ri		149	Dhakal2024	[x]
+1220	Nubri	All	tɕjapt̪a	tɕj/tɕ a.p + t̪ a	21 3647	all/tsjop _that		10	Dhakal2024	[x]
+1469	Sherpa	All	jukəj	j u + k əi	3653 95	whole/ju whole/kei		148	Dhakal2024	[x]
+1712	Tsum	All	tɕjop	tɕj/tɕ o.p	21	all/tsjop		10	Dhakal2024	[x]
+1976	Yolmo	All	ndzamaɹaŋ	ⁿdz/dz a + m a + ɹ a.ŋ	90 23 16	all/ndza _all/ma _all/rang		7	Dhakal2024	[x]
+110	Gyalsumdo	Ant	tomaɹ	t̪ o + m a.ɹ	32 33	ant _ant/mar		16	Dhakal2024	[x]
+371	Jirel	Ant	tʰoŋmatsi	t̪ʰ o.ŋ + m a + ts i	72 11 34	ANT _ma-suffix/ma _/tsi		50	Dhakal2024	[x]
+627	Kagate	Ant	tomak	t̪ o + m a.k	32 33	ant _ant/mak		16	Dhakal2024	[x]
+884	Lowa	Ant	mbudaɲa	ⁿb/b u + d a + ɲ a	35 143 36	ant-4 ant-5 ant-6		49	Dhakal2024	[x]
+1136	Nubri	Ant	hɹomo	h.ɹ o + m o	32 3365	ant _:mu-suffix/mu		16	Dhakal2024	grog «Ameise»
+1387	Sherpa	Ant	tʰəksəŋma	t̪ʰ ə.k + s ə.ŋ + m a	37 38 33	ant-2 ant-3 _:ma-suffix/ma		17	Dhakal2024	grog «Ameise»
+1630	Tsum	Ant	tɹomu	t̪.ɹ o + m u	32 132	ant _:mo-suffix/mu		16	Dhakal2024	grog «Ameise»
+1892	Yolmo	Ant	tomaŋ	t̪.!Ø/ɹ o + m a.ŋ	32 33	ant _ant/maŋ		16	Dhakal2024	grog «Ameise»
+15	Gyalsumdo	Arm/Hand	laɡpa	l a.g/k + p a	52 10	arm/hand _:pa-suffix/pa		24	Dhakal2024	[x]
+280	Jirel	Arm/Hand	lakpa	l a.k + p a	52 10	arm/hand _:pa-suffix/pa		24	Dhakal2024	[x]
+540	Kagate	Arm/Hand	laɡpa	l a.g/k + p a	52 10	arm/hand _:pa-suffix/pa		24	Dhakal2024	[x]
+792	Lowa	Arm/Hand	laɡpa	l a.g/k + p a	52 10	arm/hand _:pa-suffix/pa		24	Dhakal2024	[x]
+1050	Nubri	Arm/Hand	lakpa	l a.k + p a	52 10	arm/hand _:pa-suffix/pa		24	Dhakal2024	[x]
+1298	Sherpa	Arm/Hand	laɡpa	l a.g/k + p a	52 10	arm/hand _:pa-suffix/pa		24	Dhakal2024	[x]
+1543	Tsum	Arm/Hand	lakpa	l a.k + p a	52 53	arm/hand _:pa-suffix/pa		24	Dhakal2024	[x]
+1805	Yolmo	Arm/Hand	laɡpa	l a.g/k + p a	52 53	arm/hand _:pa-suffix/pa		24	Dhakal2024	[x]
+64	Gyalsumdo	Ash	kɔkt̪al	k ɔ.k + !t̪/t̪ʰ a + l !Ø/a	69 70 71	_ash/kok ash/tha _ash/la		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+326	Jirel	Ash	t̪ʰala	t̪ʰ a + l a	70 71	ash/tha _ash/la		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+584	Kagate	Ash	t̪ʰala	t̪ʰ a + l a	70 71	ash/tha _ash/la		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+839	Lowa	Ash	koɡt̪ʰa	k o.g/k + t̪ʰ a	69 70	_ash/kok ash/tha		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+1094	Nubri	Ash	kot̪ʰal	k o + t̪ʰ a + l !Ø/a	69 70 71	_ash/kok ash/tha _ash/la		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+1344	Sherpa	Ash	kʰəsit̪ʰala	kʰ ə + s i + t̪ʰ a + l a	58 59 70 71	_ash/khe _ash/si ash/tha _ash/la		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+1588	Tsum	Ash	kozal	k o + !z/t̪ʰ a + l !Ø/a	69 70 71	_ash/kok ash/tha _ash/la		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+1850	Yolmo	Ash	t̪ʰala	t̪ʰ a + l a	70 71	ash/tha _ash/la		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+41	Gyalsumdo	Axe	t̪aɹi	t̪ a + ɹ i	88 89	axe _/ri		30	Dhakal2024	[x]
+303	Jirel	Axe	t̪əɹi	t̪ ə + ɹ i	88 89	axe _/ri		30	Dhakal2024	[x]
+562	Kagate	Axe	t̪əri	t̪ ə + r i	88 89	axe _/ri		30	Dhakal2024	[x]
+816	Lowa	Axe	t̪iɾi	t̪ i + ɾ i	88 89	axe _/ri		30	Dhakal2024	[x]
+1072	Nubri	Axe	t̪aɹi	t̪ a + ɹ i	88 89	axe _/ri		30	Dhakal2024	[x]
+1321	Sherpa	Axe	t̪əɹi	t̪ ə + ɹ i	88 89	axe _/ri		30	Dhakal2024	[x]
+1566	Tsum	Axe	t̪aɾi	t̪ a + ɹ i	88 89	axe _/ri		30	Dhakal2024	[x]
+1827	Yolmo	Axe	t̪aɾi	t̪ a + ɾ/ɹ i	88 89	axe _/ri		30	Dhakal2024	[x]
+145	Gyalsumdo	Bad	majabu	m a + j a + b u	105 1149 107	not good _:bu-suffix/bu		33	Dhakal2024	[x]
+403	Jirel	Bad	meleba	m e + l e + b a	105 108 10	_bad good/le _:pa-suffix		110	Dhakal2024	[x]
+661	Kagate	Bad	majiba	m a + j i + b a	105 110 10	not good/ji _:ba-suffix		114	Dhakal2024	[x]
+662	Kagate	Bad	marikpa	m a + r i.k + !p/b a	105 117 10	not good/rik _:ba-suffix		111	Dhakal2024	[x]
+917	Lowa	Bad	a	a	111	bad		39	Dhakal2024	[x]
+918	Lowa	Bad	ŋempa	ŋ e.m + p a	115 10	bad/ŋem _:pa-suffix		32	Dhakal2024	[x]
+1168	Nubri	Bad	ɦawɛ	ɦ a + w ɛ	112 113	bad/ha bad/we		40	Dhakal2024	[x]
+1419	Sherpa	Bad	melokpa	m e + l o.k + p a	105 114 10	not good/lok _:pa-suffix		112	Dhakal2024	[x]
+1662	Tsum	Bad	nepo	n e + p o	115 109	bad/ne _:po-suffix		32	Dhakal2024	[x]
+1924	Yolmo	Bad	tsokpa	ts o.k + p a	116 10	bad/tsok _:pa-suffix/pa		116	Dhakal2024	[x]
+76	Gyalsumdo	Banana	keɹa	k e + ɹ a	130 131	banana/ke banana/ra		45	Dhakal2024	[x]
+337	Jirel	Banana	ɹeŋaɕiŋ	ɹ e + ŋ a + ɕ i.ŋ	131 67 991	banana/re banana/ŋa _tree/siŋ		46	Dhakal2024	[?]
+595	Kagate	Banana	alamu	a + l a + m u	134 135 136	banana/a banana/la banana/mu		47	Dhakal2024	[?]
+851	Lowa	Banana	keɾa	k e + ɾ a	130 131	banana/ke banana/ra		45	Dhakal2024	[x]
+1105	Nubri	Banana	kela	k e + l a	130 131	banana/ke banana/ra		45	Dhakal2024	[x]
+1355	Sherpa	Banana	kera	k e + r a	130 131	banana/ke banana/ra		45	Dhakal2024	[x]
+1599	Tsum	Banana	keɾa	k e + ɹ a	130 131	banana/ke banana/ra		45	Dhakal2024	[x]
+1861	Yolmo	Banana	keɾa	k e + ɾ/ɹ a	130 131	banana/ke banana/ra		45	Dhakal2024	[x]
+78	Gyalsumdo	Barley	tsəu	ts əu	149	barley		52	Dhakal2024	[x]
+339	Jirel	Barley	ndzəu	!ⁿdz/ts əu	149	barley		52	Dhakal2024	[x]
+597	Kagate	Barley	wa	w a	150	barley/wa		54	Dhakal2024	[x]
+853	Lowa	Barley	ne	n e	151	barley/ne		53	Dhakal2024	[x]
+1107	Nubri	Barley	n̪e:	n eː	151	barley/ne		53	Dhakal2024	[x]
+1357	Sherpa	Barley	dzəu	!dz/ts əu	149	barley		52	Dhakal2024	[x]
+1601	Tsum	Barley	tsau	ts au	149	barley		52	Dhakal2024	[x]
+1863	Yolmo	Barley	dzəu	!dz/ts əu	149	barley		52	Dhakal2024	[x]
+246	Gyalsumdo	Beam (main wooden beam)	kuŋkju	k u.ŋ + k.j u	158 159	beam/kuŋ _beam/kju		57	Dhakal2024	[x]
+507	Jirel	Beam (main wooden beam)	d̪əlin	d̪ ə + l i.n	160 161	beam/de beam/lin		59	Dhakal2024	[x]
+757	Kagate	Beam (main wooden beam)	maid̪an	m ai + d̪ a.n	162 119	beam/mai beam/an		164	Dhakal2024	[x]
+1016	Lowa	Beam (main wooden beam)	t̪uŋma	t̪ u.ŋ + m a	118 11	beam/tung _:ma-suffix/ma		55	Dhakal2024	[x]
+1263	Nubri	Beam (main wooden beam)	kuŋɕiŋ	k u.ŋ + ɕ i.ŋ	158 991	beam/kuŋ _tree/siŋ		57	Dhakal2024	[x]
+1511	Sherpa	Beam (main wooden beam)	d̪uŋma	d̪ u.ŋ + m a	118 11	tree/tung _:ma-suffix		55	Dhakal2024	[x]
+1765	Tsum	Beam (main wooden beam)	t̪uŋ	t̪ u.ŋ	118	beam/tung		55	Dhakal2024	[x]
+2021	Yolmo	Beam (main wooden beam)	t̪uŋma	t̪ u.ŋ + m a	118 11	beam/tung _:ma-suffix		55	Dhakal2024	[x]
+255	Gyalsumdo	Bear	t̪om	t̪ o.m	174	bear		62	Dhakal2024	[x]
+516	Jirel	Bear	t̪om	t̪ o.m	174	bear		62	Dhakal2024	[x]
+766	Kagate	Bear	t̪om	t̪ o.m	174	bear		62	Dhakal2024	[x]
+1026	Lowa	Bear	t̪om	t̪ o.m	174	bear		62	Dhakal2024	[x]
+1272	Nubri	Bear	t̪om	t̪ o.m	174	bear		62	Dhakal2024	[x]
+1519	Sherpa	Bear	t̪ʰom	!t̪ʰ/t̪ o.m	174	bear		62	Dhakal2024	[x]
+1775	Tsum	Bear	t̪om	t̪ o.m	174	bear		62	Dhakal2024	[x]
+2030	Yolmo	Bear	t̪om	t̪ o.m	174	bear		62	Dhakal2024	[x]
+248	Gyalsumdo	Beard	kja	k.j a	325	beard		109	Dhakal2024	[x]
+509	Jirel	Beard	d̪aɹi	d̪ a + ɹ i	326 177	*beard/da *beard/ri		169	Dhakal2024	[loan from Nepali]
+759	Kagate	Beard	maŋre	m a.ŋ + r e	178 179	beard/mang beard/ra		173	Dhakal2024	[x]
+1018	Lowa	Beard	makɾa	m a.k + ɾ a	178 179	beard/ma beard/ra		170	Dhakal2024	[x]
+1265	Nubri	Beard	kʰeu	kʰ eu	173	beard/khu		108	Dhakal2024	[x]
+1513	Sherpa	Beard	ɡerok	g e + r o.k	175 176	beard/ge beard/rok		171	Dhakal2024	[x]
+1767	Tsum	Beard	kja	k.j a	325	beard		109	Dhakal2024	[x]
+2023	Yolmo	Beard	kja	k.j a	325	beard		109	Dhakal2024	[x]
+14	Gyalsumdo	Belly	toba	t̪ o + b a	183 10	belly/to _:pa-suffix/pa		11	Dhakal2024	[x]
+279	Jirel	Belly	suba	s u + b a	257 10	belly/su _:pa-suffix/pa		9	Dhakal2024	[x]
+539	Kagate	Belly	topa	t̪ o + p a	183 10	belly/to _:pa-suffix/pa		11	Dhakal2024	[x]
+791	Lowa	Belly	pʰowa	pʰ o + w a	184 187	belly/pho _:wa-suffix		63	Dhakal2024	[x]
+1049	Nubri	Belly	topa	t̪ o + p a	183 10	belly/to _:pa-suffix/pa		11	Dhakal2024	[x]
+1297	Sherpa	Belly	tʰopa	t̪ʰ o + p a	183 10	belly/to _:pa-suffix/pa		11	Dhakal2024	[x]
+1542	Tsum	Belly	pʰowa	pʰ o + w a	184 187	belly/pho _:wa-suffix/wa		63	Dhakal2024	[x]
+1804	Yolmo	Belly	pʰo	pʰ o	184	belly/pho		63	Dhakal2024	[x]
+161	Gyalsumdo	Below	wala	w a + l a	199 200	below/wa _there/la		68	Dhakal2024	[x]
+420	Jirel	Below	mima	m i + m a	201 11	below/mi _ma-suffix/ma		69	Dhakal2024	[x]
+678	Kagate	Below	wala	w a + l a	199 200	below/wa _there/la		68	Dhakal2024	[x]
+934	Lowa	Below	meʔ	m e.ʔ	203	below/me		72	Dhakal2024	[x]
+1184	Nubri	Below	ɦo	ɦ o	204	below/ho		73	Dhakal2024	[x]
+1435	Sherpa	Below	mamo	m a + m o	202 201	below/ma below/mo		69	Dhakal2024	[x]
+1678	Tsum	Below	mau	m a + !Ø/m u	202 201	below/ma below/mo		69	Dhakal2024	[x]
+1940	Yolmo	Below	t̪iŋla	t̪ i.ŋ + l a	205 200	below/ting _there/la		2	Dhakal2024	[x]
+156	Gyalsumdo	Big	tɕʰjumbu	tɕʰj/tɕʰ u + ⁿb/b u	213 1581	big _:bu-suffix		75	Dhakal2024	tɕʰe «big»
+415	Jirel	Big	ndzod̪a	ⁿdz/dz o + d̪ a	155 216	big _/da		77	Dhakal2024	tɕʰe «big»
+673	Kagate	Big	tɕʰjombo	tɕʰj/tɕʰ o + ⁿb/b o	213 1581	big _:bu-suffix		75	Dhakal2024	tɕʰe «big»
+929	Lowa	Big	tsʰe	tsʰ e	154	big		77	Dhakal2024	tɕʰe «big»
+1179	Nubri	Big	tɕjɔ̃mpu	tɕʰj/tɕʰ !ɔ̃/ɔ + ⁿp/p u	213 1581	big _:bu-suffix		75	Dhakal2024	tɕʰe «big»
+1430	Sherpa	Big	tɕʰend̪i	tɕʰ e + ⁿd̪/d̪ i	213 217	big _/di		77	Dhakal2024	tɕʰe «big»
+1673	Tsum	Big	tɕʰemo	tɕʰ e + m o	213 218	big _:mo-suffix		77	Dhakal2024	tɕʰe «big»
+1935	Yolmo	Big	tɕʰjimbu	tɕʰj/tɕʰ i + ⁿb/b u	213 1581	big _:bu-suffix		75	Dhakal2024	tɕʰe «big»
+163	Gyalsumdo	Black	nakpu	n a.k + p u	229 1581	black _:bu-suffix/pu		81	Dhakal2024	nag «black»
+422	Jirel	Black	naɡpo	n a.g/k + p o	229 1581	black _:bu-suffix/pu		81	Dhakal2024	nag «black»
+680	Kagate	Black	nakpu	n a.k + p u	229 1581	black _:bu-suffix/pu		81	Dhakal2024	nag «black»
+936	Lowa	Black	naɡpo	n a.g/k + p o	229 1581	black _:bu-suffix/pu		81	Dhakal2024	nag «black»
+1186	Nubri	Black	n̪akpo	!n̪/n a.k + p o	229 1581	black _:bu-suffix/pu		81	Dhakal2024	nag «black»
+1437	Sherpa	Black	nakpu	n a.k + p u	229 1581	black _:bu-suffix/pu		81	Dhakal2024	nag «black»
+1680	Tsum	Black	nakpo	n a.k + p o	229 1581	black _:bu-suffix/pu		81	Dhakal2024	nag «black»
+1942	Yolmo	Black	n̪akpu	!n̪/n a.k + p u	229 1581	black _:bu-suffix/pu		81	Dhakal2024	nag «black»
+26	Gyalsumdo	Blood	tʰak	t̪ʰ a.k	246	blood		83	Dhakal2024	[x]
+289	Jirel	Blood	tʰak	t̪ʰ a.k	246	blood		83	Dhakal2024	[x]
+549	Kagate	Blood	tʰa	t̪ʰ a	246	blood		83	Dhakal2024	[x]
+802	Lowa	Blood	tʰak	t̪ʰ a.k	246	blood		83	Dhakal2024	[x]
+1059	Nubri	Blood	tʰa	t̪ʰ a	246	blood		83	Dhakal2024	[x]
+1307	Sherpa	Blood	tʰak	t̪ʰ a.k	246	blood		83	Dhakal2024	[x]
+1552	Tsum	Blood	tʰɹaʔ	t̪ʰ.ɹ a.ʔ	246	blood		83	Dhakal2024	[x]
+1814	Yolmo	Blood	tʰa	t̪ʰ a	246	blood		83	Dhakal2024	[x]
+1	Gyalsumdo	Body	suɡu	s u + g u	257 256	body _body		84	Dhakal2024	
+268	Jirel	Body	dziu	dz iu	170	body		85	Dhakal2024	
+527	Kagate	Body	dzubu	dz u + b u	170 258	body _:bu-suffix/bu		85	Dhakal2024	
+779	Lowa	Body	suʔ	s u.ʔ	257	body		84	Dhakal2024	
+1038	Nubri	Body	su	s u	257	body		84	Dhakal2024	
+1286	Sherpa	Body	dzubu	dz u + b u	170 258	body _:bu-suffix/bu		85	Dhakal2024	
+1531	Tsum	Body	zu	z u	257	body		84	Dhakal2024	
+1792	Yolmo	Body	ndzuɡu	ⁿdz/dz u + g u	170 256	body _body		85	Dhakal2024	
+245	Gyalsumdo	Bond	kamkja	k a.m + k.j a	268 269	kam gja		88	Dhakal2024	[x]
+506	Jirel	Bond	t̪əmasuk	t̪ ə + m a + s u.k	270 11 124	te _ma-suffix/ma su		93	Dhakal2024	[x]
+756	Kagate	Bond	siu	s.!i/j u	272	bond		90	Dhakal2024	[x]
+1015	Lowa	Bond	kenka	k e.n + k a	268 269	kam gja		88	Dhakal2024	[x]
+1262	Nubri	Bond	kamkja	k a.m + k.j a	268 269	kam gja		88	Dhakal2024	[x]
+1510	Sherpa	Bond	ɕju	ɕ.j u	272	bond		90	Dhakal2024	[x]
+1764	Tsum	Bond	kamɡja	k a.m + g.j a	268 269	kam gja		88	Dhakal2024	[x]
+2019	Yolmo	Bond	t̪əməsu	t̪ ə + m !ə/a + s u	270 11 272	te _ma-suffix/ma su		93	Dhakal2024	[x]
+2020	Yolmo	Bond	kamɡja	k a.m + g.j a	268 269	kam gja		88	Dhakal2024	[x]
+24	Gyalsumdo	Bone	ɹoɡo	ɹ o + g o	287 288	bone/ru _bone/kok		95	Dhakal2024	[x]
+287	Jirel	Bone	ɹuba	ɹ u + b a	287 10	bone/ru _:pa-suffix/ba		95	Dhakal2024	[x]
+547	Kagate	Bone	rekok	r e + k o.k	287 288	bone/ru _bone/kok		95	Dhakal2024	[x]
+800	Lowa	Bone	ɹuko	ɹ/ɾ u + k o	287 288	bone/ru _bone/kok		95	Dhakal2024	[x]
+1057	Nubri	Bone	hɹypa	h.ɹ y + p a	287 10	bone/ru _:pa-suffix/pa		95	Dhakal2024	[x]
+1305	Sherpa	Bone	ɹukjok	ɹ u + k.j o.k	287 288	bone/ru _bone/kok		95	Dhakal2024	[x]
+1550	Tsum	Bone	ɹiɡoʔ	ɹ i + g o.ʔ	287 288	bone/ru _bone/kok		95	Dhakal2024	[x]
+1812	Yolmo	Bone	ɹeko	ɹ e + k o	287 288	bone/ru _bone/kok		95	Dhakal2024	[x]
+127	Gyalsumdo	Boy	pitsa	p i + ts a	487 488	child-1 child-2		98	Dhakal2024	[x]
+128	Gyalsumdo	Boy	pu	p !u/o	2515	child-son		78	Dhakal2024	[x]
+387	Jirel	Boy	kʰojobopidza	kʰ o + j o + b o + !p/pʰ i + dz a	306 307 308 487 488	? ? ? child-1 child-2		98	Dhakal2024	[x]
+644	Kagate	Boy	pituk	p i + t̪ u.k	487 26	child-1 child-3		76	Dhakal2024	[x]
+900	Lowa	Boy	pidza	p i + dz a	487 488	child-1 child-2		98	Dhakal2024	[x]
+1152	Nubri	Boy	puh	p u.h	2515	child-son		78	Dhakal2024	[x]
+1403	Sherpa	Boy	kʰjokpʰedza	kʰ.j o.k + pʰ e + dz a	310 487 488	? child-1 child-2		98	Dhakal2024	[x]
+1646	Tsum	Boy	ɕjaɾa	ɕ.j a.!Ø/ɹ + ɹ a	311 168	child-offspring ?		100	Dhakal2024	[x]
+1908	Yolmo	Boy	ɕjaɹa	ɕj/ɕ a.!Ø/ɹ + ɹ a	311 168	child-offspring ?		100	Dhakal2024	[x]
+258	Gyalsumdo	Bread	kjaŋ	k.j a.ŋ	171	bread		195	Dhakal2024	[x]
+519	Jirel	Bread	ɕjoben	ɕ.j o + b e.n	331 332	bread/sju bread/ben		113	Dhakal2024	[x]
+769	Kagate	Bread	kʰura	kʰ u + r a	329 172	bread/khu _bread/ra		107	Dhakal2024	[x]
+1029	Lowa	Bread	kjaŋ	k.j a.ŋ	171	bread		195	Dhakal2024	[x]
+1275	Nubri	Bread	kʰoɹa	kʰ o + ɹ a	329 127	bread/khu _bread/ra		107	Dhakal2024	[x]
+1522	Sherpa	Bread	kuri	k u + r i	329 125	bread/khu _bread/ra		107	Dhakal2024	[x]
+1778	Tsum	Bread	pakut	p a + k u.t̪	333 334	bread/pa bread/kut		115	Dhakal2024	[x]
+2033	Yolmo	Bread	kʰuɹa	kʰ u + ɹ a	329 327	bread/khu _bread/ra		107	Dhakal2024	[x]
+12	Gyalsumdo	Breast	oma	o + m a	352 1807	breast-1 mother		117	Dhakal2024	[!] variant, can be excluded
+13	Gyalsumdo	Breast	ɦoma	ɦ o + m a	352 1807	breast-1 mother		117	Dhakal2024	[x]
+278	Jirel	Breast	n̪uma	n u + m a	169 1807	breast/nu mother		117	Dhakal2024	[i] Exception confirmed via internal comparison.
+537	Kagate	Breast	oma	o + m a	352 1807	breast-1 mother		117	Dhakal2024	[x]
+538	Kagate	Breast	praŋɡok	p.r a.ŋ + g o.k	357 358	breast/praŋ breast-2/go		119	Dhakal2024	[x]
+790	Lowa	Breast	oma	o + m a	352 1807	breast-1 mother		117	Dhakal2024	[x]
+1048	Nubri	Breast	tɕju	tɕ.j u	355	breast		122	Dhakal2024	[x]
+1296	Sherpa	Breast	oma	o + m a	352 1807	breast-1 mother		117	Dhakal2024	[x]
+1541	Tsum	Breast	paʔ	p a.ʔ	356	breast		123	Dhakal2024	[x]
+1802	Yolmo	Breast	praŋɡo	p.r a.ŋ + g o	357 358	breast/praŋ breast-2/go		119	Dhakal2024	[x]
+1803	Yolmo	Breast	woma	w o + m a	352 1807	breast-1 mother		117	Dhakal2024	[x]
+195	Gyalsumdo	Broken	tɕʰjakpu	tɕʰj/tɕʰ a.k + p u	373 1581	broken _:bu-suffix		126	Dhakal2024	[x]
+452	Jirel	Broken	tɕʰakpat̪e	tɕʰ a.k + p a + t̪ e	373 10 9	broken _:ba-suffix _:te-suffix/te		126	Dhakal2024	[x]
+710	Kagate	Broken	tɕʰjako	tɕʰj/tɕʰ a.k + !Ø/k o	373 377	broken _broken/ko		126	Dhakal2024	[x]
+970	Lowa	Broken	tɕʰaɡtɕa	tɕʰ a.g/k + tɕ a	373 378	broken _broken/tsa		126	Dhakal2024	[x]
+1217	Nubri	Broken	tɕʰjakjo	tɕʰj/tɕʰ a.k + j o	373 377	broken _broken/kjo		126	Dhakal2024	[x]
+1466	Sherpa	Broken	tɕʰjakpa	tɕʰj/tɕʰ a.k + p a	373 10	broken _:ba-suffix		126	Dhakal2024	[x]
+1709	Tsum	Broken	tɕʰjako	tɕʰj/tɕʰ a.k + !Ø/k o	373 377	broken _broken/ko		126	Dhakal2024	[x]
+1972	Yolmo	Broken	tɕʰjakjo	tɕʰj/tɕʰ a.k + j o	373 377	broken _broken/kjo		126	Dhakal2024	[x]
+35	Gyalsumdo	Broom	tɕʰama	tɕʰ a + m a	391 1442	broom/tshag _:ma-suffix/ma		21	Dhakal2024	[x]
+297	Jirel	Broom	komuk	k o + m u.k	393 394	broom/koŋ _/muk		132	Dhakal2024	[x]
+557	Kagate	Broom	pʰema	pʰ e + m a	391 392	broom/phe _/ma		133	Dhakal2024	[x]
+811	Lowa	Broom	tɕʰjaɡma	tɕʰj/tɕʰ a.g/k + m a	391 1442	broom/tshag _:ma-suffix/ma		21	Dhakal2024	[x]
+1067	Nubri	Broom	koŋmo	k o.ŋ + m o	393 43	broom _/mo		132	Dhakal2024	[x]
+1316	Sherpa	Broom	komi	k o + m i	393 392	broom/koŋ _/mi		132	Dhakal2024	[x]
+1561	Tsum	Broom	koŋmo	k o.ŋ + m o	393 43	broom/koŋ _/mo		132	Dhakal2024	[x]
+1821	Yolmo	Broom	pʰjama	pʰ.j a + m a	391 392	broom/phe _/ma		21	Dhakal2024	[x]
+99	Gyalsumdo	Buffalo	maji	m a + j i	408 411	buffalo buffalo-2/ji		138	Dhakal2024	[x]
+360	Jirel	Buffalo	meɕja	m e + !ɕj/j a	408 411	buffalo buffalo-2/ji		138	Dhakal2024	[x]
+617	Kagate	Buffalo	mãjĩ	m ã + j ĩ	408 411	buffalo buffalo-2/ji		138	Dhakal2024	[x]
+874	Lowa	Buffalo	maji	m a + j i	408 411	buffalo buffalo-2/ji		138	Dhakal2024	[x]
+1127	Nubri	Buffalo	maɦi	m a + !ɦ/j i	408 411	buffalo buffalo-2/ji		138	Dhakal2024	[x]
+1377	Sherpa	Buffalo	mesi	m e + !s/j i	408 411	buffalo buffalo-2/ji		138	Dhakal2024	[x]
+1621	Tsum	Buffalo	maje	m a + j e	408 411	buffalo buffalo-2/ji		138	Dhakal2024	[x]
+1883	Yolmo	Buffalo	məji	m ə + j i	408 411	buffalo buffalo-2/ji		138	Dhakal2024	[x]
+90	Gyalsumdo	Cabbage	pənd̪a	p ə.n + d̪ a	425 426	cabbage/be cabbage/nda		142	Dhakal2024	[x]
+350	Jirel	Cabbage	bənd̪a	b ə.n + d̪ a	425 426	cabbage/be cabbage/nda		142	Dhakal2024	[x]
+608	Kagate	Cabbage	bənd̪aɡobi	b ə.n + d̪ a + g o + b i	425 426 427 428	cabbage/be cabbage/nda cabbage/ngo cabbage/pi		142	Dhakal2024	[x]
+864	Lowa	Cabbage	ŋɡopi	ⁿg/g o + p i	427 428	cabbage/ngo cabbage/pi		144	Dhakal2024	[x]
+1118	Nubri	Cabbage	pənd̪a	p ə.n + d̪ a	425 426	cabbage/be cabbage/nda		142	Dhakal2024	[x]
+1368	Sherpa	Cabbage	bənd̪a	b ə.n + d̪ a	425 426	cabbage/be cabbage/nda		142	Dhakal2024	[x]
+1612	Tsum	Cabbage	bənd̪a	b ə.n + d̪ a	425 426	cabbage/be cabbage/nda		142	Dhakal2024	[x]
+1874	Yolmo	Cabbage	bənd̪aɡobi	b ə.n + d̪ a + g o + b i	425 426 427 428	cabbage/be cabbage/nda cabbage/ngo cabbage/pi		142	Dhakal2024	[x]
+88	Gyalsumdo	Cauliflower	kəuli	k əu + l i	446 447	*cauli-1 *cauli-2		146	Dhakal2024	[← Hindi(?)]
+348	Jirel	Cauliflower	kauli	k au + l i	446 447	*cauli-1 *cauli-2		146	Dhakal2024	[← Hindi(?)]
+606	Kagate	Cauliflower	kauli	k au + l i	446 447	*cauli-1 *cauli-2		146	Dhakal2024	[← Hindi(?)]
+862	Lowa	Cauliflower	pʰulkopi	pʰ u.l + k o + p i	1063 25 449	*fruit-2 *ko *pi		146	Dhakal2024	[← Nepali]
+1116	Nubri	Cauliflower	kauli	k au + l i	446 447	*cauli-1 *cauli-2		146	Dhakal2024	[← Hindi(?)]
+1366	Sherpa	Cauliflower	kauli	k au + l i	446 447	*cauli-1 *cauli-2		146	Dhakal2024	[← Hindi(?)]
+1610	Tsum	Cauliflower	kauli	k au + l i	446 447	*cauli-1 *cauli-2		146	Dhakal2024	[← Hindi(?)]
+1872	Yolmo	Cauliflower	pʰulɡobi	pʰ u.l + g o + b i	1063 25 449	*fruit-2 *ko *pi		146	Dhakal2024	[← Nepali]
+96	Gyalsumdo	Chicken	tɕʰiptʰuk	tɕʰ i.p + t̪ʰ u.k	465 466	chicken chicken-4		37	Dhakal2024	[x]
+356	Jirel	Chicken	tsʰiɹbuk	tsʰ i.!ɹ/b + !b/ɹ u.k	467 468	chicken chicken-2		151	Dhakal2024	[x]
+614	Kagate	Chicken	tsipru	ts i.p + r u	465 469	chicken chicken-2		151	Dhakal2024	[x]
+871	Lowa	Chicken	tɕjamodʑiptʰuk	tɕj/tɕ a + m o + dʑ i.p + t̪ʰ u.k	470 601 465 466	_chicken-5 _female chicken chicken-4		37	Dhakal2024	[x]
+1124	Nubri	Chicken	tɕjoũ	tɕj/tɕ !oũ/ou	470	chicken-3		153	Dhakal2024	[x]
+1374	Sherpa	Chicken	tsʰebruk	tsʰ e.b + r u.k	465 469	chicken chicken-2		151	Dhakal2024	[x]
+1618	Tsum	Chicken	tɕjauɾu	tɕj/tɕ au + ɹ u	470 469	chicken-5 chicken-2		152	Dhakal2024	[x]
+1880	Yolmo	Chicken	tɕjamubiɹu	tɕj/tɕ a + m u + b i + ɹ u	470 471 472 469	chicken-5 _female _chicken-bi chicken-2		152	Dhakal2024	[x]
+115	Gyalsumdo	Child	tuɡu	t̪ u + g u	485 486	child-4 _/gu		161	Dhakal2024	[x]
+376	Jirel	Child	pʰidza	pʰ i + dz a	487 488	child-1 child-2		159	Dhakal2024	[x]
+632	Kagate	Child	pidza	p i + dz a	487 488	child-1 child-2		159	Dhakal2024	[x]
+889	Lowa	Child	tu	t̪ u	485	child-4		161	Dhakal2024	[x]
+1141	Nubri	Child	petsa	p e + ts a	487 488	child-1 child-2		159	Dhakal2024	[x]
+1392	Sherpa	Child	aŋa	a + ŋ a	489 490	:a-prefix child-3		163	Dhakal2024	[x]
+1635	Tsum	Child	piza	p i + z a	487 488	child-1 child-2		159	Dhakal2024	[x]
+1897	Yolmo	Child	pedza	p e + dz a	487 488	child-1 child-2		159	Dhakal2024	[x]
+84	Gyalsumdo	Chilli	maɾtsʰa	m a.ɾ + tsʰ a	501 502	*chilli/mir *chilli/ch		165	Dhakal2024	← Hindi «mirch»
+344	Jirel	Chilli	kʰuɹɕani	kʰ u.ɹ + ɕ a.!ni/n	503 506	chilli/kor chilli/tsen		167	Dhakal2024	← Nepali «khursānī»
+602	Kagate	Chilli	martsi	m a.r + ts i	501 502	*chilli/mir *chilli/ch		165	Dhakal2024	← Hindi «mirch»
+858	Lowa	Chilli	maɾtsa	m a.ɾ + ts a	501 502	*chilli/mir *chilli/ch		165	Dhakal2024	← Hindi «mirch»
+1112	Nubri	Chilli	kʰoɹtsʰen	kʰ o.ɹ + tsʰ e.n	503 506	chilli/kor chilli/tsen		167	Dhakal2024	← Nepali «khursānī»
+1362	Sherpa	Chilli	mərtsi	m ə.r + ts i	501 502	*chilli/mir *chilli/ch		165	Dhakal2024	← Hindi «mirch»
+1606	Tsum	Chilli	kʰulzan	kʰ u.l + z a.n	503 506	chilli/kor chilli/tsen		168	Dhakal2024	← Nepali «khursānī»
+1868	Yolmo	Chilli	mətsa	m ə + ts a	501 502	*chilli/mir *chilli/ch		165	Dhakal2024	← Hindi «mirch»
+45	Gyalsumdo	Cloth	køla	k ø + l a	519 520	cloth _:suffix/lak		172	Dhakal2024	[x]
+307	Jirel	Cloth	kʰolak	!kʰ/k o + l a.k	519 520	cloth _:suffix/lak		172	Dhakal2024	[x]
+566	Kagate	Cloth	kela	k e + l a	519 520	cloth _:suffix/lak		172	Dhakal2024	[x]
+820	Lowa	Cloth	kolaʔ	k o + l a.ʔ	519 520	cloth _:suffix/lak		172	Dhakal2024	[x]
+1076	Nubri	Cloth	kalaʔ	k a + l a.ʔ	519 520	cloth _:suffix/lak		172	Dhakal2024	[x]
+1325	Sherpa	Cloth	madzja	m a + dz.j a	521 522	*ma *dza		174	Dhakal2024	[?] borroring from Chinese?
+1570	Tsum	Cloth	kølaʔ	k ø + l a.ʔ	519 520	cloth _:suffix/lak		172	Dhakal2024	[x]
+1831	Yolmo	Cloth	kəptɕja	k ə.p + tɕ.j a	519 522	cloth _/tcja		172	Dhakal2024	[x]
+55	Gyalsumdo	Cloud	muɡpa	m u.g/k + p a	536 10	cloud/muk _pa-suffix/pa		176	Dhakal2024	[x]
+316	Jirel	Cloud	mukpa	m u.k + p a	536 10	cloud/muk _pa-suffix/pa		176	Dhakal2024	[x]
+575	Kagate	Cloud	mukpa	m u.k + p a	536 10	cloud/muk _pa-suffix/pa		176	Dhakal2024	[x]
+829	Lowa	Cloud	ʂɹiŋpa	ʂ.ɹ/ɾ i.ŋ + p a	538 10	cloud/sriŋ _:pa-suffix/pa		36	Dhakal2024	[x]
+1085	Nubri	Cloud	muɡpa	m u.g/k + p a	536 10	cloud/muk _pa-suffix/pa		176	Dhakal2024	[x]
+1335	Sherpa	Cloud	mukpa	m u.k + p a	536 10	cloud/muk _pa-suffix/pa		176	Dhakal2024	[x]
+1579	Tsum	Cloud	mukpaʔ	m u.k + p a.ʔ	536 10	cloud/muk _pa-suffix/pa		176	Dhakal2024	[x]
+1841	Yolmo	Cloud	mukpa	m u.k + p a	536 10	cloud/muk _pa-suffix/pa		176	Dhakal2024	[x]
+151	Gyalsumdo	Cold	taŋmu	t̪ a.ŋ + m u	553 3365	cold _:mu-suffix/mu		179	Dhakal2024	[x]
+409	Jirel	Cold	tʰəŋɡe	t̪ʰ ə.ŋ + g e	553 555	cold _/ge		179	Dhakal2024	[x]
+668	Kagate	Cold	taŋmu	t̪ a.ŋ + m u	553 3365	cold _:mu-suffix		179	Dhakal2024	[x]
+924	Lowa	Cold	taɡmo	t̪ a.!g/ŋ + m o	553 554	cold _:mo-suffix		179	Dhakal2024	[x]
+1174	Nubri	Cold	taŋmo	t̪ a.ŋ + m o	553 3365	cold _:mu-suffix/mu		179	Dhakal2024	[x]
+1425	Sherpa	Cold	tʰeŋa	t̪ʰ e.ŋ + !Ø/ŋ a	553 164	cold _:ŋa-suffix		179	Dhakal2024	[x]
+1668	Tsum	Cold	ɹaŋd̪a	ɹ a.ŋ + d̪ a	165 82	cold/rang _/da		190	Dhakal2024	[x]
+1930	Yolmo	Cold	taŋmu	t̪ a.ŋ + m u	553 3365	cold _:mu-suffix		179	Dhakal2024	[x]
+259	Gyalsumdo	Corpse	ɹo	ɹ o	570	corpse		184	Dhakal2024	[x]
+520	Jirel	Corpse	ɹo	ɹ o	570	corpse		184	Dhakal2024	[x]
+770	Kagate	Corpse	ro	r o	570	corpse		184	Dhakal2024	[x]
+771	Kagate	Corpse	pʰumbu	pʰ u.m + b u	572 107	corpse/phum _bu		185	Dhakal2024	[x]
+1030	Lowa	Corpse	ɹo	ɹ/ɾ o	570	corpse		184	Dhakal2024	[x]
+1276	Nubri	Corpse	hɹo	h.ɹ o	570	corpse		184	Dhakal2024	[x]
+1523	Sherpa	Corpse	ro	!r/ɹ o	570	corpse		184	Dhakal2024	[x]
+1779	Tsum	Corpse	ɹo	ɹ o	570	corpse		184	Dhakal2024	[x]
+1780	Tsum	Corpse	pʰuŋbo	pʰ u.ŋ + b o	572 107	corpse/phum _bu		185	Dhakal2024	[x]
+2034	Yolmo	Corpse	ɹo	ɹ o	570	corpse		184	Dhakal2024	[x]
+98	Gyalsumdo	Cow	poɡo	p o + g o	583 584	cow cow-3-/go		41	Dhakal2024	[x]
+359	Jirel	Cow	pʰalaŋ	pʰ a + l a.ŋ	583 585	cow cow-2/lang		188	Dhakal2024	[x]
+616	Kagate	Cow	palaŋ	p a + l a.ŋ	583 585	cow cow-2/lang		188	Dhakal2024	[x]
+873	Lowa	Cow	palaŋ	p a + l a.ŋ	583 585	cow cow-2/lang		188	Dhakal2024	[x]
+1126	Nubri	Cow	palaŋ	p a + l a.ŋ	583 585	cow cow-2/lang		188	Dhakal2024	[x]
+1376	Sherpa	Cow	tɕʰuŋma	tɕʰ u.ŋ + m a	586 587	cow cow-4/ma		191	Dhakal2024	[x]
+1620	Tsum	Cow	pawo	p a + w o	583 588	cow cow-5/wo		38	Dhakal2024	[x]
+1882	Yolmo	Cow	palaŋ	p a + l a.ŋ	583 585	cow cow-2/lang		188	Dhakal2024	[x]
+123	Gyalsumdo	Daughter	pomo	p o + m o	2515 601	child-son female		194	Dhakal2024	[x]
+384	Jirel	Daughter	pʰumu	pʰ u + m u	2515 3822	child-son female/mu		194	Dhakal2024	[x]
+640	Kagate	Daughter	pomo	p o/u + m o	2515 601	child-son female		194	Dhakal2024	[x]
+897	Lowa	Daughter	pomo	p o + m o	2515 601	child-son female		194	Dhakal2024	[x]
+1149	Nubri	Daughter	poõ	p o/u.Ø/h + Ø/m õ/o	2515 601	child-son female		194	Dhakal2024	[x]
+1400	Sherpa	Daughter	pʰumu	pʰ u + m u	2515 3822	child-son female/mu		194	Dhakal2024	[x]
+1643	Tsum	Daughter	poõ	p o/u + Ø/m õ/o	2515 601	child-son female		194	Dhakal2024	[x]
+1905	Yolmo	Daughter	pomo	p o/u + m o	2515 601	child-son female		194	Dhakal2024	[x]
+130	Gyalsumdo	Day	ɕjaŋma	ɕ.j a.ŋ + m a	615 11	day _:ma-suffix/ma		89	Dhakal2024	
+389	Jirel	Day	ɲima	ɲ i + m a	2613 11	sun _ma-suffix/ma		196	Dhakal2024	
+646	Kagate	Day	ɲima	ɲ i + m a	2613 11	sun _:ma-suffix/ma		196	Dhakal2024	
+902	Lowa	Day	ɲima	ɲ i + m a	2613 11	sun _:ma-suffix/ma		196	Dhakal2024	
+1154	Nubri	Day	ɲin̪	ɲ i + n !Ø/ə	2613 76	sun _:n-suffix		196	Dhakal2024	
+1405	Sherpa	Day	ɲima	ɲ i + m a	2613 11	sun _ma-suffix/ma		196	Dhakal2024	
+1648	Tsum	Day	ɕjakpa	ɕ.j a.k + p a	618 53	day _:pa-suffix/pa		199	Dhakal2024	
+1910	Yolmo	Day	ɲima	ɲ i + m a	617 616	_day DAY		196	Dhakal2024	
+193	Gyalsumdo	Different	mendaɡe	m !e/a + !ⁿd/t̪ a + g e	631 632 633	not same/ta same/ge		201	Dhakal2024	[x]
+450	Jirel	Different	kʰud̪uk	kʰ u + d̪ u.k	633 634	different different/tuk		202	Dhakal2024	[x]
+707	Kagate	Different	raŋsara	r a.ŋ + s a + r a	2360 636 2360	same/rang different/sa different		207	Dhakal2024	[x]
+967	Lowa	Different	mitɕikpa	m i + tɕ i.k + !p/b a	631 2024 1019	not/men one _:ba-suffix		135	Dhakal2024	[x]
+1215	Nubri	Different	alak	a + l a.k	639 640	different/a different/lak		205	Dhakal2024	[x]
+1464	Sherpa	Different	kʰut̪uk	kʰ u + t̪ u.k	633 634	different different/tuk		202	Dhakal2024	[x]
+1707	Tsum	Different	minta	m i.n + t̪ a	631 632	not/men same/ta		201	Dhakal2024	[x]
+1970	Yolmo	Different	alak	a + l a.k	639 640	different/a different/lak		205	Dhakal2024	[x]
+104	Gyalsumdo	Dog	kjupu	!k/kʰ.j u + p u	651 1581	dog _:bu-suffix/pu		211	Dhakal2024	[x]
+105	Gyalsumdo	Dog	ki	!k/kʰ i	651	dog		211	Dhakal2024	[x]
+366	Jirel	Dog	ki	!k/kʰ i	651	dog		211	Dhakal2024	[x]
+622	Kagate	Dog	kʰi	kʰ i	651	dog		211	Dhakal2024	[x]
+879	Lowa	Dog	kʰi	kʰ i	651	dog		211	Dhakal2024	[x]
+1132	Nubri	Dog	kʰji	!kʰj/kʰ i	651	dog		211	Dhakal2024	[x]
+1382	Sherpa	Dog	ki	!k/kʰ i	651	dog		211	Dhakal2024	[x]
+1626	Tsum	Dog	ki	!k/kʰ i	651	dog		211	Dhakal2024	[x]
+1888	Yolmo	Dog	kʰi	kʰ i	651	dog		211	Dhakal2024	[x]
+33	Gyalsumdo	Door	ko	k o	662	door		213	Dhakal2024	[x]
+295	Jirel	Door	ŋɡo	ⁿg/g o	662	door		213	Dhakal2024	[x]
+555	Kagate	Door	ko	k o	662	door		213	Dhakal2024	[x]
+809	Lowa	Door	ko	k o	662	door		213	Dhakal2024	[x]
+1065	Nubri	Door	ko	k o	662	door		213	Dhakal2024	[x]
+1314	Sherpa	Door	ɡo	g o	662	door		213	Dhakal2024	[x]
+1559	Tsum	Door	ko	k o	662	door		213	Dhakal2024	[x]
+1819	Yolmo	Door	ko	k o	662	door		213	Dhakal2024	[x]
+147	Gyalsumdo	Dry	kəmpu	k ə.m + p u	671 1581	dry _:bu-suffix		214	Dhakal2024	[x]
+405	Jirel	Dry	kombo	k o.m + !b/p o	671 672	dry _:bo-suffix		214	Dhakal2024	[x]
+664	Kagate	Dry	kambu	k a.m + b u	671 1581	dry _:bu-suffix		214	Dhakal2024	[x]
+920	Lowa	Dry	kampo	k a.m + p o	671 672	dry _:bo-suffix		214	Dhakal2024	[x]
+1170	Nubri	Dry	kombo	k o.m + b o	671 672	dry _:bo-suffix		214	Dhakal2024	[x]
+1421	Sherpa	Dry	kaŋbu	k a.ŋ + b u	671 1581	dry _:bu-suffix		214	Dhakal2024	[x]
+1664	Tsum	Dry	kampo	k a.m + p o	671 672	dry _:bo-suffix		214	Dhakal2024	[x]
+1926	Yolmo	Dry	kambu	k a.m + b u	671 1581	dry _:bu-suffix		214	Dhakal2024	[x]
+66	Gyalsumdo	Dust	t̪ʰala	t̪ʰ a + l a	70 71	ash/tha _ash/la		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+328	Jirel	Dust	d̪ulo	!d̪/t̪ʰ !u/a + l !o/a	70 71	ash/tha _ash/la		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+586	Kagate	Dust	t̪ʰaldzuk	t̪ʰ a + l Ø/a + dz u.k	70 71 60	ash/tha _ash/la _dust/dzuk		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+842	Lowa	Dust	t̪ʰala	t̪ʰ a + l a	70 71	ash/tha _ash/la		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+1096	Nubri	Dust	t̪ʰala	t̪ʰ a + l a	70 71	ash/tha _ash/la		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+1346	Sherpa	Dust	t̪ʰald̪uk	t̪ʰ a + l !Ø/a + d̪ u.k	70 71 60	ash/tha _ash/la _dust/dzuk		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+1590	Tsum	Dust	t̪ʰala	t̪ʰ a + l a	70 71	ash/tha _ash/la		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+1852	Yolmo	Dust	t̪ʰalbi	t̪ʰ a + l !Ø/a + b i	70 71 61	ash/tha _ash/la _dust/bi		26	Dhakal2024	[x] check with cross-semantic connections between Ash and Dust
+6	Gyalsumdo	Ear	amtɕo	a.m + tɕ o	7 706	_ear/am ear/dzo		220	Dhakal2024	[x]
+7	Gyalsumdo	Ear	amdʑo	a.m + !dʑ/tɕ o	7 706	_ear/am ear/dzo		220	Dhakal2024	[x]
+273	Jirel	Ear	n̪amdʑjok	n a.m + dʑj/dʑ o.k	705 706	_ear/nam ear/dzo		220	Dhakal2024	[x]
+532	Kagate	Ear	namdzjo	n a.m + dzj/dʑ o	705 706	_ear/nam ear/dzo		220	Dhakal2024	[x]
+785	Lowa	Ear	amtɕjoʔ	a.m + tɕj/tɕ o.ʔ	7 706	_ear/am ear/dzo		220	Dhakal2024	[x]
+1043	Nubri	Ear	amtɕjoʔ	a.m + tɕj/tɕ o.ʔ	7 706	_ear/am ear/dzo		220	Dhakal2024	[x]
+1291	Sherpa	Ear	namdzjok	n a.m + !dzj/dʑ o.k	705 706	_ear/nam ear/dzo		220	Dhakal2024	[x]
+1536	Tsum	Ear	amdʑjoʔ	a.m + dʑj/dʑ o.ʔ	7 706	_ear/am ear/dzo		220	Dhakal2024	[x]
+1797	Yolmo	Ear	nəmdʑjo	n ə.m + dʑj/dʑ o	705 706	_ear/am ear/dzo		220	Dhakal2024	[x]
+97	Gyalsumdo	Egg	koŋa	k o + ŋ a	724 725	egg-1 egg-2		222	Dhakal2024	[x]
+357	Jirel	Egg	tsʰemend̪ok	tsʰ e + m e.n + d̪ o.k	726 727 728	*chicken-1 egg-3 egg-4		224	Dhakal2024	[x]
+358	Jirel	Egg	tsʰeɡoŋa	tsʰ e + g o + ŋ a	726 724 725	*chicken-1 egg-1 egg-2		222	Dhakal2024	[x]
+615	Kagate	Egg	tɕjamuɡoŋa	tɕj/tɕ a + m u + !g/k o + ŋ a	726 730 724 725	*chicken-1 *female egg-1 egg-2		222	Dhakal2024	[x]
+872	Lowa	Egg	koŋa	k o + ŋ a	724 725	egg-1 egg-2		222	Dhakal2024	[x]
+1125	Nubri	Egg	koõ	k o + !Ø/ŋ õ/o	724 725	egg-1 egg-2		222	Dhakal2024	[x]
+1375	Sherpa	Egg	tɕʰeɡoŋa	tɕʰ e + g o + ŋ a	726 724 725	*chicken-1 egg-1 egg-2		222	Dhakal2024	[x]
+1619	Tsum	Egg	koã	k o + !Ø/ŋ !ã/a	724 725	egg-1 egg-2		222	Dhakal2024	[x]
+1881	Yolmo	Egg	koŋa	k o + ŋ a	724 725	egg-1 egg-2		222	Dhakal2024	[x]
+82	Gyalsumdo	Eggplant	penda	p e.n + d̪ a	746 747	eggplant/pen eggplant/da		229	Dhakal2024	[x]
+342	Jirel	Eggplant	pənda	p ə.n + d̪ a	746 747	eggplant/pen eggplant/da		229	Dhakal2024	[x]
+600	Kagate	Eggplant	bjanta	b.j a.n + t̪ a	746 747	eggplant/pen eggplant/da		229	Dhakal2024	[x]
+856	Lowa	Eggplant	t̪oluma	t̪ o + l u + m a	68 748 1442	eggplant/to eggplant/lu _:ma-suffix/ma		229	Dhakal2024	[x]
+1110	Nubri	Eggplant	pɛnta	p ɛ.n + t̪ a	746 747	eggplant/pen eggplant/da		229	Dhakal2024	[x]
+1360	Sherpa	Eggplant	bənta	b ə.n + t̪ a	746 747	eggplant/pen eggplant/da		229	Dhakal2024	[x]
+1604	Tsum	Eggplant	bənda	b ə.n + d̪ a	746 747	eggplant/pen eggplant/da		229	Dhakal2024	[x]
+1866	Yolmo	Eggplant	bãⁿda	b ã + !ⁿd/d̪ a	750 747	eggplant/pen eggplant/da		229	Dhakal2024	[x]
+173	Gyalsumdo	Eight	ke	k e	764	eight		234	Dhakal2024	[x]
+432	Jirel	Eight	ŋɡet̪	ⁿg/g e.t̪	764	eight		234	Dhakal2024	[x]
+689	Kagate	Eight	ke	k e	764	eight		234	Dhakal2024	[x]
+946	Lowa	Eight	ke	k e	764	eight		234	Dhakal2024	[x]
+1195	Nubri	Eight	ke	k e	764	eight		234	Dhakal2024	[x]
+1196	Nubri	Eight	kxe	!kx/k e	764	eight		236	Dhakal2024	[x]
+1446	Sherpa	Eight	ɡeʔ	g e.ʔ	764	eight		235	Dhakal2024	[x]
+1689	Tsum	Eight	keʔ	k e.ʔ	764	eight		234	Dhakal2024	[x]
+1951	Yolmo	Eight	ke	k e	764	eight		234	Dhakal2024	[x]
+16	Gyalsumdo	Elbow	temaɲuŋ	t̪ e + m a + ɲ u.ŋ	774 1442 776	elbow/ta _:ma-suffix/ma elbow/nuŋ		238	Dhakal2024	[?]
+281	Jirel	Elbow	kuin̪a	k ui + n a	777 778	elbow/kui elbow/na		243	Dhakal2024	[?]
+541	Kagate	Elbow	uti	u + t̪ i	779 39	/u elbow/ti		237	Dhakal2024	[?]
+793	Lowa	Elbow	tamo	t̪ a + m o	40 775	elbow/ta _:mu-suffix/mo		13	Dhakal2024	[?]
+1051	Nubri	Elbow	tsʰikt̪oʔ	tsʰ i.k + t̪ o.ʔ	41 781	ELBOW _elbow		14	Dhakal2024	[?]
+1299	Sherpa	Elbow	laɡpatsʰi	l a.g/k + p a + tsʰ i	52 10 780	arm/hand _:pa-suffix/pa elbow/tshi		237	Dhakal2024	[?]
+1544	Tsum	Elbow	tɹejoʔ	t̪.ɹ e + j o.ʔ	774 784	ELBOW _elbow		15	Dhakal2024	[?]
+1806	Yolmo	Elbow	laɡpatsi	l a.g/k + p a + ts i	52 10 780	arm/hand _:pa-suffix/pa elbow/tshi		237	Dhakal2024	[?]
+176	Gyalsumdo	Eleven	tɕuktɕik	tɕ u.k + tɕ i.k	2672 2024	ten one		248	Dhakal2024	[x]
+435	Jirel	Eleven	tɕutɕik	tɕ u + tɕ i.k	2672 2024	ten one		248	Dhakal2024	[x]
+692	Kagate	Eleven	tɕjudʑik	tɕj/tɕ u + !dʑ/tɕ i.k	2672 2024	ten one		248	Dhakal2024	[x]
+949	Lowa	Eleven	tɕuɡtɕik	tɕ u.g/k + tɕ i.k	2672 2024	ten one		248	Dhakal2024	[x]
+1199	Nubri	Eleven	tɕjudʑik	tɕj/tɕ u + !dʑ/tɕ i.k	2672 2024	ten one		248	Dhakal2024	[x]
+1449	Sherpa	Eleven	tɕjudzik	tɕj/tɕ u + dz/tɕ i.k	2672 2024	ten one		248	Dhakal2024	[x]
+1692	Tsum	Eleven	tɕutɕi	tɕ u + tɕ i.Ø/k	2672 2024	ten one		248	Dhakal2024	[x]
+1954	Yolmo	Eleven	tɕjuʑi	tɕj/tɕ u + ʑ/tɕ i	2672 2024	ten one		248	Dhakal2024	[x]
+134	Gyalsumdo	Evening	kɔŋmo	k ɔ.ŋ + m o	811 3365	evening :mu-suffix/mu		250	Dhakal2024	[x]
+393	Jirel	Evening	ŋɡwase	ⁿg/g.w a + s e	813 814	evening/gwa night/se		251	Dhakal2024	[x]
+651	Kagate	Evening	kuŋɕe	k u.ŋ + ɕ e	811 814	evening night/se		99	Dhakal2024	[x]
+906	Lowa	Evening	komo	k o + m o	811 3365	evening :mu-suffix/mu		250	Dhakal2024	[x]
+1158	Nubri	Evening	koŋmo	k o.ŋ + m o	811 3365	evening :mu-suffix/mu		250	Dhakal2024	[x]
+1409	Sherpa	Evening	ɡuŋse	g u.ŋ + s e	811 814	evening night/se		99	Dhakal2024	[x]
+1652	Tsum	Evening	kuŋmu	k u.ŋ + m u	811 3365	evening :mu-suffix/mu		250	Dhakal2024	[x]
+1914	Yolmo	Evening	kuŋse	k u.ŋ + s e	811 814	evening night/se		99	Dhakal2024	[x]
+5	Gyalsumdo	Eye	mi	m i	828	*eye		255	Dhakal2024	[x] ← Chinese /muk/
+272	Jirel	Eye	mik	m i.k	828	*eye		255	Dhakal2024	[x] ← Chinese /muk/
+531	Kagate	Eye	mi	m i	828	*eye		255	Dhakal2024	[x] ← Chinese /muk/
+784	Lowa	Eye	mik	m i.k	828	*eye		255	Dhakal2024	[x] ← Chinese /muk/
+1042	Nubri	Eye	mik	m i.k	828	*eye		255	Dhakal2024	[x] ← Chinese /muk/
+1290	Sherpa	Eye	mik	m i.k	828	*eye		255	Dhakal2024	[x] ← Chinese /muk/
+1535	Tsum	Eye	miʔ	m i.ʔ	828	*eye		255	Dhakal2024	[x] ← Chinese /muk/
+1796	Yolmo	Eye	mi	m i	828	*eye		255	Dhakal2024	[x] ← Chinese /muk/
+4	Gyalsumdo	Face	ŋot̪oŋ	ŋ o + t̪ o.ŋ	837 838	_face/ŋo face/toŋ		256	Dhakal2024	[x]
+271	Jirel	Face	tɕʰet̪	tɕʰ e.t̪	839	face/tshet		258	Dhakal2024	
+530	Kagate	Face	t̪oŋba	t̪ o.ŋ + b a	838 840	face/toŋ _:ba-suffix/ba		256	Dhakal2024	[x]
+783	Lowa	Face	ŋot̪oŋ	ŋ o + t̪ o.ŋ	837 838	_face/ŋo face/toŋ		256	Dhakal2024	[x]
+1041	Nubri	Face	tɕuŋu	tɕ u + ŋ u	841 837	face _face/ŋo		257	Dhakal2024	[ ] check cognacy
+1289	Sherpa	Face	ŋot̪oŋ	ŋ o + t̪ o.ŋ	837 838	_face/ŋo face/toŋ		256	Dhakal2024	[x]
+1534	Tsum	Face	tɕeʔ	tɕ e.ʔ	839	face/tshet		258	Dhakal2024	
+1795	Yolmo	Face	t̪oŋba	t̪ o.ŋ + b a	838 840	face/toŋ _:ba-suffix/ba		256	Dhakal2024	[x]
+28	Gyalsumdo	Faeces	kjaɡpa	k.j a.g/k + p a	852 10	shit _:pa-suffix/pa		261	Dhakal2024	[x]
+291	Jirel	Faeces	kjakpa	k.j a.k + p a	852 10	shit _:pa-suffix/pa		261	Dhakal2024	[x]
+551	Kagate	Faeces	kjakpa	k.j a.k + p a	852 10	shit _:pa-suffix/pa		261	Dhakal2024	[x]
+804	Lowa	Faeces	kjakpa	k.j a.k + p a	852 10	shit _:pa-suffix/pa		261	Dhakal2024	[x]
+805	Lowa	Faeces	tsa	ts a	855	shit/tsa		264	Dhakal2024	[x]
+1061	Nubri	Faeces	aʔ	a.ʔ	854	shit/a		263	Dhakal2024	[x]
+1309	Sherpa	Faeces	kjakpa	k.j a.k + p a	852 10	shit _:pa-suffix/pa		261	Dhakal2024	[x]
+1554	Tsum	Faeces	aʔ	a.ʔ	854	shit/a		263	Dhakal2024	[x]
+1816	Yolmo	Faeces	kjakpa	k.j a.k + p a	852 10	shit _:pa-suffix/pa		261	Dhakal2024	[x]
+155	Gyalsumdo	Far	t̪ʰaɹiŋbu	t̪ʰ a + ɹ i.ŋ + b u	868 1607 1581	far/tha long _:bu-suffix/bu		265	Dhakal2024	[x]
+413	Jirel	Far	t̪ʰaɹid̪u	t̪ʰ a + ɹ i.!Ø/n + d̪ u	868 1607 871	far/tha long _?		265	Dhakal2024	[x]
+414	Jirel	Far	t̪ʰaɹipa	t̪ʰ a + ɹ i.!Ø/n + p a	868 1607 10	far/tha long _:ba-suffix/pa		265	Dhakal2024	[x]
+672	Kagate	Far	t̪ʰariŋbu	t̪ʰ a + r i.ŋ + b u	868 1607 1581	far/tha long _:bu-suffix/bu		265	Dhakal2024	[x]
+928	Lowa	Far	t̪ʰaɡɾiŋa	t̪ʰ a.g/k + ɾ i.!Ø/ŋ + ŋ a	868 1607 872	far/tha long _:ŋa-suffix		265	Dhakal2024	[x]
+1178	Nubri	Far	t̪ʰaɹiŋpo	t̪ʰ a + ɹ i.ŋ + p o	868 1607 1581	far/tha long _:po-suffix/po		265	Dhakal2024	[x]
+1429	Sherpa	Far	t̪ʰakriŋbu	t̪ʰ a.k + r i.ŋ + b u	868 1607 1581	far/tha long _:bu-suffix/bu		265	Dhakal2024	[x]
+1672	Tsum	Far	t̪ʰaɹiŋmu	t̪ʰ a + ɹ i.ŋ + m u	868 1607 132	far/tha long _:mo-suffix/mu		265	Dhakal2024	[x]
+1934	Yolmo	Far	t̪ʰaɹiŋbu	t̪ʰ a + ɹ i.ŋ + b u	868 1607 1581	far/tha long _:bu-suffix/bu		265	Dhakal2024	[x]
+94	Gyalsumdo	Fat (of meat)	tsʰulu	tsʰ u + l u	896 897	*fat fat/luk		272	Dhakal2024	[←Chinese]
+354	Jirel	Fat (of meat)	tsʰiluk	tsʰ i + l u.k	896 897	*fat fat/luk		272	Dhakal2024	[←Chinese]
+612	Kagate	Fat (of meat)	tsʰiluk	tsʰ i + l u.k	896 897	*fat fat/luk		272	Dhakal2024	[←Chinese]
+869	Lowa	Fat (of meat)	tsʰiluk	tsʰ i + l u.k	896 897	*fat fat/luk		272	Dhakal2024	[←Chinese]
+1122	Nubri	Fat (of meat)	tsʰulu	tsʰ u + l u	896 897	*fat fat/luk		272	Dhakal2024	[←Chinese]
+1372	Sherpa	Fat (of meat)	tsʰiluk	tsʰ i + l u.k	896 897	*fat fat/luk		272	Dhakal2024	[←Chinese]
+1616	Tsum	Fat (of meat)	tsʰilu	tsʰ i + l u	896 897	*fat fat/luk		272	Dhakal2024	[←Chinese]
+1878	Yolmo	Fat (of meat)	tsʰilu	tsʰ i + l u	896 897	*fat fat/luk		272	Dhakal2024	[←Chinese]
+116	Gyalsumdo	Father	apa	a + p a	489 914	:a-prefix father		274	Dhakal2024	[x]
+377	Jirel	Father	aba	a + b a	489 914	:a-prefix father		274	Dhakal2024	[x]
+633	Kagate	Father	aba	a + b a	489 914	:a-prefix father		274	Dhakal2024	[x]
+890	Lowa	Father	ake	a + k e	489 915	:a-prefix big-brother/ge		64	Dhakal2024	[x]
+1142	Nubri	Father	jɛ	j ɛ	916	*father		277	Dhakal2024	[borrowed from Chinese]
+1393	Sherpa	Father	apa	a + p a	489 914	:a-prefix father		274	Dhakal2024	[x]
+1636	Tsum	Father	awa	a + w a	489 914	:a-prefix father		274	Dhakal2024	[x]
+1898	Yolmo	Father	aba	a + b a	489 914	:a-prefix father		274	Dhakal2024	[x]
+196	Gyalsumdo	Few	ɲuŋe	ɲ u + ŋ e	929 930	few/ny _/ŋe		279	Dhakal2024	[?]
+453	Jirel	Few	tikpidʑik	t̪ i.k + p i + dʑ i.k	931 932 933	small _/bi _/?		280	Dhakal2024	[?]
+711	Kagate	Few	t̪ibi	t̪ i + b i	931 932	small _/bi		280	Dhakal2024	[?]
+971	Lowa	Few	ɲuŋwa	ɲ u.ŋ + w a	929 934	few/ny _:wa-suffix		279	Dhakal2024	[?]
+1218	Nubri	Few	alajili	a + l a + j i + l i	935 936 937 938	_:a-suffix la ji li		285	Dhakal2024	[?]
+1467	Sherpa	Few	tsedzi	ts e + dz i	939 933	small/tse _/dzi		280	Dhakal2024	[?]
+1710	Tsum	Few	ɲyma	ɲ y + m a	929 11	few/ny _:ma-suffix/ma		279	Dhakal2024	[?]
+1973	Yolmo	Few	sipi	s i + p i	933 932	small/si _few		12	Dhakal2024	[?]
+1974	Yolmo	Few	ɲemu	ɲ e + m u	929 966	few/ny _:mu-suffix		279	Dhakal2024	[?]
+19	Gyalsumdo	Finger	tsuɡu	ts u + g u	951 952	finger/dzu _finger/gu		292	Dhakal2024	[x]
+283	Jirel	Finger	ndziu	ⁿdz/dz iu	951	finger/dzu		292	Dhakal2024	[x]
+543	Kagate	Finger	t̪ʰebu	t̪ʰ e + b u	953 954	finger/thep _finger/bu		294	Dhakal2024	[x]
+796	Lowa	Finger	ndzu	ⁿdz/dz u	951	finger/dzu		292	Dhakal2024	[x]
+1053	Nubri	Finger	tsuku	ts u + k u	951 952	finger/dzu _finger/gu		292	Dhakal2024	[x]
+1301	Sherpa	Finger	t̪ʰept̪ok	t̪ʰ e.p + t̪ o.k	953 955	finger/thep _finger/tok		294	Dhakal2024	[x]
+1546	Tsum	Finger	ziu	z iu	951	finger/dzu		292	Dhakal2024	[x]
+1808	Yolmo	Finger	ndzuɡu	ⁿdz/dz u + g u	951 952	finger/dzu _finger/gu		292	Dhakal2024	[x]
+20	Gyalsumdo	Fingernail	seɹmu	s e.ɹ + m u	965 3365	fingernail _:mu-suffix/mu		297	Dhakal2024	[x] Suffix needs to be understood.
+284	Jirel	Fingernail	seɹmuk	s e.ɹ + m u.k	965 394	fingernail _/muk		297	Dhakal2024	[x] Suffix needs to be understood.
+544	Kagate	Fingernail	sermu	s e.r + m u	965 966	fingernail _:mu-suffix/mu		297	Dhakal2024	[x] Suffix needs to be understood.
+797	Lowa	Fingernail	semo	s e + m o	965 775	fingernail _:mu-suffix/mo		297	Dhakal2024	[x] Suffix needs to be understood.
+1054	Nubri	Fingernail	sermo	s e.ɹ + m o	965 3365	fingernail _:mu-suffix/mu		297	Dhakal2024	[x] Suffix needs to be understood.
+1302	Sherpa	Fingernail	seɹmoŋ	s e.ɹ + m o.ŋ	965 966	fingernail _:mu-suffix/moŋ		297	Dhakal2024	[x] Suffix needs to be understood.
+1547	Tsum	Fingernail	semu	s e + m u	965 132	fingernail _:mu-suffix/moŋ		297	Dhakal2024	[x] Suffix needs to be understood.
+1809	Yolmo	Fingernail	simu	s i + m u	965 966	fingernail _:mu-suffix/moŋ		297	Dhakal2024	[x] Suffix needs to be understood.
+62	Gyalsumdo	Fire	me	m e	982	fire		299	Dhakal2024	[x]
+324	Jirel	Fire	me	m e	982	fire		299	Dhakal2024	[x]
+582	Kagate	Fire	me	m e	982	fire		299	Dhakal2024	[x]
+837	Lowa	Fire	me	m e	982	fire		299	Dhakal2024	[x]
+1092	Nubri	Fire	mẽ	m !ẽ/e	982	fire		299	Dhakal2024	[x]
+1342	Sherpa	Fire	me	m e	982	fire		299	Dhakal2024	[x]
+1586	Tsum	Fire	me	m e	982	fire		299	Dhakal2024	[x]
+1848	Yolmo	Fire	me	m e	982	fire		299	Dhakal2024	[x]
+34	Gyalsumdo	Firewood	ɕiŋ	ɕ i.ŋ	991	tree/siŋ		300	Dhakal2024	[x]
+296	Jirel	Firewood	ɕiŋ	ɕ i.ŋ	991	tree/siŋ		300	Dhakal2024	[x]
+556	Kagate	Firewood	siŋ	s i.ŋ	991	tree/siŋ		300	Dhakal2024	[x]
+810	Lowa	Firewood	ɕiŋ	ɕ i.ŋ	991	tree/siŋ		300	Dhakal2024	[x]
+1066	Nubri	Firewood	ɕiŋ	ɕ i.ŋ	991	tree/siŋ		300	Dhakal2024	[x]
+1315	Sherpa	Firewood	ɕiŋ	ɕ i.ŋ	991	tree/siŋ		300	Dhakal2024	[x]
+1560	Tsum	Firewood	ɕiŋ	ɕ i.ŋ	991	tree/siŋ		300	Dhakal2024	[x]
+1820	Yolmo	Firewood	ɕiŋ	ɕ i.ŋ	991	tree/siŋ		300	Dhakal2024	[x]
+95	Gyalsumdo	Fish	ɲa	ɲ a	1000	fish		301	Dhakal2024	[x]
+355	Jirel	Fish	ɲa	ɲ a	1000	fish		301	Dhakal2024	[x]
+613	Kagate	Fish	ɲa	ɲ a	1000	fish		301	Dhakal2024	[x]
+870	Lowa	Fish	ɲa	ɲ a	1000	fish		301	Dhakal2024	[x]
+1123	Nubri	Fish	ɲa	ɲ a	1000	fish		301	Dhakal2024	[x]
+1373	Sherpa	Fish	ɲa	ɲ a	1000	fish		301	Dhakal2024	[x]
+1617	Tsum	Fish	ɲa	ɲ a	1000	fish		301	Dhakal2024	[x]
+1879	Yolmo	Fish	ɲa	ɲ a	1000	fish		301	Dhakal2024	[x]
+169	Gyalsumdo	Five	ŋa	ŋ a	1009	five		302	Dhakal2024	[x]
+429	Jirel	Five	ŋa	ŋ a	1009	five		302	Dhakal2024	[x]
+686	Kagate	Five	ŋa	ŋ a	1009	five		302	Dhakal2024	[x]
+942	Lowa	Five	ŋa	ŋ a	1009	five		302	Dhakal2024	[x]
+1192	Nubri	Five	ŋa	ŋ a	1009	five		302	Dhakal2024	[x]
+1443	Sherpa	Five	ŋa	ŋ a	1009	five		302	Dhakal2024	[x]
+1686	Tsum	Five	ŋa	ŋ a	1009	five		302	Dhakal2024	[x]
+1948	Yolmo	Five	ŋa	ŋ a	1009	five		302	Dhakal2024	[x]
+234	Gyalsumdo	Flour (eaten as food)	tsampa	ts a.m + p a	1018 10	_flour _:ba-suffix/pa		303	Dhakal2024	
+496	Jirel	Flour (eaten as food)	pʰe	pʰ e	148	FLOUR		183	Dhakal2024	
+744	Kagate	Flour (eaten as food)	tsamba	ts a.m + b a	1018 1019	_flour FLOUR		303	Dhakal2024	
+1004	Lowa	Flour (eaten as food)	tsampa	ts a.m + p a	1018 1019	_flour _:pa-suffix/pa		303	Dhakal2024	
+1251	Nubri	Flour (eaten as food)	pʰe	pʰ e	148	FLOUR		183	Dhakal2024	
+1500	Sherpa	Flour (eaten as food)	tsamba	ts a.m + b a	1018 1019	_flour FLOUR		303	Dhakal2024	
+1750	Tsum	Flour (eaten as food)	pʰe	pʰ e	148	FLOUR		183	Dhakal2024	
+1751	Tsum	Flour (eaten as food)	tsampa	ts a.m + p a	1018 53	_flour _:pa-suffix/pa		303	Dhakal2024	
+2007	Yolmo	Flour (eaten as food)	tsamba	ts a.m + b a	1018 1019	_flour FLOUR		303	Dhakal2024	
+73	Gyalsumdo	Flower	mend̪o	m e + ⁿd̪/d̪ o	1034 1061	flower fruit		305	Dhakal2024	[x]
+334	Jirel	Flower	mend̪ok	m e + ⁿd/d̪ o.k	1034 1061	flower fruit		305	Dhakal2024	[x]
+592	Kagate	Flower	mend̪o	m e + ⁿd̪/d̪ o	1034 1061	flower fruit		305	Dhakal2024	[x]
+848	Lowa	Flower	ment̪o	m e + ⁿt̪/t̪ o.!Ø/ʔ	1034 1061	flower fruit		305	Dhakal2024	[x]
+1102	Nubri	Flower	met̪o	m e + t̪ o.!Ø/ʔ	1034 1061	flower fruit		305	Dhakal2024	[x]
+1352	Sherpa	Flower	mend̪o	m e + ⁿd̪/d̪ o	1034 1061	flower fruit		305	Dhakal2024	[x]
+1596	Tsum	Flower	mend̪oʔ	m e + ⁿd̪/d̪ o.ʔ	1034 1061	flower fruit		305	Dhakal2024	[x]
+1858	Yolmo	Flower	mend̪o	m e + ⁿd̪/d̪ o	1034 1061	flower fruit		305	Dhakal2024	[x]
+168	Gyalsumdo	Four	ɕi	ɕ i	1051	*four		307	Dhakal2024	[x]
+428	Jirel	Four	ɕi	ɕ i	1051	*four		307	Dhakal2024	[x]
+685	Kagate	Four	ɕi	ɕ i	1051	*four		307	Dhakal2024	[x]
+941	Lowa	Four	ɕi	ɕ i	1051	*four		307	Dhakal2024	[x]
+1191	Nubri	Four	ɕi	ɕ i	1051	*four		307	Dhakal2024	[x]
+1442	Sherpa	Four	ɕi	ɕ i	1051	*four		307	Dhakal2024	[x]
+1685	Tsum	Four	ʑi	ʑ i	1051	*four		307	Dhakal2024	[x]
+1947	Yolmo	Four	ʑi	ʑ i	1051	*four		307	Dhakal2024	[x]
+74	Gyalsumdo	Fruit	ɕiŋd̪o	ɕ i.ŋ + d̪ o	991 1061	tree/siŋ fruit		308	Dhakal2024	[x]
+335	Jirel	Fruit	pʰəlpʰul	pʰ ə.l + pʰ u.l	1062 1063	*fruit-1 *fruit-2		310	Dhakal2024	[!] borrowing from Nepali
+593	Kagate	Fruit	brumd̪o	b.r u.m + d̪ o	1064 1061	? fruit		189	Dhakal2024	[x]
+849	Lowa	Fruit	ɕiŋt̪oʔ	ɕ i.ŋ + t̪ o.ʔ	991 1061	tree/siŋ fruit		308	Dhakal2024	[x]
+1103	Nubri	Fruit	ɕiŋt̪oʔ	ɕ i.ŋ + t̪ o.ʔ	991 1061	tree/siŋ fruit		308	Dhakal2024	[x]
+1353	Sherpa	Fruit	pʰalpʰul	pʰ a.l + pʰ u.l	1062 1063	*fruit-1 *fruit-2		310	Dhakal2024	[!] borrowing from Nepali
+1597	Tsum	Fruit	ɕiŋd̪oʔ	ɕ i.ŋ + d̪ o.ʔ	991 1061	tree/siŋ fruit		308	Dhakal2024	[x]
+1859	Yolmo	Fruit	pʰəlbul	pʰ ə.l + b u.l	1062 1063	*fruit-1 *fruit-2		310	Dhakal2024	[!] borrowing from Nepali
+86	Gyalsumdo	Garlic	kɔkpa	k ɔ.k + p a	1077 10	garlic _:ba-suffix/pa		313	Dhakal2024	[x]
+346	Jirel	Garlic	ŋɡokpa	ⁿg/g o.k + p a	1077 10	garlic _:ba-suffix/pa		313	Dhakal2024	[x]
+604	Kagate	Garlic	kokpa	k o.k + p a	1077 10	garlic _:ba-suffix/pa		313	Dhakal2024	[x]
+860	Lowa	Garlic	koɡpa	k o.g/k + p a	1077 10	garlic _:ba-suffix/pa		313	Dhakal2024	[x]
+1114	Nubri	Garlic	koɡpa	k o.g/k + p a	1077 10	garlic _:ba-suffix/pa		313	Dhakal2024	[x]
+1364	Sherpa	Garlic	ɡokpa	g o.k + p a	1077 10	garlic _:ba-suffix/pa		313	Dhakal2024	[x]
+1608	Tsum	Garlic	kokpa	k o.k + p a	1077 10	garlic _:ba-suffix/pa		313	Dhakal2024	[x]
+1870	Yolmo	Garlic	kɔkpa	k ɔ.k + p a	1077 10	garlic _:ba-suffix/pa		313	Dhakal2024	[x]
+256	Gyalsumdo	Ghost	nøpa	n ø + p a	1094 10	ghost/no _:ba-suffix/pa		317	Dhakal2024	[x]
+517	Jirel	Ghost	ləndik	!Ø/h.l ə.n + d̪ i.k	1096 1097	_hla ghost		315	Dhakal2024	[x]
+767	Kagate	Ghost	ɦendi	!ɦ/h.!Ø/l e.n + d̪ i	1096 1097	_hla ghost		315	Dhakal2024	[x]
+1027	Lowa	Ghost	nde	ⁿd/d e	1097	ghost		181	Dhakal2024	[x]
+1273	Nubri	Ghost	hlent̪i	h.l e.n + t̪ i	1096 1097	_hla ghost		315	Dhakal2024	[x]
+1520	Sherpa	Ghost	rendi	!r/h.!Ø/l e.n + d̪ i	1096 1097	_hla ghost		315	Dhakal2024	[x]
+1776	Tsum	Ghost	hlande	h.l a.n + d̪ e	1096 1097	_hla ghost		315	Dhakal2024	[x]
+2031	Yolmo	Ghost	hlandi	h.l a.n + d̪ i	1096 1097	_hla ghost		315	Dhakal2024	[x]
+129	Gyalsumdo	Girl	pomo	p o + m o	2515 601	child-son female		319	Dhakal2024	[x]
+388	Jirel	Girl	pʰemmepidza	pʰ e.m + m e + !p/pʰ i + dz a	3707 75 487 488	woman/phem woman/me child-1 child-2		79	Dhakal2024	[x]
+645	Kagate	Girl	pitukmu	p i + t̪ u.k + m u	487 26 3822	child-1 child-3 female/mu		80	Dhakal2024	[x]
+901	Lowa	Girl	pomo	p o + m o	2515 601	child-son female		319	Dhakal2024	[x]
+1153	Nubri	Girl	poõ	p o/u.Ø/h + Ø/m õ/o	2515 601	child-son female		319	Dhakal2024	[x]
+1404	Sherpa	Girl	pʰumpʰedza	pʰ u.m + pʰ e + dz a	3707 487 488	woman/phem child-1 child-2		79	Dhakal2024	[x]
+1647	Tsum	Girl	naʑjuŋ	n a + ʑ.j u.ŋ	1115 2517	girl son-2		324	Dhakal2024	[x]
+1909	Yolmo	Girl	ɕjaɹma	ɕj/ɕ a.ɹ + m a	311 11	child-offspring _:ma-suffix/ma		320	Dhakal2024	[x]
+103	Gyalsumdo	Goat	ɹa	ɹ a	1130	goat		327	Dhakal2024	[x]
+365	Jirel	Goat	ɹa	ɹ a	1130	goat		327	Dhakal2024	[x]
+621	Kagate	Goat	ra	r a	1130	goat		327	Dhakal2024	[x]
+878	Lowa	Goat	ɹa	!ɹ/ɾ a	1130	goat		327	Dhakal2024	[x]
+1131	Nubri	Goat	ɹatse	ɹ a + ts e	1130 1131	goat _goat/tse		327	Dhakal2024	[x]
+1381	Sherpa	Goat	ra	r a	1130	goat		327	Dhakal2024	[x]
+1625	Tsum	Goat	ɹa	ɹ a	1130	goat		327	Dhakal2024	[x]
+1887	Yolmo	Goat	ra	!r/ɹ a	1130	goat		327	Dhakal2024	[x]
+67	Gyalsumdo	Gold	seɹ	s e.ɹ	1140	gold		329	Dhakal2024	[x]
+329	Jirel	Gold	seɹ	s e.ɹ	1140	gold		329	Dhakal2024	[x]
+587	Kagate	Gold	ser	s e.r	1140	gold		329	Dhakal2024	[x]
+843	Lowa	Gold	seɾ	s e.ɾ	1140	gold		329	Dhakal2024	[x]
+1097	Nubri	Gold	seɹ	s e.ɹ	1140	gold		329	Dhakal2024	[x]
+1347	Sherpa	Gold	ser	s e.r	1140	gold		329	Dhakal2024	[x]
+1591	Tsum	Gold	seɾ	s e.ɹ	1140	gold		329	Dhakal2024	[x]
+1853	Yolmo	Gold	sir	s i.r	1140	gold		329	Dhakal2024	[x]
+144	Gyalsumdo	Good	jabu	j a + b u	1149 107	good _:bu-suffix/bu		330	Dhakal2024	[x]
+402	Jirel	Good	lemu	l e + m u	1151 3365	good/le _:mu-suffix/mu		332	Dhakal2024	[x]
+659	Kagate	Good	jabu	j a + b u	1149 107	good _:bu-suffix/bu		330	Dhakal2024	[x]
+660	Kagate	Good	dzebu	dz e + b u	1155 107	bad/dze _:bu-suffix		331	Dhakal2024	[x]
+915	Lowa	Good	ka	k a	1153	good		334	Dhakal2024	[x]
+916	Lowa	Good	saŋa	s a.ŋ + !Ø/ŋ a	1156 872	good/sa _:a-suffix		337	Dhakal2024	[x]
+1167	Nubri	Good	koŋ	k o.ŋ	1154	good		335	Dhakal2024	[x]
+1418	Sherpa	Good	lemu	l e + m u	1151 3365	good/le _:mu-suffix/mu		332	Dhakal2024	[x]
+1661	Tsum	Good	jamu	j a + m u	1149 3365	good _:mo-suffix/mu		330	Dhakal2024	[x]
+1923	Yolmo	Good	jabu	j a + b u	1149 107	good _:bu-suffix/bu		330	Dhakal2024	[x]
+261	Gyalsumdo	Grains	tʰu	!tʰ/t̪ u	1168	grains		339	Dhakal2024	[cognacy with fruit / flower possible but then root-variation]
+773	Kagate	Grains	du	d̪ u	1168	grains		339	Dhakal2024	[cognacy with fruit / flower possible but then root-variation]
+1032	Lowa	Grains	ndu	ⁿd/d u	1168	grains		339	Dhakal2024	[cognacy with fruit / flower possible but then root-variation]
+1278	Nubri	Grains	tu	!t/t̪ u	1168	grains		339	Dhakal2024	[cognacy with fruit / flower possible but then root-variation]
+1525	Sherpa	Grains	duma	!d/d̪ u + m a	1168 1169	grains _grains		339	Dhakal2024	[cognacy with fruit / flower possible but then root-variation]
+1782	Tsum	Grains	lod̪oʔ	l o + d̪ o.ʔ	1170 1061	_lo fruit		339	Dhakal2024	[cognacy with fruit / flower possible but then root-variation]
+1783	Tsum	Grains	t̪ond̪o	t̪ o + !ⁿd̪/d̪ o.!Ø/ʔ	27 1061	_to fruit		339	Dhakal2024	[cognacy with fruit / flower possible but then root-variation]
+2036	Yolmo	Grains	ndu	ⁿd/d̪ u	1168	grains		339	Dhakal2024	[cognacy with fruit / flower possible but then root-variation]
+83	Gyalsumdo	Groundnut	pəd̪am	p ə + d̪ a.m	1180 1181	groundnut/be groundnut/dam		343	Dhakal2024	[x]
+343	Jirel	Groundnut	mbəd̪am	ⁿb/b ə + d̪ a.m	1180 1181	groundnut/be groundnut/dam		343	Dhakal2024	[x]
+601	Kagate	Groundnut	bəd̪am	b ə + d̪ a.m	1180 1181	groundnut/be groundnut/dam		343	Dhakal2024	[x]
+857	Lowa	Groundnut	sat̪aɾ	s a + t̪ a.ɾ	1182 1183	groundnut/sa groundnut/tar		345	Dhakal2024	[x]
+1111	Nubri	Groundnut	pat̪am	p a + t̪ a.m	1078 1181	groundnut/be groundnut/dam		343	Dhakal2024	[x]
+1361	Sherpa	Groundnut	bəd̪əm	b ə + d̪ ə.m	1180 1181	groundnut/be groundnut/dam		343	Dhakal2024	[x]
+1605	Tsum	Groundnut	bəd̪am	b ə + d̪ a.m	1180 1181	groundnut/be groundnut/dam		343	Dhakal2024	[x]
+1867	Yolmo	Groundnut	bəd̪əm	b ə + d̪ ə.m	1180 1181	groundnut/be groundnut/dam		343	Dhakal2024	[x]
+235	Gyalsumdo	Hailstone	seɹa	s e + ɹ a	1197 1198	HAILSTONE _hailstone		347	Dhakal2024	
+497	Jirel	Hailstone	seɹe	s e + ɹ e	1197 1198	HAILSTONE _hailstone		347	Dhakal2024	
+745	Kagate	Hailstone	serak	s e + r a.k	1197 1198	HAILSTONE _hailstone		347	Dhakal2024	
+1005	Lowa	Hailstone	seɾa	s e + ɾ a	1197 1198	HAILSTONE _hailstone		347	Dhakal2024	
+1252	Nubri	Hailstone	kʰaɕjol	kʰ a + ɕ.j o.l	1199 1200	HAILSTONE _hailstone		349	Dhakal2024	
+1501	Sherpa	Hailstone	sertɕjuŋma	s e.r + tɕ.j u.ŋ + m a	1197 1201 1202	HAILSTONE _hailstone _hailstone		347	Dhakal2024	
+1752	Tsum	Hailstone	seɹa	s e + ɹ a	1197 1198	HAILSTONE _hailstone		347	Dhakal2024	
+1753	Tsum	Hailstone	tɕʰjaɹwa	tɕʰ.j a + !ɹw/ɹ a	1203 1198	_hailstone HAILSTONE		348	Dhakal2024	
+2008	Yolmo	Hailstone	seɹa	s e + ɹ a	1197 1198	HAILSTONE _hailstone		347	Dhakal2024	
+3	Gyalsumdo	Hair	ta	t̪ a	1217	hair		354	Dhakal2024	skra «Haar»
+270	Jirel	Hair	ŋɡokita	ⁿg/g o + k i + t̪ a	1263 1219 1217	_head _/ki hair		354	Dhakal2024	skra «Haar»
+529	Kagate	Hair	ta	t̪ a	1217	hair		354	Dhakal2024	skra «Haar»
+782	Lowa	Hair	ʂɹa	ʂ.ɹ/ɾ a	1217	hair		354	Dhakal2024	skra «Haar»
+1040	Nubri	Hair	hɹa	h.ɹ a	1217	hair		354	Dhakal2024	skra «Haar»
+1288	Sherpa	Hair	hɹa	h.ɹ a	1217	hair		354	Dhakal2024	skra «Haar»
+1533	Tsum	Hair	tɹa	t̪.ɹ a	1217	hair		354	Dhakal2024	skra «Haar»
+1794	Yolmo	Hair	tɹa	t̪.ɹ a	1217	hair		354	Dhakal2024	skra «Haar»
+39	Gyalsumdo	Hammer	t̪ʰowa	t̪ʰ o + w a	1228 1229	hammer _:wa-suffix		357	Dhakal2024	[x]
+300	Jirel	Hammer	toktoke	t̪ o.k + t̪ o + k e	48 1228 1231	hammer/tok /to /ke		22	Dhakal2024	[x]
+560	Kagate	Hammer	t̪ʰwa	t̪ʰ !Ø/o + w a	1228 1229	hammer _:wa-suffix		357	Dhakal2024	[x]
+814	Lowa	Hammer	t̪ʰowa	t̪ʰ o + w a	1228 1229	hammer _:wa-suffix		357	Dhakal2024	[x]
+1070	Nubri	Hammer	t̪ʰɔ	t̪ʰ ɔ	1228	hammer		357	Dhakal2024	[x]
+1319	Sherpa	Hammer	t̪ʰoa	t̪ʰ o + !Ø/w a	1228 1229	hammer _:wa-suffix		357	Dhakal2024	[x]
+1564	Tsum	Hammer	t̪ʰoa	t̪ʰ o + !Ø/w a	1228 1229	hammer _:wa-suffix		357	Dhakal2024	[x]
+1825	Yolmo	Hammer	t̪ʰoa	t̪ʰ o + !Ø/w a	1228 1229	hammer _:wa-suffix		357	Dhakal2024	[x]
+254	Gyalsumdo	Handle	juwa	j u + w a	1241 1229	handle _wa		361	Dhakal2024	[x]
+515	Jirel	Handle	tʰijuk	t̪ʰ i + j u.k	2256 129	ring handle/juk		162	Dhakal2024	[x]
+765	Kagate	Handle	joaɡa	j o + !Ø/w a + g a	1241 1229 133	handle _wa _ga		361	Dhakal2024	[x]
+1025	Lowa	Handle	jowa	j o + w a	1241 1229	handle _wa		361	Dhakal2024	[x]
+1271	Nubri	Handle	jo	j o	1241	handle		361	Dhakal2024	[x]
+1774	Tsum	Handle	joa	j o + !Ø/w a	1241 1229	handle _wa		361	Dhakal2024	[x]
+2029	Yolmo	Handle	jowa	j o + w a	1241 1229	handle _wa		361	Dhakal2024	[x]
+225	Gyalsumdo	He	kʰo	kʰ o	1254	he		365	Dhakal2024	[x]
+489	Jirel	He	t̪ʰe	t̪ʰ e	1255	he		366	Dhakal2024	[x]
+737	Kagate	He	kʰo	kʰ o	1254	he		365	Dhakal2024	[x]
+998	Lowa	He	kʰo	kʰ o	1254	he		365	Dhakal2024	[x]
+1245	Nubri	He	kʰo	kʰ o	1254	he		365	Dhakal2024	[x]
+1493	Sherpa	He	t̪ʰi	t̪ʰ i	1255	he		366	Dhakal2024	[x]
+1744	Tsum	He	kʰo	kʰ o	1254	he		365	Dhakal2024	[x]
+2001	Yolmo	He	kʰe	kʰ e	1254	he		365	Dhakal2024	[x]
+2	Gyalsumdo	Head	ko	k o	1263	head		367	Dhakal2024	[x]
+269	Jirel	Head	ŋɡo	ⁿg/g o	1263	head		367	Dhakal2024	[x]
+528	Kagate	Head	ɡo	g o	1263	head		367	Dhakal2024	[x]
+780	Lowa	Head	ŋɡo	ⁿg/g o	1263	head		367	Dhakal2024	[x]
+781	Lowa	Head	ŋɡowa	ⁿg/g o + w a	1263 2305	head _:wa-suffix		367	Dhakal2024	[ ] wa-suffix
+1039	Nubri	Head	ko	k o	1263	head		367	Dhakal2024	[x]
+1287	Sherpa	Head	ɡo	g o	1263	head		367	Dhakal2024	[x]
+1532	Tsum	Head	ŋɡo	ⁿg/g o	1263	head		367	Dhakal2024	[x]
+1793	Yolmo	Head	ŋɡo	ⁿg/g o	1263	head		367	Dhakal2024	[x]
+25	Gyalsumdo	Heart	ɲiŋ	ɲ i.ŋ	1274	heart		369	Dhakal2024	[x]
+288	Jirel	Heart	ɲiŋ	ɲ i.ŋ	1274	heart		369	Dhakal2024	[x]
+548	Kagate	Heart	niŋ	n i.ŋ	1274	heart		369	Dhakal2024	[x]
+801	Lowa	Heart	ɲiŋ	ɲ i.ŋ	1274	heart		369	Dhakal2024	[x]
+1058	Nubri	Heart	ɲiŋ	ɲ i.ŋ	1274	heart		369	Dhakal2024	[x]
+1306	Sherpa	Heart	ɲiŋ	ɲ i.ŋ	1274	heart		369	Dhakal2024	[x]
+1551	Tsum	Heart	ɲiŋ	ɲ i.ŋ	1274	heart		369	Dhakal2024	[x]
+1813	Yolmo	Heart	ɲiŋ	ɲ i.ŋ	1274	heart		369	Dhakal2024	[x]
+158	Gyalsumdo	Heavy	tɕent̪i	tɕ e + ⁿt̪/t̪ i	1283 1284	*heavy/tsen _*:de-suffix		370	Dhakal2024	l.dʑ.i.d «heavy»
+417	Jirel	Heavy	tsend̪e	!ts/tɕ e + ⁿd̪/d̪ e	1283 1284	*heavy/tsen _*:de-suffix		370	Dhakal2024	l.dʑ.i.d «heavy»
+675	Kagate	Heavy	tsend̪i	!ts/tɕ e + ⁿd̪/d̪ i	1283 1284	*heavy/tsen _*:de-suffix		370	Dhakal2024	l.dʑ.i.d «heavy»
+931	Lowa	Heavy	ndze	!ⁿdz/tɕ e	1283	*heavy/tsen		370	Dhakal2024	l.dʑ.i.d «heavy»
+1181	Nubri	Heavy	tsʰint̪i	!tsʰ/tɕ i + ⁿt̪/t̪ i	1283 1284	*heavy/tsen _*:de-suffix		370	Dhakal2024	l.dʑ.i.d «heavy»
+1432	Sherpa	Heavy	tsend̪i	!ts/tɕ e + ⁿd̪/d̪ i	1283 1284	*heavy/tsen _*:de-suffix		370	Dhakal2024	l.dʑ.i.d «heavy»
+1675	Tsum	Heavy	tɕend̪e	tɕ e + ⁿd̪/d̪ e	1283 1284	*heavy/tsen _*:de-suffix		370	Dhakal2024	l.dʑ.i.d «heavy»
+1937	Yolmo	Heavy	tɕjand̪i	tɕj/tɕ a + ⁿd̪/d̪ i	1283 1284	*heavy/tsen _*:de-suffix		370	Dhakal2024	l.dʑ.i.d «heavy»
+241	Gyalsumdo	Heel	t̪iŋpa	t̪ i.ŋ + p a	1299 10	heel/tiŋ _:ba-suffix		372	Dhakal2024	[x]
+502	Jirel	Heel	kuɹkutsa	k u.ɹ + k u + ts a	1301 1302 106	heel/kur _heel/ku _heel/tsa		375	Dhakal2024	[x]
+751	Kagate	Heel	t̪iŋba	t̪ i.ŋ + b a	1299 1300	heel/tiŋ _:ba-suffix		372	Dhakal2024	[x]
+1010	Lowa	Heel	t̪iŋpa	t̪ i.ŋ + p a	1299 1019	heel/tiŋ _:ba-suffix		372	Dhakal2024	[x]
+1257	Nubri	Heel	kaŋbat̪ʰil	k a.ŋ + b a + t̪ʰ i.l	1512 10 1305	_leg/kaŋ _:ba-suffix heel/thil		372	Dhakal2024	[x]
+1506	Sherpa	Heel	t̪iŋba	t̪ i.ŋ + b a	1299 1300	heel/tiŋ _:ba-suffix		372	Dhakal2024	[x]
+1759	Tsum	Heel	t̪iŋba	t̪ i.ŋ + b a	1299 2603	heel/tiŋ _:ba-suffix		372	Dhakal2024	[x]
+2014	Yolmo	Heel	kaŋbat̪iŋba	k a.ŋ + b a + t̪ i.ŋ + b a	1512 10 1299 10	_lg/kaŋ _:ba-suffix heel/tiŋ _:ba-suffix		372	Dhakal2024	[x]
+251	Gyalsumdo	Hole	miksaŋ	m i.k + s a.ŋ	1320 1321	hole/mik _hole/saŋ		380	Dhakal2024	[x]
+512	Jirel	Hole	miu	m i + !Ø/j u	1320 1324	hole/mju _hole/ju		380	Dhakal2024	[x]
+762	Kagate	Hole	sup	s u.p	1322	hole/sup		383	Dhakal2024	[x]
+1021	Lowa	Hole	miu	m i + !Ø/j u	1320 1324	hole/mju _hole/ju		380	Dhakal2024	[x]
+1022	Lowa	Hole	miɡzaŋ	m i.g/k + z a.ŋ	1320 1321	hole/mik _hole/saŋ		380	Dhakal2024	[x]
+1268	Nubri	Hole	hoɡt̪uŋ	h o.g/k + t̪ u.ŋ	1323 121	hole/hog hole/tuŋ		382	Dhakal2024	[x]
+1516	Sherpa	Hole	miksaŋ	m i.k + s a.ŋ	1320 1321	hole/mik _hole/saŋ		380	Dhakal2024	[x]
+1771	Tsum	Hole	mijuŋ	m i + j u.ŋ	1320 1324	hole _hole/juŋ		380	Dhakal2024	[x]
+2026	Yolmo	Hole	om	o m	1325	hole/om		385	Dhakal2024	[x]
+101	Gyalsumdo	Horns	ɹakjo	ɹ a + k.j o	1335 1336	horn-ra horn-kjo		386	Dhakal2024	[x]
+363	Jirel	Horns	ɹodʑjo	ɹ o + dʑj/dʑ o	1335 1336	horn-ra horn-kjo		386	Dhakal2024	[x]
+619	Kagate	Horns	rwaɡa	r.w a + g a	1335 1337	horn-ra horn-ga		387	Dhakal2024	[x]
+876	Lowa	Horns	ɹakjoʔ	ɹ/ɾ a + k.j o.ʔ	1335 1336	horn-ra horn-kjo		386	Dhakal2024	[x]
+1129	Nubri	Horns	adkjo	!a/ɹ.!d/a + k.j o	1335 1336	horn-ra horn-kjo		386	Dhakal2024	[x]
+1379	Sherpa	Horns	arkjok	!a/r.!r/a + k.j o.k	1335 1336	horn-ra horn-kjo		386	Dhakal2024	[x]
+1623	Tsum	Horns	padʑjo	p a + dʑj/dʑ o	1340 1336	horn-pa horn-kjo		43	Dhakal2024	[x]
+1885	Yolmo	Horns	ɹowa	ɹ o + w a	1335 1341	horn-ra horn-wa		44	Dhakal2024	[x]
+243	Gyalsumdo	Horse	t̪abu	t̪ a + b u	1352 107	horse _:bu-suffix/bu		393	Dhakal2024	
+504	Jirel	Horse	ŋɡoda	ⁿg/g o + !d/t̪ a	1354 1352	_horse horse		393	Dhakal2024	
+753	Kagate	Horse	t̪abu	t̪ a + b u	1352 1353	horse _:bu-suffix		393	Dhakal2024	
+1012	Lowa	Horse	t̪a	t̪ a	1352	horse		393	Dhakal2024	
+1259	Nubri	Horse	t̪a	t̪ a	1352	horse		393	Dhakal2024	
+1508	Sherpa	Horse	t̪a	t̪ a	1352	horse		393	Dhakal2024	
+1761	Tsum	Horse	t̪a	t̪ a	1352	horse		393	Dhakal2024	
+2016	Yolmo	Horse	t̪əbu	t̪ ə + b u	1352 1353	horse _:bu-suffix		393	Dhakal2024	
+150	Gyalsumdo	Hot	tsʰant̪i	tsʰ a + ⁿt̪/t̪ i	1365 1476	hot/tsha _:ti-suffix/ti		396	Dhakal2024	[x]
+408	Jirel	Hot	tʰommu	t̪ʰ o + mː/m u	1367 12	hot/dom _:mu-suffix		398	Dhakal2024	[x]
+667	Kagate	Hot	dombo	d̪ o + ⁿb/b o	1367 1369	hot/dom _:bo-suffix		398	Dhakal2024	[x]
+923	Lowa	Hot	tsʰa	tsʰ a	1365	hot/tsha		396	Dhakal2024	[x]
+1173	Nubri	Hot	tsʰawo	tsʰ a + w o	1365 1370	hot/tsha _:wo-suffix		396	Dhakal2024	[x]
+1424	Sherpa	Hot	tsʰand̪i	tsʰ a + ⁿd̪/d̪ i	1365 1476	hot/tsha _:di-suffix		396	Dhakal2024	[x]
+1667	Tsum	Hot	tsʰand̪e	tsʰ a + ⁿd̪/d̪ e	1365 1476	hot/tsha _:de-suffix		396	Dhakal2024	[x]
+1929	Yolmo	Hot	tomu	t̪ o + m u	1367 966	hot/dom _:mu-suffix		398	Dhakal2024	[x]
+30	Gyalsumdo	House	kʰaŋpa	kʰ a.ŋ + p a	1383 10	house _:pa-suffix/pa		402	Dhakal2024	[ ] check ba status
+293	Jirel	House	kʰamba	kʰ a.!m/ŋ + b a	1383 10	house _:pa-suffix/pa		402	Dhakal2024	[ ] check ba status
+553	Kagate	House	kʰim	kʰ i.m	31	house/khim		404	Dhakal2024	[x]
+807	Lowa	House	kʰaŋpa	kʰ a.ŋ + p a	1383 10	house _:pa-suffix/pa		402	Dhakal2024	[ ] check ba status
+1063	Nubri	House	kʰim	kʰ i.m	31	house/khim		404	Dhakal2024	[x]
+1312	Sherpa	House	kʰaŋba	kʰ a.ŋ + b a	1383 10	house _:pa-suffix/pa		402	Dhakal2024	[ ] check ba status
+1556	Tsum	House	koɹtsa	k o.ɹ + ts a	1384 1385	house/kor house/tsa		405	Dhakal2024	[x]
+1557	Tsum	House	kʰim	kʰ i.m	31	house/khim		404	Dhakal2024	[x]
+1818	Yolmo	House	kʰaŋba	kʰ a.ŋ + b a	1383 10	house _:pa-suffix/pa		402	Dhakal2024	[ ] check ba status
+184	Gyalsumdo	How many	katse	k a + ts e	1397 1398	how/ka how/tse		407	Dhakal2024	[x]
+443	Jirel	How many	t̪ʰoji	t̪ʰ o + j i	87 1399	how/tho how/ji		408	Dhakal2024	[x]
+700	Kagate	How many	kadze	k a + dz e	1397 1398	how/ka how/tse		407	Dhakal2024	[x]
+957	Lowa	How many	kantɕø	k a.n + tɕ ø	1397 1398	how/ka how/tse		407	Dhakal2024	[?]
+1207	Nubri	How many	maŋlo	m a.ŋ + l o	1400 1401	how/mang how/lo		410	Dhakal2024	[x]
+1457	Sherpa	How many	kʰədzo	!kʰ/k ə + dz o	1397 1398	how/ka how/tse		407	Dhakal2024	[?]
+1700	Tsum	How many	kanʑøʔ	k a.n + ʑ ø.ʔ	1397 1398	how/ka how/tse		407	Dhakal2024	[?]
+1963	Yolmo	How many	kadze	k a + dz e	1397 1398	how/ka how/tse		407	Dhakal2024	[x]
+124	Gyalsumdo	Husband	kʰjoka	kʰ.j o + k a	1414 1415	husband _/ga		413	Dhakal2024	[x]
+125	Gyalsumdo	Husband	kʰjoɡa	kʰ.j o + g a	1414 1415	husband _/ga		413	Dhakal2024	[x]
+385	Jirel	Husband	kʰjobo	kʰ.j o + b o	1414 1416	husband _male/bo		413	Dhakal2024	[x]
+641	Kagate	Husband	kʰjobo	kʰ.j o + b o	1414 1416	husband _male/bo		413	Dhakal2024	[x]
+898	Lowa	Husband	kʰjoɡa	kʰ.j o + g a	1414 1415	husband _/ga		413	Dhakal2024	[x]
+1150	Nubri	Husband	kʰjoka	kʰ.j o + k a	1414 1415	husband _/ga		413	Dhakal2024	[x]
+1401	Sherpa	Husband	kʰjoa	kʰ.j o + Ø/w a	1414 74	husband _/wa		413	Dhakal2024	[x]
+1644	Tsum	Husband	kʰjowa	kʰ.j o + w a	1414 74	husband _/wa		413	Dhakal2024	[x]
+1906	Yolmo	Husband	kʰjowa	kʰ.j o + w a	1414 74	husband _/wa		413	Dhakal2024	[x]
+221	Gyalsumdo	I	ŋa	ŋ a	1432	I		418	Dhakal2024	[x]
+487	Jirel	I	ŋa	ŋ a	1432	I		418	Dhakal2024	[x]
+734	Kagate	I	ŋa	ŋ a	1432	I		418	Dhakal2024	[x]
+995	Lowa	I	ŋa	ŋ a	1432	I		418	Dhakal2024	[x]
+1242	Nubri	I	ŋa	ŋ a	1432	I		418	Dhakal2024	[x]
+1490	Sherpa	I	ŋa	ŋ a	1432	I		418	Dhakal2024	[x]
+1741	Tsum	I	ŋa	ŋ a	1432	I		418	Dhakal2024	[x]
+1997	Yolmo	I	ŋa	ŋ a	1432	I		418	Dhakal2024	[x]
+236	Gyalsumdo	Intestine	kjuma	k.j u + m a	1441 1442	intestine _:ma-suffix/ma		419	Dhakal2024	[?]
+237	Gyalsumdo	Intestine	kʰjuma	!kʰ/k.j u + m a	1441 1442	intestine _:ma-suffix/ma		419	Dhakal2024	[?]
+498	Jirel	Intestine	ŋɡjumak	!ⁿg/k.j u + m a.k	1441 1442	intestine _:ma-suffix/ma		419	Dhakal2024	[?]
+746	Kagate	Intestine	kjuma	k.j u + m a	1441 1442	intestine _:ma-suffix/ma		419	Dhakal2024	[?]
+1006	Lowa	Intestine	kjuma	k.j u + m a	1441 1442	intestine _:ma-suffix/ma		419	Dhakal2024	[?]
+1253	Nubri	Intestine	kjõ	k.j !Ø/u + !Ø/m !õ/o	1441 1442	intestine _:ma-suffix/ma		419	Dhakal2024	[?]
+1502	Sherpa	Intestine	ɡema	g e + m a	146 1442	intestine _:ma-suffix/ma		420	Dhakal2024	[?]
+1754	Tsum	Intestine	kjuã	k.j u + !Ø/m !ã/a	1441 1442	intestine _:ma-suffix/ma		419	Dhakal2024	[?]
+2009	Yolmo	Intestine	kjuma	k.j u + m a	1441 1442	intestine _:ma-suffix/ma		419	Dhakal2024	[?]
+40	Gyalsumdo	Knife	kaɾt̪a	k a.ɾ + t̪ a	1458 49	knife/kar _:suffix/ta		422	Dhakal2024	[x]
+301	Jirel	Knife	tɕʰuɹa	!tɕʰ/t̪ʰ u + ɹ a	51 1461	knife/thriu _/ra		31	Dhakal2024	[x]
+302	Jirel	Knife	tsəku	ts ə + k u	1463 1460	knife/tse _/ku		424	Dhakal2024	[x]
+561	Kagate	Knife	kart̪a	k a.r + t̪ a	1458 49	knife/kar _:suffix/ta		422	Dhakal2024	[x]
+815	Lowa	Knife	tʰi	t̪ʰ i	51	knife/thi		31	Dhakal2024	[x]
+1071	Nubri	Knife	tuku	t̪ u + k u	50 1460	knife/tu _/ku		29	Dhakal2024	[x]
+1320	Sherpa	Knife	tʰitɕjuŋ	t̪ʰ i + tɕ.j u.ŋ	51 1462	knife/thi /tsjung		31	Dhakal2024	[x]
+1565	Tsum	Knife	tʰɹiu	t̪ʰ.ɹ iu	51	knife/thriu		31	Dhakal2024	[x]
+1826	Yolmo	Knife	kaɹt̪a	k a.ɹ + t̪ a	1458 49	knife/kar _:suffix/ta		422	Dhakal2024	[x]
+69	Gyalsumdo	Leaf	lapt̪i	l a.p + t̪ i	62 1476	leaf/lap _:ti-suffix/ti		430	Dhakal2024	[x]
+70	Gyalsumdo	Leaf	loma	l o + m a	1479 1442	leaf/lo _:ma-suffix/ma		428	Dhakal2024	[x]
+331	Jirel	Leaf	ɕjomak	ɕj/ɕ o + m a.k	1477 1442	leaf/sjo _:ma-suffix/mak		28	Dhakal2024	[x]
+589	Kagate	Leaf	loma	l o + m a	1479 1442	leaf/lo _:ma-suffix/ma		428	Dhakal2024	[x]
+845	Lowa	Leaf	loma	l o + m a	1479 1442	leaf/lo _:ma-suffix/ma		428	Dhakal2024	[x]
+1099	Nubri	Leaf	loma	l o + m a	1479 1442	leaf/lo _:ma-suffix/ma		428	Dhakal2024	[x]
+1349	Sherpa	Leaf	d̪əma	d̪ ə + m a	63 1442	leaf/de _:ma-suffix/ma		186	Dhakal2024	[x]
+1593	Tsum	Leaf	hlawa	h.l a + w a	142 1442	leaf/lo _:ma-suffix/wa		187	Dhakal2024	[x]
+1855	Yolmo	Leaf	loma	l o + m a	1479 1442	leaf/lo _:ma-suffix/ma		428	Dhakal2024	[x]
+153	Gyalsumdo	Left	jøma	j ø + m a	1494 11	left/jo _:ma-suffix/ma		435	Dhakal2024	[x]
+411	Jirel	Left	d̪ebɹepa	d̪ e + b.ɹ e + p a	1496 1497 10	_left left _:ba-suffix/pa		437	Dhakal2024	[x]
+670	Kagate	Left	joma	j o + m a	1494 11	left/jo _:ma-suffix/ma		435	Dhakal2024	[x]
+926	Lowa	Left	jømpa	j ø.m/n + p a	1494 10	left/jo _:pa-suffix/pa		435	Dhakal2024	[x]
+1176	Nubri	Left	jon̪	j o.n	1494	left/jo		435	Dhakal2024	[x]
+1427	Sherpa	Left	pʰiloɡpa	pʰ i + l !o/a.g/k + p a	1499 52 10	left/phi _arm/hand _:pa-suffix/pa		437	Dhakal2024	[x]
+1670	Tsum	Left	joma	j o + m a	1494 11	left/jo _:ma-suffix/ma		435	Dhakal2024	[x]
+1932	Yolmo	Left	joma	j o + m a	1494 11	left/jo _:ma-suffix/ma		435	Dhakal2024	[x]
+21	Gyalsumdo	Leg	kaŋpa	k a.ŋ + p a	1512 10	leg/kaŋ _:pa-suffix/pa		442	Dhakal2024	[x]
+285	Jirel	Leg	tʰekpa	t̪ʰ e.k + p a	1514 10	leg/thek _:pa-suffix/pa		20	Dhakal2024	[x]
+545	Kagate	Leg	kaŋba	k a.ŋ + b a	1512 10	leg/kaŋ _:pa-suffix/pa		442	Dhakal2024	[x]
+798	Lowa	Leg	kaŋpa	k a.ŋ + p a	1512 10	leg/kaŋ _:pa-suffix/pa		442	Dhakal2024	[x]
+1055	Nubri	Leg	kaŋpa	k a.ŋ + p a	1512 10	leg/kaŋ _:pa-suffix/pa		442	Dhakal2024	[x]
+1303	Sherpa	Leg	kaŋba	k a.ŋ + b a	1512 10	leg/kaŋ _:pa-suffix/pa		442	Dhakal2024	[x]
+1548	Tsum	Leg	kaŋba	k a.ŋ + b a	1512 10	leg/kaŋ _:pa-suffix/pa		442	Dhakal2024	[x]
+1810	Yolmo	Leg	kaŋba	k a.ŋ + b a	1512 10	leg/kaŋ _:pa-suffix/pa		442	Dhakal2024	[x]
+253	Gyalsumdo	Lid (cover)	kʰəptɕu	kʰ ə.p + tɕ u	1529 1530	lid _tsuk		445	Dhakal2024	[x]
+514	Jirel	Lid (cover)	mbutso	ⁿb/b u + ts o	120 128	lid/bu _tso		446	Dhakal2024	[x]
+764	Kagate	Lid (cover)	kʰaptɕju	kʰ a.p + tɕj/tɕ u	1529 1530	lid _tsuk		445	Dhakal2024	[x]
+1024	Lowa	Lid (cover)	kʰabtɕø	kʰ a.b + tɕ ø	1529 1530	lid _tsuk		445	Dhakal2024	[x]
+1270	Nubri	Lid (cover)	kʰaptɕuk	kʰ a.p + tɕ u.k	1529 1530	lid _tsuk		445	Dhakal2024	[x]
+1518	Sherpa	Lid (cover)	kʰept̪ok	kʰ e.p + t̪ o.k	1529 1530	lid _tsuk		445	Dhakal2024	[x]
+1773	Tsum	Lid (cover)	kʰaʑøʔ	kʰ a + ʑ ø.ʔ	1529 1530	lid _tsuk		445	Dhakal2024	[x]
+2028	Yolmo	Lid (cover)	kʰaʑu	kʰ a + ʑ u	1529 1530	lid _tsuk		445	Dhakal2024	[x]
+159	Gyalsumdo	Light	jaŋmu	j a.ŋ + m u	1546 3365	light _:mu-suffix/mu		450	Dhakal2024	jaŋ «light»
+418	Jirel	Light	jeŋɡe	j e.ŋ + g e	1546 1552	light _/ga		450	Dhakal2024	jaŋ «light»
+676	Kagate	Light	jaŋd̪i	j a.ŋ + d̪ i	1546 1549	light _/di		450	Dhakal2024	jaŋ «light»
+932	Lowa	Light	jaŋa	j a.!Ø/ŋ + ŋ a	1546 1550	light _:ŋa-suffix		450	Dhakal2024	jaŋ «light»
+1182	Nubri	Light	jaŋpo	j a.ŋ + p o	1546 107	light _:po-suffix		450	Dhakal2024	jaŋ «light»
+1433	Sherpa	Light	jeŋɡa	j e.ŋ + g a	1546 1552	light _/ga		450	Dhakal2024	jaŋ «light»
+1676	Tsum	Light	jaŋbo	j a.ŋ + b o	1546 107	light _:bo-suffix		450	Dhakal2024	jaŋ «light»
+1938	Yolmo	Light	jaŋd̪i	j a.ŋ + d̪ i	1546 1549	light _/di		450	Dhakal2024	jaŋ «light»
+56	Gyalsumdo	Lightening	loɡmaɹ	l o.g/k + m a.ɹ	1563 1564	lightning/lok _lightning/mar		457	Dhakal2024	[x]
+317	Jirel	Lightening	tsilim	ts i + l !i/a.m	1565 1566	lightning/tsi lightening/lam		458	Dhakal2024	[x]
+318	Jirel	Lightening	tsilam	ts i + l a.m	1565 1566	lightning/tsi lightening/lam		458	Dhakal2024	[x]
+576	Kagate	Lightening	milik	m i + l i.k	1567 1563	_lightning/mi lightning/lok		457	Dhakal2024	[x]
+830	Lowa	Lightening	lokmaɹ	l o.k + m a.ɾ	1563 1564	lightning/lok _lightning/mar		457	Dhakal2024	[x]
+1086	Nubri	Lightening	tuk	t̪ u.k	1568	lightning/tuk		462	Dhakal2024	[x]
+1336	Sherpa	Lightening	tsilam	ts i + l a.m	1565 1566	lightning/tsi lightening/lam		458	Dhakal2024	[x]
+1580	Tsum	Lightening	loʔ	l o.ʔ	1563	lightning/lok		457	Dhakal2024	[x]
+1842	Yolmo	Lightening	tsiləm	ts i + l ə.m	1565 1566	lightning/tsi lightening/lam		458	Dhakal2024	[x]
+233	Gyalsumdo	Load	kʰuɹpu	kʰ u.ɹ + p u	1580 1581	LOAD _:bu-suffix/pu		463	Dhakal2024	
+495	Jirel	Load	kʰuɹbo	kʰ u.ɹ + b o	1580 1581	LOAD _load		463	Dhakal2024	
+743	Kagate	Load	kʰurpu	kʰ u.r + p u	1580 1581	LOAD _load		463	Dhakal2024	
+754	Kagate	Load	ɕjuwa	ɕ.j u + w a	1583 1584	LOAD _load		466	Dhakal2024	
+1013	Lowa	Load	kʰu	kʰ u	1580	LOAD		463	Dhakal2024	
+1260	Nubri	Load	kʰurpu	kʰ u.ɹ + p u	1580 1581	LOAD _load		463	Dhakal2024	
+1499	Sherpa	Load	kʰurbu	kʰ u.r + b u	1580 1581	LOAD _load		463	Dhakal2024	
+1762	Tsum	Load	kʰuɹu	kʰ u + ɹ u	1580 1582	LOAD _load		463	Dhakal2024	
+2017	Yolmo	Load	kʰuɹpu	kʰ u.ɹ + p u	1580 1581	LOAD _load		463	Dhakal2024	
+148	Gyalsumdo	Long	ɹiŋbu	ɹ i.ŋ + b u	1607 1581	long _:bu-suffix/bu		468	Dhakal2024	
+406	Jirel	Long	ɹimbu	ɹ i.!m/ŋ + b u	1607 1581	long _:bu-suffix/bu		468	Dhakal2024	
+665	Kagate	Long	riŋbu	r i.ŋ + b u	1607 1581	long _:bu-suffix/bu		468	Dhakal2024	
+921	Lowa	Long	ɹiŋa	ɹ/ɾ i.ŋ + !Ø/ŋ a	1607 872	long _:ŋa-suffix		468	Dhakal2024	
+1171	Nubri	Long	ɹiŋpo	ɹ i.ŋ + p o	1607 1581	long _:bu-suffix/bu		468	Dhakal2024	
+1422	Sherpa	Long	riŋbu	r i.ŋ + b u	1607 1581	long _:bu-suffix/bu		468	Dhakal2024	
+1665	Tsum	Long	ɹiŋmu	ɹ i.ŋ + m u	1607 132	long _:mo-suffix/mu		468	Dhakal2024	
+1927	Yolmo	Long	ɹiŋbu	ɹ i.ŋ + b u	1607 1581	long _:bu-suffix/bu		468	Dhakal2024	
+113	Gyalsumdo	Man	mi	m i	1624	person		472	Dhakal2024	[x]
+374	Jirel	Man	mi	m i	1624	person		472	Dhakal2024	[x]
+630	Kagate	Man	mi	m i	1624	person		472	Dhakal2024	[x]
+887	Lowa	Man	mi	m i	1624	person		472	Dhakal2024	[x]
+1139	Nubri	Man	mĩ	m !ĩ/i	1624	person		472	Dhakal2024	[x]
+1390	Sherpa	Man	mi	m i	1624	person		472	Dhakal2024	[x]
+1633	Tsum	Man	mi	m i	1624	person		472	Dhakal2024	[x]
+1895	Yolmo	Man	mi	m i	1624	person		472	Dhakal2024	[x]
+75	Gyalsumdo	Mango	ãp	ã.p	1633	mango		473	Dhakal2024	[x]
+336	Jirel	Mango	ãp	ã.p	1633	mango		473	Dhakal2024	[x]
+594	Kagate	Mango	ãp	ã.p	1633	mango		473	Dhakal2024	[x]
+850	Lowa	Mango	ãm	ã.m	1633	mango		473	Dhakal2024	[x]
+1104	Nubri	Mango	ãb	!ã/a.p	1633	mango		473	Dhakal2024	[x]
+1354	Sherpa	Mango	ãp	ã.p	1633	mango		473	Dhakal2024	[x]
+1598	Tsum	Mango	ap	ã.p	1633	mango		473	Dhakal2024	[x]
+1860	Yolmo	Mango	ãm	ã.m	1633	mango		473	Dhakal2024	[x]
+257	Gyalsumdo	Manure	ly	l y	1642	manure		475	Dhakal2024	[x]
+518	Jirel	Manure	tɕʰja	tɕʰ.j a	1643	manure		476	Dhakal2024	[x]
+768	Kagate	Manure	tɕʰja	tɕʰj/tɕʰ a	1643	manure		476	Dhakal2024	[x]
+1028	Lowa	Manure	ly	l y	1642	manure		475	Dhakal2024	[x]
+1274	Nubri	Manure	ly	l y	1642	manure		475	Dhakal2024	[x]
+1521	Sherpa	Manure	tɕʰja	tɕʰ.j a	1643	manure		476	Dhakal2024	[x]
+1777	Tsum	Manure	lyʔ	l y.ʔ	1642	manure		475	Dhakal2024	[x]
+2032	Yolmo	Manure	li	l i	1642	manure		475	Dhakal2024	[x]
+197	Gyalsumdo	Many	maŋbu	m a.ŋ + b u	1651 107	many _:bu-suffix		477	Dhakal2024	[x]
+454	Jirel	Many	kalbe	k a.l + b e	1653 93	many/kal many/be		478	Dhakal2024	[x]
+712	Kagate	Many	maŋbu	m a.ŋ + b u	1651 107	many _:bu-suffix		477	Dhakal2024	[x]
+972	Lowa	Many	maŋa	m a.ŋ + !Ø/ŋ a	1651 1654	many _:ŋa-suffix		477	Dhakal2024	[x]
+1219	Nubri	Many	aŋsaŋ	a.ŋ + s a.ŋ	1651 1655	many/ang many/sang		477	Dhakal2024	[x]
+1468	Sherpa	Many	ala	a + l a	489 1657	:a-prefix many		482	Dhakal2024	[x]
+1711	Tsum	Many	kaʑin	k a + ʑ i.n	1653 1655	many/ka many/zing		479	Dhakal2024	[x]
+1975	Yolmo	Many	maŋbu	m a.ŋ + b u	1651 107	many _:bu-suffix		477	Dhakal2024	[x]
+93	Gyalsumdo	Meat	ɕja	ɕ.j a	1668	meat		484	Dhakal2024	[x]
+353	Jirel	Meat	ɕja	ɕ.j a	1668	meat		484	Dhakal2024	[x]
+611	Kagate	Meat	ɕja	ɕ.j a	1668	meat		484	Dhakal2024	[x]
+868	Lowa	Meat	ɕja	ɕ.j a	1668	meat		484	Dhakal2024	[x]
+1121	Nubri	Meat	ɕja	ɕ.j a	1668	meat		484	Dhakal2024	[x]
+1371	Sherpa	Meat	ɕja	ɕ.j a	1668	meat		484	Dhakal2024	[x]
+1615	Tsum	Meat	ɕja	ɕ.j a	1668	meat		484	Dhakal2024	[x]
+1877	Yolmo	Meat	ɕja	ɕ.j a	1668	meat		484	Dhakal2024	[x]
+100	Gyalsumdo	Milk	oma	o + m a	352 1807	breast-1 mother		485	Dhakal2024	
+361	Jirel	Milk	olen	o + l e.n	352 29	breast breast-2/len		42	Dhakal2024	
+362	Jirel	Milk	oma	o + m a	352 1807	breast-1 mother		485	Dhakal2024	
+618	Kagate	Milk	oma	o + m a	352 1807	breast-1 mother		485	Dhakal2024	
+875	Lowa	Milk	oma	o + m a	352 1807	breast-1 mother		485	Dhakal2024	
+1128	Nubri	Milk	ɦoõ	ɦ o + !Ø/m õ/a	352 1807	breast-1 mother		485	Dhakal2024	
+1378	Sherpa	Milk	oma	o + m a	352 1807	breast-1 mother		485	Dhakal2024	
+1622	Tsum	Milk	oã	o + !Ø/m !ã/a	352 1807	breast-1 mother		485	Dhakal2024	
+1884	Yolmo	Milk	woma	w o + m a	352 1807	breast-1 mother		485	Dhakal2024	
+107	Gyalsumdo	Monkey	tɛmaɹ	t̪ ɛ + m a.ɹ	1694 1695	monkey/te _monkey/mar		491	Dhakal2024	[x]
+108	Gyalsumdo	Monkey	te	t̪ e	1694	monkey/te		491	Dhakal2024	[x]
+368	Jirel	Monkey	moɹo	m o + ɹ o	1696 1697	monkey/mo monkey/ro		493	Dhakal2024	[x]
+369	Jirel	Monkey	tʰaklapʰikant̪e	t̪ʰ a + k l a + pʰ i + k a n + t̪ e	1700 1701 1698 1699 9	monkey/tha monkey/kla monkey/phi monkey/kan _:te-suffix/te		48	Dhakal2024	[x]
+624	Kagate	Monkey	preken	p.r e + k e.n	1698 1699	monkey/priu _monkey/ken		490	Dhakal2024	[x]
+625	Kagate	Monkey	priu	p.r iu	1698	monkey/priu		490	Dhakal2024	[x]
+882	Lowa	Monkey	piu	p iu	1698	monkey/priu		490	Dhakal2024	[x]
+1134	Nubri	Monkey	piu	p iu	1698	monkey/priu		490	Dhakal2024	[x]
+1384	Sherpa	Monkey	te	t̪ e	1694	monkey/te		491	Dhakal2024	[x]
+1385	Sherpa	Monkey	riu	r iu	1698	monkey/priu		490	Dhakal2024	[x]
+1628	Tsum	Monkey	tiu	t̪ iu	1698	monkey/priu		490	Dhakal2024	[x]
+1890	Yolmo	Monkey	pɹeken	p.ɹ e + k e.n	1698 1699	monkey/priu _monkey/ken		490	Dhakal2024	[x]
+140	Gyalsumdo	Month	t̪awa	t̪ a + w a	15 1716	moon/da _:wa-suffix/wa		498	Dhakal2024	[x]
+398	Jirel	Month	nd̪awa	ⁿd/d̪ a + w a	15 1716	moon/da _:wa-suffix/wa		498	Dhakal2024	[x]
+655	Kagate	Month	d̪awa	d̪ a + w a	15 1716	moon/da _:wa-suffix/wa		498	Dhakal2024	[x]
+911	Lowa	Month	nd̪awa	ⁿd/d a + w a	15 1716	moon/da _:wa-suffix/wa		498	Dhakal2024	[x]
+1163	Nubri	Month	t̪ah	t̪ !ah/a	15	moon/da		498	Dhakal2024	[x]
+1414	Sherpa	Month	la	l a	1717	month/la		500	Dhakal2024	[x]
+1657	Tsum	Month	nd̪a	ⁿd/d̪ a	15	moon/da		498	Dhakal2024	[x]
+1919	Yolmo	Month	nd̪owa	ⁿd/d̪ !o/a + w a	15 1716	moon/da _:wa-suffix/wa		498	Dhakal2024	[x]
+48	Gyalsumdo	Moon	t̪akaɹ	t̪ a + k a.ɹ	15 2565	moon/da star/white		501	Dhakal2024	s.l a
+49	Gyalsumdo	Moon	t̪awa	t̪ a + w a	15 1716	moon/da _:wa-suffix/wa		35	Dhakal2024	s.l a
+310	Jirel	Moon	nd̪aɡaɹ	ⁿd/d̪ a + g/k a.ɹ	15 2565	moon/da star/white		501	Dhakal2024	s.l a
+569	Kagate	Moon	d̪aɡarmu	d̪ a + g/k a.r + m u	15 2565 1581	moon/da star/white _:suffix/mu		501	Dhakal2024	s.l a
+823	Lowa	Moon	nd̪a	ⁿd/d a	15	moon/da		34	Dhakal2024	s.l a
+1079	Nubri	Moon	t̪a	t̪ a	15	moon/da		34	Dhakal2024	s.l a
+1328	Sherpa	Moon	əud̪əkar	əu + d̪ ə + g/k a.r	1732 15 2565	_/əu moon/da star/white		501	Dhakal2024	s.l a
+1573	Tsum	Moon	nd̪akar	ⁿd/d̪ a + k a.ɹ	15 2565	moon/da star/white		501	Dhakal2024	s.l a
+1834	Yolmo	Moon	nd̪awa	ⁿd/d̪ a + w a	15 1716	moon/da _:wa-suffix/wa		35	Dhakal2024	s.l a
+132	Gyalsumdo	Morning	namʑen	n a.m + ʑ e.n	78 1749	morning/nam *morning		92	Dhakal2024	[x]
+391	Jirel	Morning	ŋomu	ŋ o + m u	1748 3365	morning _:mu-suffix/mu		506	Dhakal2024	[x]
+648	Kagate	Morning	ŋamu	ŋ a + m u	1748 3365	morning _:mu-suffix/mu		506	Dhakal2024	[x]
+904	Lowa	Morning	ŋat̪o	ŋ a + t̪ o	1748 1751	morning ?		506	Dhakal2024	[x]
+1156	Nubri	Morning	tõŋkõ	t̪ !õ/o.ŋ + k !õ/o	1751 1752	morning/tong ?		507	Dhakal2024	[x]
+1407	Sherpa	Morning	tʰop	t̪ʰ o.p	77	morning/top		91	Dhakal2024	[x]
+1650	Tsum	Morning	ɕjuo	ɕ.j uo	1753	morning/sjo		509	Dhakal2024	[x]
+1912	Yolmo	Morning	ɕjole	ɕ.j o + l e	1753 1754	morning/sjo ?		509	Dhakal2024	[x]
+36	Gyalsumdo	Mortar	t̪ʰasa	t̪ʰ a + s a	1763 1764	MORTAR _mortar		514	Dhakal2024	[ ]
+37	Gyalsumdo	Mortar	koɡtsʰum	k o.g/k + tsʰ u.m	1768 1766	MORTAR _mortar		513	Dhakal2024	[ ]
+298	Jirel	Mortar	siləuta	s i + l ə.!u/p + t̪ a	1764 1765 167	_mortar _mortar head		514	Dhakal2024	[ ]
+558	Kagate	Mortar	t̪olep	t̪ o + l e.p	1763 1765	MORTAR _mortar		514	Dhakal2024	[ ]
+812	Lowa	Mortar	t̪ympo	t̪ y.m + p o	1766 1767	MORTAR _mortar		515	Dhakal2024	[ ]
+1068	Nubri	Mortar	koɡtsʰum	k o.g/k + tsʰ u.m	1768 1766	MORTAR _mortar		513	Dhakal2024	[ ]
+1317	Sherpa	Mortar	ɡokjo	g o + k.j o	1768 1769	MORTAR _mortar		513	Dhakal2024	[ ]
+1562	Tsum	Mortar	kombot	k o.m + b o.t̪	1768 1770	MORTAR _mortar		513	Dhakal2024	[ ]
+1822	Yolmo	Mortar	tsʰib	tsʰ i.b/p	1771	MORTAR		521	Dhakal2024	[ ]
+1823	Yolmo	Mortar	kuɡuɹ	k u + g u.ɹ	1768 1772	MORTAR _mortar		513	Dhakal2024	[ ]
+109	Gyalsumdo	Mosquito	lamkute	l a.m + k u + t̪ e	1784 1785 1786	mosquito/lam _/ku _/te		523	Dhakal2024	[x]
+370	Jirel	Mosquito	lamkute	l a.m + k u + t̪ e	1784 1785 1786	mosquito/lam _/ku _/te		523	Dhakal2024	[x]
+626	Kagate	Mosquito	lamkʰute	l a.m + !kʰ/k u + t̪ e	1784 1785 1786	mosquito/lam _/ku _/te		523	Dhakal2024	[x]
+883	Lowa	Mosquito	t̪uŋdaŋ	t̪ u.ŋ + d a.ŋ	1787 1788	mosquito/tuk _/dang		526	Dhakal2024	[x]
+1135	Nubri	Mosquito	t̪ukɖaŋ	t̪ u.k + ɖ a.ŋ	1787 1788	*mosquito/tuk *dang		526	Dhakal2024	[x]
+1386	Sherpa	Mosquito	lamkʰute	l a.m + !kʰ/k u + t̪ e	1784 1785 1786	mosquito/lam _/ku _/te		523	Dhakal2024	[x]
+1629	Tsum	Mosquito	lamkute	l a.m + k u + t̪ e	1784 1785 1786	mosquito/lam _/ku _/te		523	Dhakal2024	[x]
+1891	Yolmo	Mosquito	mətɕʰəɹ	m ə + tɕʰ ə.ɹ	1789 1790	*mosquito/ma *mosquito/chhar		528	Dhakal2024	← Hindi «machchhar»
+117	Gyalsumdo	Mother	ama	a + m a	489 1807	:a-prefix mother		530	Dhakal2024	[x]
+378	Jirel	Mother	ãma	!ã/a + m a	489 1807	:a-prefix mother		530	Dhakal2024	[x]
+634	Kagate	Mother	ama	a + m a	489 1807	:a-prefix mother		530	Dhakal2024	[x]
+891	Lowa	Mother	ama	a + m a	489 1807	:a-prefix mother		530	Dhakal2024	[x]
+1143	Nubri	Mother	aã	a + !Ø/m !ã/a	489 1807	:a-prefix mother		530	Dhakal2024	[x]
+1394	Sherpa	Mother	ama	a + m a	489 1807	:a-prefix mother		530	Dhakal2024	[x]
+1637	Tsum	Mother	ãã	!ã/a + !Ø/m !ã/a	489 1807	:a-prefix mother		530	Dhakal2024	[x]
+1899	Yolmo	Mother	ãmã	!ã/a + m !ã/a	489 1807	:a-prefix mother		530	Dhakal2024	[x]
+9	Gyalsumdo	Mouth	kʰa	kʰ a	1821	mouth		532	Dhakal2024	[x]
+275	Jirel	Mouth	kʰa	kʰ a	1821	mouth		532	Dhakal2024	[x]
+534	Kagate	Mouth	kʰa	kʰ a	1821	mouth		532	Dhakal2024	[x]
+787	Lowa	Mouth	kʰa	kʰ a	1821	mouth		532	Dhakal2024	[x]
+1045	Nubri	Mouth	kʰabt̪u	kʰ !ab/a + t̪ u	1821 1822	mouth _/tu		532	Dhakal2024	[x]
+1293	Sherpa	Mouth	kʰa	kʰ a	1821	mouth		532	Dhakal2024	[x]
+1538	Tsum	Mouth	kʰa	kʰ a	1821	mouth		532	Dhakal2024	[x]
+1799	Yolmo	Mouth	kʰa	kʰ a	1821	mouth		532	Dhakal2024	[x]
+65	Gyalsumdo	Mud	sa	s a	1831	mud/sa		534	Dhakal2024	[x]
+327	Jirel	Mud	səbi	s ə + b i	1831 1832	mud/sa _mud/bi		534	Dhakal2024	[x]
+585	Kagate	Mud	sebi	s e + b i	1831 1832	mud/sa _mud/bi		534	Dhakal2024	[x]
+840	Lowa	Mud	n̪d̪ampak	ⁿd/d a.m + p a.k	1833 1834	mud/dam _mud/pak		535	Dhakal2024	[x]
+841	Lowa	Mud	sa	s a	1831	mud/sa		534	Dhakal2024	[x]
+1095	Nubri	Mud	t̪ampa	t̪ a.m + p a	1833 1834	mud/dam _mud/pak		535	Dhakal2024	[!] could be a pa-suffix
+1345	Sherpa	Mud	t̪ʰala	t̪ʰ a + l a	1833 1835	mud/tha _:suffix/la		535	Dhakal2024	[?] loan from Chinese?
+1589	Tsum	Mud	sa	s a	1831	mud/sa		534	Dhakal2024	[x]
+1851	Yolmo	Mud	sasa	s a + s a	1831 1836	mud/sa _mud/sa-2		534	Dhakal2024	[x]
+112	Gyalsumdo	Name	miŋ	m i.ŋ	1847	*name		540	Dhakal2024	[borrowed from Chinese]
+373	Jirel	Name	min̪	m i.n	1847	*name		540	Dhakal2024	[borrowed from Chinese]
+629	Kagate	Name	min	m i.n	1847	*name		540	Dhakal2024	[borrowed from Chinese]
+886	Lowa	Name	miŋ	m i.ŋ	1847	*name		540	Dhakal2024	[borrowed from Chinese]
+1138	Nubri	Name	min̪	m i.n	1847	*name		540	Dhakal2024	[borrowed from Chinese]
+1389	Sherpa	Name	min	m i.n	1847	*name		540	Dhakal2024	[borrowed from Chinese]
+1632	Tsum	Name	min	m i.n	1847	*name		540	Dhakal2024	[borrowed from Chinese]
+1894	Yolmo	Name	min	m i.n	1847	*name		540	Dhakal2024	[borrowed from Chinese]
+154	Gyalsumdo	Near	ɲemu	ɲ e + m u	1856 3365	near/nje _:mu-suffix/mu		542	Dhakal2024	[x]
+412	Jirel	Near	ɲibid̪u	ɲ i + b i + d̪ u	1856 1859 871	near/nje _? _?		542	Dhakal2024	[x]
+671	Kagate	Near	t̪ʰama	t̪ʰ a + m a	868 1857	far/tha _:ma-suffix/ma		541	Dhakal2024	[x]
+927	Lowa	Near	ŋe	ŋ e	1856	near/nje		542	Dhakal2024	[x]
+1177	Nubri	Near	t̪ʰaɲiw	t̪ʰ a + ɲ i.w	868 1856	far/tha _near/nje		541	Dhakal2024	[x]
+1428	Sherpa	Near	t̪ʰakŋemo	t̪ʰ a.k + ŋ e + m o	868 1856 3365	far/tha _near/nje _:mo-suffix/mu		541	Dhakal2024	[x]
+1671	Tsum	Near	tɹala	t̪.ɹ a + l a	166 1861	near _?		541	Dhakal2024	[x]
+1933	Yolmo	Near	poɰla	p o.ɰ + l a	1862 1861	near/pow _?		545	Dhakal2024	[x]
+44	Gyalsumdo	Needle	kʰap	kʰ a.p	1874	needle		548	Dhakal2024	[x]
+306	Jirel	Needle	kʰap	kʰ a.p	1874	needle		548	Dhakal2024	[x]
+565	Kagate	Needle	kʰap	kʰ a.p	1874	needle		548	Dhakal2024	[x]
+819	Lowa	Needle	kʰap	kʰ a.p	1874	needle		548	Dhakal2024	[x]
+1075	Nubri	Needle	kʰap	kʰ a.p	1874	needle		548	Dhakal2024	[x]
+1324	Sherpa	Needle	kʰap	kʰ a.p	1874	needle		548	Dhakal2024	[x]
+1569	Tsum	Needle	kʰap	kʰ a.p	1874	needle		548	Dhakal2024	[x]
+1830	Yolmo	Needle	kʰap	kʰ a.p	1874	needle		548	Dhakal2024	[x]
+143	Gyalsumdo	New	sampa	s a + ⁿp/p a	1883 10	new _:ba-suffix/ba		549	Dhakal2024	[x]
+401	Jirel	New	samba	s a + ⁿb/b a	1883 8	new _:ba-suffix/ba		549	Dhakal2024	[x]
+658	Kagate	New	samba	s a + ⁿb/b a	1883 8	new _:ba-suffix/ba		549	Dhakal2024	[x]
+914	Lowa	New	sawa	s a + w a	1883 1229	new _:wa-suffix		549	Dhakal2024	[x]
+1166	Nubri	New	sampa	s a + ⁿp/p a	1883 10	new _:ba-suffix/ba		549	Dhakal2024	[x]
+1417	Sherpa	New	samba	s a + ⁿb/b a	1883 8	new _:ba-suffix/ba		549	Dhakal2024	[x]
+1660	Tsum	New	samba	s a + ⁿb/b a	1883 8	new _:ba-suffix/ba		549	Dhakal2024	[x]
+1922	Yolmo	New	samba	s a + ⁿb/b a	1883 8	new _:ba-suffix/ba		549	Dhakal2024	[x]
+131	Gyalsumdo	Night	tsʰemu	tsʰ e + m u	1900 3365	night _:mu-suffix/mu		552	Dhakal2024	
+390	Jirel	Night	ŋɡwase	ⁿg/g.w a + s e	813 814	evening/gwa night/se		554	Dhakal2024	
+647	Kagate	Night	komu	k !o/u.!Ø/ŋ + m u	811 3365	evening _:mu-suffix/mu		87	Dhakal2024	
+903	Lowa	Night	tsʰemo	tsʰ e + m o	1900 3365	night _:mu-suffix/mu		552	Dhakal2024	
+1155	Nubri	Night	tsʰen̪	tsʰ e + n !Ø/ə	1900 76	night _-:n-suffix		552	Dhakal2024	
+1406	Sherpa	Night	tsʰemu	tsʰ e + m u	1900 3365	night _:mu-suffix/mu		552	Dhakal2024	
+1649	Tsum	Night	n̪umu	n u + m u	1905 3365	night _:mo-suffix/mu		82	Dhakal2024	
+1911	Yolmo	Night	kuŋmu	k u.ŋ + m u	811 3365	evening _:mu-suffix/mu		86	Dhakal2024	
+174	Gyalsumdo	Nine	ku	k u	1916	nine		559	Dhakal2024	[x]
+433	Jirel	Nine	ŋɡu	ⁿg/g u	1916	nine		559	Dhakal2024	[x]
+690	Kagate	Nine	ku	k u	1916	nine		559	Dhakal2024	[x]
+947	Lowa	Nine	ku	k u	1916	nine		559	Dhakal2024	[x]
+1197	Nubri	Nine	ku	k u	1916	nine		559	Dhakal2024	[x]
+1447	Sherpa	Nine	ɡu	g u	1916	nine		559	Dhakal2024	[x]
+1690	Tsum	Nine	ku	k u	1916	nine		559	Dhakal2024	[x]
+1952	Yolmo	Nine	ku	k u	1916	nine		559	Dhakal2024	[x]
+133	Gyalsumdo	Noon	ɲimaɡuŋ	ɲ i + m a + g u.ŋ	2613 11 1927	sun _ma-suffix/ma noon		560	Dhakal2024	[x]
+392	Jirel	Noon	ɲimmu	ɲ i + m !Ø/a + m u	2613 11 3365	sun _ma-suffix/ma _:mu-suffix/mu		94	Dhakal2024	[x]
+649	Kagate	Noon	tsʰəkəl	tsʰ ə + k ə.l	1928 1929	noon/tshe noon/kel		564	Dhakal2024	[x]
+650	Kagate	Noon	ɲimakarpo	ɲ i + m a + k a.r + p o	1925 1926 1931 1930	sun _ma-suffix/ma noon/kar _/po		97	Dhakal2024	[x]
+905	Lowa	Noon	ɲiŋɡuŋ	ɲ i + !ŋ/m !Ø/a + g u.ŋ	2613 11 1927	sun _ma-suffix/ma noon		560	Dhakal2024	[x]
+1157	Nubri	Noon	n̪iŋkũ	!n̪/ɲ i + !ŋ/m !Ø/a + k !ũ/u	2613 11 1927	sun _:ma-suffix/ma noon		560	Dhakal2024	[x]
+1408	Sherpa	Noon	ɲimkʰuŋ	ɲ i + m !Ø/a + kʰ u.ŋ	2613 11 1927	sun _ma-suffix/ma noon		560	Dhakal2024	[x]
+1651	Tsum	Noon	ɲiŋɡuŋ	ɲ i + !ŋ/m !Ø/a + g u.ŋ	2613 11 1927	sun _ma-suffix/ma noon		560	Dhakal2024	[x]
+1913	Yolmo	Noon	ɲimapʰe	ɲ i + m a + pʰ e	1925 1926 1930	sun _ma-suffix/ma noon/phe		96	Dhakal2024	[x]
+8	Gyalsumdo	Nose	naɾki	n aɾ/a + k i	1948 1949	nose _/ki		567	Dhakal2024	[x]
+274	Jirel	Nose	n̪əu	n əu	1948	nose		567	Dhakal2024	[x]
+533	Kagate	Nose	nasum	n a + s u.m	1948 1950	nose _/sum		567	Dhakal2024	[x]
+786	Lowa	Nose	na	n a	1948	nose		567	Dhakal2024	[x]
+1044	Nubri	Nose	nat̪u	n a + t̪ u	1948 1951	nose _/tu		567	Dhakal2024	[x]
+1292	Sherpa	Nose	nəu	n əu	1948	nose		567	Dhakal2024	[x]
+1537	Tsum	Nose	na	n a	1948	nose		567	Dhakal2024	[x]
+1798	Yolmo	Nose	n̪aɾko	n aɾ/a + k o	1948 1952	nose _/ko		567	Dhakal2024	[x]
+91	Gyalsumdo	Oil	maɹku	m a.ɹ + k u	1961 1962	oil/mar _ku		573	Dhakal2024	[x]
+351	Jirel	Oil	məɹɡu	m ə.ɹ + g u	1961 1962	oil/mar _ku		573	Dhakal2024	[x]
+609	Kagate	Oil	marku	m a.r + k u	1961 1962	oil/mar _ku		573	Dhakal2024	[x]
+865	Lowa	Oil	muku	m u + k u	1961 1962	oil/mar _ku		573	Dhakal2024	[x]
+866	Lowa	Oil	num	n u.m	1964	oil/num		572	Dhakal2024	[x]
+1119	Nubri	Oil	n̪um	!n̪/n u.m	1964	oil/num		572	Dhakal2024	[x]
+1369	Sherpa	Oil	n̪um	!n̪/n u.m	1964	oil/num		572	Dhakal2024	[x]
+1613	Tsum	Oil	n̪um	!n̪/n u.m	1964	oil/num		572	Dhakal2024	[x]
+1875	Yolmo	Oil	n̪um	!n̪/n u.m	1964	oil/num		572	Dhakal2024	[x]
+142	Gyalsumdo	Old	ɲiŋpa	ɲ i.ŋ + p a	1975 8	old _:pa-suffix/pa		576	Dhakal2024	[x]
+400	Jirel	Old	ɲiŋba	ɲ i.ŋ + b a	1975 8	old _:pa-suffix/pa		576	Dhakal2024	[x]
+657	Kagate	Old	niŋba	n i.ŋ + b a	1975 8	old _:pa-suffix/pa		576	Dhakal2024	[x]
+913	Lowa	Old	ɲiŋpa	ɲ i.ŋ + p a	1975 8	old _:pa-suffix/pa		576	Dhakal2024	[x]
+1165	Nubri	Old	ɲiŋpa	ɲ i.ŋ + p a	1975 8	old _:pa-suffix/pa		576	Dhakal2024	[x]
+1416	Sherpa	Old	ɲiŋba	ɲ i.ŋ + b a	1975 8	old _:pa-suffix/pa		576	Dhakal2024	[x]
+1659	Tsum	Old	ɲiŋba	ɲ i.ŋ + b a	1975 8	old _:pa-suffix/pa		576	Dhakal2024	[x]
+1921	Yolmo	Old	ɲiŋba	ɲ i.ŋ + b a	1975 8	old _:pa-suffix/pa		576	Dhakal2024	[x]
+118	Gyalsumdo	Older brother	atɕjo	a + tɕj/tɕ o	489 1993	:a-prefix older-brother		578	Dhakal2024	[x]
+379	Jirel	Older brother	adʑjo	a + !dʑj/tɕ o	489 1993	:a-prefix older-brother		578	Dhakal2024	[x]
+635	Kagate	Older brother	at̪a	a + t̪ a	489 1994	:a-prefix older-brother		65	Dhakal2024	[x]
+892	Lowa	Older brother	adʑo	a + !dʑ/tɕ o	489 1993	:a-prefix older-brother		578	Dhakal2024	[x]
+1144	Nubri	Older brother	tɕi	tɕ i	1993	older-brother		578	Dhakal2024	[x]
+1395	Sherpa	Older brother	atɕjo	a + tɕj/tɕ o	489 1993	:a-prefix older-brother		578	Dhakal2024	[x]
+1638	Tsum	Older brother	tɕjoʑjo	tɕj/tɕ o + ʑj/tɕ o	1993 1996	older-brother _:RED:older-brother		578	Dhakal2024	[x]
+1900	Yolmo	Older brother	ad̪a	a + d̪ a	489 1994	:a-prefix older-brother		65	Dhakal2024	[x]
+120	Gyalsumdo	Older sister	atɕi	a + tɕ i	489 2009	:a-prefix older-sister		583	Dhakal2024	[x]
+381	Jirel	Older sister	adzi	a + dz i	489 2009	:a-prefix older-sister		583	Dhakal2024	[x]
+637	Kagate	Older sister	adzi	a + dz i	489 2009	:a-prefix older-sister		583	Dhakal2024	[x]
+894	Lowa	Older sister	idʑi	i/a + dʑ i	489 2009	:a-prefix older-sister		583	Dhakal2024	[x]
+1146	Nubri	Older sister	jei	j e.i	2011	older-sister		586	Dhakal2024	[x]
+1397	Sherpa	Older sister	adzi	a + dz i	489 2009	:a-prefix older-sister		583	Dhakal2024	[x]
+1640	Tsum	Older sister	aʑe	a + ʑ e	489 2009	:a-prefix older-sister		583	Dhakal2024	[x]
+1902	Yolmo	Older sister	adʑi	a + dʑ i	489 2009	:a-prefix older-sister		583	Dhakal2024	[x]
+165	Gyalsumdo	One	tɕiɡ	tɕ i.g/k	2024	one		588	Dhakal2024	[x]
+424	Jirel	One	nd̪okpəi	ⁿd/d̪ o.k + p əi	102 2025	one _/pəi		588	Dhakal2024	[x]
+425	Jirel	One	tɕik	tɕ i.k	2024	one		588	Dhakal2024	[x]
+682	Kagate	One	tɕi	tɕ i.Ø/k	2024	one		588	Dhakal2024	[x]
+938	Lowa	One	tɕik	tɕ i.k	2024	one		588	Dhakal2024	[x]
+1188	Nubri	One	tɕik	tɕ i.k	2024	one		588	Dhakal2024	[x]
+1439	Sherpa	One	tɕik	tɕ i.k	2024	one		588	Dhakal2024	[x]
+1682	Tsum	One	tɕik	tɕ i.k	2024	one		588	Dhakal2024	[x]
+1944	Yolmo	One	tɕi	tɕ i	2024	one		588	Dhakal2024	[x]
+179	Gyalsumdo	One Hundred	kja	k.j a	2035	hundred		590	Dhakal2024	[x]
+438	Jirel	One Hundred	kʰalŋa	kʰ a.l + ŋ a	3431 1009	twenty five		594	Dhakal2024	[x]
+695	Kagate	One Hundred	kjatɕik	k.j a + tɕ i.k	2035 2024	hundred one		590	Dhakal2024	[x]
+952	Lowa	One Hundred	kjat̪ʰampa	k.j a + t̪ʰ a.m + p a	2035 2039 1019	hundred ? _:pa-suffix/pa		590	Dhakal2024	[x]
+1202	Nubri	One Hundred	kjat̪ʰamba	k.j a + t̪ʰ a.m + b a	2035 2039 2040	hundred ? _:ba-suffix/pa		590	Dhakal2024	[x]
+1452	Sherpa	One Hundred	ɡjatɕik	g.j a + tɕ i.k	2035 2024	hundred one		590	Dhakal2024	[x]
+1695	Tsum	One Hundred	kja	k.j a	2035	hundred		590	Dhakal2024	[x]
+1958	Yolmo	One Hundred	kjatɕi	k.j a + tɕ i	2035 2024	hundred one		590	Dhakal2024	[x]
+87	Gyalsumdo	Onion	pjaz	p.j a.z	2054	onion/pjats		597	Dhakal2024	[x]
+347	Jirel	Onion	pjats	p.j a.ts	2054	onion/pjats		598	Dhakal2024	[x]
+605	Kagate	Onion	pjadz	p.j a.dz	2054	onion/pjats		599	Dhakal2024	[x]
+861	Lowa	Onion	tsoŋ	ts o.ŋ	2055	*onion/cong		596	Dhakal2024	[← Chinese cong]
+1115	Nubri	Onion	tsoŋ	ts o.ŋ	2055	*onion/cong		596	Dhakal2024	[← Chinese cong]
+1365	Sherpa	Onion	pjadz	p.j a.dz	2054	onion/pjats		600	Dhakal2024	[x]
+1609	Tsum	Onion	tsoŋɡoʔ	ts o.ŋ + g o.ʔ	2055 2057	*onion/cong /go		596	Dhakal2024	[← Chinese cong]
+1871	Yolmo	Onion	pjats	p.j a.ts	2054	onion/pjats		602	Dhakal2024	[x]
+240	Gyalsumdo	Oven	t̪ʰab	t̪ʰ a.b	2062	oven/thab		603	Dhakal2024	[x]
+501	Jirel	Oven	t̪ʰap	t̪ʰ a.p	2062	oven/thab		603	Dhakal2024	[x]
+750	Kagate	Oven	kwaɡa	kʷ a + g a	2063 2064	oven/kwa _?		604	Dhakal2024	[x]
+1009	Lowa	Oven	t̪ʰap	t̪ʰ a.p	2062	oven/thab		603	Dhakal2024	[x]
+1256	Nubri	Oven	t̪ʰap	t̪ʰ a.p	2062	oven/thab		603	Dhakal2024	[x]
+1505	Sherpa	Oven	t̪ʰab	t̪ʰ a.b	2062	oven/thab		603	Dhakal2024	[x]
+1758	Tsum	Oven	t̪ʰap	t̪ʰ a.p	2062	oven/thab		603	Dhakal2024	[x]
+2013	Yolmo	Oven	koa	k o + a	2065	oven/ko _?		606	Dhakal2024	[x]
+17	Gyalsumdo	Palm	laɡpat̪ʰil	l a.g/k + p a + t̪ʰ i.l	52 10 2074	_arm/hand _:pa-suffix/pa palm/thil		607	Dhakal2024	[x]
+18	Gyalsumdo	Palm	laɡt̪ʰel	l a.g/k + t̪ʰ e.l	52 2074	_arm/hand palm/thil		607	Dhakal2024	[x]
+282	Jirel	Palm	pəɹa	p ə + ɹ a	2073 2075	palm/pa palm/ra		608	Dhakal2024	[x]
+542	Kagate	Palm	t̪ʰaldze	t̪ʰ a.l + dz e	2074 2076	palm/thal palm/dze		609	Dhakal2024	[x]
+794	Lowa	Palm	laɡt̪ʰil	l a.g/k + t̪ʰ i.l	52 2074	_arm/hand palm/thil		607	Dhakal2024	[x]
+795	Lowa	Palm	laɡt̪ʰi	l a.g/k + t̪ʰ i	52 2074	_arm/hand palm/thil		607	Dhakal2024	[x]
+1052	Nubri	Palm	lakpa t̪ʰil	l a.k + p a + t̪ʰ i.l	52 10 2074	_arm/hand _:pa-suffix/pa palm/thil		607	Dhakal2024	[x]
+1300	Sherpa	Palm	laɡpa	l a.g/k + p a	52 10	arm/hand _:pa-suffix/pa		18	Dhakal2024	[x] As a clear colexification, this word shows a unique development.
+1545	Tsum	Palm	paɾa	p a + ɹ a	2073 2075	palm/pa palm/ra		608	Dhakal2024	[x]
+1807	Yolmo	Palm	laɡpan̪aŋ	l a.g/k + p a + n a.ŋ	52 10 2077	_arm/hand _:pa-suffix/pa palm/nang		19	Dhakal2024	[x]
+60	Gyalsumdo	Path	lam	l a.m	2096	path		613	Dhakal2024	[x]
+322	Jirel	Path	lam	l a.m	2096	path		613	Dhakal2024	[x]
+580	Kagate	Path	lam	l a.m	2096	path		613	Dhakal2024	[x]
+835	Lowa	Path	lam	l a.m	2096	path		613	Dhakal2024	[x]
+1090	Nubri	Path	lamkja	l a.m + k.j a	2096 2097	path _path/kja		613	Dhakal2024	[x]
+1340	Sherpa	Path	lam	l a.m	2096	path		613	Dhakal2024	[x]
+1584	Tsum	Path	lam	l a.m	2096	path		613	Dhakal2024	[x]
+1846	Yolmo	Path	lam	l a.m	2096	path		613	Dhakal2024	[x]
+38	Gyalsumdo	Pestle	koɡt̪o	k o.g/k + t̪ o	2106 46	pestle/kog pestle/to		23	Dhakal2024	[?]
+299	Jirel	Pestle	nd̪aɹd̪ok	ⁿd/d̪ a.ɹ + d̪ o.k	2108 45	pestle/ndar pestle/dok		25	Dhakal2024	[?]
+559	Kagate	Pestle	t̪imbu	t̪ i.m + b u	2109 2110	pestle/tim _:suffix/bu		617	Dhakal2024	[?]
+813	Lowa	Pestle	jyt̪yn	j y + t̪ y.n	2111 2112	pestle/ju pestle/tyn		620	Dhakal2024	[?]
+1069	Nubri	Pestle	t̪iktsa	t̪ i.k + ts a	2107 44	pestle/tik _:suffix/tsa		27	Dhakal2024	[?]
+1318	Sherpa	Pestle	tsʰart̪um	tsʰ a.r + t̪ u.m	2108 2109	pestle/tshar pestle/tum		616	Dhakal2024	[?]
+1563	Tsum	Pestle	tɕʰiu	tɕʰ iu	2113	pestle		622	Dhakal2024	[?]
+1824	Yolmo	Pestle	t̪imbu	t̪ i.m + b u	2109 2110	pestle/tim _:suffix/bu		617	Dhakal2024	[?]
+260	Gyalsumdo	Pig	pʰakpa	pʰ a.k + p a	2122 10	pig _:ba-suffix/pa		623	Dhakal2024	[x]
+521	Jirel	Pig	pʰakpa	pʰ a.k + p a	2122 10	pig _:ba-suffix/pa		623	Dhakal2024	[x]
+772	Kagate	Pig	pʰa	pʰ a	2123	pig		623	Dhakal2024	[x]
+1031	Lowa	Pig	pʰak	pʰ a.k	2122	pig		624	Dhakal2024	[x]
+1277	Nubri	Pig	pʰa	pʰ a	2123	pig		623	Dhakal2024	[x]
+1524	Sherpa	Pig	pʰakpa	pʰ a.k + p a	2122 10	pig _ba-suffix		623	Dhakal2024	[x]
+1781	Tsum	Pig	pʰaʔ	pʰ a.ʔ	2123	pig		623	Dhakal2024	[x]
+2035	Yolmo	Pig	pʰa	pʰ a	2123	piug		623	Dhakal2024	[x]
+250	Gyalsumdo	Plank	t̪al	t̪ a.l	2134	plank		628	Dhakal2024	[x]
+511	Jirel	Plank	pʰəljak	pʰ ə.l + j a.k	2135 2136	plank _jak		627	Dhakal2024	[x]
+761	Kagate	Plank	paŋlek	p a.ŋ + l e.k	2137 2136	plank _lep		625	Dhakal2024	[x]
+1020	Lowa	Plank	paŋlep	p a.ŋ + l e.p	2137 2138	plank _lep		625	Dhakal2024	[x]
+1267	Nubri	Plank	paŋlep	p a.ŋ + l e.p	2137 2138	plank _lep		625	Dhakal2024	[x]
+1515	Sherpa	Plank	jend̪ar	j e.n + d̪ a.r	2139 2140	plank _plank		630	Dhakal2024	[x]
+1770	Tsum	Plank	ndɹap	ⁿd/d̪.ɹ a.p	2141	plank		632	Dhakal2024	[x]
+2025	Yolmo	Plank	paŋlep	p a.ŋ + l e.p	2137 2138	plank _lep		625	Dhakal2024	[x]
+252	Gyalsumdo	Plough (noun)	t̪ʰoŋpa	t̪ʰ o.ŋ + p a	2149 8	plough _:ba-suffix		633	Dhakal2024	[x]
+513	Jirel	Plough (noun)	t̪ʰoŋba	t̪ʰ o.ŋ + b a	2149 8	plough _:ba-suffix		633	Dhakal2024	[x]
+763	Kagate	Plough (noun)	t̪ʰoŋ	t̪ʰ o.ŋ	2149	plough		633	Dhakal2024	[x]
+1023	Lowa	Plough (noun)	t̪ʰoŋpa	t̪ʰ o.ŋ + p a	2149 8	plough _:ba-suffix		633	Dhakal2024	[x]
+1269	Nubri	Plough (noun)	t̪ʰuŋpa	t̪ʰ u.ŋ + p a	2149 8	plough _:ba-suffix		633	Dhakal2024	[x]
+1517	Sherpa	Plough (noun)	t̪ʰoŋba	t̪ʰ o.ŋ + b a	2149 8	plough _:ba-suffix		633	Dhakal2024	[x]
+1772	Tsum	Plough (noun)	t̪ʰoŋ	t̪ʰ o.ŋ	2149	plough		633	Dhakal2024	[x]
+2027	Yolmo	Plough (noun)	t̪ʰoŋ	t̪ʰ o.ŋ	2149	plough		633	Dhakal2024	[x]
+81	Gyalsumdo	Potato	alo	a + l o	2163 2164	_/a lok		636	Dhakal2024	
+341	Jirel	Potato	ɹeɡe	ɹ e + g e	2165 2166	potato/re potato/ke		635	Dhakal2024	
+599	Kagate	Potato	he	h e	2167	potato/he		639	Dhakal2024	
+855	Lowa	Potato	alok	a + l o.k	2163 2164	_/a lok		636	Dhakal2024	
+1109	Nubri	Potato	t̪ɔ:	t̪ ɔː	2168	potato/to		640	Dhakal2024	
+1359	Sherpa	Potato	ɹiɡi	ɹ i + g i	2165 2166	potato/re potato/ke		635	Dhakal2024	
+1603	Tsum	Potato	keza	k e + z a	2166 2169	potato/ke _/za		635	Dhakal2024	
+1865	Yolmo	Potato	he	h e	2167	potato/he		639	Dhakal2024	
+52	Gyalsumdo	Rain	nam	n a.m	2462	sky-rain		642	Dhakal2024	[x]
+313	Jirel	Rain	tɕʰjaɹba	tɕʰ.j a.ɹ + b a	2178 8	rain/tcjar _:pa-suffix/ba		643	Dhakal2024	[x]
+572	Kagate	Rain	nam	n a.m	2462	sky-rain		642	Dhakal2024	[x]
+826	Lowa	Rain	tɕʰjawa	tɕʰj/tɕʰ a + w a	2178 2180	rain/tcjar _:wa-suffix		643	Dhakal2024	[x]
+1082	Nubri	Rain	nam	n a.m	2462	sky-rain		642	Dhakal2024	[x]
+1332	Sherpa	Rain	tɕjarpa	tɕ.j a.r + p a	2178 2179	rain/tcjar _:pa-suffix/ba		643	Dhakal2024	[x]
+1576	Tsum	Rain	n̪amkjaus̩	!n̪/n a.m + k.j aus̩/au	2462 2178	sky-rain _kjau		642	Dhakal2024	[x]
+1837	Yolmo	Rain	n̪əm	n ə.m	2462	sky-rain		642	Dhakal2024	[x]
+1838	Yolmo	Rain	n̪əmɡjabzin̪	n ə.m + g.j a.b + z i.n	2462 55 2181	sky-rain _rain _rain		642	Dhakal2024	[x]
+57	Gyalsumdo	Rainbow	sa	s a	156	rainbow/dza		647	Dhakal2024	[x]
+319	Jirel	Rainbow	ndza	ⁿdz/dz a	2193	rainbow/dza		647	Dhakal2024	[x]
+577	Kagate	Rainbow	dzakormu	dz a + k o.r + m u	2193 2194 2195	rainbow/dza _rainbow/kor _rainbow/mu		647	Dhakal2024	[x]
+831	Lowa	Rainbow	ndʑja	ⁿdʑj/dʑ a	2193	rainbow/dza		647	Dhakal2024	[x]
+1087	Nubri	Rainbow	tɕja	tɕj/tɕ a	2193	rainbow/dza		647	Dhakal2024	[x]
+1337	Sherpa	Rainbow	dza	dz a	2193	rainbow/dza		647	Dhakal2024	[x]
+1581	Tsum	Rainbow	ndʑjabe	ⁿdʑj/dʑ a + b e	2193 2196	rainbow/dza _rainbow/be		647	Dhakal2024	[x]
+1843	Yolmo	Rainbow	za	z a	156	rainbow/dza		647	Dhakal2024	[x]
+164	Gyalsumdo	Red	maɹpu	m a.ɹ + p u	2205 1581	red :bu-suffix/pu		651	Dhakal2024	d.m a.r
+423	Jirel	Red	məɹmu	m !ə/a.ɹ + m u	2205 3365	red _:mu-suffix/mu		651	Dhakal2024	d.m a.r
+681	Kagate	Red	marmu	m a.r + m u	2205 3365	red _:mu-suffix/mu		651	Dhakal2024	d.m a.r
+937	Lowa	Red	mawo	m a + !w/m o	2205 3365	red _:mu-suffix/mu		651	Dhakal2024	d.m a.r
+1187	Nubri	Red	maɹpo	m a.ɹ + p o	2205 1581	red :bu-suffix/pu		651	Dhakal2024	d.m a.r
+1438	Sherpa	Red	mərbu	m !ə/a.r + b u	2205 1581	red :bu-suffix/pu		651	Dhakal2024	d.m a.r
+1681	Tsum	Red	maɹbo	m a.ɹ + b o	2205 1581	red :bu-suffix/pu		651	Dhakal2024	d.m a.r
+1943	Yolmo	Red	maɹmu	m a.ɹ + m u	2205 966	red :mu-suffix		651	Dhakal2024	d.m a.r
+79	Gyalsumdo	Rice (husked)	tɛ	!t̪/t̪ʰ ɛ	2222	rice		655	Dhakal2024	[x]
+80	Gyalsumdo	Rice (husked)	tʰɛ	t̪ʰ ɛ	2222	rice		655	Dhakal2024	[x]
+340	Jirel	Rice (husked)	ɕjoɹok	ɕ.j o + ɹ o.k	2223 2224	rice/sjo _rice/rok		656	Dhakal2024	[x]
+598	Kagate	Rice (husked)	brea	b.r ea	2225	rice/bre		657	Dhakal2024	[x]
+854	Lowa	Rice (husked)	nde	ⁿd/d e	2222	rice		655	Dhakal2024	[x]
+1108	Nubri	Rice (husked)	te:	!t/t̪ eː	2222	rice		655	Dhakal2024	[x]
+1358	Sherpa	Rice (husked)	ɕjoɹ	ɕ.j o + ɹ !Ø/o.!Ø/k	2223 2224	rice/sjo _rice/rok		656	Dhakal2024	[x]
+1602	Tsum	Rice (husked)	ndɹe	!ⁿdɹ/d̪.ɹ e	2222	rice		655	Dhakal2024	[x]
+1864	Yolmo	Rice (husked)	mbɹe	ⁿb/b.ɹ e	2225	rice/bre		657	Dhakal2024	[x]
+152	Gyalsumdo	Right	jøba	j ø + b a	2233 10	right/jo _:pa-suffix		659	Dhakal2024	[?]
+410	Jirel	Right	samapa	s a + m a + p a	2235 11 10	right/sa _:ma-suffix _:ba-suffix/pa		660	Dhakal2024	[?]
+669	Kagate	Right	tɕjabutsʰole	tɕ j a + b u + tsʰ o + l e	2237 2238 2239 2240	_right/tsja _:bu-suffix right/tsho right/le		663	Dhakal2024	[?]
+925	Lowa	Right	jewa	j e + w a	2233 2241	right/jo _:wa-suffix		659	Dhakal2024	[?]
+1175	Nubri	Right	je	j e	2233	right/jo		659	Dhakal2024	[?]
+1426	Sherpa	Right	laɡpaɡa	l a.g/k + p a + g a	52 10 2243	_arm/hand _:pa-suffix/pa right		660	Dhakal2024	[?]
+1669	Tsum	Right	jepa	j e + p a	2233 10	right/jo _:pa-suffix/pa		659	Dhakal2024	[?]
+1931	Yolmo	Right	joba	j o + b a	2233 10	right/jo _:pa-suffix		659	Dhakal2024	[?]
+46	Gyalsumdo	Ring	soɹt̪ob	s o.ɹ + t̪ o.b	2253 2254	ring/se ring/top		670	Dhakal2024	[x]
+308	Jirel	Ring	əũtʰi	ə.ũ + t̪ʰ i	2255 2256	ring/@u ring/thi		672	Dhakal2024	[x]
+567	Kagate	Ring	sipt̪ur	s i.p + t̪ u.r	2253 2254	ring/se ring/top		670	Dhakal2024	[x]
+821	Lowa	Ring	set̪op	s e + t̪ o.p	2253 2254	ring/se ring/top		670	Dhakal2024	[x]
+1077	Nubri	Ring	soɹt̪ob	s o.ɹ + t̪ o.b	2253 2254	ring/se ring/top		670	Dhakal2024	[x]
+1326	Sherpa	Ring	sert̪ub	s e.r + t̪ u.b	2253 2254	ring/se ring/top		670	Dhakal2024	[x]
+1571	Tsum	Ring	sot̪ob	s o + t̪ o.b	2253 2254	ring/se ring/top		670	Dhakal2024	[x]
+1832	Yolmo	Ring	sit̪ub	s i + t̪ u.b	2253 2254	ring/se ring/top		670	Dhakal2024	[x]
+54	Gyalsumdo	River	tsaŋpu	ts a.ŋ + p u	2270 1581	river/tsaŋ _:bu-suffix/pu		674	Dhakal2024	[x]
+315	Jirel	River	tʰaŋka	!tʰ/ts a.ŋ + k a	2270 2272	river/tsaŋ _:suffix/ka		674	Dhakal2024	[x]
+574	Kagate	River	tsaŋbu	ts a.ŋ + b u	2270 1581	river/tsaŋ _:bu-suffix/pu		674	Dhakal2024	[x]
+828	Lowa	River	tsaŋpo	ts a.ŋ + p o	2270 1581	river/tsaŋ _:bu-suffix/pu		674	Dhakal2024	[x]
+1084	Nubri	River	kjuɡtɕʰju	k.j u.g/k + tɕʰ.j u	2273 2274	river/kjug _river/tshju		677	Dhakal2024	[x]
+1334	Sherpa	River	tsəŋbu	ts ə.ŋ + b u	2270 1581	river/tsaŋ _:bu-suffix/pu		674	Dhakal2024	[x]
+1578	Tsum	River	tsaŋbo	ts a.ŋ + b o	2270 1581	river/tsaŋ _:bu-suffix/pu		674	Dhakal2024	[x]
+1840	Yolmo	River	tsəŋbu	ts ə.ŋ + b u	2270 1581	river/tsaŋ _:bu-suffix/pu		674	Dhakal2024	[x]
+31	Gyalsumdo	Roof	kʰaŋt̪ø	kʰ a.ŋ + t̪ ø	1383 2288	_house roof/tok		679	Dhakal2024	[x]
+32	Gyalsumdo	Roof	t̪ʰo	t̪ʰ o	2288	roof/tok		679	Dhakal2024	[x]
+294	Jirel	Roof	tsʰanu	tsʰ a + n u	2289 2290	roof/tsha roof/nu		682	Dhakal2024	[x]
+554	Kagate	Roof	t̪uŋso	t̪ u.ŋ + s o	2291 2292	roof/tuŋ _roof/so		681	Dhakal2024	[x]
+808	Lowa	Roof	t̪aŋ	t̪ a.ŋ	2291	roof/tuŋ		681	Dhakal2024	[x]
+1064	Nubri	Roof	t̪ʰɔ	t̪ʰ ɔ	2288	roof/tok		679	Dhakal2024	[x]
+1313	Sherpa	Roof	t̪ʰok	t̪ʰ o.k	2288	roof/tok		679	Dhakal2024	[x]
+1558	Tsum	Roof	kʰand̪oʔ	kʰ a.!n/ŋ + d̪ o.ʔ	1383 2288	_house roof/tok		679	Dhakal2024	[x]
+71	Gyalsumdo	Root	pat̪a	p a + t̪ a	65 30	root/pa _root/tak		686	Dhakal2024	[x]
+332	Jirel	Root	tsapɹen	ts a + p.ɹ e.n	2302 2303	root/tsa _root/pren		685	Dhakal2024	[x]
+590	Kagate	Root	tsarŋe	ts a.r + ŋ e	2302 2304	root/tsa _root/ŋe		685	Dhakal2024	[x]
+846	Lowa	Root	tsawa	ts a + w a	2302 64	root/tsa _:wa-suffix		685	Dhakal2024	[x]
+1100	Nubri	Root	tsa	ts a	2302	root/tsa		685	Dhakal2024	[x]
+1350	Sherpa	Root	dzət̪ak	dz ə + t̪ a.k	2302 30	root/tsa _root/tak		685	Dhakal2024	[x]
+1594	Tsum	Root	tɹat̪oʔ	t̪.ɹ a + t̪ o.ʔ	144 30	root/tsa _root/tak		182	Dhakal2024	[x]
+1856	Yolmo	Root	tsaɾki	ts a.ɾ/ɹ + k i	2302 2307	root/tsa _root/ki		685	Dhakal2024	[x]
+42	Gyalsumdo	Rope	t̪ʰaɡpa	t̪ʰ a.!g/k + p a	2316 10	rope _:ba-suffix/pa		693	Dhakal2024	[x]
+304	Jirel	Rope	t̪ʰakpa	t̪ʰ a.k + p a	2316 10	rope _:ba-suffix/pa		693	Dhakal2024	[x]
+563	Kagate	Rope	t̪ʰakpa	t̪ʰ a.k + p a	2316 10	rope _:ba-suffix/pa		693	Dhakal2024	[x]
+817	Lowa	Rope	t̪ʰaɡpa	t̪ʰ a.g/k + p a	2316 10	rope _:ba-suffix/pa		693	Dhakal2024	[x]
+1073	Nubri	Rope	t̪ʰaɡpa	t̪ʰ a.g/k + p a	2316 10	rope _:ba-suffix/pa		693	Dhakal2024	[x]
+1322	Sherpa	Rope	t̪ʰakpa	t̪ʰ a.k + p a	2316 10	rope _:ba-suffix/pa		693	Dhakal2024	[x]
+1567	Tsum	Rope	t̪ʰakpa	t̪ʰ a.k + p a	2316 10	rope _:ba-suffix/pa		693	Dhakal2024	[x]
+1828	Yolmo	Rope	t̪ʰakpa	t̪ʰ a.k + p a	2316 10	rope _:ba-suffix/pa		693	Dhakal2024	[x]
+247	Gyalsumdo	Rope used to tie animals	t̪ʰakpa	t̪ʰ a.k + p a	2333 10	rope _:ba-suffix/pa		695	Dhakal2024	[x]
+508	Jirel	Rope used to tie animals	t̪ʰakpa	t̪ʰ a.k + p a	2316 10	rope _:ba-suffix/pa		695	Dhakal2024	[x]
+758	Kagate	Rope used to tie animals	t̪ʰakpa	t̪ʰ a.k + p a	2333 2334	rope _:ba-suffix		695	Dhakal2024	[x]
+1017	Lowa	Rope used to tie animals	t̪ʰaɡpa	t̪ʰ a.g/k + p a	2333 1019	rope _:ba-suffix		695	Dhakal2024	[x]
+1264	Nubri	Rope used to tie animals	hɹeli	h.ɹ e.!Ø/l + l i	2335 2336	rope/hrel _?		697	Dhakal2024	[x]
+1512	Sherpa	Rope used to tie animals	t̪ʰakpa	t̪ʰ a.k + p a	2333 10	rope _rope		695	Dhakal2024	[x]
+1766	Tsum	Rope used to tie animals	mit̪aʔ	m i + t̪ a.ʔ	2337 2333	rope/mi rope/tak		166	Dhakal2024	[x]
+2022	Yolmo	Rope used to tie animals	ɹel	ɹ e.l	2335	rope/hrel		697	Dhakal2024	[x]
+92	Gyalsumdo	Salt	tsʰa	tsʰ a	2349	salt		701	Dhakal2024	[x]
+352	Jirel	Salt	tsʰa	tsʰ a	2349	salt		701	Dhakal2024	[x]
+610	Kagate	Salt	tsʰa	tsʰ a	2349	salt		701	Dhakal2024	[x]
+867	Lowa	Salt	tsʰa	tsʰ a	2349	salt		701	Dhakal2024	[x]
+1120	Nubri	Salt	tsʰa	tsʰ a	2349	salt		701	Dhakal2024	[x]
+1370	Sherpa	Salt	tsʰa	tsʰ a	2349	salt		701	Dhakal2024	[x]
+1614	Tsum	Salt	tsʰa	tsʰ a	2349	salt		701	Dhakal2024	[x]
+1876	Yolmo	Salt	tsʰa	tsʰ a	2349	salt		701	Dhakal2024	[x]
+190	Gyalsumdo	Same	ot̪iɹaŋ	o + t̪ i + ɹ a.ŋ	2358 2734 2360	over-there/o this _same/rang		130	Dhakal2024	[x]
+191	Gyalsumdo	Same	od̪iɹaŋ	o + !d̪/t̪ i + ɹ a.ŋ	2358 2734 2360	over-there/o this _same/rang		130	Dhakal2024	[x]
+192	Gyalsumdo	Same	taɡe	t̪ a + g e	632 633	same/ta same/ge		131	Dhakal2024	[x]
+449	Jirel	Same	t̪ʰokɹaŋ	t̪ʰ o.k + ɹ a.ŋ	2359 2360	same/thok same/rang		134	Dhakal2024	[x]
+706	Kagate	Same	wokʰora	w o + kʰ o + r a	2358 2362 2360	over-there/o this/kho different		703	Dhakal2024	[x]
+966	Lowa	Same	tɕikpa	tɕ i.k + !p/b a	2024 1019	one :ba-suffix		706	Dhakal2024	[x]
+1214	Nubri	Same	tɕɔtɕo	tɕ ɔ + tɕ o	2361 2365	same/tco same:red/tco		705	Dhakal2024	[x]
+1463	Sherpa	Same	tɕikparaŋ	tɕ i.k + !p/b a + r a.ŋ	2024 1019 2360	one :ba-suffix _same/rang		706	Dhakal2024	[x]
+1706	Tsum	Same	od̪e	o + d̪ !e/i	2358 2734	over-there/o this		130	Dhakal2024	[x]
+1969	Yolmo	Same	andaɾaŋ	a.n + !d/t̪ a + ɾ/ɹ a.ŋ	2366 632 2360	/an same/ta different		702	Dhakal2024	[x]
+61	Gyalsumdo	Sand	pema	p e + m a	2384 1442	sand/phe _:ma-suffix		712	Dhakal2024	[x]
+323	Jirel	Sand	pʰesa	pʰ e + s a	2384 57	sand/phe _sand/sa		712	Dhakal2024	[x]
+581	Kagate	Sand	pema	p e + m a	2384 1442	sand/phe _:ma-suffix		712	Dhakal2024	[x]
+836	Lowa	Sand	pema	p e + m a	2384 1442	sand/phe _:ma-suffix		712	Dhakal2024	[x]
+1091	Nubri	Sand	pɛ̃:	p ɛ̃ː/ɛ + Ø/m Ø/a	2384 1442	sand/phe _:ma-suffix		712	Dhakal2024	[x]
+1341	Sherpa	Sand	pʰema	pʰ e + m a	2384 1442	sand/phe _:ma-suffix		712	Dhakal2024	[x]
+1585	Tsum	Sand	ijãʔ	i + j ã.ʔ	2387 2388	sand/i sand/jã?		715	Dhakal2024	[x]
+1847	Yolmo	Sand	pema	p e + m a	2384 1442	sand/phe _:ma-suffix		712	Dhakal2024	[x]
+172	Gyalsumdo	Seven	t̪yn	t̪ y.n	2400	seven		717	Dhakal2024	[x]
+431	Jirel	Seven	nd̪uin	ⁿd/d̪ ui.n	2400	seven		717	Dhakal2024	[x]
+688	Kagate	Seven	t̪in	t̪ i.n	2400	seven		717	Dhakal2024	[x]
+945	Lowa	Seven	t̪yn	t̪ y.n	2400	seven		717	Dhakal2024	[x]
+1194	Nubri	Seven	t̪yn̪	t̪ y.n	2400	seven		717	Dhakal2024	[x]
+1445	Sherpa	Seven	d̪in	d̪ i.n	2400	seven		717	Dhakal2024	[x]
+1688	Tsum	Seven	t̪un	t̪ u.n	2400	seven		717	Dhakal2024	[x]
+1950	Yolmo	Seven	t̪in	t̪ i.n	2400	seven		717	Dhakal2024	[x]
+226	Gyalsumdo	She	mo	m o	601	female		718	Dhakal2024	[x]
+490	Jirel	She	t̪ʰe	t̪ʰ e	2410	she		719	Dhakal2024	[x]
+738	Kagate	She	mo	m o	601	female		718	Dhakal2024	[x]
+999	Lowa	She	mo	m o	601	female		718	Dhakal2024	[x]
+1246	Nubri	She	mo	m o	601	female		718	Dhakal2024	[x]
+1494	Sherpa	She	t̪ʰi	t̪ʰ i	2410	she		719	Dhakal2024	[x]
+1745	Tsum	She	mo	m o	601	female		718	Dhakal2024	[x]
+2002	Yolmo	She	mo	m o	601	female		718	Dhakal2024	[x]
+149	Gyalsumdo	Short	t̪øma	t̪ ø + m a	2420 1442	short/thum _:ma-suffix/ma		720	Dhakal2024	[x]
+407	Jirel	Short	t̪ʰumma	t̪ʰ u.m + m a	2420 11	short/thum _ma-suffix/ma		720	Dhakal2024	[x]
+666	Kagate	Short	t̪ʰimi	t̪ʰ i + m i	2420 2419	short/thum _:mi-suffix		720	Dhakal2024	[x]
+922	Lowa	Short	t̪uŋwa	t̪ u.ŋ + w a	2420 2421	short/thum _:wa-suffix		720	Dhakal2024	[x]
+1172	Nubri	Short	t̪ɛ̃n̪d̪ɛ̃	t̪ ɛ̃ + ⁿd̪/d̪ !ɛ̃/ɛ	2420 2418	short/thum _:de-suffix		721	Dhakal2024	[x]
+1423	Sherpa	Short	t̪ʰinme	t̪ʰ i.n + m e	2420 2419	short/thum _:me-suffix		720	Dhakal2024	[x]
+1666	Tsum	Short	t̪ʰyma	t̪ʰ y + m a	2420 11	short/thum _:ma-suffix/ma		720	Dhakal2024	[x]
+1928	Yolmo	Short	t̪ʰemu	t̪ʰ e + m u	2420 966	short/thum _:mu-suffix		720	Dhakal2024	[x]
+170	Gyalsumdo	Six	tuk	!t̪/t̪ʰ u.k	2435	six		724	Dhakal2024	[x]
+171	Gyalsumdo	Six	tʰuk	t̪ʰ u.k	2435	six		724	Dhakal2024	[x]
+430	Jirel	Six	tʰok	t̪ʰ o.k	2435	six		724	Dhakal2024	[x]
+687	Kagate	Six	tuk	t̪ u.k	2435	six		724	Dhakal2024	[x]
+943	Lowa	Six	tuk	t̪ u.k	2435	six		724	Dhakal2024	[x]
+944	Lowa	Six	tʰɹuk	t̪ʰ.ɾ u.k	2435	six		724	Dhakal2024	[x]
+1193	Nubri	Six	tuk	t̪ u.k	2435	six		724	Dhakal2024	[x]
+1444	Sherpa	Six	tʰuk	t̪ʰ u.k	2435	six		724	Dhakal2024	[x]
+1687	Tsum	Six	tɹu	t̪.ɹ u	2435	six		724	Dhakal2024	[x]
+1949	Yolmo	Six	tu	t̪ u	2435	six		724	Dhakal2024	[x]
+22	Gyalsumdo	Skin	paɡpa	p a.g/k + p a	2446 10	skin/pag _:pa-suffix/pa		725	Dhakal2024	[x]
+23	Gyalsumdo	Skin	poɡo	p o + g o	2447 42	skin/pag /go		725	Dhakal2024	[x]
+286	Jirel	Skin	kokt̪en	k o.k + t̪ e.n	2448 2449	skin/kwa _/ten		726	Dhakal2024	[x]
+546	Kagate	Skin	koba	k o + b a	2448 10	skin/kwa _:pa-suffix/ba		726	Dhakal2024	[x]
+799	Lowa	Skin	pawo	p a + w o	2446 2450	skin/pag _skin		725	Dhakal2024	[x]
+1056	Nubri	Skin	pau	p a + !Ø/w !u/o	2446 2450	skin/pag wo		725	Dhakal2024	[x]
+1304	Sherpa	Skin	kwa	!kʷ/k !Ø/o + !Ø/w a	2448 2450	skin/ko wa		726	Dhakal2024	[x]
+1549	Tsum	Skin	koa	k o + !Ø/w a	2448 2450	skin/ko wa		726	Dhakal2024	[x]
+1811	Yolmo	Skin	pawa	p a + w a	2446 2450	skin/pag _skin		725	Dhakal2024	[x]
+50	Gyalsumdo	Sky	nam	n a.m	2462	sky-rain		730	Dhakal2024	[x]
+311	Jirel	Sky	n̪am	!n̪/n a.m	2462	sky-rain		730	Dhakal2024	[x]
+570	Kagate	Sky	nam	n a.m	2462	sky-rain		730	Dhakal2024	[x]
+824	Lowa	Sky	nam	n a.m	2462	sky-rain		730	Dhakal2024	[x]
+1080	Nubri	Sky	nam	n a.m	2462	sky-rain		730	Dhakal2024	[x]
+1329	Sherpa	Sky	nam	n a.m	2462	sky-rain		730	Dhakal2024	[x]
+1574	Tsum	Sky	n̪am	!n̪/n a.m	2462	sky-rain		730	Dhakal2024	[x]
+1835	Yolmo	Sky	n̪əm	!n̪/n ə.m	2462	sky-rain		730	Dhakal2024	[x]
+157	Gyalsumdo	Small	tɕema	!tɕ/tɕʰ e + m a	2471 1442	small/? _:ma-suffix/ma		732	Dhakal2024	tɕʰuŋ «small»
+416	Jirel	Small	tikti	t̪ i.k + t̪ i	931 83	small _/ti		733	Dhakal2024	tɕʰuŋ «small»
+674	Kagate	Small	tɕʰimi	tɕʰ i + m i	2471 2472	small/tsh _/mi		732	Dhakal2024	tɕʰuŋ «small»
+930	Lowa	Small	tɕuŋwa	tɕ u.ŋ + w a	152 2475	small _:wa-suffix		731	Dhakal2024	tɕʰuŋ «small»
+1180	Nubri	Small	tɛtɛ	t̪ ɛ + t̪ ɛ	2474 2476	small/tE _:RED/tE		192	Dhakal2024	tɕʰuŋ «small»
+1431	Sherpa	Small	tikpe	t̪ i.k + p e	931 932	small _/bi		733	Dhakal2024	tɕʰuŋ «small»
+1674	Tsum	Small	tɕʰyma	tɕʰ y + m a	2471 11	SMALL _:ma-suffix/ma		731	Dhakal2024	tɕʰuŋ «small»
+1936	Yolmo	Small	tsemu	ts e + m u	153 966	small _:mu-suffix		193	Dhakal2024	tɕʰuŋ «small»
+63	Gyalsumdo	Smoke	t̪uba	t̪ u + b a	2488 10	smoke/tu _:pa-suffix/pa		738	Dhakal2024	[x]
+325	Jirel	Smoke	t̪ʰut̪ak	t̪ʰ u + t̪ a.k	2488 2490	smoke/tu _:suffix/tak		738	Dhakal2024	[x]
+583	Kagate	Smoke	d̪ipa	d̪ i + p a	2488 10	smoke/tu _:pa-suffix/pa		738	Dhakal2024	[x]
+838	Lowa	Smoke	t̪ipa	t̪ i + p a	2488 10	smoke/tu _:pa-suffix/pa		738	Dhakal2024	[x]
+1093	Nubri	Smoke	t̪ohpa	t̪ o.h + p a	2488 10	smoke/tu _:pa-suffix/pa		738	Dhakal2024	[x]
+1343	Sherpa	Smoke	t̪ʰut̪a	t̪ʰ u + t̪ a	2488 2490	smoke/tu _:suffix/tak		738	Dhakal2024	[x]
+1587	Tsum	Smoke	t̪upa	t̪ u + p a	2488 10	smoke/tu _:pa-suffix/pa		738	Dhakal2024	[x]
+1849	Yolmo	Smoke	t̪ipa	t̪ i + p a	2488 10	smoke/tu _:pa-suffix/pa		738	Dhakal2024	[x]
+106	Gyalsumdo	Snake	tul	t̪ u.l	2505	snake		742	Dhakal2024	[x]
+367	Jirel	Snake	ɹul	ɹ u.l	2505	snake		742	Dhakal2024	[x]
+623	Kagate	Snake	prul	p.r u.l	2505	snake		742	Dhakal2024	sbrul «GiftSchlange»
+880	Lowa	Snake	tu	t̪ u	2505	snake		742	Dhakal2024	[x]
+881	Lowa	Snake	tʰu	!tʰ/t̪ u	2505	snake		742	Dhakal2024	[x]
+1133	Nubri	Snake	tul	t̪ u.l	2505	snake		742	Dhakal2024	[x]
+1383	Sherpa	Snake	dul	d̪ u.l	2505	snake		742	Dhakal2024	[x]
+1627	Tsum	Snake	tɹul	t̪.ɹ u.l	2505	snake		742	Dhakal2024	[x]
+1889	Yolmo	Snake	pɹul	p.ɹ u.l	2505	snake		742	Dhakal2024	sbrul «GiftSchlange»
+122	Gyalsumdo	Son	pitsa	p i + ts a	487 488	child-1 child-2		743	Dhakal2024	[x]
+383	Jirel	Son	pʰudʑuŋ	pʰ u + dʑ u.ŋ	2515 2517	child-son son-2		743	Dhakal2024	[x]
+639	Kagate	Son	pu	p u	2515	child-son		743	Dhakal2024	[x]
+896	Lowa	Son	pidza	p i + dz a	487 488	child-1 child-2		743	Dhakal2024	[x]
+1148	Nubri	Son	puh	p u.h	2515	child-son		743	Dhakal2024	[x]
+1399	Sherpa	Son	pʰudʑjuŋ	pʰ u + dʑ.j u.ŋ	2515 2517	child-son son-2		743	Dhakal2024	[x]
+1642	Tsum	Son	pu	p u	2515	child-son		743	Dhakal2024	[x]
+1904	Yolmo	Son	pu	p u	2515	child-son		743	Dhakal2024	[x]
+242	Gyalsumdo	Spade	t̪oktsi	t̪ o.k + ts i	2528 2529	spade _tsi		746	Dhakal2024	[x]
+503	Jirel	Spade	t̪oktsi	t̪ o.k + ts i	2528 2529	spade _tsi		746	Dhakal2024	[x]
+752	Kagate	Spade	t̪odzi	t̪ o + !dz/ts i	2528 2529	spade _tsi		746	Dhakal2024	[x]
+1011	Lowa	Spade	t̪oktse	t̪ o.k + ts e	2528 2529	spade _tsi		746	Dhakal2024	[x]
+1258	Nubri	Spade	t̪otse	t̪ o + ts e	2528 2529	spade _tsi		746	Dhakal2024	[x]
+1507	Sherpa	Spade	t̪oktsi	t̪ o.k + ts i	2528 2529	spade _tsi		746	Dhakal2024	[x]
+1760	Tsum	Spade	t̪otse	t̪ o + ts e	2528 2529	spade _spade		746	Dhakal2024	[x]
+2015	Yolmo	Spade	t̪uzi	t̪ u + !z/ts i	2528 2529	spade _spade		746	Dhakal2024	[x]
+111	Gyalsumdo	Spider	palba	p a.l + b a	2548 2554	spider/bel _/ba		748	Dhakal2024	[x]
+372	Jirel	Spider	ŋɡwãpali	ⁿg/g.w ã + p a + l i	2549 10 2550	splider/gwa _:ba-suffix/pa _/li		61	Dhakal2024	[x]
+628	Kagate	Spider	kiɡor	k i + g o.r	2551 2552	spider/ki _/gor		56	Dhakal2024	[x]
+885	Lowa	Spider	mbut̪om	ⁿb/b u + t̪ o.m	73 2553	spider/bu _/tom		51	Dhakal2024	[x]
+1137	Nubri	Spider	pabla	p a.bl/l + !Ø/b a	2548 2554	spider/bel _/ba		748	Dhakal2024	[x]
+1388	Sherpa	Spider	bəldzjaŋ	b ə.l + dz.j a.ŋ	2548 2555	spider/bel _/dziang		748	Dhakal2024	[x]
+1631	Tsum	Spider	tɹaula	t̪.ɹ au + l a	2556 14	spierd/trau _/la		60	Dhakal2024	[x]
+1893	Yolmo	Spider	ɕwabu	ɕ.w a + b u	2557 2548	spider/swa _/bu		58	Dhakal2024	[x]
+51	Gyalsumdo	Star	kaɹma	k a.ɹ + m a	2565 11	star/white _:ma-suffix/ma		759	Dhakal2024	s.k a.r
+312	Jirel	Star	kaɹma	k a.ɹ + m a	2565 11	star/white _ma-suffix/ma		759	Dhakal2024	s.k a.r
+571	Kagate	Star	karma	k a.r + m a	2565 11	star/white _:ma-suffix/ma		759	Dhakal2024	s.k a.r
+825	Lowa	Star	kaɹma	k aɹ/a + m a	2565 11	star/white _:ma-suffix/ma		759	Dhakal2024	s.k a.r
+1081	Nubri	Star	kaɹma	k a.ɹ + m a	2565 11	star/white _:ma-suffix/ma		759	Dhakal2024	s.k a.r
+1330	Sherpa	Star	kərma	k ə/a.r + m a	2565 11	star/white _:ma-suffix/ma		759	Dhakal2024	s.k a.r
+1331	Sherpa	Star	kərdzjaŋ	k ə/a.r + dz.j a.ŋ	2565 2567	star/white star/dzjaŋ		86	Dhakal2024	s.k a.r
+1575	Tsum	Star	kaɹma	k a.ɹ + m a	2565 11	star/white _:ma-suffix/ma		759	Dhakal2024	s.k a.r
+1836	Yolmo	Star	kəɾma	k ə/a.ɾ/ɹ + m a	2565 11	star/white _:ma-suffix/ma		759	Dhakal2024	s.k a.r
+262	Gyalsumdo	Stick	kjukpa	k.j u.k + p a	2584 10	stick _:ba-suffix/pa		175	Dhakal2024	[x]
+522	Jirel	Stick	dəndi	d̪ ə + ⁿd/d̪ i	2586 2587	stick _stick		765	Dhakal2024	[x]
+774	Kagate	Stick	perka	p e.r + k a	28 2589	stick/per _ka		762	Dhakal2024	[x]
+1033	Lowa	Stick	pekjoʔ	p e.k + j o.ʔ	2588 2590	stick _jo		762	Dhakal2024	[x]
+1279	Nubri	Stick	pikpa	p i.k + p a	2588 1078	stick _:pa-suffix/pa		762	Dhakal2024	[x]
+1280	Nubri	Stick	peɹka	p e.ɹ + k a	28 2589	stick/per _ka		762	Dhakal2024	[x]
+1526	Sherpa	Stick	t̪oŋləŋ	t̪ o.ŋ + l ə.ŋ	2586 2592	stick _leng		177	Dhakal2024	[x]
+1784	Tsum	Stick	perka	p e.ɹ + k a	28 2589	stick/per _ka		762	Dhakal2024	[x]
+2037	Yolmo	Stick	pɹeka	p !ɹ/e.!Ø/ɹ + k a	28 2589	stick/per _ka		762	Dhakal2024	[x]
+59	Gyalsumdo	Stone	t̪o	t̪ o	47	stone		771	Dhakal2024	[x]
+321	Jirel	Stone	nd̪o	ⁿd/d̪ o	47	stone		771	Dhakal2024	[x]
+579	Kagate	Stone	t̪o	t̪ o	47	stone		771	Dhakal2024	[x]
+834	Lowa	Stone	t̪okoŋ	t̪ o + k o.ŋ	47 2604	stone _stone/kong		771	Dhakal2024	[x]
+1089	Nubri	Stone	t̪oh	t̪ o.h	47	stone		771	Dhakal2024	[x]
+1339	Sherpa	Stone	d̪o	d̪ o	47	stone		771	Dhakal2024	[x]
+1583	Tsum	Stone	t̪o	t̪ o	47	stone		771	Dhakal2024	[x]
+1845	Yolmo	Stone	t̪o	t̪ o	47	stone		771	Dhakal2024	[x]
+47	Gyalsumdo	Sun	ɲima	ɲ i + m a	2613 11	sun _:ma-suffix/ma		773	Dhakal2024	[x]
+309	Jirel	Sun	ɲima	ɲ i + m a	2613 11	sun _ma-suffix/ma		773	Dhakal2024	[x]
+568	Kagate	Sun	ŋima	ŋ i + m a	2613 11	sun _:ma-suffix/ma		773	Dhakal2024	[x]
+822	Lowa	Sun	ɲima	ɲ i + m a	2613 11	sun _:ma-suffix/ma		773	Dhakal2024	[x]
+1078	Nubri	Sun	ɲo	ɲ o	76	sun		82	Dhakal2024	[x]
+1327	Sherpa	Sun	ɲima	ɲ i + m a	2613 11	sun _ma-suffix/ma		773	Dhakal2024	[x]
+1572	Tsum	Sun	ɲiã	ɲ i + !Ø/m ã/a	2613 11	sun _:ma-suffix/ma		773	Dhakal2024	[x]
+1833	Yolmo	Sun	ɲima	ɲ i + m a	2613 11	sun _ma-suffix/ma		773	Dhakal2024	[x]
+263	Gyalsumdo	Sweat	ŋulna	ŋ u.l + n a	2628 2629	sweat/nul _na		775	Dhakal2024	[x]
+523	Jirel	Sweat	tʰot̪	t̪ʰ o.t̪	2630	sweat		778	Dhakal2024	[x]
+775	Kagate	Sweat	ŋuldʑju	ŋ u.l + dʑj/dʑ u	2628 2631	sweat/nul _dzu		775	Dhakal2024	[x]
+1034	Lowa	Sweat	ŋunak	ŋ u + n a.k	2628 2629	sweat/nul _na		775	Dhakal2024	[x]
+1281	Nubri	Sweat	ŋulna	ŋ u.l + n a	2628 2629	sweat/nul _na		775	Dhakal2024	[x]
+1282	Nubri	Sweat	ŋylna	ŋ y.l + n a	2628 2629	sweat/nul _na		775	Dhakal2024	[x]
+1527	Sherpa	Sweat	ŋumn̪a	ŋ u.m + !n̪/n a	2628 2629	sweat/nul _na		775	Dhakal2024	[x]
+1785	Tsum	Sweat	ŋulʑju	ŋ u.l + ʑ.j u	2628 2631	sweat/nul _dzu		775	Dhakal2024	[x]
+1786	Tsum	Sweat	ŋulnaʔ	ŋ u.l + n a.ʔ	2628 2629	sweat/nul _na		775	Dhakal2024	[x]
+2038	Yolmo	Sweat	ŋuldʑju	ŋ u.l + dʑ.j u	2628 2631	sweat/nul _dzu		775	Dhakal2024	[x]
+102	Gyalsumdo	Tail	ŋama	ŋ a + m a	2648 11	tail/ŋa _:ma-suffix/ma		779	Dhakal2024	[x]
+364	Jirel	Tail	ŋama	ŋ a + m a	2648 11	tail/ŋa _ma-suffix/ma		779	Dhakal2024	[x]
+620	Kagate	Tail	ŋama	ŋ a + m a	2648 11	tail/ŋa _:ma-suffix/ma		779	Dhakal2024	[x]
+877	Lowa	Tail	ŋama	ŋ a + m a	2648 11	tail/ŋa _:ma-suffix/ma		779	Dhakal2024	[x]
+1130	Nubri	Tail	ŋõ	ŋ !õ/o	2648	tail/ŋa		779	Dhakal2024	[x]
+1380	Sherpa	Tail	ŋəma	ŋ ə + m a	2648 11	tail/ŋa _:ma-suffix/ma		779	Dhakal2024	[x]
+1624	Tsum	Tail	ŋa	ŋ a	2648	tail/ŋa		779	Dhakal2024	[x]
+1886	Yolmo	Tail	ŋama	ŋ a + m a	2648 11	tail/ŋa _:ma-suffix/ma		779	Dhakal2024	[x]
+10	Gyalsumdo	Teeth	so	s o	2663	teeth		781	Dhakal2024	[x]
+276	Jirel	Teeth	sa	s a	2663	teeth		781	Dhakal2024	[x]
+535	Kagate	Teeth	so	s o	2663	teeth		781	Dhakal2024	[x]
+788	Lowa	Teeth	so	s o	2663	teeth		781	Dhakal2024	[x]
+1046	Nubri	Teeth	sa	s a	2663	teeth		781	Dhakal2024	[x]
+1294	Sherpa	Teeth	sa	s a	2663	teeth		781	Dhakal2024	[x]
+1539	Tsum	Teeth	sa	s a	2663	teeth		781	Dhakal2024	[x]
+1800	Yolmo	Teeth	so	s o	2663	teeth		781	Dhakal2024	[x]
+175	Gyalsumdo	Ten	tɕu	tɕ u.!Ø/k	2672	ten		782	Dhakal2024	[x]
+434	Jirel	Ten	tɕut̪amba	tɕ u + t̪ a.m + b a	2672 2673 8	ten _ten _:ba-suffix/ba		782	Dhakal2024	[x]
+691	Kagate	Ten	tɕju	tɕj/tɕ u	2672	ten		782	Dhakal2024	[x]
+948	Lowa	Ten	tɕu	tɕ u	2672	ten		782	Dhakal2024	[x]
+1198	Nubri	Ten	tɕju	tɕj/tɕ u	2672	ten		782	Dhakal2024	[x]
+1448	Sherpa	Ten	tɕju	tɕj/tɕ u	2672	ten		782	Dhakal2024	[x]
+1691	Tsum	Ten	tɕu	tɕ u	2672	ten		782	Dhakal2024	[x]
+1953	Yolmo	Ten	tɕju	tɕj/tɕ u	2672	ten		782	Dhakal2024	[x]
+187	Gyalsumdo	That	ot̪i	o + t̪ i	2358 2734	over-there/o _this		786	Dhakal2024	[x]
+446	Jirel	That	t̪ʰe	t̪ʰ e	2684	that		785	Dhakal2024	[x]
+703	Kagate	That	wokʰo	w o + kʰ o	2358 2362	over-there/o _this/kho		786	Dhakal2024	[x]
+961	Lowa	That	jy	j y	2687	that/jy		790	Dhakal2024	[x]
+962	Lowa	That	wy	!w/j y	2687	that/jy		790	Dhakal2024	[x]
+1211	Nubri	That	pʰu	pʰ u	2688	that/phu		118	Dhakal2024	[x]
+1460	Sherpa	That	t̪ʰi	t̪ʰ i	2684	that		785	Dhakal2024	[x]
+1703	Tsum	That	o	o	2358	over-there/o		786	Dhakal2024	[x]
+1966	Yolmo	That	pʰarŋe	pʰ a.r + ŋ e	2689 2690	that/phar that/ŋe		791	Dhakal2024	[x]
+188	Gyalsumdo	These	t̪ija	t̪ i + j a	2734 2697	_this :plural-suffix/ja		120	Dhakal2024	[x]
+447	Jirel	These	nd̪iba	ⁿd/d̪ i + b a	2734 1019	_this :ba-suffix		125	Dhakal2024	[x]
+704	Kagate	These	d̪ikʰokja	d̪ i + kʰ o + k.j a	2734 2362 2697	_this _this/kho :plural-suffix/kja		793	Dhakal2024	[x]
+963	Lowa	These	nd̪ekja	ⁿd/d !e/i + k.j a	2734 2697	_this :plural-suffix/kja		793	Dhakal2024	[x]
+1212	Nubri	These	t̪id̪o	t̪ i + d̪ o	2734 2700	_this :plural-suffix/do		121	Dhakal2024	[x]
+1461	Sherpa	These	d̪iba	d̪ i + b a	2734 1019	_this :ba-suffix		125	Dhakal2024	[x]
+1704	Tsum	These	nd̪id̪em	ⁿd/d̪ i + d̪ e.m	2734 2701	_this :plural-suffix/dem		124	Dhakal2024	[x]
+1967	Yolmo	These	nd̪ikja	ⁿd/d̪ i + k.j a	2734 2697	_this :plural-suffix/kja		793	Dhakal2024	[x]
+232	Gyalsumdo	They	kʰuŋja	kʰ u + !ŋ/k.j a	2714 2718	THEY _they		799	Dhakal2024	
+494	Jirel	They	t̪ʰeba	t̪ʰ e + b a	2716 8	THEY _:ba-suffix/ba		800	Dhakal2024	
+742	Kagate	They	kʰuŋkja	kʰ u.ŋ + k.j a	2714 2718	THEY _they		799	Dhakal2024	
+1003	Lowa	They	kʰoŋkja	kʰ o.ŋ + k.j a	2714 2718	THEY _they		799	Dhakal2024	
+1250	Nubri	They	kʰuŋd̪o	kʰ u.ŋ + d̪ o	2714 2716	THEY _they		799	Dhakal2024	
+1498	Sherpa	They	t̪ʰibad̪iba	t̪ʰ i + b a + d̪ i + b a	2716 2717 2719 2720	THEY _they _they _they		800	Dhakal2024	
+1749	Tsum	They	kʰuŋkja	kʰ u.ŋ + k.j a	2714 2718	THEY _:plural-suffix/kja		799	Dhakal2024	
+2006	Yolmo	They	kʰuŋpʰatsi	kʰ u.ŋ + pʰ a + ts i	2714 2717 2716	THEY _they _they		799	Dhakal2024	
+186	Gyalsumdo	This	t̪i	t̪ i	2734	this		806	Dhakal2024	[x]
+445	Jirel	This	nd̪i	ⁿd/d̪ i	2734	this		806	Dhakal2024	[x]
+702	Kagate	This	d̪ikʰo	d̪ i + kʰ o	2734 2362	this _this/kho		806	Dhakal2024	[x]
+960	Lowa	This	nd̪i	ⁿd/d i	2734	this		806	Dhakal2024	[x]
+1209	Nubri	This	t̪i	!t̪/d̪ i	2734	this		806	Dhakal2024	[x]
+1210	Nubri	This	d̪i	d̪ i	2734	this		806	Dhakal2024	[x]
+1459	Sherpa	This	d̪i	d̪ i	2734	this		806	Dhakal2024	[x]
+1702	Tsum	This	nd̪i	ⁿd/d̪ i	2734	this		806	Dhakal2024	[x]
+1965	Yolmo	This	nd̪i	ⁿd/d̪ i	2734	this		806	Dhakal2024	[x]
+72	Gyalsumdo	Thorn	tsʰeɾma	tsʰ e.ɾ + m a	2745 1442	thorn/tsher _:ma-suffix/ma		808	Dhakal2024	[x]
+333	Jirel	Thorn	tsaŋ	ts a.ŋ	66	thorn/tsaŋ		810	Dhakal2024	[x]
+591	Kagate	Thorn	tsʰermaŋ	tsʰ e.r + m !aŋ/a	2745 1442	thorn/tsher _:ma-suffix/ma		808	Dhakal2024	[x] judgment on maŋ shaky
+847	Lowa	Thorn	tsʰeɾma	tsʰ e.ɾ + m a	2745 1442	thorn/tsher _:ma-suffix/ma		808	Dhakal2024	[x]
+1101	Nubri	Thorn	tsʰerma	tsʰ e.ɹ + m a	2745 1442	thorn/tsher _:ma-suffix/ma		808	Dhakal2024	[x]
+1351	Sherpa	Thorn	tsʰermaŋ	tsʰ e.r + m a.!ŋ/Ø	2745 1442	thorn/tsher _:ma-suffix/ma		808	Dhakal2024	[x] judgment on maŋ shaky
+1595	Tsum	Thorn	tsʰenma	tsʰ e.!n/ɹ + m a	2745 1442	thorn/tsher _:ma-suffix/ma		808	Dhakal2024	[x]
+1857	Yolmo	Thorn	tsʰeɹma	tsʰ e.ɹ + m a	2745 1442	thorn/tsher _:ma-suffix/ma		808	Dhakal2024	[x]
+189	Gyalsumdo	Those	kʰuŋja	kʰ u.ŋ + j a	2761 2697	those :plural-suffix/ja		815	Dhakal2024	[x]
+448	Jirel	Those	t̪ʰeba	t̪ʰ e + b a	2684 1019	_that :ba-suffix		127	Dhakal2024	[x]
+705	Kagate	Those	wokʰokja	w o + kʰ o + k.j a	2358 2362 2767	_over-there/o _this/kho :plural-suffix/kja		813	Dhakal2024	[x]
+964	Lowa	Those	jøkja	j !ø/y + k.j a	2687 2697	that/jy :plural-suffix/kja		813	Dhakal2024	[x]
+965	Lowa	Those	wøkja	!w/j !ø/y + k.j a	2687 2697	that/jy :plural-suffix/kja		813	Dhakal2024	[x]
+1213	Nubri	Those	pʰud̪o	pʰ u + d̪ o	2688 2700	that/phu :plural-suffix/do		128	Dhakal2024	[x]
+1462	Sherpa	Those	t̪ʰiba	t̪ʰ i + b a	2684 1019	_that :ba-suffix		127	Dhakal2024	[x]
+1705	Tsum	Those	od̪em	o + d̪ e.m	2358 2701	_over-there/o :plural-suffix/dem		811	Dhakal2024	[x]
+1968	Yolmo	Those	t̪apʰarŋed̪i	t̪ a + pʰ a.r + ŋ e + d̪ i	2771 2689 2690 2734	those/ta that/phar that/ŋe this		129	Dhakal2024	[x]
+43	Gyalsumdo	Thread	kupa	k u + p a	2783 10	thread _:ba-suffix/pa		823	Dhakal2024	[x]
+305	Jirel	Thread	ɕut̪ak	ɕ u + t̪ a.k	2787 2786	thread /tak		825	Dhakal2024	[x]
+564	Kagate	Thread	kupa	k u + p a	2783 10	thread _:ba-suffix/pa		823	Dhakal2024	[x]
+818	Lowa	Thread	kupa	k u + p a	2783 10	thread _:ba-suffix/pa		823	Dhakal2024	[x]
+1074	Nubri	Thread	kupa	k u + p a	2783 10	thread _:ba-suffix/pa		823	Dhakal2024	[x]
+1323	Sherpa	Thread	rut̪ak	r u + t̪ a.k	2787 2786	thread/ru /tak		825	Dhakal2024	[x]
+1568	Tsum	Thread	kuɾt̪oʔ	k u.ɹ + t̪ o.ʔ	2783 54	thread _/to?		823	Dhakal2024	[x]
+1829	Yolmo	Thread	kupa	k u + p a	2783 10	thread _:ba-suffix/pa		823	Dhakal2024	[x]
+167	Gyalsumdo	Three	sum	s u.m	2800	three		829	Dhakal2024	[x]
+427	Jirel	Three	sum	s u.m	2800	three		829	Dhakal2024	[x]
+684	Kagate	Three	sum	s u.m	2800	three		829	Dhakal2024	[x]
+940	Lowa	Three	sum	s u.m	2800	three		829	Dhakal2024	[x]
+1190	Nubri	Three	sum	s u.m	2800	three		829	Dhakal2024	[x]
+1441	Sherpa	Three	sum	s u.m	2800	three		829	Dhakal2024	[x]
+1684	Tsum	Three	sum	s u.m	2800	three		829	Dhakal2024	[x]
+1946	Yolmo	Three	sum	s u.m	2800	three		829	Dhakal2024	[x]
+202	Gyalsumdo	To be hungry	t̪oɡɛ	t̪ o + g ɛ	2809 2810	hungry/to _:suffix/ge		830	Dhakal2024	[x]
+461	Jirel	To be hungry	t̪oaba	t̪ o + !Ø/w a + b a	2809 2815 8	hungry/to _:wa-suffix _:ba-suffix		830	Dhakal2024	[x]
+462	Jirel	To be hungry	t̪oabalabat̪e	t̪ o + !Ø/w a + b a + l a + b a + t̪ e	2809 2815 8 2816 8 9	hungry/to _:wa-suffix _:ba-suffix _hungry/la _:ba-suffix _:te-suffix/te		830	Dhakal2024	[x]
+716	Kagate	To be hungry	d̪opat̪odze	d̪ o + p a + t̪ o + dz e	2809 8 97 13	hungry/to _:ba-suffix _hungry/to2 _:vb-suffix/dze		830	Dhakal2024	[x]
+977	Lowa	To be hungry	nd̪okje	ⁿd/d o + k.j e	2809 2810	hungry/to _hungry/kje		830	Dhakal2024	[x]
+1223	Nubri	To be hungry	topat̪ɔ	!t/t̪ o + p a + t̪ ɔ	2809 8 97	hungry/to _:pa-suffix/pa _hungry/to2		830	Dhakal2024	[x]
+1472	Sherpa	To be hungry	hləwalaŋgu	h.l ə + w a + l a.ŋ + g u	141 2815 2816 2810	hungry/to _:wa-suffix _hungry/lang hungry/gu		833	Dhakal2024	[x]
+1716	Tsum	To be hungry	t̪oso	t̪ o + s o	2809 2813	hungry/to _:verbal-suffix/so		830	Dhakal2024	[x]
+1979	Yolmo	To be hungry	tepat̪od̪e	t̪ e + p a + t̪ o + d̪ e	2809 8 97 2812	hungry/to _:ba-suffix _hungry/to2 _to		830	Dhakal2024	[x]
+204	Gyalsumdo	To be thirsty	kʰakomkɛ	kʰ a + k o.m + k ɛ	1821 2839 2840	mouth thirsty _:ke-suffix/ke		155	Dhakal2024	[x]
+465	Jirel	To be thirsty	komba	k o.m + b a	2839 8	thirsty _:ba-suffix/ba		839	Dhakal2024	[x]
+718	Kagate	To be thirsty	kondze	k o.!n/m + dz e	2839 13	thirsty _:vb-suffix/dze		839	Dhakal2024	[x]
+979	Lowa	To be thirsty	komje	k o.m + j e	2839 2843	thirsty _:vb-suffix/je		839	Dhakal2024	[x]
+1225	Nubri	To be thirsty	kʰakom	kʰ a + k o.m	1821 2839	mouth thirsty		155	Dhakal2024	[x]
+1474	Sherpa	To be thirsty	kombalaŋɡu	k o.m + b a + l a.ŋ + g u	2839 2841 2844 2840	thirsty _:ba-suffix thirsty/lang thirsty/gu		839	Dhakal2024	[x]
+1718	Tsum	To be thirsty	kʰakomso	kʰ a + k o.m + s o	1821 2839 2813	mouth thirsty _:verbal-suffix/so		155	Dhakal2024	[x]
+1981	Yolmo	To be thirsty	komzewoŋd̪e	k o.m + z e + w o.ŋ + d̪ e	2839 2842 2845 2846	thirsty _:suffix thirsty/wong thirsty/de		839	Dhakal2024	[x]
+200	Gyalsumdo	To bite	ale	a + l e	2861 2905	_:a-suffix chew/le		851	Dhakal2024	[x]
+201	Gyalsumdo	To bite	soɡjapb	s o + g.j a.!pb/p	2866 2864	bite/so bite/gjap		849	Dhakal2024	[x]
+459	Jirel	To bite	muɹtɕja	m u.ɹ + tɕ.j a	2863 2864	bite/mur bite/gjap		848	Dhakal2024	[x]
+460	Jirel	To bite	muɹab	m u.!Ø/ɹ + ɹ a.b	2863 2872	bite/mur bite/rab		848	Dhakal2024	[x]
+715	Kagate	To bite	murtse	m u.r + !ts/dz e	2863 13	bite/mur _:vb-suffix/dze		848	Dhakal2024	[x]
+975	Lowa	To bite	soɡjapje	s o + g.j a.p + j e	2866 2864 2910	bite/so bite/gjap _:je-suffix		849	Dhakal2024	[x]
+976	Lowa	To bite	mukje	m u.g/k + j e	2863 2910	bite/mur _:je-suffix		848	Dhakal2024	[x]
+1222	Nubri	To bite	soɡjap	s o + g.j a.p	2866 2864	bite/so bite/gjap		849	Dhakal2024	[x]
+1471	Sherpa	To bite	sət̪əbu	s ə + t̪ ə + b u	2866 2868 2869	bite/so _to _:bu-suffix		850	Dhakal2024	[x]
+1715	Tsum	To bite	sat̪ob	s a + t̪ o.b	94 2870	eat/sa _to		850	Dhakal2024	[x]
+1978	Yolmo	To bite	muɹd̪uŋ	m u.ɹ + d̪ u.ŋ	2863 2871	bite/mur bite/dung		848	Dhakal2024	[x]
+209	Gyalsumdo	To burn	takɛ	t̪ a + k ɛ	2886 2840	burn/ta _:ke-suffix/ke		860	Dhakal2024	
+472	Jirel	To burn	tsʰikpat̪e	tsʰ i.k + !p/b a + t̪ e	2888 10 9	burn _:vrb-suffix/ba _:te-suffix/te		860	Dhakal2024	
+473	Jirel	To burn	tsʰikt̪uk	tsʰ i.k + t̪ u.k	2888 2892	burn ?		861	Dhakal2024	
+723	Kagate	To burn	sadze	s a + dz e	2890 13	burn/sa _:vb-suffix/dze		860	Dhakal2024	← Chinese shao
+984	Lowa	To burn	tɕʰikje	!tɕʰ/tsʰ i.k + j e	2888 2910	burn _:je-suffix		861	Dhakal2024	
+1230	Nubri	To burn	hɹø	h.ɹ ø	2891	burn/hrø		863	Dhakal2024	
+1479	Sherpa	To burn	hreko	h.r e + k !o/u	2891 2887	burn/hrø ?		862	Dhakal2024	
+1726	Tsum	To burn	tsʰiʔso	tsʰ i.ʔ + s o	2888 2813	burn _:verbal-suffix/so		860	Dhakal2024	
+1986	Yolmo	To burn	tsʰid̪e	tsʰ i + d̪ e	2888 104	burn _:vb-suffix		860	Dhakal2024	
+264	Gyalsumdo	To chew	leke	l e + k e	2905 2906	chew/le _to		867	Dhakal2024	[x]
+524	Jirel	To chew	muɹat̪e	m u.!Ø/ɹ + ɹ a + t̪ e	2863 2908 9	bite/mur bite/rab _:te-suffix/te		869	Dhakal2024	[x]
+776	Kagate	To chew	d̪etse	d̪ e + !ts/dz e	2909 13	chew/de _:vb-suffix/dze		868	Dhakal2024	[x]
+1035	Lowa	To chew	leje	l e + j e	2905 2910	chew/le _:je-suffix		867	Dhakal2024	[x]
+1283	Nubri	To chew	muɹ	m u.ɹ	2863	bite/mur		869	Dhakal2024	[x]
+1528	Sherpa	To chew	leku	l e + k u	2905 2906	chew/le chew/ku		867	Dhakal2024	[x]
+1787	Tsum	To chew	tɹoʔ	t̪.ɹ o.ʔ	2911	chew/tro		873	Dhakal2024	[x]
+2039	Yolmo	To chew	muɾt̪oŋ	m u.!ɾ/ɹ + !t̪/d̪ !o/u.ŋ	2863 2871	bite/mur bite/dung		869	Dhakal2024	[x]
+216	Gyalsumdo	To come	ɕjo	ɕ.j o	2921	come/sjo		876	Dhakal2024	
+217	Gyalsumdo	To come	oŋ	o.ŋ	2922	come/oŋ		875	Dhakal2024	
+483	Jirel	To come	ɕjok	ɕ.j o.k	2921	come/sjo		876	Dhakal2024	
+730	Kagate	To come	oŋdze	o.ŋ + dz e	2922 13	come/oŋ _:vb-suffix/dze		875	Dhakal2024	
+991	Lowa	To come	uŋje	u.ŋ + j e	2924 2925	come/oŋ _to		878	Dhakal2024	
+1237	Nubri	To come	oŋ	o.ŋ	2922	come/oŋ		875	Dhakal2024	
+1486	Sherpa	To come	uŋgu	u.ŋ + g u	2922 2926	come/oŋ _to		875	Dhakal2024	
+1734	Tsum	To come	ɕjoʔ	ɕ.j o.ʔ	2921	come/sjo		876	Dhakal2024	
+1735	Tsum	To come	leuʑuŋ	l eu + ʑ u.ŋ	2927 2922	come/leu come/zuŋ		875	Dhakal2024	
+1993	Yolmo	To come	ɕjo	ɕ.j o	2921	come/sjo		876	Dhakal2024	
+210	Gyalsumdo	To die	ɕi	ɕ i	2936	die		882	Dhakal2024	← Chinese sǐ
+474	Jirel	To die	ɕjapt̪e	ɕ.j a.p + t̪ e	2937 9	die _:te-suffix/te		883	Dhakal2024	? ← Chinese sǐ
+724	Kagate	To die	ɕidze	ɕ i + dz e	2936 13	die _:vb-suffix/dze		882	Dhakal2024	← Chinese sǐ
+985	Lowa	To die	ɕije	ɕ i + j e	2936 2910	die _:je-suffix		882	Dhakal2024	← Chinese sǐ
+1231	Nubri	To die	ɕi	ɕ i	2936	die		882	Dhakal2024	← Chinese sǐ
+1480	Sherpa	To die	ɕiu	ɕ i + u	2936 103	die _:vb-suffix		882	Dhakal2024	← Chinese sǐ
+1727	Tsum	To die	ɕiso	ɕ i + s o	2936 2813	die _:verbal-suffix/so		882	Dhakal2024	← Chinese sǐ
+1987	Yolmo	To die	ɕid̪e	ɕ i + d̪ e	2936 104	die _:vb-suffix		882	Dhakal2024	← Chinese sǐ
+203	Gyalsumdo	To drink	t̪ʰuŋ	t̪ʰ u.ŋ	2950	drink		886	Dhakal2024	[x]
+463	Jirel	To drink	t̪ʰuŋ	t̪ʰ u.ŋ	2950	drink		886	Dhakal2024	[x]
+464	Jirel	To drink	t̪ʰubat̪e	t̪ʰ u.!Ø/ŋ + b a + t̪ e	2950 122 9	drink _:vrb-suffix/ba _:te-suffix/te		886	Dhakal2024	[x]
+717	Kagate	To drink	t̪ʰuŋdze	t̪ʰ u.ŋ + dz e	2950 13	drink _:vb-suffix/dze		886	Dhakal2024	[x]
+978	Lowa	To drink	t̪ʰuŋje	t̪ʰ u.ŋ + j e	2950 2952	drink _:vb-suffix/je		886	Dhakal2024	[x]
+1224	Nubri	To drink	t̪ʰuŋ	t̪ʰ u.ŋ	2950	drink		886	Dhakal2024	[x]
+1473	Sherpa	To drink	t̪ʰuŋɡu	t̪ʰ u.ŋ + g u	2950 2953	drink _:suffix/gu		886	Dhakal2024	[x]
+1717	Tsum	To drink	t̪ʰuŋ	t̪ʰ u.ŋ	2950	drink		886	Dhakal2024	[x]
+1980	Yolmo	To drink	t̪ʰuŋd̪uŋ	t̪ʰ u.ŋ + !d̪/t̪ʰ u.ŋ	2950 2954	drink _:red:drink		886	Dhakal2024	[x]
+199	Gyalsumdo	To eat	se	s e	20	eat/se		892	Dhakal2024	[x]
+456	Jirel	To eat	so	s o	2966	bite/so		892	Dhakal2024	[x]
+457	Jirel	To eat	soba	s o + b a	2966 8	bite/so _:ba-suffix/ba		892	Dhakal2024	[x]
+458	Jirel	To eat	sabla	s a.b + l a	94 2969	eat _:suffix/la		892	Dhakal2024	[x]
+714	Kagate	To eat	sadze	s a + dz e	94 13	eat/sa _:vb-suffix/dze		892	Dhakal2024	[x]
+974	Lowa	To eat	saje	s a + j e	94 2910	eat/sa _:suffix/je		892	Dhakal2024	[x]
+1221	Nubri	To eat	seji	s e + j i	20 2910	eat/se _:suffix/je		892	Dhakal2024	[x]
+1470	Sherpa	To eat	sap	s a.p	94	eat		892	Dhakal2024	[x]
+1713	Tsum	To eat	so	s o	2966	bite/so		892	Dhakal2024	[x]
+1714	Tsum	To eat	seso	s e + s o	20 2813	eat/se _:verbal-suffix/so		892	Dhakal2024	[x]
+1977	Yolmo	To eat	so	s o	2966	bite/so		892	Dhakal2024	[x]
+212	Gyalsumdo	To fly	pʰiɹ	pʰ i.ɹ	2984	fly		897	Dhakal2024	
+476	Jirel	To fly	pʰuɹ	pʰ u.ɹ	2984	fly		897	Dhakal2024	
+477	Jirel	To fly	pʰuɹat̪e	pʰ u.!Ø/ɹ + ɹ a + t̪ e	2984 2989 9	fly _:vrb-suffix/ra _:te-suffix/te		897	Dhakal2024	
+726	Kagate	To fly	urtse	!Ø/pʰ u.r + !ts/dz e	2984 13	fly _:vb-suffix		897	Dhakal2024	
+987	Lowa	To fly	pʰuɾje	pʰ u.ɾ + j e	2984 2910	fly _to		897	Dhakal2024	
+1233	Nubri	To fly	pʰuɹ	pʰ u.ɹ	2984	fly		897	Dhakal2024	
+1482	Sherpa	To fly	pʰirku	pʰ i.r + k u	2984 2887	fly _to		897	Dhakal2024	
+1729	Tsum	To fly	pʰiɹso	pʰ i.ɹ + s o	2984 2813	fly _:verbal-suffix/so		897	Dhakal2024	
+1989	Yolmo	To fly	loŋ	l o.ŋ	2988	fly/loŋ		901	Dhakal2024	
+208	Gyalsumdo	To give	t̪eɹ	t̪ e.ɹ	3000	give/ter		903	Dhakal2024	
+471	Jirel	To give	mbind̪at̪e	ⁿb/b i.n + d̪ a + t̪ e	3001 3002 9	give/mbin _:vrb-suffix/da _:te-suffix/te		903	Dhakal2024	
+722	Kagate	To give	t̪ertse	t̪ e.r + !ts/dz e	3000 13	give/ter _:verbal-suffix/tse		903	Dhakal2024	
+983	Lowa	To give	t̪eɾje	t̪ e.ɾ + j e	3000 2910	give/ter _:je-suffix		903	Dhakal2024	
+1229	Nubri	To give	t̪e	t̪ e	3000	give/ter		903	Dhakal2024	
+1478	Sherpa	To give	t̪eru	t̪ e.Ø/r + r u	3000 3005	give/ter _to		903	Dhakal2024	
+1724	Tsum	To give	t̪øʔ	t̪ ø.ʔ	3000	give/ter		903	Dhakal2024	
+1725	Tsum	To give	t̪eʔso	t̪ e.ʔ + s o	3000 2813	give/ter _:verbal-suffix/so		903	Dhakal2024	
+1985	Yolmo	To give	t̪eɾt̪uŋ	t̪ e.ɾ/ɹ + t̪ u.ŋ	3000 3006	give/ter _to		903	Dhakal2024	
+215	Gyalsumdo	To go	to	!t/t̪ o	3017	go/to		910	Dhakal2024	
+481	Jirel	To go	ɡalat̪e	g a + l a + t̪ e	3018 3019 9	go/ga _:vrb-suffix/la _:te-suffix/te		910	Dhakal2024	
+482	Jirel	To go	ŋɡjuk	ⁿg/g.j u.k	3022	go		915	Dhakal2024	
+729	Kagate	To go	dodze	d̪ o + dz e	3017 13	go/to _:vb-suffix/dze		910	Dhakal2024	
+990	Lowa	To go	ndoje	ⁿd/d o + j e	3017 2910	go/to _:je-suffix		910	Dhakal2024	
+1236	Nubri	To go	to	!t/t̪ o	3017	go/to		910	Dhakal2024	
+1485	Sherpa	To go	dop	!d/d̪ o.p	3017	go/to		910	Dhakal2024	
+1732	Tsum	To go	ndo	ⁿd/d̪ o	3017	go/to		910	Dhakal2024	
+1733	Tsum	To go	pyso	p y + s o	3023 2813	go/py _:verbal-suffix/so		911	Dhakal2024	
+1992	Yolmo	To go	soŋ	s o.ŋ	3020	go/soŋ		911	Dhakal2024	
+219	Gyalsumdo	To hear/listen	ɲin	ɲ i.n	3033	hear/njin		917	Dhakal2024	
+485	Jirel	To hear/listen	t̪ʰobat̪e	t̪ʰ o + b a + t̪ e	3034 8 9	hear/to _:vrb-suffix/ba _:te-suffix/te		918	Dhakal2024	
+732	Kagate	To hear/listen	kodze	k o + dz e	3037 13	hear/ko _:vb-suffix/dze		918	Dhakal2024	
+993	Lowa	To hear/listen	ɲenje	ɲ e + n.j e	3033 3038	hear/njin _to		917	Dhakal2024	
+1240	Nubri	To hear/listen	ɲin̪	ɲ i.n	3033	hear/njin		917	Dhakal2024	
+1488	Sherpa	To hear/listen	ŋeŋɡu	ŋ e.ŋ + g u	3033 3039	hear/njin _to		917	Dhakal2024	
+1737	Tsum	To hear/listen	ɲan	ɲ a.n	3033	hear/njin		917	Dhakal2024	
+1738	Tsum	To hear/listen	ɲanso	ɲ a.n + s o	3033 2813	hear/njin _:verbal-suffix/so		917	Dhakal2024	
+1995	Yolmo	To hear/listen	ɲind̪oŋ	ɲ i.n + d̪ o.ŋ	3033 3034	hear/njin _to		917	Dhakal2024	
+211	Gyalsumdo	To kill	se	s e	3050	kill		924	Dhakal2024	← Chinese shā
+475	Jirel	To kill	set̪at̪e	s e + t̪ a + t̪ e	3050 3051 9	kill _:vrb-suffix/ta _:te-suffix/te		924	Dhakal2024	← Chinese shā
+725	Kagate	To kill	setse	s e + !ts/dz e	3050 13	kill _:vb-suffix		924	Dhakal2024	← Chinese shā
+986	Lowa	To kill	seje	s e + j e	3050 2910	kill _:je-suffix		924	Dhakal2024	← Chinese shā
+1232	Nubri	To kill	se	s e	3050	kill		924	Dhakal2024	← Chinese shā
+1481	Sherpa	To kill	seku	s e + k u	3050 2887	kill _to		924	Dhakal2024	← Chinese shā
+1728	Tsum	To kill	seso	s e + s o	3050 2813	kill _:verbal-suffix/so		924	Dhakal2024	← Chinese shā
+1988	Yolmo	To kill	set̪oŋ	s e + t̪ o.ŋ	3050 3055	kill _to		924	Dhakal2024	← Chinese shā
+206	Gyalsumdo	To lie	tʰelaɲal	t̪ʰ e + l a + ɲ a.l	3066 3067 3192	lie/the lie/la sleep		930	Dhakal2024	[x]
+468	Jirel	To lie	ɹilat̪e	ɹ i + l a + t̪ e	3069 3067 9	lie/ri _:vrb-suffix/la _:te-suffix/te		160	Dhakal2024	[x]
+469	Jirel	To lie	pəltekʰabat̪e	p ə.l + t̪ e + kʰ a + b a + t̪ e	3077 3066 3076 8 9	lie/pel lie/te lie/kha _:ba-suffix/ba _:te-suffix/te		158	Dhakal2024	[x]
+720	Kagate	To lie	t̪ʰaŋsodze	t̪ʰ a.ŋ + s o + dz e	3070 3071 13	*lie/thang _:so-suffix _:vb-suffix/dze		157	Dhakal2024	← Chinese tang
+981	Lowa	To lie	tʰelaɲaje	t̪ʰ e + l a + ɲ a + j e	3066 3067 3192 2910	lie/the lie/la sleep _:je-suffix		930	Dhakal2024	[x]
+1227	Nubri	To lie	ɲe	ɲ e	3068	lie/nje		932	Dhakal2024	[x]
+1476	Sherpa	To lie	ɡjuru	g.j u + r u	3073 98	lie/gju lie/ru		933	Dhakal2024	[x]
+1721	Tsum	To lie	ləloɡjab	l ə + l o.g/k + j a.b	3074 3067 3075	lie/le lie/log lie/jab		931	Dhakal2024	[x]
+1983	Yolmo	To lie	kaŋtsʰiɹiɲald̪uŋ	k a ŋ + tsʰ i + ɹ i + ɲ a.l + d̪ u.ŋ	99 100 101 3192 3197	lie/kang lie/tshi lie/ri sleep sleep/dung		930	Dhakal2024	[x]
+220	Gyalsumdo	To look	t̪e	t̪ e	3096	look/ta		944	Dhakal2024	
+486	Jirel	To look	t̪abat̪e	t̪ a + b a + t̪ e	3096 8 9	lookt/ta _:vrb-suffix/ba _:te-suffix/te		944	Dhakal2024	
+733	Kagate	To look	t̪adze	t̪ a + dz e	3096 13	look/ta _:vb-suffix/dze		944	Dhakal2024	
+994	Lowa	To look	nd̪aje	!ⁿd/t̪ a + j e	3096 2910	look/ta _:je-suffix		944	Dhakal2024	
+1241	Nubri	To look	t̪eji	t̪ e + j i	3096 3100	look/ta _to		944	Dhakal2024	
+1489	Sherpa	To look	hlap	h.l a.p	3101	look/hlap		949	Dhakal2024	
+1739	Tsum	To look	t̪ø	t̪ ø	3096	look/ta		944	Dhakal2024	
+1740	Tsum	To look	t̪eso	t̪ e + s o	3096 2813	look/ta _:verbal-suffix/so		944	Dhakal2024	
+1996	Yolmo	To look	t̪ed̪oŋ	t̪ e + d̪ o.ŋ	3096 3102	look/te _to		944	Dhakal2024	
+249	Gyalsumdo	To measure	t̪apkɛ	t̪ a.p + k ɛ	3113 2840	measure _:ke-suffix/ke		952	Dhakal2024	[x]
+510	Jirel	To measure	t̪ʰapat̪e	!t̪ʰ/t̪ a !Ø/p + p a + t̪ e	3113 10 9	measure _:ba-suffix/pa _:te-suffix/te		952	Dhakal2024	[x]
+760	Kagate	To measure	t̪aptse	t̪ a.p + !ts/dz e	3113 13	measure _:vb-suffix		952	Dhakal2024	[x]
+1019	Lowa	To measure	tsʰeɡjabje	tsʰ e + g.j a.b + j e	3114 3116 3117	measure/tshe measure/gjab _:je-suffix		953	Dhakal2024	[x]
+1266	Nubri	To measure	t̪ab	t̪ a.b	3113	measure		952	Dhakal2024	[x]
+1514	Sherpa	To measure	t̪ʰabɡu	!t̪ʰ/t̪ a.b + !g/k u	3113 3114	measure _:vb-suffix		952	Dhakal2024	[x]
+1768	Tsum	To measure	t̪op	t̪ o.p	3113	measure		952	Dhakal2024	[x]
+1769	Tsum	To measure	t̪ʰit̪aŋso	t̪ʰ i + t̪ a.ŋ + s o	3119 3118 2813	measure/thi measure/tang _:verbal-suffix/so		953	Dhakal2024	[x]
+2024	Yolmo	To measure	t̪apt̪oŋ	t̪ a.p + t̪ o.ŋ	3113 3118	measure _:vb-suffix		952	Dhakal2024	[x]
+244	Gyalsumdo	To plough	møkɛ	m ø + k ɛ	3133 2840	to-plough _:ke-suffix/ke		959	Dhakal2024	[x]
+505	Jirel	To plough	mowat̪e	m o + w a + t̪ e	3133 3135 9	to-plough _:wa-suffix _:te-suffix/te		959	Dhakal2024	[x]
+755	Kagate	To plough	modze	m o + dz e	3133 13	to-plough _:vb-suffix/dze		959	Dhakal2024	[x]
+1014	Lowa	To plough	moje	m o + j e	3133 2910	to-plough _:je-suffix		959	Dhakal2024	[x]
+1261	Nubri	To plough	mo	m o	3133	to-plough		959	Dhakal2024	[x]
+1509	Sherpa	To plough	moku	m o + k u	3133 145	to-plough _:vb-suffix		959	Dhakal2024	[x]
+1763	Tsum	To plough	t̪ʰoŋtsuso	t̪ʰ o.ŋ + ts u + s o	2149 3134 2813	to-plough plough/tsu _:verbal-suffix/so		960	Dhakal2024	[x]
+2018	Yolmo	To plough	med̪oŋ	m e + d̪ o.ŋ	3133 3136	to-plough _:vb-suffix		959	Dhakal2024	[x]
+214	Gyalsumdo	To run	t̪aɹkjulaŋ	t̪ a.ɹ + k.j u + l a.ŋ	3156 3157 3158	run ? ?		966	Dhakal2024	
+480	Jirel	To run	tɕʰwabat̪e	tɕʰ.w a + b a + t̪ e	3159 8 9	run _:vrb-suffix/ba _:te-suffix/te		966	Dhakal2024	
+728	Kagate	To run	tɕʰjoŋdze	tɕʰj/tɕʰ o.ŋ + dz e	3161 13	_to _:vb-suffix/dze		966	Dhakal2024	
+989	Lowa	To run	paŋt̪aŋje	p a.ŋ + t̪ a + ŋ.j e	3160 3156 3162	_to TO _to		966	Dhakal2024	
+1235	Nubri	To run	lat̪aŋ	l a + t̪ a.ŋ	3158 3156	_to run		966	Dhakal2024	
+1484	Sherpa	To run	tɕʰjoŋɡu	tɕʰj/tɕʰ o.ŋ + g u	3161 3157	run _to		967	Dhakal2024	
+1731	Tsum	To run	tɕʰoŋdo	tɕʰ o.ŋ + d̪ o	3161 157	run TO		966	Dhakal2024	
+1991	Yolmo	To run	tɕʰjuŋd̪uŋ	tɕʰj/tɕʰ u.ŋ + d̪ u.ŋ	3161 3156	run TO		966	Dhakal2024	
+207	Gyalsumdo	To sit	t̪e	t̪ e	3176	sit/te		973	Dhakal2024	
+470	Jirel	To sit	d̪et̪at̪e	d̪ e + t̪ a + t̪ e	3176 3177 9	sit/te _:vrb-suffix/ta _:te-suffix/te		973	Dhakal2024	
+721	Kagate	To sit	t̪etse	t̪ e + !ts/dz e	3176 13	sit/te _:verbal-suffix/tse		973	Dhakal2024	
+982	Lowa	To sit	t̪eje	t̪ e + j e	3176 2910	sit/te _:je-suffix		973	Dhakal2024	
+1228	Nubri	To sit	t̪e	t̪ e	3176	sit/te		973	Dhakal2024	
+1477	Sherpa	To sit	d̪et̪u	d̪ e + t̪ u	3176 3180	sit/te _to		973	Dhakal2024	
+1722	Tsum	To sit	t̪øʔ	t̪ ø.ʔ	3176	sit/te		973	Dhakal2024	
+1723	Tsum	To sit	t̪øso	t̪ ø + s o	3176 2813	sit/te _:verbal-suffix/so		973	Dhakal2024	
+1984	Yolmo	To sit	t̪e	t̪ e	3176	sit/te		973	Dhakal2024	
+205	Gyalsumdo	To sleep	ɲal	ɲ a.l	3192	sleep		978	Dhakal2024	[x]
+466	Jirel	To sleep	ɲol	ɲ !o/a.l	3192	sleep		978	Dhakal2024	[x]
+467	Jirel	To sleep	ɲalat̪e	ɲ a.!Ø/l + l a + t̪ e	3192 9	sleep _:vrb-suffix/la _:te-suffix/te		978	Dhakal2024	[x]
+719	Kagate	To sleep	ɲaldze	ɲ a.l + dz e	3192 13	sleep _:vb-suffix/dze		978	Dhakal2024	[x]
+980	Lowa	To sleep	ɲaje	ɲ a + j e	3192 2910	sleep _:je-suffix		978	Dhakal2024	[x]
+1226	Nubri	To sleep	ɲal	ɲ a.l	3192	sleep		978	Dhakal2024	[x]
+1475	Sherpa	To sleep	ŋiloku	ŋ i + l o + k u	96 3195 3196	sleep/ŋi sleep/lo _sleep/ku		156	Dhakal2024	[x]
+1719	Tsum	To sleep	ɲol	ɲ !o/a.l	3192	sleep		978	Dhakal2024	[x]
+1720	Tsum	To sleep	ɲalso	ɲ a.l + s o	3192 2813	sleep _:verbal-suffix/so		978	Dhakal2024	[x]
+1982	Yolmo	To sleep	ɲald̪uŋ	ɲ a.l + d̪ u.ŋ	3192 3197	sleep sleep/dung		978	Dhakal2024	[x]
+218	Gyalsumdo	To speak	labt̪aŋɡɛ	l a.b + t̪ a.ŋ + g ɛ	3211 3212 3213	speak/lab _to _to		985	Dhakal2024	
+484	Jirel	To speak	mbat̪kʰabat̪e	ⁿb/b a.t̪ + kʰ a + b a + t̪ e	3214 3215 8 9	speak/bat speak/kha _:vrb-suffix/ba _:te-suffix/te		986	Dhakal2024	
+731	Kagate	To speak	latse	l a + !ts/dz e	3211 13	speak/lab _to		985	Dhakal2024	
+992	Lowa	To speak	naje	n a + j e	3217 2910	speak/na _:je-suffix		991	Dhakal2024	
+1238	Nubri	To speak	ɕe	ɕ e	3213	speak/se		986	Dhakal2024	
+1239	Nubri	To speak	lab	l a.b	3211	speak/lab		985	Dhakal2024	
+1487	Sherpa	To speak	ləbu	l ə + b u	3211 3219	TO _to		985	Dhakal2024	
+1736	Tsum	To speak	lauso	l au + s o	3211 2813	TO _:verbal-suffix/so		985	Dhakal2024	
+1994	Yolmo	To speak	med̪oŋ	m e + d̪ o.ŋ	3220 3212	speak/me TO		987	Dhakal2024	
+265	Gyalsumdo	To swallow	mikɛ	m i + k ɛ	3231 2840	swallow _:ke-suffix/ke		995	Dhakal2024	[x]
+525	Jirel	To swallow	mikt̪aŋat̪e	m i.k + t̪ a + ŋ a + t̪ e	3231 3233 138 9	swallow ? ? _:te-suffix/te		995	Dhakal2024	[x]
+777	Kagate	To swallow	ɲiktse	ɲ i.k + !ts/dz e	3234 13	swallow _vb-suffix		997	Dhakal2024	[x]
+1036	Lowa	To swallow	miɡje	m i.!g/k + j e	3231 2910	swallow _je-suffix		995	Dhakal2024	[x]
+1284	Nubri	To swallow	mikʰ	m i.!kʰ/k	3231	swallow		995	Dhakal2024	[x]
+1529	Sherpa	To swallow	mit̪at̪oŋɡu	m i + t̪ a + t̪ o.ŋ + !g/k u	3231 3233 137 145	swallow ? ? _ku-suffix		995	Dhakal2024	[x]
+1788	Tsum	To swallow	ɲiʔ	ɲ i.!Ø/ʔ	3234	swallow		997	Dhakal2024	[x]
+1789	Tsum	To swallow	ɲitsoŋ	ɲ i + ts o.ŋ	3234 139	swallow _vb-suffix		997	Dhakal2024	[x]
+2040	Yolmo	To swallow	ɲit̪uŋ	ɲ i + t̪ u.ŋ	3234 3118	swallow _vb-suffix		997	Dhakal2024	[x]
+266	Gyalsumdo	To throw	jukɛ	j u + k ɛ	140 2840	throw _:ke-suffix/ke		178	Dhakal2024	[x]
+267	Gyalsumdo	To throw	juɹkɛ	j u.ɹ + k ɛ	140 2840	throw _:ke-suffix/ke		178	Dhakal2024	[x]
+526	Jirel	To throw	kjuɹat̪e	k.j u.ɹ + a + t̪ e	3252 3254 9	throw _ra _:te-suffix/te		1000	Dhakal2024	[x]
+778	Kagate	To throw	kurtse	k.!Ø/j u.r + !ts/dz e	3252 13	throw _vb-suffix		1000	Dhakal2024	[x]
+1037	Lowa	To throw	juɡje	j u.!g/k + j e	140 2910	throw _je-suffix		178	Dhakal2024	[x]
+1285	Nubri	To throw	juk	j u.k	140	throw		178	Dhakal2024	[x]
+1530	Sherpa	To throw	juku	j u + k u	140 145	throw _vb-suffix		178	Dhakal2024	[x]
+1790	Tsum	To throw	kjut	k.j u.t̪	3252	throw		1000	Dhakal2024	[x]
+1791	Tsum	To throw	kjuɾtsoŋ	k.j u.ɹ + ts o.ŋ	3252 139	throw _vb-suffix		1000	Dhakal2024	[x]
+2041	Yolmo	To throw	kjuɹd̪uŋ	k.j u.ɹ + d̪ u.ŋ	3252 3118	throw _vb-suffix		1000	Dhakal2024	[x]
+239	Gyalsumdo	To uproot	pi	p i	3272	uproot		1004	Dhakal2024	
+500	Jirel	To uproot	pʰalat̪e	pʰ a.!Ø/l + l a + t̪ e	3272 3273 9	uproot/phal _la _:te-suffix/te		1004	Dhakal2024	← Nepal phal (?)
+749	Kagate	To uproot	podze	p o + dz e	3272 13	uproot _:vb-suffix/dze		1004	Dhakal2024	
+1008	Lowa	To uproot	pije	p i + j e	3272 2910	uproot _:je-suffix		1004	Dhakal2024	
+1255	Nubri	To uproot	kɔ	k ɔ	3276	uproot/ko		1006	Dhakal2024	
+1504	Sherpa	To uproot	pʰəlɡu	pʰ ə.l + !g/k u	3277 3276	uproot/phal _:vb-suffix		1006	Dhakal2024	← Nepal phal (?)
+1756	Tsum	To uproot	waʔ	w a.ʔ	3278	uproot/wa		1007	Dhakal2024	
+1757	Tsum	To uproot	waso	w a + s o	3278 2813	uproot/wa _:verbal-suffix/so		1005	Dhakal2024	
+2012	Yolmo	To uproot	pod̪oŋ	p o + d̪ o.ŋ	3272 3279	uproot _to		1004	Dhakal2024	
+213	Gyalsumdo	To walk	kju	k.j u	3289	TO		1013	Dhakal2024	?
+478	Jirel	To walk	kʰjom	kʰ.j o.m	3289	TO		1013	Dhakal2024	?
+479	Jirel	To walk	kʰjambat̪e	kʰ.j a.m + b a + t̪ e	3289 8 9	_to _:vrb-suffix/ba _:te-suffix/te		1012	Dhakal2024	?
+727	Kagate	To walk	dodze	d̪ o + dz e	3290 13	TO _:vb-suffix/dze		1012	Dhakal2024	?
+988	Lowa	To walk	ndoje	ⁿd/d o + j e	3290 2910	TO _:je-suffix		1012	Dhakal2024	?
+1234	Nubri	To walk	kombaɡjap	k o.m + b a.g/k + j a.p	3293 3294 3289	_to _to TO		1013	Dhakal2024	?
+1483	Sherpa	To walk	dop	!d/d̪ o.p	3290	TO		1012	Dhakal2024	?
+1730	Tsum	To walk	ndo	ⁿd/d̪ o	3290	TO		1012	Dhakal2024	?
+1990	Yolmo	To walk	ndo	ⁿd/d̪ o	3290	TO		1012	Dhakal2024	?
+136	Gyalsumdo	Today	t̪iɹiŋ	t̪ i + ɹ i.ŋ	79 1607	today long		1018	Dhakal2024	[x]
+395	Jirel	Today	tʰəɹiŋ	!tʰ/t̪ ə + ɹ i.ŋ	79 1607	today long		1018	Dhakal2024	[x]
+653	Kagate	Today	t̪iriŋ	t̪ i + r i.ŋ	79 1607	today long		1018	Dhakal2024	[x]
+908	Lowa	Today	t̪iɾiŋ	t̪ i + ɾ i.ŋ	79 1607	today long		1018	Dhakal2024	[x]
+1160	Nubri	Today	t̪iɹiŋ	t̪ i + ɹ i.ŋ	79 1607	today long		1018	Dhakal2024	[x]
+1411	Sherpa	Today	ariŋ	a + r i.ŋ	489 1607	:a-prefix long		103	Dhakal2024	[x]
+1654	Tsum	Today	t̪iɾiŋ	t̪ i + ɹ i.ŋ	79 1607	today long		1018	Dhakal2024	[x]
+1916	Yolmo	Today	t̪iɹiŋ	t̪ i + ɹ i.ŋ	79 1607	today long		1018	Dhakal2024	[x]
+89	Gyalsumdo	Tomato	kolbenda	k o.l + b e.n + d̪ a	3322 3323 3324	*tomato/gol *tomato/be *tomato/da		1021	Dhakal2024	[← ?]
+349	Jirel	Tomato	ŋɡolbeda	ⁿg/g o.l + b e + d̪ a	3322 3323 3324	*tomato/gol *tomato/be *tomato/da		1021	Dhakal2024	[← ?]
+607	Kagate	Tomato	ɡolbeda	g o.l + b e + d̪ a	3322 3323 3324	*tomato/gol *tomato/be *tomato/da		1021	Dhakal2024	[← ?]
+863	Lowa	Tomato	tomato	t̪ o + m a + t̪ o	3324 3325 3326	*tomato-1 *tomato-2 *tomato-3		1022	Dhakal2024	[← English tomato]
+1117	Nubri	Tomato	tumaʈa	t̪ u + m a + ʈ a	3324 3325 3326	*tomato-1 *tomato-2 *tomato-3		1022	Dhakal2024	[← English tomato]
+1367	Sherpa	Tomato	ɡolbeda	g o.l + b e + d̪ a	3322 3323 3324	*tomato/gol *tomato/be *tomato/da		1021	Dhakal2024	[← ?]
+1611	Tsum	Tomato	ɡolbeɾa	g o.l + b e + ɹ a	3322 3323 3328	*tomato/gol *tomato/be *tomato/da		1021	Dhakal2024	[← ?]
+1873	Yolmo	Tomato	ɡolbenda	g o.l + b e.n + d̪ a	3322 3323 3324	*tomato/gol *tomato/be *tomato/da		1021	Dhakal2024	[← ?]
+137	Gyalsumdo	Tomorrow	ŋato	ŋ a.!Ø/ɹ + t̪ o	3347 3348	tomorrow/ŋar tomorrow/to		1028	Dhakal2024	[x]
+396	Jirel	Tomorrow	ŋaɹo	ŋ a.!Ø/ɹ + ɹ o	3347 3349	tomorrow/ŋar tomorrow/to		1028	Dhakal2024	[x]
+654	Kagate	Tomorrow	ŋart̪o	ŋ a.r + t̪ o	3347 3348	tomorrow/ŋar tomorrow/to		1028	Dhakal2024	[x]
+909	Lowa	Tomorrow	ŋeto	ŋ !e/a + t̪ o	3347 3348	tomorrow/ŋar tomorrow/to		1028	Dhakal2024	[x]
+1161	Nubri	Tomorrow	ŋaɹo	ŋ a.!Ø/ɹ + ɹ o	3347 3349	tomorrow/ŋar tomorrow/to		1028	Dhakal2024	[x]
+1412	Sherpa	Tomorrow	sala	s a + l a	3350 3351	TOMORROW _tomorrow		1031	Dhakal2024	[x]
+1655	Tsum	Tomorrow	ŋaɾt̪o	ŋ a.ɹ + t̪ o	3347 3348	tomorrow/ŋar tomorrow/to		1028	Dhakal2024	[x]
+1917	Yolmo	Tomorrow	n̪aŋbaɹ	n a.ŋ + b a.ɹ	147 3352	tomorrow/naŋ tomorrow/bar		104	Dhakal2024	[x]
+11	Gyalsumdo	Tongue	tɕemu	tɕ e + m u	3364 3365	tongue _:mu-suffix/mu		1034	Dhakal2024	[x]
+277	Jirel	Tongue	tselak	!ts/tɕ e + l a.k	3364 3366	tongue _lick		1034	Dhakal2024	[ ] why lick?
+536	Kagate	Tongue	tse	!ts/tɕ e	3364	tongue		1034	Dhakal2024	[x]
+789	Lowa	Tongue	tsemu	!ts/tɕ e + m u	3364 3365	tongue _:mu-suffix/mu		1034	Dhakal2024	[x]
+1047	Nubri	Tongue	tɕe	tɕ e	3364	tongue		1034	Dhakal2024	[x]
+1295	Sherpa	Tongue	tɕjalak	tɕj/tɕ a + l a.k	3364 3366	tongue _lick		1034	Dhakal2024	[ ] why lick?
+1540	Tsum	Tongue	tɕe	tɕ e	3364	tongue		1034	Dhakal2024	[x]
+1801	Yolmo	Tongue	tsele	!ts/tɕ e + l e	3364 3366	tongue _lick		1034	Dhakal2024	[ ] why lick?
+68	Gyalsumdo	Tree	t̪oŋbu	t̪ o.ŋ + b u	163 107	tree/toŋ _:suffix/po		1039	Dhakal2024	[x]
+330	Jirel	Tree	nd̪oŋbo	ⁿd/d̪ o.ŋ + b o	163 107	tree/toŋ _:suffix/po		1039	Dhakal2024	[x]
+588	Kagate	Tree	t̪oŋbo	t̪ o.ŋ + b o	163 107	tree/toŋ _:suffix/po		1039	Dhakal2024	[x]
+844	Lowa	Tree	t̪oŋbo	t̪ o.ŋ + b o	163 107	tree/toŋ _:suffix/po		1039	Dhakal2024	[x]
+1098	Nubri	Tree	t̪oŋpo	t̪ o.ŋ + p o	163 107	tree/toŋ _:suffix/po		1039	Dhakal2024	[x]
+1348	Sherpa	Tree	d̪oŋbu	d̪ o.ŋ + b u	163 107	tree/toŋ _:suffix/po		1039	Dhakal2024	[x]
+1592	Tsum	Tree	t̪oŋbo	t̪ o.ŋ + b o	163 107	tree/toŋ _:suffix/po		1039	Dhakal2024	[x]
+1854	Yolmo	Tree	t̪uŋbu	t̪ u.ŋ + b u	163 107	tree/toŋ _:suffix/po		1039	Dhakal2024	[x]
+85	Gyalsumdo	Turmeric	peɕaɹ	p e + !ɕ/s a.ɹ	3395 3396	turmeric/pe turmeric/ser		1041	Dhakal2024	[x]
+345	Jirel	Turmeric	mbesaɹ	ⁿb/b e + s a.ɹ	3395 3396	turmeric/pe turmeric/ser		1041	Dhakal2024	[x]
+603	Kagate	Turmeric	juŋa	j u + ŋ a	3397 3398	turmeric/nju turmeric/ŋa		1043	Dhakal2024	[x]
+859	Lowa	Turmeric	besaɾ	b e + s a.ɾ	3395 3396	turmeric/pe turmeric/ser		1041	Dhakal2024	[x]
+1113	Nubri	Turmeric	peseɹ	p e + s e.ɹ	3395 3396	turmeric/pe turmeric/ser		1041	Dhakal2024	[x]
+1363	Sherpa	Turmeric	ɲuŋa	ɲ u + ŋ a	3397 3398	turmeric/nju turmeric/ŋa		1043	Dhakal2024	[x]
+1607	Tsum	Turmeric	beset	b e + s e.t̪	3395 3396	turmeric/pe turmeric/ser		1041	Dhakal2024	[x]
+1869	Yolmo	Turmeric	juŋa	j u + ŋ a	3397 3398	turmeric/nju turmeric/ŋa		1043	Dhakal2024	[x]
+177	Gyalsumdo	Twelve	tɕuɲi	tɕ u.!Ø/k + ɲ i	2672 3448	ten two		1047	Dhakal2024	[x]
+436	Jirel	Twelve	tɕuŋɲi	tɕ u.ŋ/Ø + ɲ i	2672 3448	ten two		1047	Dhakal2024	[x]
+693	Kagate	Twelve	tɕikŋi	tɕ i.k + ŋ i	2672 3448	ten two		1047	Dhakal2024	[x]
+950	Lowa	Twelve	tɕuɲi	tɕ u + ɲ i	2672 3448	ten two		1047	Dhakal2024	[x]
+1200	Nubri	Twelve	tɕjuɲi	tɕj/tɕ u + ɲ i	2672 3448	ten two		1047	Dhakal2024	[x]
+1450	Sherpa	Twelve	tɕjuŋi	tɕj/tɕ u + ŋ i	2672 3448	ten two		1047	Dhakal2024	[x]
+1693	Tsum	Twelve	tɕuɲi	tɕ u + ɲ i	2672 3448	ten two		1047	Dhakal2024	[x]
+1955	Yolmo	Twelve	tɕiɲi	tɕ i + ɲ i	2672 3448	ten two		1047	Dhakal2024	[x]
+178	Gyalsumdo	Twenty	ɲiɕu	ɲ i + ɕ/tɕ u.!Ø/k	3448 2672	two ten		1049	Dhakal2024	[x]
+437	Jirel	Twenty	kʰaldʑik	kʰ a.l + !dʑ/tɕ i.k	3431 2024	twenty one		1051	Dhakal2024	[x]
+694	Kagate	Twenty	ŋiɕju	ŋ i + ɕj/tɕ u	3448 2672	two ten		1049	Dhakal2024	[x]
+951	Lowa	Twenty	ɲidʑu	ɲ i + dʑ/tɕ u	3448 2672	two ten		1049	Dhakal2024	[x]
+1201	Nubri	Twenty	ɲiɕu	ɲ i + ɕ/tɕ u	3448 2672	two ten		1049	Dhakal2024	[x]
+1451	Sherpa	Twenty	ɲiɕju	ɲ i + ɕ/tɕ u	3448 2672	two ten		1049	Dhakal2024	[x]
+1694	Tsum	Twenty	ɲiɕu	ɲ i + ɕ/tɕ u	3448 2672	two ten		1049	Dhakal2024	[x]
+1956	Yolmo	Twenty	ɲiɕju	ɲ i + ɕ/tɕ u	3448 2672	two ten		1049	Dhakal2024	[x]
+1957	Yolmo	Twenty	kʰaldʑi	kʰ a.l + dʑ/tɕ i	3431 2024	twenty one		1051	Dhakal2024	[x]
+166	Gyalsumdo	Two	ɲi	ɲ i	3448	two		1053	Dhakal2024	[x]
+426	Jirel	Two	ɲi	ɲ i	3448	two		1053	Dhakal2024	[x]
+683	Kagate	Two	ŋi	ŋ i	3448	two		1053	Dhakal2024	[x]
+939	Lowa	Two	ɲi	ɲ i	3448	two		1053	Dhakal2024	[x]
+1189	Nubri	Two	ɲi	ɲ i	3448	two		1053	Dhakal2024	[x]
+1440	Sherpa	Two	ɲi	ɲ i	3448	two		1053	Dhakal2024	[x]
+1683	Tsum	Two	ɲi	ɲ i	3448	two		1053	Dhakal2024	[x]
+1945	Yolmo	Two	ɲi	ɲ i	3448	two		1053	Dhakal2024	[x]
+27	Gyalsumdo	Urine	tɕiŋ	!tɕ/ts i.ŋ	3457	urine		1054	Dhakal2024	[x]
+290	Jirel	Urine	tsiŋ	ts i.ŋ	3457	urine		1054	Dhakal2024	[x]
+550	Kagate	Urine	tsiŋ	ts i.ŋ	3457	urine		1054	Dhakal2024	[x]
+803	Lowa	Urine	tsiŋ	ts i.ŋ	3457	urine		1054	Dhakal2024	[x]
+1060	Nubri	Urine	tɕʰi	!tɕʰ/ts i	3457	urine		1054	Dhakal2024	[x]
+1308	Sherpa	Urine	tsiŋ	ts i.ŋ	3457	urine		1054	Dhakal2024	[x]
+1553	Tsum	Urine	tsiŋ	ts i.ŋ	3457	urine		1054	Dhakal2024	[x]
+1815	Yolmo	Urine	tsiŋ	ts i.ŋ	3457	urine		1054	Dhakal2024	[x]
+29	Gyalsumdo	Village	jul	j u.l	3466	village		1055	Dhakal2024	[x]
+292	Jirel	Village	jul	j u.l	3466	village		1055	Dhakal2024	[x]
+552	Kagate	Village	jul	j u.l	3466	village		1055	Dhakal2024	[x]
+806	Lowa	Village	toŋsep	t̪ o.ŋ + s e.p	3467 3468	*village/toŋ *village/sep		1056	Dhakal2024	[?] ← Chinese (?)
+1062	Nubri	Village	jul	j u.l	3466	village		1055	Dhakal2024	[x]
+1310	Sherpa	Village	iul	i/j u.l	3466	village		1055	Dhakal2024	[x]
+1311	Sherpa	Village	jul	j u.l	3466	village		1055	Dhakal2024	[x]
+1555	Tsum	Village	jul	j u.l	3466	village		1055	Dhakal2024	[x]
+1817	Yolmo	Village	jul	j u.l	3466	village		1055	Dhakal2024	[x]
+53	Gyalsumdo	Water	tɕʰu	tɕʰ u	3477	water		1058	Dhakal2024	[x]
+314	Jirel	Water	tɕʰju	tɕʰj/tɕʰ u	3477	water		1058	Dhakal2024	[x]
+573	Kagate	Water	tɕʰju	tɕʰj/tɕʰ u	3477	water		1058	Dhakal2024	[x]
+827	Lowa	Water	tɕʰju	tɕʰj/tɕʰ u	3477	water		1058	Dhakal2024	[x]
+1083	Nubri	Water	tɕʰju	tɕʰj/tɕʰ u	3477	water		1058	Dhakal2024	[x]
+1333	Sherpa	Water	tɕʰju	tɕʰj/tɕʰ u	3477	water		1058	Dhakal2024	[x]
+1577	Tsum	Water	tɕʰju	tɕʰj/tɕʰ u	3477	water		1058	Dhakal2024	[x]
+1839	Yolmo	Water	tɕʰu	tɕʰj/tɕʰ u	3477	water		1058	Dhakal2024	[x]
+230	Gyalsumdo	We (exclusive)	oɹaŋ	o + ɹ a.ŋ	3486 16	we-exclusive all/rang		1059	Dhakal2024	
+740	Kagate	We (exclusive)	ŋi	ŋ i	3488	WE		1060	Dhakal2024	
+1001	Lowa	We (exclusive)	jekja	j e + k.j a	3489 3490	we/je :plural-suffix/kja		1062	Dhakal2024	
+1248	Nubri	We (exclusive)	ɲeɹaŋd̪o	ɲ e + ɹ a.ŋ + d̪ o	3488 16 3491	_we all/rang _we		1059	Dhakal2024	
+1496	Sherpa	We (exclusive)	ŋiraŋ	ŋ i + r a.ŋ	3488 16	_we all/rang		1059	Dhakal2024	
+2004	Yolmo	We (exclusive)	woɹaŋ	w o + ɹ a.ŋ	3492 16	_we all/rang		1059	Dhakal2024	
+227	Gyalsumdo	We (inclusive)	ɲi	ɲ i	3499	we		1067	Dhakal2024	
+228	Gyalsumdo	We (inclusive)	ɲija	ɲ i + j a	3499 2697	we :plural-suffix/ja		1067	Dhakal2024	
+229	Gyalsumdo	We (inclusive)	ɲiɹaŋ	ɲ i + ɹ a.ŋ	3499 16	we all/rang		1066	Dhakal2024	
+491	Jirel	We (inclusive)	oɹoŋ	o + ɹ o.ŋ	3500 16	we _all/rang		1070	Dhakal2024	
+492	Jirel	We (inclusive)	ŋɡaŋe	ⁿg/g a + ŋ e	17 18	we-inclusive all/nge		1067	Dhakal2024	
+739	Kagate	We (inclusive)	u	u	3500	we		1070	Dhakal2024	
+1000	Lowa	We (inclusive)	woɾoŋ	w o + ɾ o.ŋ	3500 16	we _all/rang		1066	Dhakal2024	
+1247	Nubri	We (inclusive)	woɹoŋd̪o	w o + ɹ o.ŋ + d̪ o	3500 16 3505	we _all/rang _we/do		1066	Dhakal2024	
+1495	Sherpa	We (inclusive)	oraŋ	o + r a.ŋ	3500 16	we all/rang		1066	Dhakal2024	
+1746	Tsum	We (inclusive)	ɲoɹoŋ	ɲ o + ɹ o.ŋ	3499 16	_we all/rang		1066	Dhakal2024	
+1747	Tsum	We (inclusive)	ɲoɹoŋkja	ɲ o + ɹ o.ŋ + k.j a	3499 16 2718	_we all/rang _:plural-suffix/kja		1066	Dhakal2024	
+2003	Yolmo	We (inclusive)	ɲiɹaŋ	ɲ i + ɹ a.ŋ	3499 16	we all/rang		1066	Dhakal2024	
+138	Gyalsumdo	Week	t̪ynta	t̪ y.n + t̪ a	3524 3525	week/tyn _week/tha		1074	Dhakal2024	[x]
+139	Gyalsumdo	Week	t̪ynzi	t̪ y.n + z i	3524 3530	week/tyn _week/zi		106	Dhakal2024	[x]
+397	Jirel	Week	həpt̪a	h ə.p + t̪ a	3527 81	*week/hap *week/ta		1075	Dhakal2024	← Nepali «haptā»
+910	Lowa	Week	t̪yntʰaʔ	t̪ y.n + t̪ʰ a.ʔ	3524 3525	week/tyn _week/tha		1074	Dhakal2024	[x]
+1162	Nubri	Week	t̪ʏntʰaʔ	t̪ ʏ.n + t̪ʰ a.ʔ	3524 3525	week/tyn _week/tha		1074	Dhakal2024	[x]
+1413	Sherpa	Week	ɦapt̪a	ɦ a.p + t̪ a	3527 80	*week/hap *week/ta		1075	Dhakal2024	← Nepali «haptā»
+1656	Tsum	Week	t̪yndaʔ	t̪ y.n + d̪ a.ʔ	3524 3525	week/tyn _week/tha		1074	Dhakal2024	[x]
+1918	Yolmo	Week	ɲimat̪in	ɲ i + m a + t̪ i.n	3528 3529 3524	_week _week week/tyn		105	Dhakal2024	[x]
+146	Gyalsumdo	Wet	taŋmu	t̪ a.ŋ + m u	553 3365	cold _:mu-suffix/mu		1081	Dhakal2024	[x]
+404	Jirel	Wet	tʰəŋɡe	t̪ʰ ə.ŋ + g e	553 555	cold _/ge		1081	Dhakal2024	[x]
+663	Kagate	Wet	taŋbu	t̪ a.ŋ + b u	553 107	cold _:bu-suffix		1081	Dhakal2024	[x]
+919	Lowa	Wet	taŋa	t̪ a.ŋ + a	553	cold		1081	Dhakal2024	[x]
+1169	Nubri	Wet	lompa	l o.m + p a	3547 10	wet _:pa-suffix/pa		1084	Dhakal2024	[x]
+1420	Sherpa	Wet	tʰeŋa	t̪ʰ e.ŋ + !Ø/ŋ a	553 164	cold _:ŋa-suffix		1081	Dhakal2024	[x]
+1663	Tsum	Wet	nd̪ompa	ⁿd/d̪ o.m + p a	3549 10	wet _:pa-suffix/pa		1084	Dhakal2024	[x]
+1925	Yolmo	Wet	taŋmu	t̪ a.ŋ + m u	553 3365	cold _:mu-suffix		1081	Dhakal2024	[x]
+181	Gyalsumdo	What	tɕi	tɕ i	3559	what/tsi		1089	Dhakal2024	[x]
+440	Jirel	What	tɕi	tɕ i	3559	what/tsi		1089	Dhakal2024	[x]
+697	Kagate	What	tsi	!ts/tɕ i	3559	what/tsi		1089	Dhakal2024	[x]
+954	Lowa	What	ki	!k/tɕ i	84	what/ki		1089	Dhakal2024	[?]
+1204	Nubri	What	tɕi	tɕ i	3559	what/tsi		1089	Dhakal2024	[x]
+1454	Sherpa	What	kʰaŋ	kʰ a.ŋ	3560	what/kang		1090	Dhakal2024	[x]
+1697	Tsum	What	tɕi	tɕ i	3559	what/tsi		1089	Dhakal2024	[x]
+1960	Yolmo	What	tɕi	tɕ i	3559	what/tsi		1089	Dhakal2024	[x]
+77	Gyalsumdo	Wheat (husked)	to	t̪ o	3568	wheat/to		1091	Dhakal2024	[x]
+338	Jirel	Wheat (husked)	tʰa	t̪ʰ a	3568	wheat/to		1091	Dhakal2024	[x]
+596	Kagate	Wheat (husked)	nẽjã	n ẽ + j ã	3569 3570	wheat/ne _wheat/ja		1092	Dhakal2024	[x]
+852	Lowa	Wheat (husked)	to	t̪ o	3568	wheat/to		1091	Dhakal2024	[x]
+1106	Nubri	Wheat (husked)	toh	t̪ o.h	3568	wheat/to		1091	Dhakal2024	[x]
+1356	Sherpa	Wheat (husked)	tʰa	t̪ʰ a	3568	wheat/to		1091	Dhakal2024	[x]
+1600	Tsum	Wheat (husked)	ne	n e	3569	wheat/ne		1092	Dhakal2024	[x]
+1862	Yolmo	Wheat (husked)	ne	n e	3569	wheat/ne		1092	Dhakal2024	[x]
+183	Gyalsumdo	When	nam	n a.m	3578	when		1094	Dhakal2024	[x]
+442	Jirel	When	n̪am	!n̪/n a.m	3578	when		1094	Dhakal2024	[x]
+699	Kagate	When	nam	n a.m	3578	when		1094	Dhakal2024	[x]
+956	Lowa	When	nam	n a.m	3578	when		1094	Dhakal2024	[x]
+1206	Nubri	When	n̪am	!n̪/n a.m	3578	when		1094	Dhakal2024	[x]
+1456	Sherpa	When	nam	n a.m	3578	when		1094	Dhakal2024	[x]
+1699	Tsum	When	n̪am	!n̪/n a.m	3578	when		1094	Dhakal2024	[x]
+1962	Yolmo	When	n̪am	!n̪/n a.m	3578	when		1094	Dhakal2024	[x]
+182	Gyalsumdo	Where	kəɹu	k ə + ɹ u	3587 3588	where/ka _there/ru		1095	Dhakal2024	[x]
+441	Jirel	Where	kʰapa	kʰ a + p a	86 10	where/kha _:pa-suffix		5	Dhakal2024	[x]
+698	Kagate	Where	kala	k a + l a	3587 200	where/ka _there/la		1095	Dhakal2024	[x]
+955	Lowa	Where	karu	k a + !r/ɾ u	3587 3588	where/ka _there/ru		1095	Dhakal2024	[x]
+1205	Nubri	Where	kønt̪a	k ø.n + t̪ a	3591 3647	where/køn that		1100	Dhakal2024	[?]
+1455	Sherpa	Where	kʰani	kʰ a + n i	85 3593	where/kha _there/ni		5	Dhakal2024	[x]
+1698	Tsum	Where	kana	k a + n a	3587 3593	where/ka _there/na		1095	Dhakal2024	[x]
+1961	Yolmo	Where	ka	k a	3587	where/ka		1095	Dhakal2024	[x]
+185	Gyalsumdo	Which	kand̪i	k a.n + !d/t̪ i	3603 2734	which/kang _this		1102	Dhakal2024	[x]
+444	Jirel	Which	kʰaŋ	!kʰ/k a.ŋ	3603	which/kang		1102	Dhakal2024	[x]
+701	Kagate	Which	kãd̪i	k ã + d̪ i	3603 2734	which/kang _this		1102	Dhakal2024	[x]
+958	Lowa	Which	kʰiŋɡo	!kʰ/k i.ŋ + g o	3603 3605	which/kang _/go		1102	Dhakal2024	[x]
+959	Lowa	Which	kiŋɡo	k i.ŋ + g o	3603 3605	which/kang _/go		1102	Dhakal2024	[x]
+1208	Nubri	Which	køn̪d̪i	k ø.n + d̪ i	3603 2734	which/kang _this		1102	Dhakal2024	[x]
+1458	Sherpa	Which	kʰaŋd̪i	!kʰ/k a.ŋ + d̪ i	3603 2734	which/kang _this		1102	Dhakal2024	[x]
+1701	Tsum	Which	kaŋd̪e	k a.ŋ + d̪ !e/i	3603 2734	which/kang _this		1102	Dhakal2024	[x]
+1964	Yolmo	Which	kãd̪i	k ã + d̪ i	3603 2734	which/kang _this		1102	Dhakal2024	[x]
+162	Gyalsumdo	White	kaɹpu	k a.ɹ + p u	2565 1581	star/white :bu-suffix/pu		1106	Dhakal2024	d.k a.r
+421	Jirel	White	kaɹmu	k a.ɹ + m u	2565 12	star/white :mu-suffix/mu		101	Dhakal2024	d.k a.r
+679	Kagate	White	karmu	k a.r + m u	2565 12	star/white :mu-suffix/mu		101	Dhakal2024	d.k a.r
+935	Lowa	White	kawo	k a + w o	2565 3624	star/white /wo		102	Dhakal2024	d.k a.r
+1185	Nubri	White	kaɹpo	k a.ɹ + p o	2565 1581	star/white :bu-suffix/pu		1106	Dhakal2024	d.k a.r
+1436	Sherpa	White	karbu	k a.r + b u	2565 1581	star/white :bu-suffix/pu		1106	Dhakal2024	d.k a.r
+1679	Tsum	White	kaɹbo	k a.ɹ + b o	2565 1581	star/white :bu-suffix/pu		1106	Dhakal2024	d.k a.r
+1941	Yolmo	White	kaɾpu	k a.ɾ/ɹ + p u	2565 1581	star/white :bu-suffix/pu		1106	Dhakal2024	d.k a.r
+180	Gyalsumdo	Who	su	s u	3638	who		1110	Dhakal2024	← Chinese shi
+439	Jirel	Who	su	s u	3638	who		1110	Dhakal2024	← Chinese shi
+696	Kagate	Who	su	s u	3638	who		1110	Dhakal2024	← Chinese shi
+953	Lowa	Who	su	s u	3638	who		1110	Dhakal2024	← Chinese shi
+1203	Nubri	Who	su	s u	3638	who		1110	Dhakal2024	← Chinese shi
+1453	Sherpa	Who	su	s u	3638	who		1110	Dhakal2024	← Chinese shi
+1696	Tsum	Who	su	s u	3638	who		1110	Dhakal2024	← Chinese shi
+1959	Yolmo	Who	su	s u	3638	who		1110	Dhakal2024	← Chinese shi
+194	Gyalsumdo	Whole	t̪aɡɹaŋ	t̪ a.g/k + ɹ a.ŋ	22 16	all/tag all/rang		147	Dhakal2024	[x]
+451	Jirel	Whole	ŋɡaŋe	ⁿg/g a + ŋ e	17 18	all/nga all/nge		145	Dhakal2024	[x]
+708	Kagate	Whole	t̪ʰamdzer	t̪ʰ a.m + dz e.r	91 19	whole/tam whole/dzer		136	Dhakal2024	[x]
+709	Kagate	Whole	kopt̪ar	k o.p + t̪ a.r	3655 92	whole/kop whole/tar		143	Dhakal2024	[x]
+968	Lowa	Whole	kiɾi	k i + ɾ i	95 3651	whole/kei whole/ri		139	Dhakal2024	[x]
+969	Lowa	Whole	kaŋpo	k a.ŋ + p o	3648 3656	whole/kang whole/po		137	Dhakal2024	[x]
+1216	Nubri	Whole	tɕjapt̪a	tɕj/tɕ a.p + t̪ a	21 3647	all/tsjop _that		1112	Dhakal2024	[x]
+1465	Sherpa	Whole	jukəi	j u + k əi	3653 95	whole/ju whole/kei		140	Dhakal2024	[x]
+1708	Tsum	Whole	tɕjop	tɕj/tɕ o.p	21	all/tsjop		1112	Dhakal2024	[x]
+1971	Yolmo	Whole	t̪eptse	t̪ e.p + ts e	3654 3650	whole/tep whole/tse		141	Dhakal2024	[x]
+126	Gyalsumdo	Wife	keɹme	k e.ɹ + m e	3667 75	wife/ke woman/me		71	Dhakal2024	[x]
+386	Jirel	Wife	pʰemme	pʰ e.m + m e	3707 75	woman/phem woman/me		1121	Dhakal2024	[x]
+642	Kagate	Wife	tɕʰjuŋma	tɕʰj/tɕʰ u.ŋ + m a	3670 11	wife _:ma-suffix/ma		74	Dhakal2024	[x]
+643	Kagate	Wife	peme	p e.!Ø/n + m e	3707 75	woman/phem woman/me		1121	Dhakal2024	[x]
+899	Lowa	Wife	keme	k e + m e	3667 75	wife/ke woman/me		71	Dhakal2024	[x]
+1151	Nubri	Wife	ɕɛt̪aŋ	ɕ ɛ + t̪ a.ŋ	3671 3672	wife/ce wife/taŋ		1125	Dhakal2024	[x]
+1402	Sherpa	Wife	pʰermi	pʰ e.r + m i	3707 3668	woman/phem _/me		1121	Dhakal2024	[x]
+1645	Tsum	Wife	tɕʰjumma	tɕʰ.j u.m + m a	3670 11	wife _:ma-suffix/ma		74	Dhakal2024	[x]
+1907	Yolmo	Wife	pimi	p i + m i	3669 3668	wife/pe _/me		1121	Dhakal2024	[x]
+58	Gyalsumdo	Wind	hlawa	h.l a + w a	3690 56	wind/hla _:wa-suffix/wa		1127	Dhakal2024	[x]
+320	Jirel	Wind	hlaba	h.l a + b a	3690 10	wind/hla _:pa-suffix/pa		1127	Dhakal2024	[x]
+578	Kagate	Wind	hlaba	h.l a + b a	3690 10	wind/hla _:pa-suffix/pa		1127	Dhakal2024	[x]
+832	Lowa	Wind	luŋ	l u.ŋ	3691	wind/luŋ		1129	Dhakal2024	[x]
+833	Lowa	Wind	luŋpo	l u.ŋ + p o	3691 3689	wind/luŋ _:po-suffix		1129	Dhakal2024	[x]
+1088	Nubri	Wind	hlawa	h.l a + w a	3690 56	wind/hla _:wa-suffix/wa		1128	Dhakal2024	[x]
+1338	Sherpa	Wind	luŋ	l u.ŋ	3691	wind/luŋ		1129	Dhakal2024	[x]
+1582	Tsum	Wind	hlapa	h.l a + p a	3690 10	wind/hla _:pa-suffix/pa		1127	Dhakal2024	[x]
+1844	Yolmo	Wind	hlawa	h.l a + w a	3690 56	wind/hla _:wa-suffix/wa		1128	Dhakal2024	[x]
+114	Gyalsumdo	Woman	pomo	p o + m o	2515 601	child-son female		1135	Dhakal2024	[?]
+375	Jirel	Woman	pʰemmemi	pʰ e.m + m e + m i	3707 75 1624	woman/phem woman/me woman/mi		67	Dhakal2024	[?]
+631	Kagate	Woman	penpidza	p e.n + p i + dz a	3707 487 488	woman/phem _child-1 child-2		1134	Dhakal2024	[?]
+888	Lowa	Woman	keme	k e + m e	915 75	? woman/me		70	Dhakal2024	[?]
+1140	Nubri	Woman	põbetsa	p !õ/o + !b/p e + ts a	3707 487 488	woman/phem _child-1 _child-2		1134	Dhakal2024	[?]
+1391	Sherpa	Woman	pʰumpʰedza	pʰ u.m + pʰ e + dz a	3707 487 488	woman/phem _child-1 child-2		1134	Dhakal2024	[?]
+1634	Tsum	Woman	poĩpiza	p oĩ + p i + z a	3707 487 488	woman/phem _child-1 _child-2		1134	Dhakal2024	[?]
+1896	Yolmo	Woman	pimi	p i + m i	487 3704	child-1 woman		66	Dhakal2024	[?]
+238	Gyalsumdo	Yard	kɔɹtsa	k ɔ.ɹ + ts a	3725 3726	YARD _yard		1143	Dhakal2024	
+499	Jirel	Yard	ɕjaŋka	ɕ.j a.ŋ + k a	3727 3725	yard YARD		1143	Dhakal2024	
+747	Kagate	Yard	kot̪oŋ	k o + t̪ o.ŋ	3725 3728	_yard YARD		1142	Dhakal2024	
+748	Kagate	Yard	ild̪o	i l + d̪ o	3731 3732	YARD _yard		1146	Dhakal2024	
+1007	Lowa	Yard	jəku	j ə + k u	3729 3730	YARD _yard		1148	Dhakal2024	
+1254	Nubri	Yard	kjaŋ	k.j a.ŋ	3727	YARD		1145	Dhakal2024	
+1503	Sherpa	Yard	t̪ʰaŋsa	t̪ʰ a.ŋ + s a	3728 3726	YARD _yard		1142	Dhakal2024	
+1755	Tsum	Yard	ild̪oʔ	i.l + d̪ o.ʔ	3731 3732	YARD _yard		1146	Dhakal2024	
+2010	Yolmo	Yard	t̪iŋ	t̪ i.ŋ	3728	YARD		1142	Dhakal2024	
+2011	Yolmo	Yard	sat̪iŋ	s a + t̪ i.ŋ	3726 3728	_yard YARD		1142	Dhakal2024	
+141	Gyalsumdo	Year	lo	l o	3744	year		1150	Dhakal2024	[x]
+399	Jirel	Year	lo	l o	3744	year		1150	Dhakal2024	[x]
+656	Kagate	Year	lo	l o	3744	year		1150	Dhakal2024	[x]
+912	Lowa	Year	lo	l o	3744	year		1150	Dhakal2024	[x]
+1164	Nubri	Year	lo	l o	3744	year		1150	Dhakal2024	[x]
+1415	Sherpa	Year	lo	l o	3744	year		1150	Dhakal2024	[x]
+1658	Tsum	Year	lo	l o	3744	year		1150	Dhakal2024	[x]
+1920	Yolmo	Year	lo	l o	3744	year		1150	Dhakal2024	[x]
+135	Gyalsumdo	Yesterday	t̪aŋ	t̪ a.ŋ	3753	yesterday		1151	Dhakal2024	[x]
+394	Jirel	Yesterday	nd̪aŋ	ⁿd/d̪ a.ŋ	3753	yesterday		1151	Dhakal2024	[x]
+652	Kagate	Yesterday	d̪aŋ	d̪ a.ŋ	3753	yesterday		1151	Dhakal2024	[x]
+907	Lowa	Yesterday	nd̪aŋ	ⁿd/d a.ŋ	3753	yesterday		1151	Dhakal2024	[x]
+1159	Nubri	Yesterday	t̪aŋ	t̪ a.ŋ	3753	yesterday		1151	Dhakal2024	[x]
+1410	Sherpa	Yesterday	d̪aŋ	d̪ a.ŋ	3753	yesterday		1151	Dhakal2024	[x]
+1653	Tsum	Yesterday	nd̪aŋ	ⁿd/d̪ a.ŋ	3753	yesterday		1151	Dhakal2024	[x]
+1915	Yolmo	Yesterday	nd̪aŋ	ⁿd/d̪ a.ŋ	3753	yesterday		1151	Dhakal2024	[x]
+223	Gyalsumdo	You (formal)	kʰela	kʰ.!Ø/j e + l a	3779 200	_you there		1153	Dhakal2024	
+224	Gyalsumdo	You (formal)	kʰeɹaŋ	kʰ.!Ø/j e + ɹ a.ŋ	3779 16	_you all/raŋ		1152	Dhakal2024	
+736	Kagate	You (formal)	kʰja	kʰ.j a	3762	you		1154	Dhakal2024	
+997	Lowa	You (formal)	kʰeɾaŋ	kʰ.!Ø/j e + ɾ a.ŋ	3762 16	_you all/raŋ		1152	Dhakal2024	
+1244	Nubri	You (formal)	kʰjoɹaŋ	kʰ.j o + ɹ a.ŋ	3779 16	_you all/raŋ		1152	Dhakal2024	
+1492	Sherpa	You (formal)	kʰjoroŋ	kʰ.j o + r o.ŋ	3779 16	_you all/raŋ		1152	Dhakal2024	
+1743	Tsum	You (formal)	kʰeɹaŋ	kʰ.!Ø/j e + ɹ a.ŋ	3762 16	_you plural/raŋ		1152	Dhakal2024	
+2000	Yolmo	You (formal)	ɲiɹaŋla	ɲ i + ɹ a.ŋ + l a	3766 3765 200	_you all/raŋ _there		1152	Dhakal2024	
+222	Gyalsumdo	You (informal)	kʰe	kʰ.!Ø/j e	3779	thou		1157	Dhakal2024	[x]
+488	Jirel	You (informal)	kʰo	kʰ.!Ø/j o	3779	thou		1157	Dhakal2024	[x]
+735	Kagate	You (informal)	kʰjo	kʰ.j o	3779	thou		1157	Dhakal2024	[x]
+996	Lowa	You (informal)	kʰøʔ	kʰ.!Ø/j ø.ʔ	3779	thou		1157	Dhakal2024	[x]
+1243	Nubri	You (informal)	kʰjo	kʰ.j o	3779	thou		1157	Dhakal2024	[x]
+1491	Sherpa	You (informal)	kʰjoroŋ	kʰ.j o + r o.ŋ	3779 3780	thou _rong		1157	Dhakal2024	[x]
+1742	Tsum	You (informal)	kʰjøʔ	kʰ.j ø.ʔ	3779	thou		1157	Dhakal2024	[x]
+1998	Yolmo	You (informal)	kʰje	kʰ.j e	3779	thou		1157	Dhakal2024	[x]
+1999	Yolmo	You (informal)	kʰjø	kʰ.j ø	123	thou		1157	Dhakal2024	[x] variant of 2006
+231	Gyalsumdo	You (plural)	kʰija	kʰ i + j a	3790 2697	_you :plural-suffix/ja		1159	Dhakal2024	
+493	Jirel	You (plural)	kʰjokjon	kʰ.j o + k.j o n	3791 3792	YOU _you		1159	Dhakal2024	
+741	Kagate	You (plural)	kʰjokja	kʰ.j o + k.j a	3793 3791	_you YOU		1159	Dhakal2024	
+1002	Lowa	You (plural)	kʰekja	kʰ e + k.j a	3790 3791	_you YOU		1159	Dhakal2024	
+1249	Nubri	You (plural)	kʰed̪o	kʰ e + d̪ o	3790 3794	YOU _you		1160	Dhakal2024	
+1497	Sherpa	You (plural)	kʰiraŋd̪iba	kʰ i + r a.ŋ + d̪ i + b a	3790 3795 3794 3796	YOU _you _you _you		1160	Dhakal2024	
+1748	Tsum	You (plural)	kʰeɹaŋkja	kʰ e + ɹ a.ŋ + k.j a	3790 3795 2718	_you _you _:plural-suffix/kja		1159	Dhakal2024	
+2005	Yolmo	You (plural)	kʰjapəti	kʰ.j a + p ə + t̪ i	3791 3797 3794	YOU _you _you		1159	Dhakal2024	
+119	Gyalsumdo	Younger brother	no	n o	3811	younger-sibling		1167	Dhakal2024	[x]
+380	Jirel	Younger brother	n̪ũwã	!n̪/n !ũ/u + w ã	3811 3812	younger-sibling _/wa		1167	Dhakal2024	[x]
+636	Kagate	Younger brother	nu	n u	3811	younger-sibling		1167	Dhakal2024	[x]
+893	Lowa	Younger brother	nu	n u	3811	younger-sibling		1167	Dhakal2024	[x]
+1145	Nubri	Younger brother	n̪u	!n̪/n u	3811	younger-sibling		1167	Dhakal2024	[x]
+1396	Sherpa	Younger brother	nuk	n u.k	3811	younger-sibling		1167	Dhakal2024	[x]
+1639	Tsum	Younger brother	n̪oo	!n̪/n oː	3811	younger-sibling		1167	Dhakal2024	[x]
+1901	Yolmo	Younger brother	n̪o	!n̪/n o	3811	younger-sibling		1167	Dhakal2024	[x]
+121	Gyalsumdo	Younger sister	numu	n u + m u	3811 3822	younger-sibling female/mu		1169	Dhakal2024	[x]
+382	Jirel	Younger sister	n̪umu	!n̪/n u + m u	3811 3822	younger-sibling female/mu		1169	Dhakal2024	[x]
+638	Kagate	Younger sister	numu	n u + m u	3811 3822	younger-sibling female/mu		1169	Dhakal2024	[x]
+895	Lowa	Younger sister	numu	n u + m u	3811 3822	younger-sibling female/mu		1169	Dhakal2024	[x]
+1147	Nubri	Younger sister	n̪u	!n̪/n u	3811	younger-sibling		1169	Dhakal2024	[x]
+1398	Sherpa	Younger sister	n̪um	!n̪/n u.m/k	3811	younger-sibling		1169	Dhakal2024	[x]
+1641	Tsum	Younger sister	poõ	p o/u + Ø/m õ/o	2515 601	child-son female		1171	Dhakal2024	[x]
+1903	Yolmo	Younger sister	n̪omo	!n̪/n o + m o	3811 601	younger-sibling _female		1169	Dhakal2024	[x]
