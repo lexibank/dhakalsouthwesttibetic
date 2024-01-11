@@ -1884,3 +1884,93 @@ ID	DOCULECT	CONCEPT	FORM	COGID	TOKENS	NOTE
 2863	Batang	YOU	h.ø.y.⁵³	1498	h øy ⁵³	
 2864	Lhasa	YOU	ch.e.⁵⁵.◦.r.a.ŋ.⁵⁵.◦.tsh.o	1498	ch/ts e ⁵⁵ + r a ŋ ⁵⁵ + tsʰ o	
 2865	Xiahe	YOU	tɕh.ə._.tɕh.o	1498	tɕʰ ə + tɕʰ o	
+2866	Batang	FAECES (EXCREMENT)		23	tɕ a ⁵⁵ + p a ⁵³	
+2867	Gyalsumdo	FAECES (EXCREMENT)	kjaɡpa	23	k.j a.g/k + p a	
+2868	Jirel	FAECES (EXCREMENT)	kjakpa	23	k.j a.k + p a	
+2869	Alike	FAECES (EXCREMENT)		23	ɣ.cç o.k + k.w a	
+2870	Kagate	FAECES (EXCREMENT)	kjakpa	23	k.j a.k + p a	
+2871	Lhasa	FAECES (EXCREMENT)		23	c a.k ⁵⁵ + p a ⁵⁵	
+2872	Lowa	FAECES (EXCREMENT)	kjakpa	23	k.j a.k + p a	
+2873	Nubri	FAECES (EXCREMENT)	aʔ	24	a ʔ	
+2874	OldChinese	FAECES (EXCREMENT)		25	qʰ i.j.ʔ	
+2875	OldTibetan	FAECES (EXCREMENT)		23	s.k.j a.g + p a	
+2876	Sherpa	FAECES (EXCREMENT)	kjakpa	23	k.j a.k + p a	
+2877	Yolmo	FAECES (EXCREMENT)	kjakpa	23	k.j a.k + p a	
+2878	Tsum	FAECES (EXCREMENT)	aʔ	24	a ʔ	
+2879	Xiahe	FAECES (EXCREMENT)		23	k.j a.k + p a	
+2880	Lowa	FAECES (EXCREMENT)	tsa	26	ts a	
+2881	Alike	MIDDAY		27	ȵ ə + m a + k o.ŋ	
+2882	Batang	MIDDAY		35	ȵ ĩ ¹³ + ŋg u ⁵⁵	
+2883	Gyalsumdo	MIDDAY	ɲimaɡuŋ	27	ɲ i + m a + g u.ŋ	
+2884	Jirel	MIDDAY	ɲimmu	30	ɲ i + m !Ø/a + m u	
+2885	Kagate	MIDDAY	tsʰəkəl	28	tsʰ ə + k ə.l	
+2886	Lhasa	MIDDAY		27	ȵ ĩ ¹³ + k u.ŋ ⁵⁵	
+2887	Lowa	MIDDAY	ɲiŋɡuŋ	27	ɲ i + !ŋ/m !Ø/a + g u.ŋ	
+2888	Nubri	MIDDAY	n̪iŋkũ	27	!n̪/ɲ i + !ŋ/m !Ø/a + k !ũ/u	
+2889	OldChinese	MIDDAY		31	m + qʰˤ a ʔ	
+2890	OldTibetan	MIDDAY		27	ɲ i.n + d.g u.ŋ	
+2891	Sherpa	MIDDAY	ɲimkʰuŋ	27	ɲ i + m !Ø/a + kʰ u.ŋ	
+2892	Tsum	MIDDAY	ɲiŋɡuŋ	27	ɲ i + !ŋ/m !Ø/a + g u.ŋ	
+2893	Xiahe	MIDDAY		32	tʂ e + dʑ a	
+2894	Yolmo	MIDDAY	ɲimapʰe	34	ɲ i + m a + pʰ e	
+2895	Alike	 RAIN (PRECIPITATION)		36	tɕʰ a.r + w æ	
+2896	Batang	 RAIN (PRECIPITATION)		36	tɕʰ a ⁵⁵ + b a ⁵³	
+2897	Gyalsumdo	 RAIN (PRECIPITATION)	nam	38	n a.m	
+2898	Jirel	 RAIN (PRECIPITATION)	tɕʰjaɹba	36	tɕʰ.j a.ɹ + b a	
+2899	Lhasa	 RAIN (PRECIPITATION)		36	tɕʰ aː ⁵⁵ + p a ⁵⁵	
+2900	Nubri	 RAIN (PRECIPITATION)	nam	38	n a.m	
+2901	Lowa	 RAIN (PRECIPITATION)	tɕʰjawa	36	tɕʰj/tɕʰ a + w a	
+2902	OldChinese	 RAIN (PRECIPITATION)		37	ç/k + ɢʷ a.ʔ	
+2903	OldTibetan	 RAIN (PRECIPITATION)		36	tɕʰ a.r + p a	
+2904	Sherpa	 RAIN (PRECIPITATION)	tɕjarpa	36	tɕ.j a.r + p a	
+2905	Tsum	 RAIN (PRECIPITATION)	n̪amkjaus̩	38	!n̪/n a.m + k.j aus̩/au	
+2906	Xiahe	 RAIN (PRECIPITATION)		36	tɕʰ a.r + w a	
+2907	Yolmo	 RAIN (PRECIPITATION)	nəm	38	n ə.m	
+2908	Kagate	 RAIN (PRECIPITATION)	nam	38	n a.m	
+2909	Alike	HEAR		41	k o	
+2910	Batang	HEAR		41	k ʋ/u ²³¹	
+2911	Jirel	HEAR	t̪ʰobat̪e	48	t̪ʰ o + b a + t̪ e	
+2912	Kagate	HEAR	kodze	41	k o + dz e	
+2913	Gyalsumdo	HEAR	ɲin	51	ɲ i.n	
+2914	Lhasa	HEAR		41	kʰ o ¹³	
+2915	Lowa	HEAR	ɲenje	51	ɲ e.n + j e	
+2916	Nubri	HEAR	ɲin̪	51	ɲ i.n	
+2917	OldChinese	HEAR		42	m u.n	
+2918	OldTibetan	HEAR		44	tʰ o.s	
+2919	Sherpa	HEAR	ŋeŋɡu	45	ŋ e.ŋ + g u	
+2920	Tsum	HEAR	ɲan	51	ɲ a.n	
+2921	Yolmo	HEAR	ɲind̪oŋ	51	ɲ i.n + d̪ o.ŋ	
+2922	Xiahe	HEAR		41	k o	
+2924	Batang	BELOW OR UNDER		55	m ã ¹³ + tɕ ø.ʔ ⁵³	
+2925	Gyalsumdo	BELOW OR UNDER	wala	62	w a + l a	
+2926	Jirel	BELOW OR UNDER	mima	59	m i + m a	
+2927	Kagate	BELOW OR UNDER	wala	62	w a + l a	
+2928	Lhasa	BELOW OR UNDER		55	m ɛ̃ ¹³ + tɕʰ ɛ ⁵²	
+2929	Lowa	BELOW OR UNDER	meʔ	47	m e.ʔ	
+2930	OldChinese	BELOW OR UNDER		52	gˤ.r a.ʔ	
+2931	Nubri	BELOW OR UNDER	ɦo	50	ɦ o	
+2932	OldTibetan	BELOW OR UNDER		46	g.ɕ a.m	
+2933	Sherpa	BELOW OR UNDER	mamo	63	m a + m o	
+2934	Tsum	BELOW OR UNDER	mau	63	m a + !Ø/m u	
+2935	Xiahe	BELOW OR UNDER		55	m a.n + tɕʰ a.r	
+2936	Yolmo	BELOW OR UNDER	t̪iŋla	65	t̪ i.ŋ + l a	
+2937	Alike	 SMOKE (EXHAUST)		57	t o	
+2938	Batang	 SMOKE (EXHAUST)		57	t ɑ ¹³	
+2939	Gyalsumdo	 SMOKE (EXHAUST)	t̪uba	57	t̪ u + b a	
+2940	Jirel	 SMOKE (EXHAUST)	t̪ʰut̪ak	57	t̪ʰ u + t̪ a.k	
+2941	Kagate	 SMOKE (EXHAUST)	d̪ipa	68	d̪ i + p a	
+2942	Lhasa	 SMOKE (EXHAUST)		57	tʰ.u o ¹³	
+2943	Lowa	 SMOKE (EXHAUST)	t̪ipa	68	t̪ i + p a	
+2944	Nubri	 SMOKE (EXHAUST)	t̪ohpa	57	t̪ o.h + p a	
+2945	OldChinese	 SMOKE (EXHAUST)		66	qˤ i n	
+2946	OldTibetan	 SMOKE (EXHAUST)		57	d u + b a	
+2947	Sherpa	 SMOKE (EXHAUST)	t̪ʰut̪a	57	t̪ʰ u + t̪ a	
+2948	Tsum	 SMOKE (EXHAUST)	t̪upa	57	t̪ u + p a	
+2949	Xiahe	 SMOKE (EXHAUST)		57	t o	
+2950	Yolmo	 SMOKE (EXHAUST)	t̪ipa	68	t̪ i + p a	
+2951	OldTibetan	HEAR		41	g o	
+2952	Lhasa	BELOW OR UNDER		46	ɕ a.m ⁵² + l a	
+2953	OldTibetan	BELOW OR UNDER		50	ɦ o.g	
+2954	Kagate	MIDDAY	ɲimakarpo	67	ɲ i + m a + k a.r + p o	
+2955	Tsum	HEAR	ɲanso	51	ɲ a.n+ s o	
+2956	Yolmo	 RAIN (PRECIPITATION)	n̪əmɡjabzin̪	38	n̪ ə.m+ ɡ.j a.b + z i n̪	

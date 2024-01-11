@@ -160,7 +160,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	MORPHEMES	TOKENS	VALUE	NOTE
 159	j a.ŋ + m u	450	1546 3365	Light	Gyalsumdo	jaŋmu	light _:mu-suffix/mu	j a.ŋ + m u	jaŋmu	jaŋ «light»
 160	ɲ a + l a	180	1 200	Above	Gyalsumdo	ɲala	above/nya _there/la	ɲ a + l a	ɲala	[x]
 161	w a + l a	68	199 200	Below	Gyalsumdo	wala	below/wa _there/la	w a + l a	wala	[x]
-162	k a.ɹ + p u	1106	2565 1581	White	Gyalsumdo	kaɹpu	star/white :bu-suffix/pu	k a.ɹ + p u	kaɹpu	d.k a.r
+162	k a.ɹ + p u	1106	2565 1581	White	Gyalsumdo	kaɹpu	star/white _:bu-suffix/pu	k a.ɹ + p u	kaɹpu	d.k a.r
 163	n a.k + p u	81	229 1581	Black	Gyalsumdo	nakpu	black _:bu-suffix/pu	n a.k + p u	nakpu	nag «black»
 164	m a.ɹ + p u	651	2205 1581	Red	Gyalsumdo	maɹpu	red :bu-suffix/pu	m a.ɹ + p u	maɹpu	d.m a.r
 165	tɕ i.g/k	588	2024	One	Gyalsumdo	tɕiɡ	one	tɕ i.g/k	tɕiɡ	[x]
@@ -993,7 +993,7 @@ ID	ALIGNMENT	COGID	COGIDS	CONCEPT	DOCULECT	FORM	MORPHEMES	TOKENS	VALUE	NOTE
 992	ⁿd/d o - + j e	910	3017 2910	To go	Lowa	ndoje	go/to _:je-suffix	ⁿd/d o + j e	ndoje	
 993	u.ŋ + j e	878	2924 2925	To come	Lowa	uŋje	come/oŋ _to	u.ŋ + j e	uŋje	
 994	n a + j e	991	3217 2910	To speak	Lowa	naje	speak/na _:je-suffix	n a + j e	naje	
-995	ɲ e + n j e	917	3033 3038	To hear/listen	Lowa	ɲenje	hear/njin _to	ɲ e + n.j e	ɲenje	
+995	ɲ e.n + j e	917	3033 3038	To hear/listen	Lowa	ɲenje	hear/njin _to	ɲ e.n + j e	ɲenje	
 996	!ⁿd/t̪ a + j e	944	3096 2910	To look	Lowa	nd̪aje	look/ta _:je-suffix	!ⁿd/t̪ a + j e	nd̪aje	
 997	ŋ a	418	1432	I	Lowa	ŋa	I	ŋ a	ŋa	[x]
 998	kʰ.!Ø/j ø.ʔ	1157	3779	You (informal)	Lowa	kʰøʔ	thou	kʰ.!Ø/j ø.ʔ	kʰøʔ	[x]
