@@ -130,7 +130,8 @@ class Dataset(BaseDataset):
                     cognacy = wls[lookup[doc, form], "cogid"]
                     combined = 1
                 elif c2c[wl[idx, "concept"]] in wls.rows:
-                    args.log.info("problem with {0} / {1}".format(doc, form))
+                    args.log.info("problem with {0} / {1} / {2}".format(
+                        doc, form, wl[idx, "concept"]))
                     cognacy = 0
                     combined = 1
                 else:

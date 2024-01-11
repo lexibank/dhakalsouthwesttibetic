@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/robertssouthwesttibetic",
             "rdf:type": "prov:Entity",
-            "dc:created": "311a603",
+            "dc:created": "cad4cf0",
             "dc:title": "Repository"
         },
         {
@@ -58,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 2865,
+            "dc:extent": 2903,
             "tableSchema": {
                 "columns": [
                     {

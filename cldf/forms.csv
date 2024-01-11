@@ -26,7 +26,7 @@ Gyalsumdo-21-Bone-1,,Gyalsumdo,21-Bone,ɹoɡo,ɹoɡo,ɹ o + g o,[x],Dhakal2024,1
 Gyalsumdo-92-Heart-1,,Gyalsumdo,92-Heart,ɲiŋ,ɲiŋ,ɲ i ŋ,[x],Dhakal2024,1288,,,,heart,ɲ i.ŋ,1274,369,1,ɲ i.ŋ,Dhakal2024
 Gyalsumdo-18-Blood-1,,Gyalsumdo,18-Blood,tʰak,tʰak,t̪ʰ a k,[x],Dhakal2024,1206,,,,blood,t̪ʰ a.k,246,83,1,t̪ʰ a.k,Dhakal2024
 Gyalsumdo-218-Urine-1,,Gyalsumdo,218-Urine,tɕiŋ,tɕiŋ,!tɕ/ts i ŋ,[x],Dhakal2024,,,,,urine,!tɕ/ts i.ŋ,3457,1054,0,!tɕ/ts i.ŋ,Dhakal2024
-Gyalsumdo-61-Faeces-1,,Gyalsumdo,61-Faeces,kjaɡpa,kjaɡpa,k j a g/k + p a,[x],Dhakal2024,,,,,shit _:pa-suffix/pa,k.j a.g/k + p a,852 10,261,0,k.j a.g/k + p a,Dhakal2024
+Gyalsumdo-61-Faeces-1,,Gyalsumdo,61-Faeces,kjaɡpa,kjaɡpa,k j a g/k + p a,[x],Dhakal2024,23,,,,shit _:pa-suffix/pa,k.j a.g/k + p a,852 10,261,1,k.j a.g/k + p a,Dhakal2024
 Gyalsumdo-219-Village-1,,Gyalsumdo,219-Village,jul,jul,j u l,[x],Dhakal2024,,,,,village,j u.l,3466,1055,0,j u.l,Dhakal2024
 Gyalsumdo-99-House-1,,Gyalsumdo,99-House,kʰaŋpa,kʰaŋpa,kʰ a ŋ + p a,[ ] check ba status,Dhakal2024,402,,,,house _:pa-suffix/pa,kʰ a.ŋ + p a,1383 10,402,1,kʰ a.ŋ + p a,Dhakal2024
 Gyalsumdo-166-Roof-1,,Gyalsumdo,166-Roof,kʰaŋt̪ø,kʰaŋt̪ø,kʰ a ŋ + t̪ ø,[x],Dhakal2024,,,,,_house roof/tok,kʰ a.ŋ + t̪ ø,1383 2288,679,0,kʰ a.ŋ + t̪ ø,Dhakal2024
@@ -48,9 +48,9 @@ Gyalsumdo-164-Ring-1,,Gyalsumdo,164-Ring,soɹt̪ob,soɹt̪ob,s o ɹ + t̪ o b,[x
 Gyalsumdo-191-Sun-1,,Gyalsumdo,191-Sun,ɲima,ɲima,ɲ i + m a,[x],Dhakal2024,1418,,,,sun _:ma-suffix/ma,ɲ i + m a,2613 11,773,1,ɲ i - + m a,Dhakal2024
 Gyalsumdo-128-Moon-1,,Gyalsumdo,128-Moon,t̪akaɹ,t̪akaɹ,t̪ a + k a ɹ,s.l a,Dhakal2024,1327,,,,moon/da star/white,t̪ a + k a.ɹ,15 2565,501,1,t̪ a + k a.ɹ,Dhakal2024
 Gyalsumdo-128-Moon-2,,Gyalsumdo,128-Moon,t̪awa,t̪awa,t̪ a + w a,s.l a,Dhakal2024,1327,,,,moon/da _:wa-suffix/wa,t̪ a + w a,15 1716,35,1,t̪ a + w a,Dhakal2024
-Gyalsumdo-179-Sky-1,,Gyalsumdo,179-Sky,nam,nam,n a m,[x],Dhakal2024,1392,,,,sky-rain,n a.m,2462,730,1,n a.m,Dhakal2024
+Gyalsumdo-179-Sky-1,,Gyalsumdo,179-Sky,nam,nam,n a m,[x],Dhakal2024,38,,,,sky-rain,n a.m,2462,730,1,n a.m,Dhakal2024
 Gyalsumdo-188-Star-1,,Gyalsumdo,188-Star,kaɹma,kaɹma,k a ɹ + m a,s.k a.r,Dhakal2024,1410,,,,star/white _:ma-suffix/ma,k a.ɹ + m a,2565 11,759,1,k a.ɹ + m a,Dhakal2024
-Gyalsumdo-160-Rain-1,,Gyalsumdo,160-Rain,nam,nam,n a m,[x],Dhakal2024,,,,,sky-rain,n a.m,2462,642,0,n a.m,Dhakal2024
+Gyalsumdo-160-Rain-1,,Gyalsumdo,160-Rain,nam,nam,n a m,[x],Dhakal2024,38,,,,sky-rain,n a.m,2462,642,1,n a.m,Dhakal2024
 Gyalsumdo-221-Water-1,,Gyalsumdo,221-Water,tɕʰu,tɕʰu,tɕʰ u,[x],Dhakal2024,1458,,,,water,tɕʰ u,3477,1058,1,tɕʰ - u,Dhakal2024
 Gyalsumdo-165-River-1,,Gyalsumdo,165-River,tsaŋpu,tsaŋpu,ts a ŋ + p u,[x],Dhakal2024,1368,,,,river/tsaŋ _:bu-suffix/pu,ts a.ŋ + p u,2270 1581,674,1,ts a.ŋ + p u,Dhakal2024
 Gyalsumdo-36-Cloud-1,,Gyalsumdo,36-Cloud,muɡpa,muɡpa,m u g/k + p a,[x],Dhakal2024,176,,,,cloud/muk _pa-suffix/pa,m u.g/k + p a,536 10,176,1,m u.g/k + p a,Dhakal2024
@@ -61,7 +61,7 @@ Gyalsumdo-190-Stone-1,,Gyalsumdo,190-Stone,t̪o,t̪o,t̪ o,[x],Dhakal2024,1416,,
 Gyalsumdo-152-Path-1,,Gyalsumdo,152-Path,lam,lam,l a m,[x],Dhakal2024,,,,,path,l a.m,2096,613,0,l a.m,Dhakal2024
 Gyalsumdo-172-Sand-1,,Gyalsumdo,172-Sand,pema,pema,p e + m a,[x],Dhakal2024,1382,,,,sand/phe _:ma-suffix,p e + m a,2384 1442,712,1,p e + m a -,Dhakal2024
 Gyalsumdo-68-Fire-1,,Gyalsumdo,68-Fire,me,me,m e,[x],Dhakal2024,1251,,,,fire,m e,982,299,1,m e,Dhakal2024
-Gyalsumdo-182-Smoke-1,,Gyalsumdo,182-Smoke,t̪uba,t̪uba,t̪ u + b a,[x],Dhakal2024,,,,,smoke/tu _:pa-suffix/pa,t̪ u + b a,2488 10,738,0,t̪ u + b a,Dhakal2024
+Gyalsumdo-182-Smoke-1,,Gyalsumdo,182-Smoke,t̪uba,t̪uba,t̪ u + b a,[x],Dhakal2024,57,,,,smoke/tu _:pa-suffix/pa,t̪ u + b a,2488 10,738,1,t̪ u + b a,Dhakal2024
 Gyalsumdo-5-Ash-1,,Gyalsumdo,5-Ash,kɔkt̪al,kɔkt̪al,k ɔ k + !t̪/t̪ʰ a + l !Ø/a,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,,,,,_ash/kok ash/tha _ash/la,k ɔ.k + !t̪/t̪ʰ a + l !Ø/a,69 70 71,26,0,k ɔ.k + !t̪/t̪ʰ a + l !Ø/a,Dhakal2024
 Gyalsumdo-134-Mud-1,,Gyalsumdo,134-Mud,sa,sa,s a,[x],Dhakal2024,534,,,,mud/sa,s a,1831,534,1,s a,Dhakal2024
 Gyalsumdo-51-Dust-1,,Gyalsumdo,51-Dust,t̪ʰala,t̪ʰala,t̪ʰ a + l a,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,1237,,,,ash/tha _ash/la,t̪ʰ a + l a,70 71,26,1,t̪ʰ a + l a,Dhakal2024
@@ -131,7 +131,7 @@ Gyalsumdo-79-Girl-1,,Gyalsumdo,79-Girl,pomo,pomo,p o + m o,[x],Dhakal2024,,,,,ch
 Gyalsumdo-42-Day-1,,Gyalsumdo,42-Day,ɕjaŋma,ɕjaŋma,ɕ j a ŋ + m a,,Dhakal2024,,,,,day _:ma-suffix/ma,ɕ.j a.ŋ + m a,615 11,89,0,ɕ.j a.ŋ + m a,Dhakal2024
 Gyalsumdo-139-Night-1,,Gyalsumdo,139-Night,tsʰemu,tsʰemu,tsʰ e + m u,,Dhakal2024,,,,,night _:mu-suffix/mu,tsʰ e + m u,1900 3365,552,0,tsʰ e - + m u,Dhakal2024
 Gyalsumdo-129-Morning-1,,Gyalsumdo,129-Morning,namʑen,namʑen,n a m + ʑ e n,[x],Dhakal2024,92,,,,morning/nam *morning,n a.m + ʑ e.n,78 1749,92,1,n a.m + ʑ e.n,Dhakal2024
-Gyalsumdo-141-Noon-1,,Gyalsumdo,141-Noon,ɲimaɡuŋ,ɲimaɡuŋ,ɲ i + m a + g u ŋ,[x],Dhakal2024,,,,,sun _ma-suffix/ma noon,ɲ i + m a + g u.ŋ,2613 11 1927,560,0,ɲ i + m a + g u.ŋ,Dhakal2024
+Gyalsumdo-141-Noon-1,,Gyalsumdo,141-Noon,ɲimaɡuŋ,ɲimaɡuŋ,ɲ i + m a + g u ŋ,[x],Dhakal2024,27,,,,sun _ma-suffix/ma noon,ɲ i + m a + g u.ŋ,2613 11 1927,560,1,ɲ i + m a + g u.ŋ,Dhakal2024
 Gyalsumdo-58-Evening-1,,Gyalsumdo,58-Evening,kɔŋmo,kɔŋmo,k ɔ ŋ + m o,[x],Dhakal2024,,,,,evening :mu-suffix/mu,k ɔ.ŋ + m o,811 3365,250,0,k ɔ.ŋ + m o,Dhakal2024
 Gyalsumdo-239-Yesterday-1,,Gyalsumdo,239-Yesterday,t̪aŋ,t̪aŋ,t̪ a ŋ,[x],Dhakal2024,1151,,,,yesterday,t̪ a.ŋ,3753,1151,1,t̪ a.ŋ,Dhakal2024
 Gyalsumdo-207-Today-1,,Gyalsumdo,207-Today,t̪iɹiŋ,t̪iɹiŋ,t̪ i + ɹ i ŋ,[x],Dhakal2024,1438,,,,today long,t̪ i + ɹ i.ŋ,79 1607,1018,1,t̪ i + ɹ i.ŋ,Dhakal2024
@@ -159,8 +159,8 @@ Gyalsumdo-181-Small-1,,Gyalsumdo,181-Small,tɕema,tɕema,!tɕ/tɕʰ e + m a,tɕ�
 Gyalsumdo-93-Heavy-1,,Gyalsumdo,93-Heavy,tɕent̪i,tɕent̪i,tɕ e + ⁿt̪/t̪ i,l.dʑ.i.d «heavy»,Dhakal2024,1290,,,,*heavy/tsen _*:de-suffix,tɕ e + ⁿt̪/t̪ i,1283 1284,370,1,tɕ e + ⁿt̪/t̪ i,Dhakal2024
 Gyalsumdo-115-Light-1,,Gyalsumdo,115-Light,jaŋmu,jaŋmu,j a ŋ + m u,jaŋ «light»,Dhakal2024,1319,,,,light _:mu-suffix/mu,j a.ŋ + m u,1546 3365,450,1,j a.ŋ + m u,Dhakal2024
 Gyalsumdo-1-Above-1,,Gyalsumdo,1-Above,ɲala,ɲala,ɲ a + l a,[x],Dhakal2024,180,,,,above/nya _there/la,ɲ a + l a,1 200,180,1,ɲ a + l a,Dhakal2024
-Gyalsumdo-47-Below-1,,Gyalsumdo,47-Below,wala,wala,w a + l a,[x],Dhakal2024,,,,,below/wa _there/la,w a + l a,199 200,68,0,w a + l a,Dhakal2024
-Gyalsumdo-231-White-1,,Gyalsumdo,231-White,kaɹpu,kaɹpu,k a ɹ + p u,d.k a.r,Dhakal2024,1472,,,,star/white :bu-suffix/pu,k a.ɹ + p u,2565 1581,1106,1,k a.ɹ + p u,Dhakal2024
+Gyalsumdo-47-Below-1,,Gyalsumdo,47-Below,wala,wala,w a + l a,[x],Dhakal2024,62,,,,below/wa _there/la,w a + l a,199 200,68,1,w a + l a,Dhakal2024
+Gyalsumdo-231-White-1,,Gyalsumdo,231-White,kaɹpu,kaɹpu,k a ɹ + p u,d.k a.r,Dhakal2024,1472,,,,star/white _:bu-suffix/pu,k a.ɹ + p u,2565 1581,1106,1,k a.ɹ + p u,Dhakal2024
 Gyalsumdo-17-Black-1,,Gyalsumdo,17-Black,nakpu,nakpu,n a k + p u,nag «black»,Dhakal2024,1203,,,,black _:bu-suffix/pu,n a.k + p u,229 1581,81,1,n a.k + p u,Dhakal2024
 Gyalsumdo-161-Red-1,,Gyalsumdo,161-Red,maɹpu,maɹpu,m a ɹ + p u,d.m a.r,Dhakal2024,1360,,,,red :bu-suffix/pu,m a.ɹ + p u,2205 1581,651,1,m a.ɹ + p u,Dhakal2024
 Gyalsumdo-148-One-1,,Gyalsumdo,148-One,tɕiɡ,tɕiɡ,tɕ i g/k,[x],Dhakal2024,1354,,,,one,tɕ i.g/k,2024,588,1,tɕ i.g/k,Dhakal2024
@@ -217,7 +217,7 @@ Gyalsumdo-81-Togo-1,,Gyalsumdo,81-Togo,to,to,!t/t̪ o,,Dhakal2024,,,,,go/to,!t/t
 Gyalsumdo-38-Tocome-1,,Gyalsumdo,38-Tocome,ɕjo,ɕjo,ɕ j o,,Dhakal2024,1224,,,,come/sjo,ɕ.j o,2921,876,1,ɕ.j o,Dhakal2024
 Gyalsumdo-38-Tocome-2,,Gyalsumdo,38-Tocome,oŋ,oŋ,o ŋ,,Dhakal2024,1223,,,,come/oŋ,o.ŋ,2922,875,1,o.ŋ,Dhakal2024
 Gyalsumdo-186-Tospeak-1,,Gyalsumdo,186-Tospeak,labt̪aŋɡɛ,labt̪aŋɡɛ,l a b + t̪ a ŋ + g ɛ,,Dhakal2024,,,,,speak/lab _to _to,l a.b + t̪ a.ŋ + g ɛ,3211 3212 3213,985,0,l a.b + t̪ a.ŋ + g ɛ,Dhakal2024
-Gyalsumdo-116-Tohearlisten-1,,Gyalsumdo,116-Tohearlisten,ɲin,ɲin,ɲ i n,,Dhakal2024,,,,,hear/njin,ɲ i.n,3033,917,0,ɲ i n,Dhakal2024
+Gyalsumdo-116-Tohearlisten-1,,Gyalsumdo,116-Tohearlisten,ɲin,ɲin,ɲ i n,,Dhakal2024,51,,,,hear/njin,ɲ i.n,3033,917,1,ɲ i n,Dhakal2024
 Gyalsumdo-119-Tolook-1,,Gyalsumdo,119-Tolook,t̪e,t̪e,t̪ e,,Dhakal2024,,,,,look/ta,t̪ e,3096,944,0,t̪ e,Dhakal2024
 Gyalsumdo-103-I-1,,Gyalsumdo,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Gyalsumdo-203-Youinformal-1,,Gyalsumdo,203-Youinformal,kʰe,kʰe,kʰ !Ø/j e,[x],Dhakal2024,1430,,,,thou,kʰ.!Ø/j e,3779,1157,1,kʰ.!Ø/j - e -,Dhakal2024
@@ -289,7 +289,7 @@ Jirel-21-Bone-1,,Jirel,21-Bone,ɹuba,ɹuba,ɹ u + b a,[x],Dhakal2024,1208,,,,bon
 Jirel-92-Heart-1,,Jirel,92-Heart,ɲiŋ,ɲiŋ,ɲ i ŋ,[x],Dhakal2024,1288,,,,heart,ɲ i.ŋ,1274,369,1,ɲ i.ŋ,Dhakal2024
 Jirel-18-Blood-1,,Jirel,18-Blood,tʰak,tʰak,t̪ʰ a k,[x],Dhakal2024,1206,,,,blood,t̪ʰ a.k,246,83,1,t̪ʰ a.k,Dhakal2024
 Jirel-218-Urine-1,,Jirel,218-Urine,tsiŋ,tsiŋ,ts i ŋ,[x],Dhakal2024,,,,,urine,ts i.ŋ,3457,1054,0,ts i.ŋ,Dhakal2024
-Jirel-61-Faeces-1,,Jirel,61-Faeces,kjakpa,kjakpa,k j a k + p a,[x],Dhakal2024,,,,,shit _:pa-suffix/pa,k.j a.k + p a,852 10,261,0,k.j a.k + p a,Dhakal2024
+Jirel-61-Faeces-1,,Jirel,61-Faeces,kjakpa,kjakpa,k j a k + p a,[x],Dhakal2024,23,,,,shit _:pa-suffix/pa,k.j a.k + p a,852 10,261,1,k.j a.k + p a,Dhakal2024
 Jirel-219-Village-1,,Jirel,219-Village,jul,jul,j u l,[x],Dhakal2024,,,,,village,j u.l,3466,1055,0,j u.l,Dhakal2024
 Jirel-99-House-1,,Jirel,99-House,kʰamba,kʰamba,kʰ a !m/ŋ + b a,[ ] check ba status,Dhakal2024,1301,,,,house _:pa-suffix/pa,kʰ a.!m/ŋ + b a,1383 10,402,1,kʰ a.!m/ŋ + b a,Dhakal2024
 Jirel-166-Roof-1,,Jirel,166-Roof,tsʰanu,tsʰanu,tsʰ a + n u,[x],Dhakal2024,,,,,roof/tsha roof/nu,tsʰ a + n u,2289 2290,682,0,tsʰ a + n u,Dhakal2024
@@ -311,7 +311,7 @@ Jirel-191-Sun-1,,Jirel,191-Sun,ɲima,ɲima,ɲ i + m a,[x],Dhakal2024,1418,,,,sun
 Jirel-128-Moon-1,,Jirel,128-Moon,nd̪aɡaɹ,nd̪aɡaɹ,ⁿd/d̪ a + g/k a ɹ,s.l a,Dhakal2024,1327,,,,moon/da star/white,ⁿd/d̪ a + g/k a.ɹ,15 2565,501,1,ⁿd/d̪ a + g/k a.ɹ,Dhakal2024
 Jirel-179-Sky-1,,Jirel,179-Sky,n̪am,n̪am,!n̪/n a m,[x],Dhakal2024,1392,,,,sky-rain,!n̪/n a.m,2462,730,1,!n̪/n a.m,Dhakal2024
 Jirel-188-Star-1,,Jirel,188-Star,kaɹma,kaɹma,k a ɹ + m a,s.k a.r,Dhakal2024,1410,,,,star/white _ma-suffix/ma,k a.ɹ + m a,2565 11,759,1,k a.ɹ + m a,Dhakal2024
-Jirel-160-Rain-1,,Jirel,160-Rain,tɕʰjaɹba,tɕʰjaɹba,tɕʰ j a ɹ + b a,[x],Dhakal2024,,,,,rain/tcjar _:pa-suffix/ba,tɕʰ.j a.ɹ + b a,2178 8,643,0,tɕʰ.j a.ɹ + b a,Dhakal2024
+Jirel-160-Rain-1,,Jirel,160-Rain,tɕʰjaɹba,tɕʰjaɹba,tɕʰ j a ɹ + b a,[x],Dhakal2024,36,,,,rain/tcjar _:pa-suffix/ba,tɕʰ.j a.ɹ + b a,2178 8,643,1,tɕʰ.j a.ɹ + b a,Dhakal2024
 Jirel-221-Water-1,,Jirel,221-Water,tɕʰju,tɕʰju,tɕʰj/tɕʰ u,[x],Dhakal2024,1458,,,,water,tɕʰj/tɕʰ u,3477,1058,1,tɕʰj/tɕʰ u,Dhakal2024
 Jirel-165-River-1,,Jirel,165-River,tʰaŋka,tʰaŋka,!tʰ/ts a ŋ + k a,[x],Dhakal2024,1368,,,,river/tsaŋ _:suffix/ka,!tʰ/ts a.ŋ + k a,2270 2272,674,1,!tʰ/ts a.ŋ + k a,Dhakal2024
 Jirel-36-Cloud-1,,Jirel,36-Cloud,mukpa,mukpa,m u k + p a,[x],Dhakal2024,176,,,,cloud/muk _pa-suffix/pa,m u.k + p a,536 10,176,1,m u.k + p a,Dhakal2024
@@ -323,7 +323,7 @@ Jirel-190-Stone-1,,Jirel,190-Stone,nd̪o,nd̪o,ⁿd/d̪ o,[x],Dhakal2024,1416,,,
 Jirel-152-Path-1,,Jirel,152-Path,lam,lam,l a m,[x],Dhakal2024,,,,,path,l a.m,2096,613,0,l a.m,Dhakal2024
 Jirel-172-Sand-1,,Jirel,172-Sand,pʰesa,pʰesa,pʰ e + s a,[x],Dhakal2024,1382,,,,sand/phe _sand/sa,pʰ e + s a,2384 57,712,1,pʰ e + s a,Dhakal2024
 Jirel-68-Fire-1,,Jirel,68-Fire,me,me,m e,[x],Dhakal2024,1251,,,,fire,m e,982,299,1,m e,Dhakal2024
-Jirel-182-Smoke-1,,Jirel,182-Smoke,t̪ʰut̪ak,t̪ʰut̪ak,t̪ʰ u + t̪ a k,[x],Dhakal2024,,,,,smoke/tu _:suffix/tak,t̪ʰ u + t̪ a.k,2488 2490,738,0,t̪ʰ u + t̪ a.k,Dhakal2024
+Jirel-182-Smoke-1,,Jirel,182-Smoke,t̪ʰut̪ak,t̪ʰut̪ak,t̪ʰ u + t̪ a k,[x],Dhakal2024,57,,,,smoke/tu _:suffix/tak,t̪ʰ u + t̪ a.k,2488 2490,738,1,t̪ʰ u + t̪ a.k,Dhakal2024
 Jirel-5-Ash-1,,Jirel,5-Ash,t̪ʰala,t̪ʰala,t̪ʰ a + l a,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,,,,,ash/tha _ash/la,t̪ʰ a + l a,70 71,26,0,t̪ʰ a - + l a,Dhakal2024
 Jirel-134-Mud-1,,Jirel,134-Mud,səbi,səbi,s ə + b i,[x],Dhakal2024,534,,,,mud/sa _mud/bi,s ə + b i,1831 1832,534,1,s ə + b i,Dhakal2024
 Jirel-51-Dust-1,,Jirel,51-Dust,d̪ulo,d̪ulo,!d̪/t̪ʰ !u/a + l !o/a,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,1237,,,,ash/tha _ash/la,!d̪/t̪ʰ !u/a + l !o/a,70 71,26,1,!d̪/t̪ʰ !u/a + l !o/a,Dhakal2024
@@ -390,7 +390,7 @@ Jirel-79-Girl-1,,Jirel,79-Girl,pʰemmepidza,pʰemmepidza,pʰ e m + m e + !p/pʰ 
 Jirel-42-Day-1,,Jirel,42-Day,ɲima,ɲima,ɲ i + m a,,Dhakal2024,,,,,sun _ma-suffix/ma,ɲ i + m a,2613 11,196,0,ɲ i - + m a,Dhakal2024
 Jirel-139-Night-1,,Jirel,139-Night,ŋɡwase,ŋɡwase,ⁿg/g w a + s e,,Dhakal2024,,,,,evening/gwa night/se,ⁿg/g.w a + s e,813 814,554,0,ⁿg/g.w a + s e,Dhakal2024
 Jirel-129-Morning-1,,Jirel,129-Morning,ŋomu,ŋomu,ŋ o + m u,[x],Dhakal2024,1331,,,,morning _:mu-suffix/mu,ŋ o + m u,1748 3365,506,1,ŋ o - + m u,Dhakal2024
-Jirel-141-Noon-1,,Jirel,141-Noon,ɲimmu,ɲimmu,ɲ i + m !Ø/a + m u,[x],Dhakal2024,,,,,sun _ma-suffix/ma _:mu-suffix/mu,ɲ i + m !Ø/a + m u,2613 11 3365,94,0,ɲ i + m !Ø/a + m u,Dhakal2024
+Jirel-141-Noon-1,,Jirel,141-Noon,ɲimmu,ɲimmu,ɲ i + m !Ø/a + m u,[x],Dhakal2024,30,,,,sun _ma-suffix/ma _:mu-suffix/mu,ɲ i + m !Ø/a + m u,2613 11 3365,94,1,ɲ i + m !Ø/a + m u,Dhakal2024
 Jirel-58-Evening-1,,Jirel,58-Evening,ŋɡwase,ŋɡwase,ⁿg/g w a + s e,[x],Dhakal2024,,,,,evening/gwa night/se,ⁿg/g.w a + s e,813 814,251,0,ⁿg/g.w a + s e,Dhakal2024
 Jirel-239-Yesterday-1,,Jirel,239-Yesterday,nd̪aŋ,nd̪aŋ,ⁿd/d̪ a ŋ,[x],Dhakal2024,1151,,,,yesterday,ⁿd/d̪ a.ŋ,3753,1151,1,ⁿd/d̪ a.ŋ,Dhakal2024
 Jirel-207-Today-1,,Jirel,207-Today,tʰəɹiŋ,tʰəɹiŋ,!tʰ/t̪ ə + ɹ i ŋ,[x],Dhakal2024,1438,,,,today long,!tʰ/t̪ ə + ɹ i.ŋ,79 1607,1018,1,!tʰ/t̪ ə + ɹ i.ŋ,Dhakal2024
@@ -418,7 +418,7 @@ Jirel-181-Small-1,,Jirel,181-Small,tikti,tikti,t̪ i k + t̪ i,tɕʰuŋ «small�
 Jirel-93-Heavy-1,,Jirel,93-Heavy,tsend̪e,tsend̪e,!ts/tɕ e + ⁿd̪/d̪ e,l.dʑ.i.d «heavy»,Dhakal2024,1290,,,,*heavy/tsen _*:de-suffix,!ts/tɕ e + ⁿd̪/d̪ e,1283 1284,370,1,!ts/tɕ e + ⁿd̪/d̪ e,Dhakal2024
 Jirel-115-Light-1,,Jirel,115-Light,jeŋɡe,jeŋɡe,j e ŋ + g e,jaŋ «light»,Dhakal2024,1319,,,,light _/ga,j e.ŋ + g e,1546 1552,450,1,j e.ŋ + g e,Dhakal2024
 Jirel-1-Above-1,,Jirel,1-Above,jine,jine,j i + n e,[x],Dhakal2024,3,,,,above/ji above/ne,j i + n e,2 24,3,1,j i + n e,Dhakal2024
-Jirel-47-Below-1,,Jirel,47-Below,mima,mima,m i + m a,[x],Dhakal2024,,,,,below/mi _ma-suffix/ma,m i + m a,201 11,69,0,m i + m a,Dhakal2024
+Jirel-47-Below-1,,Jirel,47-Below,mima,mima,m i + m a,[x],Dhakal2024,59,,,,below/mi _ma-suffix/ma,m i + m a,201 11,69,1,m i + m a,Dhakal2024
 Jirel-231-White-1,,Jirel,231-White,kaɹmu,kaɹmu,k a ɹ + m u,d.k a.r,Dhakal2024,1472,,,,star/white :mu-suffix/mu,k a.ɹ + m u,2565 12,101,1,k a.ɹ + m u,Dhakal2024
 Jirel-17-Black-1,,Jirel,17-Black,naɡpo,naɡpo,n a g/k + p o,nag «black»,Dhakal2024,1203,,,,black _:bu-suffix/pu,n a.g/k + p o,229 1581,81,1,n a.g/k + p o,Dhakal2024
 Jirel-161-Red-1,,Jirel,161-Red,məɹmu,məɹmu,m !ə/a ɹ + m u,d.m a.r,Dhakal2024,1360,,,,red _:mu-suffix/mu,m !ə/a.ɹ + m u,2205 3365,651,1,m !ə/a.ɹ + m u,Dhakal2024
@@ -483,7 +483,7 @@ Jirel-81-Togo-1,,Jirel,81-Togo,ɡalat̪e,ɡalat̪e,g a + l a + t̪ e,,Dhakal2024
 Jirel-81-Togo-2,,Jirel,81-Togo,ŋɡjuk,ŋɡjuk,ⁿg/g j u k,,Dhakal2024,,,,,go,ⁿg/g.j u.k,3022,915,0,ⁿg/g.j u.k,Dhakal2024
 Jirel-38-Tocome-1,,Jirel,38-Tocome,ɕjok,ɕjok,ɕ j o k,,Dhakal2024,1224,,,,come/sjo,ɕ.j o.k,2921,876,1,ɕ.j o.k,Dhakal2024
 Jirel-186-Tospeak-1,,Jirel,186-Tospeak,mbat̪kʰabat̪e,mbat̪kʰabat̪e,ⁿb/b a t̪ + kʰ a + b a + t̪ e,,Dhakal2024,,,,,speak/bat speak/kha _:vrb-suffix/ba _:te-suffix/te,ⁿb/b a.t̪ + kʰ a + b a + t̪ e,3214 3215 8 9,986,0,ⁿb/b a.t̪ + kʰ a + b a + t̪ e,Dhakal2024
-Jirel-116-Tohearlisten-1,,Jirel,116-Tohearlisten,t̪ʰobat̪e,t̪ʰobat̪e,t̪ʰ o + b a + t̪ e,,Dhakal2024,,,,,hear/to _:vrb-suffix/ba _:te-suffix/te,t̪ʰ o + b a + t̪ e,3034 8 9,918,0,t̪ʰ o - + b a + t̪ e,Dhakal2024
+Jirel-116-Tohearlisten-1,,Jirel,116-Tohearlisten,t̪ʰobat̪e,t̪ʰobat̪e,t̪ʰ o + b a + t̪ e,,Dhakal2024,48,,,,hear/to _:vrb-suffix/ba _:te-suffix/te,t̪ʰ o + b a + t̪ e,3034 8 9,918,1,t̪ʰ o - + b a + t̪ e,Dhakal2024
 Jirel-119-Tolook-1,,Jirel,119-Tolook,t̪abat̪e,t̪abat̪e,t̪ a + b a + t̪ e,,Dhakal2024,,,,,lookt/ta _:vrb-suffix/ba _:te-suffix/te,t̪ a + b a + t̪ e,3096 8 9,944,0,t̪ a + b a + t̪ e,Dhakal2024
 Jirel-103-I-1,,Jirel,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Jirel-203-Youinformal-1,,Jirel,203-Youinformal,kʰo,kʰo,kʰ !Ø/j o,[x],Dhakal2024,1430,,,,thou,kʰ.!Ø/j o,3779,1157,1,kʰ.!Ø/j - o -,Dhakal2024
@@ -549,7 +549,7 @@ Kagate-21-Bone-1,,Kagate,21-Bone,rekok,rekok,r e + k o k,[x],Dhakal2024,1208,,,,
 Kagate-92-Heart-1,,Kagate,92-Heart,niŋ,niŋ,n i ŋ,[x],Dhakal2024,1288,,,,heart,n i.ŋ,1274,369,1,n i.ŋ,Dhakal2024
 Kagate-18-Blood-1,,Kagate,18-Blood,tʰa,tʰa,t̪ʰ a,[x],Dhakal2024,1206,,,,blood,t̪ʰ a,246,83,1,t̪ʰ a,Dhakal2024
 Kagate-218-Urine-1,,Kagate,218-Urine,tsiŋ,tsiŋ,ts i ŋ,[x],Dhakal2024,,,,,urine,ts i.ŋ,3457,1054,0,ts i.ŋ,Dhakal2024
-Kagate-61-Faeces-1,,Kagate,61-Faeces,kjakpa,kjakpa,k j a k + p a,[x],Dhakal2024,,,,,shit _:pa-suffix/pa,k.j a.k + p a,852 10,261,0,k.j a.k + p a,Dhakal2024
+Kagate-61-Faeces-1,,Kagate,61-Faeces,kjakpa,kjakpa,k j a k + p a,[x],Dhakal2024,23,,,,shit _:pa-suffix/pa,k.j a.k + p a,852 10,261,1,k.j a.k + p a,Dhakal2024
 Kagate-219-Village-1,,Kagate,219-Village,jul,jul,j u l,[x],Dhakal2024,,,,,village,j u.l,3466,1055,0,j u.l,Dhakal2024
 Kagate-99-House-1,,Kagate,99-House,kʰim,kʰim,kʰ i m,[x],Dhakal2024,1300,,,,house/khim,kʰ i.m,31,404,1,kʰ i.m,Dhakal2024
 Kagate-166-Roof-1,,Kagate,166-Roof,t̪uŋso,t̪uŋso,t̪ u ŋ + s o,[x],Dhakal2024,,,,,roof/tuŋ _roof/so,t̪ u.ŋ + s o,2291 2292,681,0,t̪ u.ŋ + s o,Dhakal2024
@@ -568,9 +568,9 @@ Kagate-35-Cloth-1,,Kagate,35-Cloth,kela,kela,k e + l a,[x],Dhakal2024,,,,,cloth 
 Kagate-164-Ring-1,,Kagate,164-Ring,sipt̪ur,sipt̪ur,s i p + t̪ u r,[x],Dhakal2024,,,,,ring/se ring/top,s i.p + t̪ u.r,2253 2254,670,0,s i.p + t̪ u.r,Dhakal2024
 Kagate-191-Sun-1,,Kagate,191-Sun,ŋima,ŋima,ŋ i + m a,[x],Dhakal2024,1418,,,,sun _:ma-suffix/ma,ŋ i + m a,2613 11,773,1,ŋ i - + m a,Dhakal2024
 Kagate-128-Moon-1,,Kagate,128-Moon,d̪aɡarmu,d̪aɡarmu,d̪ a + g/k a r + m u,s.l a,Dhakal2024,1327,,,,moon/da star/white _:suffix/mu,d̪ a + g/k a.r + m u,15 2565 1581,501,1,d̪ a + g/k a.r + m u,Dhakal2024
-Kagate-179-Sky-1,,Kagate,179-Sky,nam,nam,n a m,[x],Dhakal2024,1392,,,,sky-rain,n a.m,2462,730,1,n a.m,Dhakal2024
+Kagate-179-Sky-1,,Kagate,179-Sky,nam,nam,n a m,[x],Dhakal2024,38,,,,sky-rain,n a.m,2462,730,1,n a.m,Dhakal2024
 Kagate-188-Star-1,,Kagate,188-Star,karma,karma,k a r + m a,s.k a.r,Dhakal2024,1410,,,,star/white _:ma-suffix/ma,k a.r + m a,2565 11,759,1,k a.r + m a,Dhakal2024
-Kagate-160-Rain-1,,Kagate,160-Rain,nam,nam,n a m,[x],Dhakal2024,,,,,sky-rain,n a.m,2462,642,0,n a.m,Dhakal2024
+Kagate-160-Rain-1,,Kagate,160-Rain,nam,nam,n a m,[x],Dhakal2024,38,,,,sky-rain,n a.m,2462,642,1,n a.m,Dhakal2024
 Kagate-221-Water-1,,Kagate,221-Water,tɕʰju,tɕʰju,tɕʰj/tɕʰ u,[x],Dhakal2024,1458,,,,water,tɕʰj/tɕʰ u,3477,1058,1,tɕʰj/tɕʰ u,Dhakal2024
 Kagate-165-River-1,,Kagate,165-River,tsaŋbu,tsaŋbu,ts a ŋ + b u,[x],Dhakal2024,1368,,,,river/tsaŋ _:bu-suffix/pu,ts a.ŋ + b u,2270 1581,674,1,ts a.ŋ + b u,Dhakal2024
 Kagate-36-Cloud-1,,Kagate,36-Cloud,mukpa,mukpa,m u k + p a,[x],Dhakal2024,176,,,,cloud/muk _pa-suffix/pa,m u.k + p a,536 10,176,1,m u.k + p a,Dhakal2024
@@ -581,7 +581,7 @@ Kagate-190-Stone-1,,Kagate,190-Stone,t̪o,t̪o,t̪ o,[x],Dhakal2024,1416,,,,ston
 Kagate-152-Path-1,,Kagate,152-Path,lam,lam,l a m,[x],Dhakal2024,,,,,path,l a.m,2096,613,0,l a.m,Dhakal2024
 Kagate-172-Sand-1,,Kagate,172-Sand,pema,pema,p e + m a,[x],Dhakal2024,1382,,,,sand/phe _:ma-suffix,p e + m a,2384 1442,712,1,p e + m a -,Dhakal2024
 Kagate-68-Fire-1,,Kagate,68-Fire,me,me,m e,[x],Dhakal2024,1251,,,,fire,m e,982,299,1,m e,Dhakal2024
-Kagate-182-Smoke-1,,Kagate,182-Smoke,d̪ipa,d̪ipa,d̪ i + p a,[x],Dhakal2024,,,,,smoke/tu _:pa-suffix/pa,d̪ i + p a,2488 10,738,0,d̪ i + p a,Dhakal2024
+Kagate-182-Smoke-1,,Kagate,182-Smoke,d̪ipa,d̪ipa,d̪ i + p a,[x],Dhakal2024,68,,,,smoke/tu _:pa-suffix/pa,d̪ i + p a,2488 10,738,1,d̪ i + p a,Dhakal2024
 Kagate-5-Ash-1,,Kagate,5-Ash,t̪ʰala,t̪ʰala,t̪ʰ a + l a,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,,,,,ash/tha _ash/la,t̪ʰ a + l a,70 71,26,0,t̪ʰ a - + l a,Dhakal2024
 Kagate-134-Mud-1,,Kagate,134-Mud,sebi,sebi,s e + b i,[x],Dhakal2024,534,,,,mud/sa _mud/bi,s e + b i,1831 1832,534,1,s e + b i,Dhakal2024
 Kagate-51-Dust-1,,Kagate,51-Dust,t̪ʰaldzuk,t̪ʰaldzuk,t̪ʰ a + l Ø/a + dz u k,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,1237,,,,ash/tha _ash/la _dust/dzuk,t̪ʰ a + l Ø/a + dz u.k,70 71 60,26,1,t̪ʰ a + l Ø/a + dz u.k,Dhakal2024
@@ -647,8 +647,8 @@ Kagate-79-Girl-1,,Kagate,79-Girl,pitukmu,pitukmu,p i + t̪ u k + m u,[x],Dhakal2
 Kagate-42-Day-1,,Kagate,42-Day,ɲima,ɲima,ɲ i + m a,,Dhakal2024,,,,,sun _:ma-suffix/ma,ɲ i + m a,2613 11,196,0,ɲ i - + m a,Dhakal2024
 Kagate-139-Night-1,,Kagate,139-Night,komu,komu,k !o/u !Ø/ŋ + m u,,Dhakal2024,,,,,evening _:mu-suffix/mu,k !o/u.!Ø/ŋ + m u,811 3365,87,0,k !o/u.!Ø/ŋ + m u,Dhakal2024
 Kagate-129-Morning-1,,Kagate,129-Morning,ŋamu,ŋamu,ŋ a + m u,[x],Dhakal2024,1331,,,,morning _:mu-suffix/mu,ŋ a + m u,1748 3365,506,1,ŋ a - + m u,Dhakal2024
-Kagate-141-Noon-1,,Kagate,141-Noon,tsʰəkəl,tsʰəkəl,tsʰ ə + k ə l,[x],Dhakal2024,,,,,noon/tshe noon/kel,tsʰ ə + k ə.l,1928 1929,564,0,tsʰ ə + k ə.l,Dhakal2024
-Kagate-141-Noon-2,,Kagate,141-Noon,ɲimakarpo,ɲimakarpo,ɲ i + m a + k a r + p o,[x],Dhakal2024,,,,,sun _ma-suffix/ma noon/kar _/po,ɲ i + m a + k a.r + p o,1925 1926 1931 1930,97,0,ɲ i + m a + k a.r + p o,Dhakal2024
+Kagate-141-Noon-1,,Kagate,141-Noon,tsʰəkəl,tsʰəkəl,tsʰ ə + k ə l,[x],Dhakal2024,28,,,,noon/tshe noon/kel,tsʰ ə + k ə.l,1928 1929,564,1,tsʰ ə + k ə.l,Dhakal2024
+Kagate-141-Noon-2,,Kagate,141-Noon,ɲimakarpo,ɲimakarpo,ɲ i + m a + k a r + p o,[x],Dhakal2024,67,,,,sun _ma-suffix/ma noon/kar _/po,ɲ i + m a + k a.r + p o,1925 1926 1931 1930,97,1,ɲ i + m a + k a.r + p o,Dhakal2024
 Kagate-58-Evening-1,,Kagate,58-Evening,kuŋɕe,kuŋɕe,k u ŋ + ɕ e,[x],Dhakal2024,,,,,evening night/se,k u.ŋ + ɕ e,811 814,99,0,k u.ŋ + ɕ e,Dhakal2024
 Kagate-239-Yesterday-1,,Kagate,239-Yesterday,d̪aŋ,d̪aŋ,d̪ a ŋ,[x],Dhakal2024,1151,,,,yesterday,d̪ a.ŋ,3753,1151,1,d̪ a.ŋ,Dhakal2024
 Kagate-207-Today-1,,Kagate,207-Today,t̪iriŋ,t̪iriŋ,t̪ i + r i ŋ,[x],Dhakal2024,1438,,,,today long,t̪ i + r i.ŋ,79 1607,1018,1,t̪ i + r i.ŋ,Dhakal2024
@@ -676,7 +676,7 @@ Kagate-181-Small-1,,Kagate,181-Small,tɕʰimi,tɕʰimi,tɕʰ i + m i,tɕʰuŋ «
 Kagate-93-Heavy-1,,Kagate,93-Heavy,tsend̪i,tsend̪i,!ts/tɕ e + ⁿd̪/d̪ i,l.dʑ.i.d «heavy»,Dhakal2024,1290,,,,*heavy/tsen _*:de-suffix,!ts/tɕ e + ⁿd̪/d̪ i,1283 1284,370,1,!ts/tɕ e + ⁿd̪/d̪ i,Dhakal2024
 Kagate-115-Light-1,,Kagate,115-Light,jaŋd̪i,jaŋd̪i,j a ŋ + d̪ i,jaŋ «light»,Dhakal2024,1319,,,,light _/di,j a.ŋ + d̪ i,1546 1549,450,1,j a.ŋ + d̪ i,Dhakal2024
 Kagate-1-Above-1,,Kagate,1-Above,t̪ʰola,t̪ʰola,t̪ʰ o + l a,[x],Dhakal2024,1,,,,above/tho _there/la,t̪ʰ o + l a,4 200,1,1,t̪ʰ o - + l a,Dhakal2024
-Kagate-47-Below-1,,Kagate,47-Below,wala,wala,w a + l a,[x],Dhakal2024,,,,,below/wa _there/la,w a + l a,199 200,68,0,w a + l a,Dhakal2024
+Kagate-47-Below-1,,Kagate,47-Below,wala,wala,w a + l a,[x],Dhakal2024,62,,,,below/wa _there/la,w a + l a,199 200,68,1,w a + l a,Dhakal2024
 Kagate-231-White-1,,Kagate,231-White,karmu,karmu,k a r + m u,d.k a.r,Dhakal2024,1472,,,,star/white :mu-suffix/mu,k a.r + m u,2565 12,101,1,k a.r + m u,Dhakal2024
 Kagate-17-Black-1,,Kagate,17-Black,nakpu,nakpu,n a k + p u,nag «black»,Dhakal2024,1203,,,,black _:bu-suffix/pu,n a.k + p u,229 1581,81,1,n a.k + p u,Dhakal2024
 Kagate-161-Red-1,,Kagate,161-Red,marmu,marmu,m a r + m u,d.m a.r,Dhakal2024,1360,,,,red _:mu-suffix/mu,m a.r + m u,2205 3365,651,1,m a.r + m u,Dhakal2024
@@ -730,7 +730,7 @@ Kagate-169-Torun-1,,Kagate,169-Torun,tɕʰjoŋdze,tɕʰjoŋdze,tɕʰj/tɕʰ o ŋ
 Kagate-81-Togo-1,,Kagate,81-Togo,dodze,dodze,d̪ o + dz e,,Dhakal2024,,,,,go/to _:vb-suffix/dze,d̪ o + dz e,3017 13,910,0,d̪ o - + dz e -,Dhakal2024
 Kagate-38-Tocome-1,,Kagate,38-Tocome,oŋdze,oŋdze,o ŋ + dz e,,Dhakal2024,1223,,,,come/oŋ _:vb-suffix/dze,o.ŋ + dz e,2922 13,875,1,o.ŋ + dz e,Dhakal2024
 Kagate-186-Tospeak-1,,Kagate,186-Tospeak,latse,latse,l a + !ts/dz e,,Dhakal2024,,,,,speak/lab _to,l a + !ts/dz e,3211 13,985,0,l a - + !ts/dz e,Dhakal2024
-Kagate-116-Tohearlisten-1,,Kagate,116-Tohearlisten,kodze,kodze,k o + dz e,,Dhakal2024,,,,,hear/ko _:vb-suffix/dze,k o + dz e,3037 13,918,0,k o + dz e,Dhakal2024
+Kagate-116-Tohearlisten-1,,Kagate,116-Tohearlisten,kodze,kodze,k o + dz e,,Dhakal2024,41,,,,hear/ko _:vb-suffix/dze,k o + dz e,3037 13,918,1,k o + dz e,Dhakal2024
 Kagate-119-Tolook-1,,Kagate,119-Tolook,t̪adze,t̪adze,t̪ a + dz e,,Dhakal2024,,,,,look/ta _:vb-suffix/dze,t̪ a + dz e,3096 13,944,0,t̪ a + dz e,Dhakal2024
 Kagate-103-I-1,,Kagate,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Kagate-203-Youinformal-1,,Kagate,203-Youinformal,kʰjo,kʰjo,kʰ j o,[x],Dhakal2024,1430,,,,thou,kʰ.j o,3779,1157,1,kʰ.j o,Dhakal2024
@@ -802,8 +802,8 @@ Lowa-21-Bone-1,,Lowa,21-Bone,ɹuko,ɹuko,ɹ/ɾ u + k o,[x],Dhakal2024,1208,,,,bo
 Lowa-92-Heart-1,,Lowa,92-Heart,ɲiŋ,ɲiŋ,ɲ i ŋ,[x],Dhakal2024,1288,,,,heart,ɲ i.ŋ,1274,369,1,ɲ i.ŋ,Dhakal2024
 Lowa-18-Blood-1,,Lowa,18-Blood,tʰak,tʰak,t̪ʰ a k,[x],Dhakal2024,1206,,,,blood,t̪ʰ a.k,246,83,1,t̪ʰ a.k,Dhakal2024
 Lowa-218-Urine-1,,Lowa,218-Urine,tsiŋ,tsiŋ,ts i ŋ,[x],Dhakal2024,,,,,urine,ts i.ŋ,3457,1054,0,ts i.ŋ,Dhakal2024
-Lowa-61-Faeces-1,,Lowa,61-Faeces,kjakpa,kjakpa,k j a k + p a,[x],Dhakal2024,,,,,shit _:pa-suffix/pa,k.j a.k + p a,852 10,261,0,k.j a.k + p a,Dhakal2024
-Lowa-61-Faeces-2,,Lowa,61-Faeces,tsa,tsa,ts a,[x],Dhakal2024,,,,,shit/tsa,ts a,855,264,0,ts a,Dhakal2024
+Lowa-61-Faeces-1,,Lowa,61-Faeces,kjakpa,kjakpa,k j a k + p a,[x],Dhakal2024,23,,,,shit _:pa-suffix/pa,k.j a.k + p a,852 10,261,1,k.j a.k + p a,Dhakal2024
+Lowa-61-Faeces-2,,Lowa,61-Faeces,tsa,tsa,ts a,[x],Dhakal2024,26,,,,shit/tsa,ts a,855,264,1,ts a,Dhakal2024
 Lowa-219-Village-1,,Lowa,219-Village,toŋsep,toŋsep,t̪ o ŋ + s e p,[?] ← Chinese (?),Dhakal2024,,,,,*village/toŋ *village/sep,t̪ o.ŋ + s e.p,3467 3468,1056,0,t̪ o.ŋ + s e.p,Dhakal2024
 Lowa-99-House-1,,Lowa,99-House,kʰaŋpa,kʰaŋpa,kʰ a ŋ + p a,[ ] check ba status,Dhakal2024,1301,,,,house _:pa-suffix/pa,kʰ a.ŋ + p a,1383 10,402,1,kʰ a.ŋ + p a,Dhakal2024
 Lowa-166-Roof-1,,Lowa,166-Roof,t̪aŋ,t̪aŋ,t̪ a ŋ,[x],Dhakal2024,,,,,roof/tuŋ,t̪ a.ŋ,2291,681,0,t̪ a.ŋ,Dhakal2024
@@ -824,7 +824,7 @@ Lowa-191-Sun-1,,Lowa,191-Sun,ɲima,ɲima,ɲ i + m a,[x],Dhakal2024,1418,,,,sun _
 Lowa-128-Moon-1,,Lowa,128-Moon,nd̪a,nd̪a,ⁿd/d a,s.l a,Dhakal2024,1327,,,,moon/da,ⁿd/d a,15,34,1,ⁿd/d a,Dhakal2024
 Lowa-179-Sky-1,,Lowa,179-Sky,nam,nam,n a m,[x],Dhakal2024,1392,,,,sky-rain,n a.m,2462,730,1,n a.m,Dhakal2024
 Lowa-188-Star-1,,Lowa,188-Star,kaɹma,kaɹma,k aɹ/a + m a,s.k a.r,Dhakal2024,1410,,,,star/white _:ma-suffix/ma,k aɹ/a + m a,2565 11,759,1,k aɹ/a + m a,Dhakal2024
-Lowa-160-Rain-1,,Lowa,160-Rain,tɕʰjawa,tɕʰjawa,tɕʰj/tɕʰ a + w a,[x],Dhakal2024,,,,,rain/tcjar _:wa-suffix,tɕʰj/tɕʰ a + w a,2178 2180,643,0,tɕʰj/tɕʰ a + w a,Dhakal2024
+Lowa-160-Rain-1,,Lowa,160-Rain,tɕʰjawa,tɕʰjawa,tɕʰj/tɕʰ a + w a,[x],Dhakal2024,36,,,,rain/tcjar _:wa-suffix,tɕʰj/tɕʰ a + w a,2178 2180,643,1,tɕʰj/tɕʰ a + w a,Dhakal2024
 Lowa-221-Water-1,,Lowa,221-Water,tɕʰju,tɕʰju,tɕʰj/tɕʰ u,[x],Dhakal2024,1458,,,,water,tɕʰj/tɕʰ u,3477,1058,1,tɕʰj/tɕʰ u,Dhakal2024
 Lowa-165-River-1,,Lowa,165-River,tsaŋpo,tsaŋpo,ts a ŋ + p o,[x],Dhakal2024,1368,,,,river/tsaŋ _:bu-suffix/pu,ts a.ŋ + p o,2270 1581,674,1,ts a.ŋ + p o,Dhakal2024
 Lowa-36-Cloud-1,,Lowa,36-Cloud,ʂɹiŋpa,ʂɹiŋpa,ʂ ɹ/ɾ i ŋ + p a,[x],Dhakal2024,1216,,,,cloud/sriŋ _:pa-suffix/pa,ʂ.ɹ/ɾ i.ŋ + p a,538 10,36,1,ʂ.ɹ/ɾ i.ŋ + p a,Dhakal2024
@@ -836,7 +836,7 @@ Lowa-190-Stone-1,,Lowa,190-Stone,t̪okoŋ,t̪okoŋ,t̪ o + k o ŋ,[x],Dhakal2024
 Lowa-152-Path-1,,Lowa,152-Path,lam,lam,l a m,[x],Dhakal2024,,,,,path,l a.m,2096,613,0,l a.m,Dhakal2024
 Lowa-172-Sand-1,,Lowa,172-Sand,pema,pema,p e + m a,[x],Dhakal2024,1382,,,,sand/phe _:ma-suffix,p e + m a,2384 1442,712,1,p e + m a -,Dhakal2024
 Lowa-68-Fire-1,,Lowa,68-Fire,me,me,m e,[x],Dhakal2024,1251,,,,fire,m e,982,299,1,m e,Dhakal2024
-Lowa-182-Smoke-1,,Lowa,182-Smoke,t̪ipa,t̪ipa,t̪ i + p a,[x],Dhakal2024,,,,,smoke/tu _:pa-suffix/pa,t̪ i + p a,2488 10,738,0,t̪ i + p a,Dhakal2024
+Lowa-182-Smoke-1,,Lowa,182-Smoke,t̪ipa,t̪ipa,t̪ i + p a,[x],Dhakal2024,68,,,,smoke/tu _:pa-suffix/pa,t̪ i + p a,2488 10,738,1,t̪ i + p a,Dhakal2024
 Lowa-5-Ash-1,,Lowa,5-Ash,koɡt̪ʰa,koɡt̪ʰa,k o g/k + t̪ʰ a,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,,,,,_ash/kok ash/tha,k o.g/k + t̪ʰ a,69 70,26,0,k o.g/k + t̪ʰ a,Dhakal2024
 Lowa-134-Mud-1,,Lowa,134-Mud,n̪d̪ampak,n̪d̪ampak,ⁿd/d a m + p a k,[x],Dhakal2024,1342,,,,mud/dam _mud/pak,ⁿd/d a.m + p a.k,1833 1834,535,1,ⁿd/d a.m + p a.k,Dhakal2024
 Lowa-134-Mud-2,,Lowa,134-Mud,sa,sa,s a,[x],Dhakal2024,534,,,,mud/sa,s a,1831,534,1,s a,Dhakal2024
@@ -903,7 +903,7 @@ Lowa-79-Girl-1,,Lowa,79-Girl,pomo,pomo,p o + m o,[x],Dhakal2024,,,,,child-son fe
 Lowa-42-Day-1,,Lowa,42-Day,ɲima,ɲima,ɲ i + m a,,Dhakal2024,,,,,sun _:ma-suffix/ma,ɲ i + m a,2613 11,196,0,ɲ i - + m a -,Dhakal2024
 Lowa-139-Night-1,,Lowa,139-Night,tsʰemo,tsʰemo,tsʰ e + m o,,Dhakal2024,,,,,night _:mu-suffix/mu,tsʰ e + m o,1900 3365,552,0,tsʰ e - + m o,Dhakal2024
 Lowa-129-Morning-1,,Lowa,129-Morning,ŋat̪o,ŋat̪o,ŋ a + t̪ o,[x],Dhakal2024,1331,,,,morning ?,ŋ a + t̪ o,1748 1751,506,1,ŋ a - + t̪ o -,Dhakal2024
-Lowa-141-Noon-1,,Lowa,141-Noon,ɲiŋɡuŋ,ɲiŋɡuŋ,ɲ i + !ŋ/m !Ø/a + g u ŋ,[x],Dhakal2024,,,,,sun _ma-suffix/ma noon,ɲ i + !ŋ/m !Ø/a + g u.ŋ,2613 11 1927,560,0,ɲ i + !ŋ/m !Ø/a + g u.ŋ,Dhakal2024
+Lowa-141-Noon-1,,Lowa,141-Noon,ɲiŋɡuŋ,ɲiŋɡuŋ,ɲ i + !ŋ/m !Ø/a + g u ŋ,[x],Dhakal2024,27,,,,sun _ma-suffix/ma noon,ɲ i + !ŋ/m !Ø/a + g u.ŋ,2613 11 1927,560,1,ɲ i + !ŋ/m !Ø/a + g u.ŋ,Dhakal2024
 Lowa-58-Evening-1,,Lowa,58-Evening,komo,komo,k o + m o,[x],Dhakal2024,,,,,evening :mu-suffix/mu,k o + m o,811 3365,250,0,k o - + m o,Dhakal2024
 Lowa-239-Yesterday-1,,Lowa,239-Yesterday,nd̪aŋ,nd̪aŋ,ⁿd/d a ŋ,[x],Dhakal2024,1151,,,,yesterday,ⁿd/d a.ŋ,3753,1151,1,ⁿd/d a.ŋ,Dhakal2024
 Lowa-207-Today-1,,Lowa,207-Today,t̪iɾiŋ,t̪iɾiŋ,t̪ i + ɾ i ŋ,[x],Dhakal2024,1438,,,,today long,t̪ i + ɾ i.ŋ,79 1607,1018,1,t̪ i + ɾ i.ŋ,Dhakal2024
@@ -932,7 +932,7 @@ Lowa-181-Small-1,,Lowa,181-Small,tɕuŋwa,tɕuŋwa,tɕ u ŋ + w a,tɕʰuŋ «sma
 Lowa-93-Heavy-1,,Lowa,93-Heavy,ndze,ndze,!ⁿdz/tɕ e,l.dʑ.i.d «heavy»,Dhakal2024,1290,,,,*heavy/tsen,!ⁿdz/tɕ e,1283,370,1,!ⁿdz/tɕ e,Dhakal2024
 Lowa-115-Light-1,,Lowa,115-Light,jaŋa,jaŋa,j a !Ø/ŋ + ŋ a,jaŋ «light»,Dhakal2024,1319,,,,light _:ŋa-suffix,j a.!Ø/ŋ + ŋ a,1546 1550,450,1,j a.!Ø/ŋ - + ŋ a,Dhakal2024
 Lowa-1-Above-1,,Lowa,1-Above,t̪ʰøʔ,t̪ʰøʔ,t̪ʰ ø ʔ,[x],Dhakal2024,1,,,,above/tho,t̪ʰ ø.ʔ,4,1,1,t̪ʰ ø.ʔ,Dhakal2024
-Lowa-47-Below-1,,Lowa,47-Below,meʔ,meʔ,m e ʔ,[x],Dhakal2024,,,,,below/me,m e.ʔ,203,72,0,m e.ʔ,Dhakal2024
+Lowa-47-Below-1,,Lowa,47-Below,meʔ,meʔ,m e ʔ,[x],Dhakal2024,47,,,,below/me,m e.ʔ,203,72,1,m e.ʔ,Dhakal2024
 Lowa-231-White-1,,Lowa,231-White,kawo,kawo,k a + w o,d.k a.r,Dhakal2024,1472,,,,star/white /wo,k a + w o,2565 3624,102,1,k a + w o,Dhakal2024
 Lowa-17-Black-1,,Lowa,17-Black,naɡpo,naɡpo,n a g/k + p o,nag «black»,Dhakal2024,1203,,,,black _:bu-suffix/pu,n a.g/k + p o,229 1581,81,1,n a.g/k + p o,Dhakal2024
 Lowa-161-Red-1,,Lowa,161-Red,mawo,mawo,m a + !w/m o,d.m a.r,Dhakal2024,1360,,,,red _:mu-suffix/mu,m a + !w/m o,2205 3365,651,1,m a - + !w/m o,Dhakal2024
@@ -991,7 +991,7 @@ Lowa-169-Torun-1,,Lowa,169-Torun,paŋt̪aŋje,paŋt̪aŋje,p a ŋ + t̪ a + ŋ j
 Lowa-81-Togo-1,,Lowa,81-Togo,ndoje,ndoje,ⁿd/d o + j e,,Dhakal2024,,,,,go/to _:je-suffix,ⁿd/d o + j e,3017 2910,910,0,ⁿd/d o - + j e,Dhakal2024
 Lowa-38-Tocome-1,,Lowa,38-Tocome,uŋje,uŋje,u ŋ + j e,,Dhakal2024,1223,,,,come/oŋ _to,u.ŋ + j e,2924 2925,878,1,u.ŋ + j e,Dhakal2024
 Lowa-186-Tospeak-1,,Lowa,186-Tospeak,naje,naje,n a + j e,,Dhakal2024,,,,,speak/na _:je-suffix,n a + j e,3217 2910,991,0,n a + j e,Dhakal2024
-Lowa-116-Tohearlisten-1,,Lowa,116-Tohearlisten,ɲenje,ɲenje,ɲ e + n j e,,Dhakal2024,,,,,hear/njin _to,ɲ e + n.j e,3033 3038,917,0,ɲ e + n j e,Dhakal2024
+Lowa-116-Tohearlisten-1,,Lowa,116-Tohearlisten,ɲenje,ɲenje,ɲ e n + j e,,Dhakal2024,51,,,,hear/njin _to,ɲ e.n + j e,3033 3038,917,1,ɲ e.n + j e,Dhakal2024
 Lowa-119-Tolook-1,,Lowa,119-Tolook,nd̪aje,nd̪aje,!ⁿd/t̪ a + j e,,Dhakal2024,,,,,look/ta _:je-suffix,!ⁿd/t̪ a + j e,3096 2910,944,0,!ⁿd/t̪ a + j e,Dhakal2024
 Lowa-103-I-1,,Lowa,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Lowa-203-Youinformal-1,,Lowa,203-Youinformal,kʰøʔ,kʰøʔ,kʰ !Ø/j ø ʔ,[x],Dhakal2024,1430,,,,thou,kʰ.!Ø/j ø.ʔ,3779,1157,1,kʰ.!Ø/j ø.ʔ,Dhakal2024
@@ -1059,7 +1059,7 @@ Nubri-21-Bone-1,,Nubri,21-Bone,hɹypa,hɹypa,h ɹ y + p a,[x],Dhakal2024,1208,,,
 Nubri-92-Heart-1,,Nubri,92-Heart,ɲiŋ,ɲiŋ,ɲ i ŋ,[x],Dhakal2024,1288,,,,heart,ɲ i.ŋ,1274,369,1,ɲ i.ŋ,Dhakal2024
 Nubri-18-Blood-1,,Nubri,18-Blood,tʰa,tʰa,t̪ʰ a,[x],Dhakal2024,1206,,,,blood,t̪ʰ a,246,83,1,t̪ʰ a,Dhakal2024
 Nubri-218-Urine-1,,Nubri,218-Urine,tɕʰi,tɕʰi,!tɕʰ/ts i,[x],Dhakal2024,,,,,urine,!tɕʰ/ts i,3457,1054,0,!tɕʰ/ts i -,Dhakal2024
-Nubri-61-Faeces-1,,Nubri,61-Faeces,aʔ,aʔ,a ʔ,[x],Dhakal2024,,,,,shit/a,a.ʔ,854,263,0,a.ʔ,Dhakal2024
+Nubri-61-Faeces-1,,Nubri,61-Faeces,aʔ,aʔ,a ʔ,[x],Dhakal2024,24,,,,shit/a,a.ʔ,854,263,1,a.ʔ,Dhakal2024
 Nubri-219-Village-1,,Nubri,219-Village,jul,jul,j u l,[x],Dhakal2024,,,,,village,j u.l,3466,1055,0,j u.l,Dhakal2024
 Nubri-99-House-1,,Nubri,99-House,kʰim,kʰim,kʰ i m,[x],Dhakal2024,1300,,,,house/khim,kʰ i.m,31,404,1,kʰ i.m,Dhakal2024
 Nubri-166-Roof-1,,Nubri,166-Roof,t̪ʰɔ,t̪ʰɔ,t̪ʰ ɔ,[x],Dhakal2024,,,,,roof/tok,t̪ʰ ɔ,2288,679,0,t̪ʰ ɔ -,Dhakal2024
@@ -1078,9 +1078,9 @@ Nubri-35-Cloth-1,,Nubri,35-Cloth,kalaʔ,kalaʔ,k a + l a ʔ,[x],Dhakal2024,,,,,c
 Nubri-164-Ring-1,,Nubri,164-Ring,soɹt̪ob,soɹt̪ob,s o ɹ + t̪ o b,[x],Dhakal2024,,,,,ring/se ring/top,s o.ɹ + t̪ o.b,2253 2254,670,0,s o.ɹ + t̪ o.b,Dhakal2024
 Nubri-191-Sun-1,,Nubri,191-Sun,ɲo,ɲo,ɲ o,[x],Dhakal2024,1418,,,,sun,ɲ o,76,82,1,ɲ o -,Dhakal2024
 Nubri-128-Moon-1,,Nubri,128-Moon,t̪a,t̪a,t̪ a,s.l a,Dhakal2024,1294,,,,moon/da,t̪ a,15,34,1,t̪ a,Dhakal2024
-Nubri-179-Sky-1,,Nubri,179-Sky,nam,nam,n a m,[x],Dhakal2024,1392,,,,sky-rain,n a.m,2462,730,1,n a.m,Dhakal2024
+Nubri-179-Sky-1,,Nubri,179-Sky,nam,nam,n a m,[x],Dhakal2024,38,,,,sky-rain,n a.m,2462,730,1,n a.m,Dhakal2024
 Nubri-188-Star-1,,Nubri,188-Star,kaɹma,kaɹma,k a ɹ + m a,s.k a.r,Dhakal2024,1410,,,,star/white _:ma-suffix/ma,k a.ɹ + m a,2565 11,759,1,k a.ɹ + m a,Dhakal2024
-Nubri-160-Rain-1,,Nubri,160-Rain,nam,nam,n a m,[x],Dhakal2024,,,,,sky-rain,n a.m,2462,642,0,n a.m,Dhakal2024
+Nubri-160-Rain-1,,Nubri,160-Rain,nam,nam,n a m,[x],Dhakal2024,38,,,,sky-rain,n a.m,2462,642,1,n a.m,Dhakal2024
 Nubri-221-Water-1,,Nubri,221-Water,tɕʰju,tɕʰju,tɕʰj/tɕʰ u,[x],Dhakal2024,1458,,,,water,tɕʰj/tɕʰ u,3477,1058,1,tɕʰj/tɕʰ u,Dhakal2024
 Nubri-165-River-1,,Nubri,165-River,kjuɡtɕʰju,kjuɡtɕʰju,k j u g/k + tɕʰ j u,[x],Dhakal2024,677,,,,river/kjug _river/tshju,k.j u.g/k + tɕʰ.j u,2273 2274,677,1,k.j u.g/k + tɕʰ.j u,Dhakal2024
 Nubri-36-Cloud-1,,Nubri,36-Cloud,muɡpa,muɡpa,m u g/k + p a,[x],Dhakal2024,176,,,,cloud/muk _pa-suffix/pa,m u.g/k + p a,536 10,176,1,m u.g/k + p a,Dhakal2024
@@ -1091,7 +1091,7 @@ Nubri-190-Stone-1,,Nubri,190-Stone,t̪oh,t̪oh,t̪ o h,[x],Dhakal2024,1416,,,,st
 Nubri-152-Path-1,,Nubri,152-Path,lamkja,lamkja,l a m + k j a,[x],Dhakal2024,,,,,path _path/kja,l a.m + k.j a,2096 2097,613,0,l a.m + k.j a,Dhakal2024
 Nubri-172-Sand-1,,Nubri,172-Sand,pɛ̃:,pɛ̃:,p ɛ̃ː/ɛ + Ø/m Ø/a,[x],Dhakal2024,1382,,,,sand/phe _:ma-suffix,p ɛ̃ː/ɛ + Ø/m Ø/a,2384 1442,712,1,p ɛ̃ː/ɛ + Ø/m Ø/a -,Dhakal2024
 Nubri-68-Fire-1,,Nubri,68-Fire,mẽ,mẽ,m !ẽ/e,[x],Dhakal2024,1251,,,,fire,m !ẽ/e,982,299,1,m !ẽ/e,Dhakal2024
-Nubri-182-Smoke-1,,Nubri,182-Smoke,t̪ohpa,t̪ohpa,t̪ o h + p a,[x],Dhakal2024,,,,,smoke/tu _:pa-suffix/pa,t̪ o.h + p a,2488 10,738,0,t̪ o.h + p a,Dhakal2024
+Nubri-182-Smoke-1,,Nubri,182-Smoke,t̪ohpa,t̪ohpa,t̪ o h + p a,[x],Dhakal2024,57,,,,smoke/tu _:pa-suffix/pa,t̪ o.h + p a,2488 10,738,1,t̪ o.h + p a,Dhakal2024
 Nubri-5-Ash-1,,Nubri,5-Ash,kot̪ʰal,kot̪ʰal,k o + t̪ʰ a + l !Ø/a,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,,,,,_ash/kok ash/tha _ash/la,k o + t̪ʰ a + l !Ø/a,69 70 71,26,0,k o + t̪ʰ a + l !Ø/a,Dhakal2024
 Nubri-134-Mud-1,,Nubri,134-Mud,t̪ampa,t̪ampa,t̪ a m + p a,[!] could be a pa-suffix,Dhakal2024,1342,,,,mud/dam _mud/pak,t̪ a.m + p a,1833 1834,535,1,t̪ a.m + p a,Dhakal2024
 Nubri-51-Dust-1,,Nubri,51-Dust,t̪ʰala,t̪ʰala,t̪ʰ a + l a,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,1237,,,,ash/tha _ash/la,t̪ʰ a + l a,70 71,26,1,t̪ʰ a + l a,Dhakal2024
@@ -1155,7 +1155,7 @@ Nubri-79-Girl-1,,Nubri,79-Girl,poõ,poõ,p o/u Ø/h + Ø/m õ/o,[x],Dhakal2024,,
 Nubri-42-Day-1,,Nubri,42-Day,ɲin̪,ɲin̪,ɲ i + n !Ø/ə,,Dhakal2024,,,,,sun _:n-suffix,ɲ i + n !Ø/ə,2613 76,196,0,ɲ i + n !Ø/ə,Dhakal2024
 Nubri-139-Night-1,,Nubri,139-Night,tsʰen̪,tsʰen̪,tsʰ e + n !Ø/ə,,Dhakal2024,,,,,night _-:n-suffix,tsʰ e + n !Ø/ə,1900 76,552,0,tsʰ e + n !Ø/ə,Dhakal2024
 Nubri-129-Morning-1,,Nubri,129-Morning,tõŋkõ,tõŋkõ,t̪ !õ/o ŋ + k !õ/o,[x],Dhakal2024,507,,,,morning/tong ?,t̪ !õ/o.ŋ + k !õ/o,1751 1752,507,1,t̪ !õ/o.ŋ + k !õ/o,Dhakal2024
-Nubri-141-Noon-1,,Nubri,141-Noon,n̪iŋkũ,n̪iŋkũ,!n̪/ɲ i + !ŋ/m !Ø/a + k !ũ/u,[x],Dhakal2024,,,,,sun _:ma-suffix/ma noon,!n̪/ɲ i + !ŋ/m !Ø/a + k !ũ/u,2613 11 1927,560,0,!n̪/ɲ i + !ŋ/m !Ø/a + k !ũ/u,Dhakal2024
+Nubri-141-Noon-1,,Nubri,141-Noon,n̪iŋkũ,n̪iŋkũ,!n̪/ɲ i + !ŋ/m !Ø/a + k !ũ/u,[x],Dhakal2024,27,,,,sun _:ma-suffix/ma noon,!n̪/ɲ i + !ŋ/m !Ø/a + k !ũ/u,2613 11 1927,560,1,!n̪/ɲ i + !ŋ/m !Ø/a + k !ũ/u,Dhakal2024
 Nubri-58-Evening-1,,Nubri,58-Evening,koŋmo,koŋmo,k o ŋ + m o,[x],Dhakal2024,,,,,evening :mu-suffix/mu,k o.ŋ + m o,811 3365,250,0,k o.ŋ + m o,Dhakal2024
 Nubri-239-Yesterday-1,,Nubri,239-Yesterday,t̪aŋ,t̪aŋ,t̪ a ŋ,[x],Dhakal2024,1151,,,,yesterday,t̪ a.ŋ,3753,1151,1,t̪ a.ŋ,Dhakal2024
 Nubri-207-Today-1,,Nubri,207-Today,t̪iɹiŋ,t̪iɹiŋ,t̪ i + ɹ i ŋ,[x],Dhakal2024,1438,,,,today long,t̪ i + ɹ i.ŋ,79 1607,1018,1,t̪ i + ɹ i.ŋ,Dhakal2024
@@ -1182,7 +1182,7 @@ Nubri-181-Small-1,,Nubri,181-Small,tɛtɛ,tɛtɛ,t̪ ɛ + t̪ ɛ,tɕʰuŋ «smal
 Nubri-93-Heavy-1,,Nubri,93-Heavy,tsʰint̪i,tsʰint̪i,!tsʰ/tɕ i + ⁿt̪/t̪ i,l.dʑ.i.d «heavy»,Dhakal2024,1290,,,,*heavy/tsen _*:de-suffix,!tsʰ/tɕ i + ⁿt̪/t̪ i,1283 1284,370,1,!tsʰ/tɕ i + ⁿt̪/t̪ i,Dhakal2024
 Nubri-115-Light-1,,Nubri,115-Light,jaŋpo,jaŋpo,j a ŋ + p o,jaŋ «light»,Dhakal2024,1319,,,,light _:po-suffix,j a.ŋ + p o,1546 107,450,1,j a.ŋ + p o,Dhakal2024
 Nubri-1-Above-1,,Nubri,1-Above,kaŋ,kaŋ,k a ŋ,[x],Dhakal2024,6,,,,above/kang,k a.ŋ,5,6,1,k a.ŋ,Dhakal2024
-Nubri-47-Below-1,,Nubri,47-Below,ɦo,ɦo,ɦ o,[x],Dhakal2024,,,,,below/ho,ɦ o,204,73,0,ɦ o,Dhakal2024
+Nubri-47-Below-1,,Nubri,47-Below,ɦo,ɦo,ɦ o,[x],Dhakal2024,50,,,,below/ho,ɦ o,204,73,1,ɦ o,Dhakal2024
 Nubri-231-White-1,,Nubri,231-White,kaɹpo,kaɹpo,k a ɹ + p o,d.k a.r,Dhakal2024,1472,,,,star/white :bu-suffix/pu,k a.ɹ + p o,2565 1581,1106,1,k a.ɹ + p o,Dhakal2024
 Nubri-17-Black-1,,Nubri,17-Black,n̪akpo,n̪akpo,!n̪/n a k + p o,nag «black»,Dhakal2024,1203,,,,black _:bu-suffix/pu,!n̪/n a.k + p o,229 1581,81,1,!n̪/n a.k + p o,Dhakal2024
 Nubri-161-Red-1,,Nubri,161-Red,maɹpo,maɹpo,m a ɹ + p o,d.m a.r,Dhakal2024,1360,,,,red :bu-suffix/pu,m a.ɹ + p o,2205 1581,651,1,m a.ɹ + p o,Dhakal2024
@@ -1238,7 +1238,7 @@ Nubri-81-Togo-1,,Nubri,81-Togo,to,to,!t/t̪ o,,Dhakal2024,,,,,go/to,!t/t̪ o,301
 Nubri-38-Tocome-1,,Nubri,38-Tocome,oŋ,oŋ,o ŋ,,Dhakal2024,1223,,,,come/oŋ,o.ŋ,2922,875,1,o.ŋ,Dhakal2024
 Nubri-186-Tospeak-1,,Nubri,186-Tospeak,ɕe,ɕe,ɕ e,,Dhakal2024,,,,,speak/se,ɕ e,3213,986,0,ɕ e,Dhakal2024
 Nubri-186-Tospeak-2,,Nubri,186-Tospeak,lab,lab,l a b,,Dhakal2024,,,,,speak/lab,l a.b,3211,985,0,l a.b,Dhakal2024
-Nubri-116-Tohearlisten-1,,Nubri,116-Tohearlisten,ɲin̪,ɲin̪,ɲ i n,,Dhakal2024,,,,,hear/njin,ɲ i.n,3033,917,0,ɲ i.n,Dhakal2024
+Nubri-116-Tohearlisten-1,,Nubri,116-Tohearlisten,ɲin̪,ɲin̪,ɲ i n,,Dhakal2024,51,,,,hear/njin,ɲ i.n,3033,917,1,ɲ i.n,Dhakal2024
 Nubri-119-Tolook-1,,Nubri,119-Tolook,t̪eji,t̪eji,t̪ e + j i,,Dhakal2024,,,,,look/ta _to,t̪ e + j i,3096 3100,944,0,t̪ e + j i,Dhakal2024
 Nubri-103-I-1,,Nubri,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Nubri-203-Youinformal-1,,Nubri,203-Youinformal,kʰjo,kʰjo,kʰ j o,[x],Dhakal2024,1430,,,,thou,kʰ.j o,3779,1157,1,kʰ.j o,Dhakal2024
@@ -1307,7 +1307,7 @@ Sherpa-21-Bone-1,,Sherpa,21-Bone,ɹukjok,ɹukjok,ɹ u + k j o k,[x],Dhakal2024,1
 Sherpa-92-Heart-1,,Sherpa,92-Heart,ɲiŋ,ɲiŋ,ɲ i ŋ,[x],Dhakal2024,1288,,,,heart,ɲ i.ŋ,1274,369,1,ɲ i.ŋ,Dhakal2024
 Sherpa-18-Blood-1,,Sherpa,18-Blood,tʰak,tʰak,t̪ʰ a k,[x],Dhakal2024,1206,,,,blood,t̪ʰ a.k,246,83,1,t̪ʰ a.k,Dhakal2024
 Sherpa-218-Urine-1,,Sherpa,218-Urine,tsiŋ,tsiŋ,ts i ŋ,[x],Dhakal2024,,,,,urine,ts i.ŋ,3457,1054,0,ts i.ŋ,Dhakal2024
-Sherpa-61-Faeces-1,,Sherpa,61-Faeces,kjakpa,kjakpa,k j a k + p a,[x],Dhakal2024,,,,,shit _:pa-suffix/pa,k.j a.k + p a,852 10,261,0,k.j a.k + p a,Dhakal2024
+Sherpa-61-Faeces-1,,Sherpa,61-Faeces,kjakpa,kjakpa,k j a k + p a,[x],Dhakal2024,23,,,,shit _:pa-suffix/pa,k.j a.k + p a,852 10,261,1,k.j a.k + p a,Dhakal2024
 Sherpa-219-Village-1,,Sherpa,219-Village,iul,iul,i/j u l,[x],Dhakal2024,,,,,village,i/j u.l,3466,1055,0,i/j u.l,Dhakal2024
 Sherpa-219-Village-2,,Sherpa,219-Village,jul,jul,j u l,[x],Dhakal2024,,,,,village,j u.l,3466,1055,0,j u.l,Dhakal2024
 Sherpa-99-House-1,,Sherpa,99-House,kʰaŋba,kʰaŋba,kʰ a ŋ + b a,[ ] check ba status,Dhakal2024,1301,,,,house _:pa-suffix/pa,kʰ a.ŋ + b a,1383 10,402,1,kʰ a.ŋ + b a,Dhakal2024
@@ -1330,7 +1330,7 @@ Sherpa-128-Moon-1,,Sherpa,128-Moon,əud̪əkar,əud̪əkar,əu + d̪ ə + g/k a 
 Sherpa-179-Sky-1,,Sherpa,179-Sky,nam,nam,n a m,[x],Dhakal2024,1392,,,,sky-rain,n a.m,2462,730,1,n a.m,Dhakal2024
 Sherpa-188-Star-1,,Sherpa,188-Star,kərma,kərma,k ə/a r + m a,s.k a.r,Dhakal2024,1410,,,,star/white _:ma-suffix/ma,k ə/a.r + m a,2565 11,759,1,k ə/a.r + m a,Dhakal2024
 Sherpa-188-Star-2,,Sherpa,188-Star,kərdzjaŋ,kərdzjaŋ,k ə/a r + dz j a ŋ,s.k a.r,Dhakal2024,1410,,,,star/white star/dzjaŋ,k ə/a.r + dz.j a.ŋ,2565 2567,86,1,k ə/a.r + dz.j a.ŋ,Dhakal2024
-Sherpa-160-Rain-1,,Sherpa,160-Rain,tɕjarpa,tɕjarpa,tɕ j a r + p a,[x],Dhakal2024,,,,,rain/tcjar _:pa-suffix/ba,tɕ.j a.r + p a,2178 2179,643,0,tɕ.j a.r + p a,Dhakal2024
+Sherpa-160-Rain-1,,Sherpa,160-Rain,tɕjarpa,tɕjarpa,tɕ j a r + p a,[x],Dhakal2024,36,,,,rain/tcjar _:pa-suffix/ba,tɕ.j a.r + p a,2178 2179,643,1,tɕ.j a.r + p a,Dhakal2024
 Sherpa-221-Water-1,,Sherpa,221-Water,tɕʰju,tɕʰju,tɕʰj/tɕʰ u,[x],Dhakal2024,1458,,,,water,tɕʰj/tɕʰ u,3477,1058,1,tɕʰj/tɕʰ u,Dhakal2024
 Sherpa-165-River-1,,Sherpa,165-River,tsəŋbu,tsəŋbu,ts ə ŋ + b u,[x],Dhakal2024,1368,,,,river/tsaŋ _:bu-suffix/pu,ts ə.ŋ + b u,2270 1581,674,1,ts ə.ŋ + b u,Dhakal2024
 Sherpa-36-Cloud-1,,Sherpa,36-Cloud,mukpa,mukpa,m u k + p a,[x],Dhakal2024,176,,,,cloud/muk _pa-suffix/pa,m u.k + p a,536 10,176,1,m u.k + p a,Dhakal2024
@@ -1341,7 +1341,7 @@ Sherpa-190-Stone-1,,Sherpa,190-Stone,d̪o,d̪o,d̪ o,[x],Dhakal2024,1416,,,,ston
 Sherpa-152-Path-1,,Sherpa,152-Path,lam,lam,l a m,[x],Dhakal2024,,,,,path,l a.m,2096,613,0,l a.m,Dhakal2024
 Sherpa-172-Sand-1,,Sherpa,172-Sand,pʰema,pʰema,pʰ e + m a,[x],Dhakal2024,1382,,,,sand/phe _:ma-suffix,pʰ e + m a,2384 1442,712,1,pʰ e + m a -,Dhakal2024
 Sherpa-68-Fire-1,,Sherpa,68-Fire,me,me,m e,[x],Dhakal2024,1251,,,,fire,m e,982,299,1,m e,Dhakal2024
-Sherpa-182-Smoke-1,,Sherpa,182-Smoke,t̪ʰut̪a,t̪ʰut̪a,t̪ʰ u + t̪ a,[x],Dhakal2024,,,,,smoke/tu _:suffix/tak,t̪ʰ u + t̪ a,2488 2490,738,0,t̪ʰ u + t̪ a -,Dhakal2024
+Sherpa-182-Smoke-1,,Sherpa,182-Smoke,t̪ʰut̪a,t̪ʰut̪a,t̪ʰ u + t̪ a,[x],Dhakal2024,57,,,,smoke/tu _:suffix/tak,t̪ʰ u + t̪ a,2488 2490,738,1,t̪ʰ u + t̪ a -,Dhakal2024
 Sherpa-5-Ash-1,,Sherpa,5-Ash,kʰəsit̪ʰala,kʰəsit̪ʰala,kʰ ə + s i + t̪ʰ a + l a,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,,,,,_ash/khe _ash/si ash/tha _ash/la,kʰ ə + s i + t̪ʰ a + l a,58 59 70 71,26,0,kʰ ə - + s i + t̪ʰ a - + l a,Dhakal2024
 Sherpa-134-Mud-1,,Sherpa,134-Mud,t̪ʰala,t̪ʰala,t̪ʰ a + l a,[?] loan from Chinese?,Dhakal2024,1342,,,,mud/tha _:suffix/la,t̪ʰ a + l a,1833 1835,535,1,t̪ʰ a - + l a,Dhakal2024
 Sherpa-51-Dust-1,,Sherpa,51-Dust,t̪ʰald̪uk,t̪ʰald̪uk,t̪ʰ a + l !Ø/a + d̪ u k,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,1237,,,,ash/tha _ash/la _dust/dzuk,t̪ʰ a + l !Ø/a + d̪ u.k,70 71 60,26,1,t̪ʰ a + l !Ø/a + d̪ u.k,Dhakal2024
@@ -1406,7 +1406,7 @@ Sherpa-79-Girl-1,,Sherpa,79-Girl,pʰumpʰedza,pʰumpʰedza,pʰ u m + pʰ e + dz 
 Sherpa-42-Day-1,,Sherpa,42-Day,ɲima,ɲima,ɲ i + m a,,Dhakal2024,,,,,sun _ma-suffix/ma,ɲ i + m a,2613 11,196,0,ɲ i - + m a,Dhakal2024
 Sherpa-139-Night-1,,Sherpa,139-Night,tsʰemu,tsʰemu,tsʰ e + m u,,Dhakal2024,,,,,night _:mu-suffix/mu,tsʰ e + m u,1900 3365,552,0,tsʰ e - + m u,Dhakal2024
 Sherpa-129-Morning-1,,Sherpa,129-Morning,tʰop,tʰop,t̪ʰ o p,[x],Dhakal2024,91,,,,morning/top,t̪ʰ o.p,77,91,1,t̪ʰ o.p,Dhakal2024
-Sherpa-141-Noon-1,,Sherpa,141-Noon,ɲimkʰuŋ,ɲimkʰuŋ,ɲ i + m !Ø/a + kʰ u ŋ,[x],Dhakal2024,,,,,sun _ma-suffix/ma noon,ɲ i + m !Ø/a + kʰ u.ŋ,2613 11 1927,560,0,ɲ i + m !Ø/a + kʰ u.ŋ,Dhakal2024
+Sherpa-141-Noon-1,,Sherpa,141-Noon,ɲimkʰuŋ,ɲimkʰuŋ,ɲ i + m !Ø/a + kʰ u ŋ,[x],Dhakal2024,27,,,,sun _ma-suffix/ma noon,ɲ i + m !Ø/a + kʰ u.ŋ,2613 11 1927,560,1,ɲ i + m !Ø/a + kʰ u.ŋ,Dhakal2024
 Sherpa-58-Evening-1,,Sherpa,58-Evening,ɡuŋse,ɡuŋse,g u ŋ + s e,[x],Dhakal2024,,,,,evening night/se,g u.ŋ + s e,811 814,99,0,g u.ŋ + s e,Dhakal2024
 Sherpa-239-Yesterday-1,,Sherpa,239-Yesterday,d̪aŋ,d̪aŋ,d̪ a ŋ,[x],Dhakal2024,1151,,,,yesterday,d̪ a.ŋ,3753,1151,1,d̪ a.ŋ,Dhakal2024
 Sherpa-207-Today-1,,Sherpa,207-Today,ariŋ,ariŋ,a + r i ŋ,[x],Dhakal2024,1439,,,,:a-prefix long,a + r i.ŋ,489 1607,103,1,a + r i.ŋ,Dhakal2024
@@ -1433,7 +1433,7 @@ Sherpa-181-Small-1,,Sherpa,181-Small,tikpe,tikpe,t̪ i k + p e,tɕʰuŋ «small�
 Sherpa-93-Heavy-1,,Sherpa,93-Heavy,tsend̪i,tsend̪i,!ts/tɕ e + ⁿd̪/d̪ i,l.dʑ.i.d «heavy»,Dhakal2024,1290,,,,*heavy/tsen _*:de-suffix,!ts/tɕ e + ⁿd̪/d̪ i,1283 1284,370,1,!ts/tɕ e + ⁿd̪/d̪ i,Dhakal2024
 Sherpa-115-Light-1,,Sherpa,115-Light,jeŋɡa,jeŋɡa,j e ŋ + g a,jaŋ «light»,Dhakal2024,1319,,,,light _/ga,j e.ŋ + g a,1546 1552,450,1,j e.ŋ + g a,Dhakal2024
 Sherpa-1-Above-1,,Sherpa,1-Above,jajo,jajo,j a + j o,[x],Dhakal2024,4,,,,above/ja above/jo,j a + j o,6 3,4,1,j a + j o,Dhakal2024
-Sherpa-47-Below-1,,Sherpa,47-Below,mamo,mamo,m a + m o,[x],Dhakal2024,,,,,below/ma below/mo,m a + m o,202 201,69,0,m a + m o,Dhakal2024
+Sherpa-47-Below-1,,Sherpa,47-Below,mamo,mamo,m a + m o,[x],Dhakal2024,63,,,,below/ma below/mo,m a + m o,202 201,69,1,m a + m o,Dhakal2024
 Sherpa-231-White-1,,Sherpa,231-White,karbu,karbu,k a r + b u,d.k a.r,Dhakal2024,1472,,,,star/white :bu-suffix/pu,k a.r + b u,2565 1581,1106,1,k a.r + b u,Dhakal2024
 Sherpa-17-Black-1,,Sherpa,17-Black,nakpu,nakpu,n a k + p u,nag «black»,Dhakal2024,1203,,,,black _:bu-suffix/pu,n a.k + p u,229 1581,81,1,n a.k + p u,Dhakal2024
 Sherpa-161-Red-1,,Sherpa,161-Red,mərbu,mərbu,m !ə/a r + b u,d.m a.r,Dhakal2024,1360,,,,red :bu-suffix/pu,m !ə/a.r + b u,2205 1581,651,1,m !ə/a.r + b u,Dhakal2024
@@ -1486,7 +1486,7 @@ Sherpa-169-Torun-1,,Sherpa,169-Torun,tɕʰjoŋɡu,tɕʰjoŋɡu,tɕʰj/tɕʰ o ŋ
 Sherpa-81-Togo-1,,Sherpa,81-Togo,dop,dop,!d/d̪ o p,,Dhakal2024,,,,,go/to,!d/d̪ o.p,3017,910,0,!d/d̪ o.p,Dhakal2024
 Sherpa-38-Tocome-1,,Sherpa,38-Tocome,uŋgu,uŋgu,u ŋ + g u,,Dhakal2024,1223,,,,come/oŋ _to,u.ŋ + g u,2922 2926,875,1,u.ŋ + g u,Dhakal2024
 Sherpa-186-Tospeak-1,,Sherpa,186-Tospeak,ləbu,ləbu,l ə + b u,,Dhakal2024,,,,,TO _to,l ə + b u,3211 3219,985,0,l ə - + b u,Dhakal2024
-Sherpa-116-Tohearlisten-1,,Sherpa,116-Tohearlisten,ŋeŋɡu,ŋeŋɡu,ŋ e ŋ + g u,,Dhakal2024,,,,,hear/njin _to,ŋ e.ŋ + g u,3033 3039,917,0,ŋ e.ŋ + g u,Dhakal2024
+Sherpa-116-Tohearlisten-1,,Sherpa,116-Tohearlisten,ŋeŋɡu,ŋeŋɡu,ŋ e ŋ + g u,,Dhakal2024,45,,,,hear/njin _to,ŋ e.ŋ + g u,3033 3039,917,1,ŋ e.ŋ + g u,Dhakal2024
 Sherpa-119-Tolook-1,,Sherpa,119-Tolook,hlap,hlap,h l a p,,Dhakal2024,,,,,look/hlap,h.l a.p,3101,949,0,h.l a.p,Dhakal2024
 Sherpa-103-I-1,,Sherpa,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Sherpa-203-Youinformal-1,,Sherpa,203-Youinformal,kʰjoroŋ,kʰjoroŋ,kʰ j o + r o ŋ,[x],Dhakal2024,1430,,,,thou _rong,kʰ.j o + r o.ŋ,3779 3780,1157,1,kʰ.j o + r o.ŋ,Dhakal2024
@@ -1552,7 +1552,7 @@ Tsum-21-Bone-1,,Tsum,21-Bone,ɹiɡoʔ,ɹiɡoʔ,ɹ i + g o ʔ,[x],Dhakal2024,1208
 Tsum-92-Heart-1,,Tsum,92-Heart,ɲiŋ,ɲiŋ,ɲ i ŋ,[x],Dhakal2024,1288,,,,heart,ɲ i.ŋ,1274,369,1,ɲ i.ŋ,Dhakal2024
 Tsum-18-Blood-1,,Tsum,18-Blood,tʰɹaʔ,tʰɹaʔ,t̪ʰ ɹ a ʔ,[x],Dhakal2024,1206,,,,blood,t̪ʰ.ɹ a.ʔ,246,83,1,t̪ʰ.ɹ a.ʔ,Dhakal2024
 Tsum-218-Urine-1,,Tsum,218-Urine,tsiŋ,tsiŋ,ts i ŋ,[x],Dhakal2024,,,,,urine,ts i.ŋ,3457,1054,0,ts i.ŋ,Dhakal2024
-Tsum-61-Faeces-1,,Tsum,61-Faeces,aʔ,aʔ,a ʔ,[x],Dhakal2024,,,,,shit/a,a.ʔ,854,263,0,a.ʔ,Dhakal2024
+Tsum-61-Faeces-1,,Tsum,61-Faeces,aʔ,aʔ,a ʔ,[x],Dhakal2024,24,,,,shit/a,a.ʔ,854,263,1,a.ʔ,Dhakal2024
 Tsum-219-Village-1,,Tsum,219-Village,jul,jul,j u l,[x],Dhakal2024,,,,,village,j u.l,3466,1055,0,j u.l,Dhakal2024
 Tsum-99-House-1,,Tsum,99-House,koɹtsa,koɹtsa,k o ɹ + ts a,[x],Dhakal2024,405,,,,house/kor house/tsa,k o.ɹ + ts a,1384 1385,405,1,k o.ɹ + ts a,Dhakal2024
 Tsum-99-House-2,,Tsum,99-House,kʰim,kʰim,kʰ i m,[x],Dhakal2024,1300,,,,house/khim,kʰ i.m,31,404,1,kʰ i.m,Dhakal2024
@@ -1574,7 +1574,7 @@ Tsum-191-Sun-1,,Tsum,191-Sun,ɲiã,ɲiã,ɲ i + !Ø/m ã/a,[x],Dhakal2024,1418,,
 Tsum-128-Moon-1,,Tsum,128-Moon,nd̪akar,nd̪akar,ⁿd/d̪ a + k a ɹ,s.l a,Dhakal2024,1327,,,,moon/da star/white,ⁿd/d̪ a + k a.ɹ,15 2565,501,1,ⁿd/d̪ a + k a.ɹ,Dhakal2024
 Tsum-179-Sky-1,,Tsum,179-Sky,n̪am,n̪am,!n̪/n a m,[x],Dhakal2024,1392,,,,sky-rain,!n̪/n a.m,2462,730,1,!n̪/n a.m,Dhakal2024
 Tsum-188-Star-1,,Tsum,188-Star,kaɹma,kaɹma,k a ɹ + m a,s.k a.r,Dhakal2024,1410,,,,star/white _:ma-suffix/ma,k a.ɹ + m a,2565 11,759,1,k a.ɹ + m a,Dhakal2024
-Tsum-160-Rain-1,,Tsum,160-Rain,n̪amkjaus̩,n̪amkjaus̩,!n̪/n a m + k j aus̩/au,[x],Dhakal2024,,,,,sky-rain _kjau,!n̪/n a.m + k.j aus̩/au,2462 2178,642,0,!n̪/n a.m + k.j aus̩/au,Dhakal2024
+Tsum-160-Rain-1,,Tsum,160-Rain,n̪amkjaus̩,n̪amkjaus̩,!n̪/n a m + k j aus̩/au,[x],Dhakal2024,38,,,,sky-rain _kjau,!n̪/n a.m + k.j aus̩/au,2462 2178,642,1,!n̪/n a.m + k.j aus̩/au,Dhakal2024
 Tsum-221-Water-1,,Tsum,221-Water,tɕʰju,tɕʰju,tɕʰj/tɕʰ u,[x],Dhakal2024,1458,,,,water,tɕʰj/tɕʰ u,3477,1058,1,tɕʰj/tɕʰ u,Dhakal2024
 Tsum-165-River-1,,Tsum,165-River,tsaŋbo,tsaŋbo,ts a ŋ + b o,[x],Dhakal2024,1368,,,,river/tsaŋ _:bu-suffix/pu,ts a.ŋ + b o,2270 1581,674,1,ts a.ŋ + b o,Dhakal2024
 Tsum-36-Cloud-1,,Tsum,36-Cloud,mukpaʔ,mukpaʔ,m u k + p a ʔ,[x],Dhakal2024,176,,,,cloud/muk _pa-suffix/pa,m u.k + p a.ʔ,536 10,176,1,m u.k + p a.ʔ,Dhakal2024
@@ -1585,7 +1585,7 @@ Tsum-190-Stone-1,,Tsum,190-Stone,t̪o,t̪o,t̪ o,[x],Dhakal2024,1416,,,,stone,t�
 Tsum-152-Path-1,,Tsum,152-Path,lam,lam,l a m,[x],Dhakal2024,,,,,path,l a.m,2096,613,0,l a.m,Dhakal2024
 Tsum-172-Sand-1,,Tsum,172-Sand,ijãʔ,ijãʔ,i + j ã ʔ,[x],Dhakal2024,715,,,,sand/i sand/jã?,i + j ã.ʔ,2387 2388,715,1,i + j ã.ʔ,Dhakal2024
 Tsum-68-Fire-1,,Tsum,68-Fire,me,me,m e,[x],Dhakal2024,1251,,,,fire,m e,982,299,1,m e,Dhakal2024
-Tsum-182-Smoke-1,,Tsum,182-Smoke,t̪upa,t̪upa,t̪ u + p a,[x],Dhakal2024,,,,,smoke/tu _:pa-suffix/pa,t̪ u + p a,2488 10,738,0,t̪ u + p a,Dhakal2024
+Tsum-182-Smoke-1,,Tsum,182-Smoke,t̪upa,t̪upa,t̪ u + p a,[x],Dhakal2024,57,,,,smoke/tu _:pa-suffix/pa,t̪ u + p a,2488 10,738,1,t̪ u + p a,Dhakal2024
 Tsum-5-Ash-1,,Tsum,5-Ash,kozal,kozal,k o + !z/t̪ʰ a + l !Ø/a,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,,,,,_ash/kok ash/tha _ash/la,k o + !z/t̪ʰ a + l !Ø/a,69 70 71,26,0,k o + !z/t̪ʰ a + l !Ø/a,Dhakal2024
 Tsum-134-Mud-1,,Tsum,134-Mud,sa,sa,s a,[x],Dhakal2024,534,,,,mud/sa,s a,1831,534,1,s a,Dhakal2024
 Tsum-51-Dust-1,,Tsum,51-Dust,t̪ʰala,t̪ʰala,t̪ʰ a + l a,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,1237,,,,ash/tha _ash/la,t̪ʰ a + l a,70 71,26,1,t̪ʰ a + l a,Dhakal2024
@@ -1649,7 +1649,7 @@ Tsum-79-Girl-1,,Tsum,79-Girl,naʑjuŋ,naʑjuŋ,n a + ʑ j u ŋ,[x],Dhakal2024,,,
 Tsum-42-Day-1,,Tsum,42-Day,ɕjakpa,ɕjakpa,ɕ j a k + p a,,Dhakal2024,,,,,day _:pa-suffix/pa,ɕ.j a.k + p a,618 53,199,0,ɕ.j a.k + p a,Dhakal2024
 Tsum-139-Night-1,,Tsum,139-Night,n̪umu,n̪umu,n u + m u,,Dhakal2024,,,,,night _:mo-suffix/mu,n u + m u,1905 3365,82,0,n u + m u,Dhakal2024
 Tsum-129-Morning-1,,Tsum,129-Morning,ɕjuo,ɕjuo,ɕ j uo,[x],Dhakal2024,1330,,,,morning/sjo,ɕ.j uo,1753,509,1,ɕ.j uo,Dhakal2024
-Tsum-141-Noon-1,,Tsum,141-Noon,ɲiŋɡuŋ,ɲiŋɡuŋ,ɲ i + !ŋ/m !Ø/a + g u ŋ,[x],Dhakal2024,,,,,sun _ma-suffix/ma noon,ɲ i + !ŋ/m !Ø/a + g u.ŋ,2613 11 1927,560,0,ɲ i + !ŋ/m !Ø/a + g u.ŋ,Dhakal2024
+Tsum-141-Noon-1,,Tsum,141-Noon,ɲiŋɡuŋ,ɲiŋɡuŋ,ɲ i + !ŋ/m !Ø/a + g u ŋ,[x],Dhakal2024,27,,,,sun _ma-suffix/ma noon,ɲ i + !ŋ/m !Ø/a + g u.ŋ,2613 11 1927,560,1,ɲ i + !ŋ/m !Ø/a + g u.ŋ,Dhakal2024
 Tsum-58-Evening-1,,Tsum,58-Evening,kuŋmu,kuŋmu,k u ŋ + m u,[x],Dhakal2024,,,,,evening :mu-suffix/mu,k u.ŋ + m u,811 3365,250,0,k u.ŋ + m u,Dhakal2024
 Tsum-239-Yesterday-1,,Tsum,239-Yesterday,nd̪aŋ,nd̪aŋ,ⁿd/d̪ a ŋ,[x],Dhakal2024,1151,,,,yesterday,ⁿd/d̪ a.ŋ,3753,1151,1,ⁿd/d̪ a.ŋ,Dhakal2024
 Tsum-207-Today-1,,Tsum,207-Today,t̪iɾiŋ,t̪iɾiŋ,t̪ i + ɹ i ŋ,[x],Dhakal2024,1438,,,,today long,t̪ i + ɹ i.ŋ,79 1607,1018,1,t̪ i + ɹ i.ŋ,Dhakal2024
@@ -1676,7 +1676,7 @@ Tsum-181-Small-1,,Tsum,181-Small,tɕʰyma,tɕʰyma,tɕʰ y + m a,tɕʰuŋ «smal
 Tsum-93-Heavy-1,,Tsum,93-Heavy,tɕend̪e,tɕend̪e,tɕ e + ⁿd̪/d̪ e,l.dʑ.i.d «heavy»,Dhakal2024,1290,,,,*heavy/tsen _*:de-suffix,tɕ e + ⁿd̪/d̪ e,1283 1284,370,1,tɕ e + ⁿd̪/d̪ e,Dhakal2024
 Tsum-115-Light-1,,Tsum,115-Light,jaŋbo,jaŋbo,j a ŋ + b o,jaŋ «light»,Dhakal2024,1319,,,,light _:bo-suffix,j a.ŋ + b o,1546 107,450,1,j a.ŋ + b o,Dhakal2024
 Tsum-1-Above-1,,Tsum,1-Above,jau,jau,j a + !Ø/j u,[x],Dhakal2024,4,,,,above/ja above/jo,j a + !Ø/j u,6 3,4,1,j a + !Ø/j u,Dhakal2024
-Tsum-47-Below-1,,Tsum,47-Below,mau,mau,m a + !Ø/m u,[x],Dhakal2024,,,,,below/ma below/mo,m a + !Ø/m u,202 201,69,0,m a + !Ø/m u,Dhakal2024
+Tsum-47-Below-1,,Tsum,47-Below,mau,mau,m a + !Ø/m u,[x],Dhakal2024,63,,,,below/ma below/mo,m a + !Ø/m u,202 201,69,1,m a + !Ø/m u,Dhakal2024
 Tsum-231-White-1,,Tsum,231-White,kaɹbo,kaɹbo,k a ɹ + b o,d.k a.r,Dhakal2024,1472,,,,star/white :bu-suffix/pu,k a.ɹ + b o,2565 1581,1106,1,k a.ɹ + b o,Dhakal2024
 Tsum-17-Black-1,,Tsum,17-Black,nakpo,nakpo,n a k + p o,nag «black»,Dhakal2024,1203,,,,black _:bu-suffix/pu,n a.k + p o,229 1581,81,1,n a.k + p o,Dhakal2024
 Tsum-161-Red-1,,Tsum,161-Red,maɹbo,maɹbo,m a ɹ + b o,d.m a.r,Dhakal2024,1360,,,,red :bu-suffix/pu,m a.ɹ + b o,2205 1581,651,1,m a.ɹ + b o,Dhakal2024
@@ -1735,8 +1735,8 @@ Tsum-81-Togo-2,,Tsum,81-Togo,pyso,pyso,p y + s o,,Dhakal2024,,,,,go/py _:verbal-
 Tsum-38-Tocome-1,,Tsum,38-Tocome,ɕjoʔ,ɕjoʔ,ɕ j o ʔ,,Dhakal2024,1224,,,,come/sjo,ɕ.j o.ʔ,2921,876,1,ɕ.j o.ʔ,Dhakal2024
 Tsum-38-Tocome-2,,Tsum,38-Tocome,leuʑuŋ,leuʑuŋ,l eu + ʑ u ŋ,,Dhakal2024,21,,,,come/leu come/zuŋ,l eu + ʑ u.ŋ,2927 2922,875,1,l eu + ʑ u.ŋ,Dhakal2024
 Tsum-186-Tospeak-1,,Tsum,186-Tospeak,lauso,lauso,l au + s o,,Dhakal2024,,,,,TO _:verbal-suffix/so,l au + s o,3211 2813,985,0,l au - + s o,Dhakal2024
-Tsum-116-Tohearlisten-1,,Tsum,116-Tohearlisten,ɲan,ɲan,ɲ a n,,Dhakal2024,,,,,hear/njin,ɲ a.n,3033,917,0,ɲ a.n,Dhakal2024
-Tsum-116-Tohearlisten-2,,Tsum,116-Tohearlisten,ɲanso,ɲanso,ɲ a n + s o,,Dhakal2024,,,,,hear/njin _:verbal-suffix/so,ɲ a.n + s o,3033 2813,917,0,ɲ a.n + s o,Dhakal2024
+Tsum-116-Tohearlisten-1,,Tsum,116-Tohearlisten,ɲan,ɲan,ɲ a n,,Dhakal2024,51,,,,hear/njin,ɲ a.n,3033,917,1,ɲ a.n,Dhakal2024
+Tsum-116-Tohearlisten-2,,Tsum,116-Tohearlisten,ɲanso,ɲanso,ɲ a n + s o,,Dhakal2024,51,,,,hear/njin _:verbal-suffix/so,ɲ a.n + s o,3033 2813,917,1,ɲ a.n + s o,Dhakal2024
 Tsum-119-Tolook-1,,Tsum,119-Tolook,t̪ø,t̪ø,t̪ ø,,Dhakal2024,,,,,look/ta,t̪ ø,3096,944,0,t̪ ø,Dhakal2024
 Tsum-119-Tolook-2,,Tsum,119-Tolook,t̪eso,t̪eso,t̪ e + s o,,Dhakal2024,,,,,look/ta _:verbal-suffix/so,t̪ e + s o,3096 2813,944,0,t̪ e + s o,Dhakal2024
 Tsum-103-I-1,,Tsum,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
@@ -1814,7 +1814,7 @@ Yolmo-21-Bone-1,,Yolmo,21-Bone,ɹeko,ɹeko,ɹ e + k o,[x],Dhakal2024,1208,,,,bon
 Yolmo-92-Heart-1,,Yolmo,92-Heart,ɲiŋ,ɲiŋ,ɲ i ŋ,[x],Dhakal2024,1288,,,,heart,ɲ i.ŋ,1274,369,1,ɲ i.ŋ,Dhakal2024
 Yolmo-18-Blood-1,,Yolmo,18-Blood,tʰa,tʰa,t̪ʰ a,[x],Dhakal2024,1206,,,,blood,t̪ʰ a,246,83,1,t̪ʰ a,Dhakal2024
 Yolmo-218-Urine-1,,Yolmo,218-Urine,tsiŋ,tsiŋ,ts i ŋ,[x],Dhakal2024,,,,,urine,ts i.ŋ,3457,1054,0,ts i.ŋ,Dhakal2024
-Yolmo-61-Faeces-1,,Yolmo,61-Faeces,kjakpa,kjakpa,k j a k + p a,[x],Dhakal2024,,,,,shit _:pa-suffix/pa,k.j a.k + p a,852 10,261,0,k.j a.k + p a,Dhakal2024
+Yolmo-61-Faeces-1,,Yolmo,61-Faeces,kjakpa,kjakpa,k j a k + p a,[x],Dhakal2024,23,,,,shit _:pa-suffix/pa,k.j a.k + p a,852 10,261,1,k.j a.k + p a,Dhakal2024
 Yolmo-219-Village-1,,Yolmo,219-Village,jul,jul,j u l,[x],Dhakal2024,,,,,village,j u.l,3466,1055,0,j u.l,Dhakal2024
 Yolmo-99-House-1,,Yolmo,99-House,kʰaŋba,kʰaŋba,kʰ a ŋ + b a,[ ] check ba status,Dhakal2024,1301,,,,house _:pa-suffix/pa,kʰ a.ŋ + b a,1383 10,402,1,kʰ a.ŋ + b a,Dhakal2024
 Yolmo-46-Door-1,,Yolmo,46-Door,ko,ko,k o,[x],Dhakal2024,,,,,door,k o,662,213,0,k o,Dhakal2024
@@ -1835,8 +1835,8 @@ Yolmo-191-Sun-1,,Yolmo,191-Sun,ɲima,ɲima,ɲ i + m a,[x],Dhakal2024,1418,,,,sun
 Yolmo-128-Moon-1,,Yolmo,128-Moon,nd̪awa,nd̪awa,ⁿd/d̪ a + w a,s.l a,Dhakal2024,1327,,,,moon/da _:wa-suffix/wa,ⁿd/d̪ a + w a,15 1716,35,1,ⁿd/d̪ a + w a,Dhakal2024
 Yolmo-179-Sky-1,,Yolmo,179-Sky,n̪əm,n̪əm,!n̪/n ə m,[x],Dhakal2024,1392,,,,sky-rain,!n̪/n ə.m,2462,730,1,!n̪/n ə.m,Dhakal2024
 Yolmo-188-Star-1,,Yolmo,188-Star,kəɾma,kəɾma,k ə/a ɾ/ɹ + m a,s.k a.r,Dhakal2024,1410,,,,star/white _:ma-suffix/ma,k ə/a.ɾ/ɹ + m a,2565 11,759,1,k ə/a.ɾ/ɹ + m a,Dhakal2024
-Yolmo-160-Rain-1,,Yolmo,160-Rain,n̪əm,n̪əm,n ə m,[x],Dhakal2024,,,,,sky-rain,n ə.m,2462,642,0,n ə.m,Dhakal2024
-Yolmo-160-Rain-2,,Yolmo,160-Rain,n̪əmɡjabzin̪,n̪əmɡjabzin̪,n ə m + g j a b + z i n,[x],Dhakal2024,,,,,sky-rain _rain _rain,n ə.m + g.j a.b + z i.n,2462 55 2181,642,0,n ə.m + g.j a.b + z i.n,Dhakal2024
+Yolmo-160-Rain-1,,Yolmo,160-Rain,n̪əm,n̪əm,n ə m,[x],Dhakal2024,1392,,,,sky-rain,n ə.m,2462,642,1,n ə.m,Dhakal2024
+Yolmo-160-Rain-2,,Yolmo,160-Rain,n̪əmɡjabzin̪,n̪əmɡjabzin̪,n ə m + g j a b + z i n,[x],Dhakal2024,38,,,,sky-rain _rain _rain,n ə.m + g.j a.b + z i.n,2462 55 2181,642,1,n ə.m + g.j a.b + z i.n,Dhakal2024
 Yolmo-221-Water-1,,Yolmo,221-Water,tɕʰu,tɕʰu,tɕʰj/tɕʰ u,[x],Dhakal2024,1458,,,,water,tɕʰj/tɕʰ u,3477,1058,1,tɕʰj/tɕʰ - u,Dhakal2024
 Yolmo-165-River-1,,Yolmo,165-River,tsəŋbu,tsəŋbu,ts ə ŋ + b u,[x],Dhakal2024,1368,,,,river/tsaŋ _:bu-suffix/pu,ts ə.ŋ + b u,2270 1581,674,1,ts ə.ŋ + b u,Dhakal2024
 Yolmo-36-Cloud-1,,Yolmo,36-Cloud,mukpa,mukpa,m u k + p a,[x],Dhakal2024,176,,,,cloud/muk _pa-suffix/pa,m u.k + p a,536 10,176,1,m u.k + p a,Dhakal2024
@@ -1847,7 +1847,7 @@ Yolmo-190-Stone-1,,Yolmo,190-Stone,t̪o,t̪o,t̪ o,[x],Dhakal2024,1416,,,,stone,
 Yolmo-152-Path-1,,Yolmo,152-Path,lam,lam,l a m,[x],Dhakal2024,,,,,path,l a.m,2096,613,0,l a.m,Dhakal2024
 Yolmo-172-Sand-1,,Yolmo,172-Sand,pema,pema,p e + m a,[x],Dhakal2024,1382,,,,sand/phe _:ma-suffix,p e + m a,2384 1442,712,1,p e + m a -,Dhakal2024
 Yolmo-68-Fire-1,,Yolmo,68-Fire,me,me,m e,[x],Dhakal2024,1251,,,,fire,m e,982,299,1,m e,Dhakal2024
-Yolmo-182-Smoke-1,,Yolmo,182-Smoke,t̪ipa,t̪ipa,t̪ i + p a,[x],Dhakal2024,,,,,smoke/tu _:pa-suffix/pa,t̪ i + p a,2488 10,738,0,t̪ i + p a,Dhakal2024
+Yolmo-182-Smoke-1,,Yolmo,182-Smoke,t̪ipa,t̪ipa,t̪ i + p a,[x],Dhakal2024,68,,,,smoke/tu _:pa-suffix/pa,t̪ i + p a,2488 10,738,1,t̪ i + p a,Dhakal2024
 Yolmo-5-Ash-1,,Yolmo,5-Ash,t̪ʰala,t̪ʰala,t̪ʰ a + l a,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,,,,,ash/tha _ash/la,t̪ʰ a + l a,70 71,26,0,t̪ʰ a - + l a,Dhakal2024
 Yolmo-134-Mud-1,,Yolmo,134-Mud,sasa,sasa,s a + s a,[x],Dhakal2024,534,,,,mud/sa _mud/sa-2,s a + s a,1831 1836,534,1,s a + s a,Dhakal2024
 Yolmo-51-Dust-1,,Yolmo,51-Dust,t̪ʰalbi,t̪ʰalbi,t̪ʰ a + l !Ø/a + b i,[x] check with cross-semantic connections between Ash and Dust,Dhakal2024,1237,,,,ash/tha _ash/la _dust/bi,t̪ʰ a + l !Ø/a + b i,70 71 61,26,1,t̪ʰ a + l !Ø/a + b i,Dhakal2024
@@ -1911,7 +1911,7 @@ Yolmo-79-Girl-1,,Yolmo,79-Girl,ɕjaɹma,ɕjaɹma,ɕj/ɕ a ɹ + m a,[x],Dhakal202
 Yolmo-42-Day-1,,Yolmo,42-Day,ɲima,ɲima,ɲ i + m a,,Dhakal2024,,,,,_day DAY,ɲ i + m a,617 616,196,0,ɲ i - + m a,Dhakal2024
 Yolmo-139-Night-1,,Yolmo,139-Night,kuŋmu,kuŋmu,k u ŋ + m u,,Dhakal2024,,,,,evening _:mu-suffix/mu,k u.ŋ + m u,811 3365,86,0,k u.ŋ + m u,Dhakal2024
 Yolmo-129-Morning-1,,Yolmo,129-Morning,ɕjole,ɕjole,ɕ j o + l e,[x],Dhakal2024,1330,,,,morning/sjo ?,ɕ.j o + l e,1753 1754,509,1,ɕ.j o + l e,Dhakal2024
-Yolmo-141-Noon-1,,Yolmo,141-Noon,ɲimapʰe,ɲimapʰe,ɲ i + m a + pʰ e,[x],Dhakal2024,,,,,sun _ma-suffix/ma noon/phe,ɲ i + m a + pʰ e,1925 1926 1930,96,0,ɲ i - + m a + pʰ e,Dhakal2024
+Yolmo-141-Noon-1,,Yolmo,141-Noon,ɲimapʰe,ɲimapʰe,ɲ i + m a + pʰ e,[x],Dhakal2024,34,,,,sun _ma-suffix/ma noon/phe,ɲ i + m a + pʰ e,1925 1926 1930,96,1,ɲ i - + m a + pʰ e,Dhakal2024
 Yolmo-58-Evening-1,,Yolmo,58-Evening,kuŋse,kuŋse,k u ŋ + s e,[x],Dhakal2024,,,,,evening night/se,k u.ŋ + s e,811 814,99,0,k u.ŋ + s e,Dhakal2024
 Yolmo-239-Yesterday-1,,Yolmo,239-Yesterday,nd̪aŋ,nd̪aŋ,ⁿd/d̪ a ŋ,[x],Dhakal2024,1151,,,,yesterday,ⁿd/d̪ a.ŋ,3753,1151,1,ⁿd/d̪ a.ŋ,Dhakal2024
 Yolmo-207-Today-1,,Yolmo,207-Today,t̪iɹiŋ,t̪iɹiŋ,t̪ i + ɹ i ŋ,[x],Dhakal2024,1438,,,,today long,t̪ i + ɹ i.ŋ,79 1607,1018,1,t̪ i + ɹ i.ŋ,Dhakal2024
@@ -1938,7 +1938,7 @@ Yolmo-181-Small-1,,Yolmo,181-Small,tsemu,tsemu,ts e + m u,tɕʰuŋ «small»,Dha
 Yolmo-93-Heavy-1,,Yolmo,93-Heavy,tɕjand̪i,tɕjand̪i,tɕj/tɕ a + ⁿd̪/d̪ i,l.dʑ.i.d «heavy»,Dhakal2024,1290,,,,*heavy/tsen _*:de-suffix,tɕj/tɕ a + ⁿd̪/d̪ i,1283 1284,370,1,tɕj/tɕ a + ⁿd̪/d̪ i,Dhakal2024
 Yolmo-115-Light-1,,Yolmo,115-Light,jaŋd̪i,jaŋd̪i,j a ŋ + d̪ i,jaŋ «light»,Dhakal2024,1319,,,,light _/di,j a.ŋ + d̪ i,1546 1549,450,1,j a.ŋ + d̪ i,Dhakal2024
 Yolmo-1-Above-1,,Yolmo,1-Above,t̪ʰola,t̪ʰola,t̪ʰ o + l a,[x],Dhakal2024,1,,,,above/tho _there/la,t̪ʰ o + l a,4 200,1,1,t̪ʰ o - + l a,Dhakal2024
-Yolmo-47-Below-1,,Yolmo,47-Below,t̪iŋla,t̪iŋla,t̪ i ŋ + l a,[x],Dhakal2024,,,,,below/ting _there/la,t̪ i.ŋ + l a,205 200,2,0,t̪ i.ŋ + l a,Dhakal2024
+Yolmo-47-Below-1,,Yolmo,47-Below,t̪iŋla,t̪iŋla,t̪ i ŋ + l a,[x],Dhakal2024,65,,,,below/ting _there/la,t̪ i.ŋ + l a,205 200,2,1,t̪ i.ŋ + l a,Dhakal2024
 Yolmo-231-White-1,,Yolmo,231-White,kaɾpu,kaɾpu,k a ɾ/ɹ + p u,d.k a.r,Dhakal2024,1472,,,,star/white :bu-suffix/pu,k a.ɾ/ɹ + p u,2565 1581,1106,1,k a.ɾ/ɹ + p u,Dhakal2024
 Yolmo-17-Black-1,,Yolmo,17-Black,n̪akpu,n̪akpu,!n̪/n a k + p u,nag «black»,Dhakal2024,1203,,,,black _:bu-suffix/pu,!n̪/n a.k + p u,229 1581,81,1,!n̪/n a.k + p u,Dhakal2024
 Yolmo-161-Red-1,,Yolmo,161-Red,maɹmu,maɹmu,m a ɹ + m u,d.m a.r,Dhakal2024,1360,,,,red :mu-suffix,m a.ɹ + m u,2205 966,651,1,m a.ɹ + m u,Dhakal2024
@@ -1993,7 +1993,7 @@ Yolmo-169-Torun-1,,Yolmo,169-Torun,tɕʰjuŋd̪uŋ,tɕʰjuŋd̪uŋ,tɕʰj/tɕʰ 
 Yolmo-81-Togo-1,,Yolmo,81-Togo,soŋ,soŋ,s o ŋ,,Dhakal2024,,,,,go/soŋ,s o.ŋ,3020,911,0,s o ŋ,Dhakal2024
 Yolmo-38-Tocome-1,,Yolmo,38-Tocome,ɕjo,ɕjo,ɕ j o,,Dhakal2024,1224,,,,come/sjo,ɕ.j o,2921,876,1,ɕ.j o,Dhakal2024
 Yolmo-186-Tospeak-1,,Yolmo,186-Tospeak,med̪oŋ,med̪oŋ,m e + d̪ o ŋ,,Dhakal2024,,,,,speak/me TO,m e + d̪ o.ŋ,3220 3212,987,0,m e + d̪ o ŋ,Dhakal2024
-Yolmo-116-Tohearlisten-1,,Yolmo,116-Tohearlisten,ɲind̪oŋ,ɲind̪oŋ,ɲ i n + d̪ o ŋ,,Dhakal2024,,,,,hear/njin _to,ɲ i.n + d̪ o.ŋ,3033 3034,917,0,ɲ i.n + d̪ o.ŋ,Dhakal2024
+Yolmo-116-Tohearlisten-1,,Yolmo,116-Tohearlisten,ɲind̪oŋ,ɲind̪oŋ,ɲ i n + d̪ o ŋ,,Dhakal2024,51,,,,hear/njin _to,ɲ i.n + d̪ o.ŋ,3033 3034,917,1,ɲ i.n + d̪ o.ŋ,Dhakal2024
 Yolmo-119-Tolook-1,,Yolmo,119-Tolook,t̪ed̪oŋ,t̪ed̪oŋ,t̪ e + d̪ o ŋ,,Dhakal2024,,,,,look/te _to,t̪ e + d̪ o.ŋ,3096 3102,944,0,t̪ e + d̪ o.ŋ,Dhakal2024
 Yolmo-103-I-1,,Yolmo,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Yolmo-203-Youinformal-1,,Yolmo,203-Youinformal,kʰje,kʰje,kʰ j e,[x],Dhakal2024,1430,,,,thou,kʰ.j e,3779,1157,1,kʰ.j e,Dhakal2024
@@ -2864,3 +2864,41 @@ Alike-240-Youplural-1,,Alike,240-Youplural,c.çh.ə._.tɕh.o,c.çh.ə._.tɕh.o,c
 Batang-240-Youplural-1,,Batang,240-Youplural,h.ø.y.⁵³,h.ø.y.⁵³,h øy ⁵³,,Sagart2019,1498,,,,,h øy ⁵³,,,1,,Sagart2019
 Lhasa-240-Youplural-1,,Lhasa,240-Youplural,ch.e.⁵⁵.◦.r.a.ŋ.⁵⁵.◦.tsh.o,ch.e.⁵⁵.◦.r.a.ŋ.⁵⁵.◦.tsh.o,ch/ts e ⁵⁵ + r a ŋ ⁵⁵ + tsʰ o,,Sagart2019,1498,,,,,ch/ts e ⁵⁵ + r a ŋ ⁵⁵ + tsʰ o,,,1,,Sagart2019
 Xiahe-240-Youplural-1,,Xiahe,240-Youplural,tɕh.ə._.tɕh.o,tɕh.ə._.tɕh.o,tɕʰ ə + tɕʰ o,,Sagart2019,1498,,,,,tɕʰ ə + tɕʰ o,,,1,,Sagart2019
+Batang-61-Faeces-1,,Batang,61-Faeces,tɕa⁵⁵+pa⁵³,tɕa⁵⁵+pa⁵³,tɕ a ⁵⁵ + p a ⁵³,,Sagart2019,23,,,,,tɕ a ⁵⁵ + p a ⁵³,,,1,,Sagart2019
+Alike-61-Faeces-1,,Alike,61-Faeces,ɣ.cço.k+k.wa,ɣ.cço.k+k.wa,ɣ cç o k + k w a,,Sagart2019,23,,,,,ɣ.cç o.k + k.w a,,,1,,Sagart2019
+Lhasa-61-Faeces-1,,Lhasa,61-Faeces,ca.k⁵⁵+pa⁵⁵,ca.k⁵⁵+pa⁵⁵,c a k ⁵⁵ + p a ⁵⁵,,Sagart2019,23,,,,,c a.k ⁵⁵ + p a ⁵⁵,,,1,,Sagart2019
+OldChinese-61-Faeces-1,,OldChinese,61-Faeces,qʰi.j.ʔ,qʰi.j.ʔ,qʰ i j ʔ,,Sagart2019,25,,,,,qʰ i.j.ʔ,,,1,,Sagart2019
+OldTibetan-61-Faeces-1,,OldTibetan,61-Faeces,s.k.ja.g+pa,s.k.ja.g+pa,s k j a g + p a,,Sagart2019,23,,,,,s.k.j a.g + p a,,,1,,Sagart2019
+Xiahe-61-Faeces-1,,Xiahe,61-Faeces,k.ja.k+pa,k.ja.k+pa,k j a k + p a,,Sagart2019,23,,,,,k.j a.k + p a,,,1,,Sagart2019
+Alike-141-Noon-1,,Alike,141-Noon,ȵə+ma+ko.ŋ,ȵə+ma+ko.ŋ,ȵ ə + m a + k o ŋ,,Sagart2019,27,,,,,ȵ ə + m a + k o.ŋ,,,1,,Sagart2019
+Batang-141-Noon-1,,Batang,141-Noon,ȵĩ¹³+ŋgu⁵⁵,ȵĩ¹³+ŋgu⁵⁵,ȵ ĩ ¹³ + ŋg u ⁵⁵,,Sagart2019,35,,,,,ȵ ĩ ¹³ + ŋg u ⁵⁵,,,1,,Sagart2019
+Lhasa-141-Noon-1,,Lhasa,141-Noon,ȵĩ¹³+ku.ŋ⁵⁵,ȵĩ¹³+ku.ŋ⁵⁵,ȵ ĩ ¹³ + k u ŋ ⁵⁵,,Sagart2019,27,,,,,ȵ ĩ ¹³ + k u.ŋ ⁵⁵,,,1,,Sagart2019
+OldChinese-141-Noon-1,,OldChinese,141-Noon,m+qʰˤaʔ,m+qʰˤaʔ,m + qʰˤ a ʔ,,Sagart2019,31,,,,,m + qʰˤ a ʔ,,,1,,Sagart2019
+OldTibetan-141-Noon-1,,OldTibetan,141-Noon,ɲi.n+d.gu.ŋ,ɲi.n+d.gu.ŋ,ɲ i n + d g u ŋ,,Sagart2019,27,,,,,ɲ i.n + d.g u.ŋ,,,1,,Sagart2019
+Xiahe-141-Noon-1,,Xiahe,141-Noon,tʂe+dʑa,tʂe+dʑa,tʂ e + dʑ a,,Sagart2019,32,,,,,tʂ e + dʑ a,,,1,,Sagart2019
+Alike-160-Rain-1,,Alike,160-Rain,tɕʰa.r+wæ,tɕʰa.r+wæ,tɕʰ a r + w æ,,Sagart2019,36,,,,,tɕʰ a.r + w æ,,,1,,Sagart2019
+Batang-160-Rain-1,,Batang,160-Rain,tɕʰa⁵⁵+ba⁵³,tɕʰa⁵⁵+ba⁵³,tɕʰ a ⁵⁵ + b a ⁵³,,Sagart2019,36,,,,,tɕʰ a ⁵⁵ + b a ⁵³,,,1,,Sagart2019
+Lhasa-160-Rain-1,,Lhasa,160-Rain,tɕʰaː⁵⁵+pa⁵⁵,tɕʰaː⁵⁵+pa⁵⁵,tɕʰ aː ⁵⁵ + p a ⁵⁵,,Sagart2019,36,,,,,tɕʰ aː ⁵⁵ + p a ⁵⁵,,,1,,Sagart2019
+OldChinese-160-Rain-1,,OldChinese,160-Rain,ç/k+ɢʷa.ʔ,ç/k+ɢʷa.ʔ,ç/k + ɢʷ a ʔ,,Sagart2019,37,,,,,ç/k + ɢʷ a.ʔ,,,1,,Sagart2019
+OldTibetan-160-Rain-1,,OldTibetan,160-Rain,tɕʰa.r+pa,tɕʰa.r+pa,tɕʰ a r + p a,,Sagart2019,36,,,,,tɕʰ a.r + p a,,,1,,Sagart2019
+Xiahe-160-Rain-1,,Xiahe,160-Rain,tɕʰa.r+wa,tɕʰa.r+wa,tɕʰ a r + w a,,Sagart2019,36,,,,,tɕʰ a.r + w a,,,1,,Sagart2019
+Alike-116-Tohearlisten-1,,Alike,116-Tohearlisten,ko,ko,k o,,Sagart2019,41,,,,,k o,,,1,,Sagart2019
+Batang-116-Tohearlisten-1,,Batang,116-Tohearlisten,kʋ/u²³¹,kʋ/u²³¹,k ʋ/u ²³¹,,Sagart2019,41,,,,,k ʋ/u ²³¹,,,1,,Sagart2019
+Lhasa-116-Tohearlisten-1,,Lhasa,116-Tohearlisten,kʰo¹³,kʰo¹³,kʰ o ¹³,,Sagart2019,41,,,,,kʰ o ¹³,,,1,,Sagart2019
+OldChinese-116-Tohearlisten-1,,OldChinese,116-Tohearlisten,mu.n,mu.n,m u n,,Sagart2019,42,,,,,m u.n,,,1,,Sagart2019
+OldTibetan-116-Tohearlisten-1,,OldTibetan,116-Tohearlisten,tʰo.s,tʰo.s,tʰ o s,,Sagart2019,44,,,,,tʰ o.s,,,1,,Sagart2019
+Xiahe-116-Tohearlisten-1,,Xiahe,116-Tohearlisten,ko,ko,k o,,Sagart2019,41,,,,,k o,,,1,,Sagart2019
+Batang-47-Below-1,,Batang,47-Below,mã¹³+tɕø.ʔ⁵³,mã¹³+tɕø.ʔ⁵³,m ã ¹³ + tɕ ø ʔ ⁵³,,Sagart2019,55,,,,,m ã ¹³ + tɕ ø.ʔ ⁵³,,,1,,Sagart2019
+Lhasa-47-Below-1,,Lhasa,47-Below,mɛ̃¹³+tɕʰɛ⁵²,mɛ̃¹³+tɕʰɛ⁵²,m ɛ̃ ¹³ + tɕʰ ɛ ⁵²,,Sagart2019,55,,,,,m ɛ̃ ¹³ + tɕʰ ɛ ⁵²,,,1,,Sagart2019
+OldChinese-47-Below-1,,OldChinese,47-Below,gˤ.ra.ʔ,gˤ.ra.ʔ,gˤ r a ʔ,,Sagart2019,52,,,,,gˤ.r a.ʔ,,,1,,Sagart2019
+OldTibetan-47-Below-1,,OldTibetan,47-Below,g.ɕa.m,g.ɕa.m,g ɕ a m,,Sagart2019,46,,,,,g.ɕ a.m,,,1,,Sagart2019
+Xiahe-47-Below-1,,Xiahe,47-Below,ma.n+tɕʰa.r,ma.n+tɕʰa.r,m a n + tɕʰ a r,,Sagart2019,55,,,,,m a.n + tɕʰ a.r,,,1,,Sagart2019
+Alike-182-Smoke-1,,Alike,182-Smoke,to,to,t o,,Sagart2019,57,,,,,t o,,,1,,Sagart2019
+Batang-182-Smoke-1,,Batang,182-Smoke,tɑ¹³,tɑ¹³,t ɑ ¹³,,Sagart2019,57,,,,,t ɑ ¹³,,,1,,Sagart2019
+Lhasa-182-Smoke-1,,Lhasa,182-Smoke,tʰ.uo¹³,tʰ.uo¹³,tʰ u o ¹³,,Sagart2019,57,,,,,tʰ.u o ¹³,,,1,,Sagart2019
+OldChinese-182-Smoke-1,,OldChinese,182-Smoke,qˤin,qˤin,qˤ i n,,Sagart2019,66,,,,,qˤ i n,,,1,,Sagart2019
+OldTibetan-182-Smoke-1,,OldTibetan,182-Smoke,du+ba,du+ba,d u + b a,,Sagart2019,57,,,,,d u + b a,,,1,,Sagart2019
+Xiahe-182-Smoke-1,,Xiahe,182-Smoke,to,to,t o,,Sagart2019,57,,,,,t o,,,1,,Sagart2019
+OldTibetan-116-Tohearlisten-2,,OldTibetan,116-Tohearlisten,go,go,g o,,Sagart2019,41,,,,,g o,,,1,,Sagart2019
+Lhasa-47-Below-2,,Lhasa,47-Below,ɕa.m⁵²+la,ɕa.m⁵²+la,ɕ a m ⁵² + l a,,Sagart2019,46,,,,,ɕ a.m ⁵² + l a,,,1,,Sagart2019
+OldTibetan-47-Below-2,,OldTibetan,47-Below,ɦo.g,ɦo.g,ɦ o g,,Sagart2019,50,,,,,ɦ o.g,,,1,,Sagart2019

@@ -83,13 +83,13 @@ The resulting Nexus file is stored in the folder `nexus` as `full-wordlist.nex`.
 
 - **Varieties:** 14
 - **Concepts:** 243
-- **Lexemes:** 2,865
+- **Lexemes:** 2,903
 - **Sources:** 2
 - **Synonymy:** 1.08
 - **Invalid lexemes:** 0
-- **Tokens:** 14,008
-- **Segments:** 313 (0 BIPA errors, 0 CLTS sound class errors, 311 CLTS modified)
-- **Inventory size (avg):** 68.36
+- **Tokens:** 14,206
+- **Segments:** 316 (0 BIPA errors, 0 CLTS sound class errors, 314 CLTS modified)
+- **Inventory size (avg):** 68.57
 
 # Contributors
 
