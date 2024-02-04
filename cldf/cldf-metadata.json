@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/robertssouthwesttibetic",
             "rdf:type": "prov:Entity",
-            "dc:created": "cad4cf0",
+            "dc:created": "da3f02b",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.6"
+            "dc:description": "3.11.5"
         },
         {
             "dc:title": "python-packages",
