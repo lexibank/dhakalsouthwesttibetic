@@ -217,7 +217,7 @@ Gyalsumdo-81-Togo-1,,Gyalsumdo,81-Togo,to,to,!t/t̪ o,,Dhakal2024,,,,,go/to,!t/t
 Gyalsumdo-38-Tocome-1,,Gyalsumdo,38-Tocome,ɕjo,ɕjo,ɕ j o,,Dhakal2024,1224,,,,come/sjo,ɕ.j o,2921,876,1,ɕ.j o,Dhakal2024
 Gyalsumdo-38-Tocome-2,,Gyalsumdo,38-Tocome,oŋ,oŋ,o ŋ,,Dhakal2024,1223,,,,come/oŋ,o.ŋ,2922,875,1,o.ŋ,Dhakal2024
 Gyalsumdo-186-Tospeak-1,,Gyalsumdo,186-Tospeak,labt̪aŋɡɛ,labt̪aŋɡɛ,l a b + t̪ a ŋ + g ɛ,,Dhakal2024,,,,,speak/lab _to _to,l a.b + t̪ a.ŋ + g ɛ,3211 3212 3213,985,0,l a.b + t̪ a.ŋ + g ɛ,Dhakal2024
-Gyalsumdo-116-Tohearlisten-1,,Gyalsumdo,116-Tohearlisten,ɲin,ɲin,ɲ i n,,Dhakal2024,51,,,,hear/njin,ɲ i.n,3033,917,1,ɲ i n,Dhakal2024
+Gyalsumdo-116-Tohearlisten-1,,Gyalsumdo,116-Tohearlisten,ɲin,ɲin,ɲ i n,,Dhakal2024,,,,,hear/njin,ɲ i.n,3033,917,0,ɲ i n,Dhakal2024
 Gyalsumdo-119-Tolook-1,,Gyalsumdo,119-Tolook,t̪e,t̪e,t̪ e,,Dhakal2024,,,,,look/ta,t̪ e,3096,944,0,t̪ e,Dhakal2024
 Gyalsumdo-103-I-1,,Gyalsumdo,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Gyalsumdo-203-Youinformal-1,,Gyalsumdo,203-Youinformal,kʰe,kʰe,kʰ !Ø/j e,[x],Dhakal2024,1430,,,,thou,kʰ.!Ø/j e,3779,1157,1,kʰ.!Ø/j - e -,Dhakal2024
@@ -483,7 +483,7 @@ Jirel-81-Togo-1,,Jirel,81-Togo,ɡalat̪e,ɡalat̪e,g a + l a + t̪ e,,Dhakal2024
 Jirel-81-Togo-2,,Jirel,81-Togo,ŋɡjuk,ŋɡjuk,ⁿg/g j u k,,Dhakal2024,,,,,go,ⁿg/g.j u.k,3022,915,0,ⁿg/g.j u.k,Dhakal2024
 Jirel-38-Tocome-1,,Jirel,38-Tocome,ɕjok,ɕjok,ɕ j o k,,Dhakal2024,1224,,,,come/sjo,ɕ.j o.k,2921,876,1,ɕ.j o.k,Dhakal2024
 Jirel-186-Tospeak-1,,Jirel,186-Tospeak,mbat̪kʰabat̪e,mbat̪kʰabat̪e,ⁿb/b a t̪ + kʰ a + b a + t̪ e,,Dhakal2024,,,,,speak/bat speak/kha _:vrb-suffix/ba _:te-suffix/te,ⁿb/b a.t̪ + kʰ a + b a + t̪ e,3214 3215 8 9,986,0,ⁿb/b a.t̪ + kʰ a + b a + t̪ e,Dhakal2024
-Jirel-116-Tohearlisten-1,,Jirel,116-Tohearlisten,t̪ʰobat̪e,t̪ʰobat̪e,t̪ʰ o + b a + t̪ e,,Dhakal2024,48,,,,hear/to _:vrb-suffix/ba _:te-suffix/te,t̪ʰ o + b a + t̪ e,3034 8 9,918,1,t̪ʰ o - + b a + t̪ e,Dhakal2024
+Jirel-116-Tohearlisten-1,,Jirel,116-Tohearlisten,t̪ʰobat̪e,t̪ʰobat̪e,t̪ʰ o + b a + t̪ e,,Dhakal2024,,,,,hear/to _:vrb-suffix/ba _:te-suffix/te,t̪ʰ o + b a + t̪ e,3034 8 9,918,0,t̪ʰ o - + b a + t̪ e,Dhakal2024
 Jirel-119-Tolook-1,,Jirel,119-Tolook,t̪abat̪e,t̪abat̪e,t̪ a + b a + t̪ e,,Dhakal2024,,,,,lookt/ta _:vrb-suffix/ba _:te-suffix/te,t̪ a + b a + t̪ e,3096 8 9,944,0,t̪ a + b a + t̪ e,Dhakal2024
 Jirel-103-I-1,,Jirel,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Jirel-203-Youinformal-1,,Jirel,203-Youinformal,kʰo,kʰo,kʰ !Ø/j o,[x],Dhakal2024,1430,,,,thou,kʰ.!Ø/j o,3779,1157,1,kʰ.!Ø/j - o -,Dhakal2024
@@ -730,7 +730,7 @@ Kagate-169-Torun-1,,Kagate,169-Torun,tɕʰjoŋdze,tɕʰjoŋdze,tɕʰj/tɕʰ o ŋ
 Kagate-81-Togo-1,,Kagate,81-Togo,dodze,dodze,d̪ o + dz e,,Dhakal2024,,,,,go/to _:vb-suffix/dze,d̪ o + dz e,3017 13,910,0,d̪ o - + dz e -,Dhakal2024
 Kagate-38-Tocome-1,,Kagate,38-Tocome,oŋdze,oŋdze,o ŋ + dz e,,Dhakal2024,1223,,,,come/oŋ _:vb-suffix/dze,o.ŋ + dz e,2922 13,875,1,o.ŋ + dz e,Dhakal2024
 Kagate-186-Tospeak-1,,Kagate,186-Tospeak,latse,latse,l a + !ts/dz e,,Dhakal2024,,,,,speak/lab _to,l a + !ts/dz e,3211 13,985,0,l a - + !ts/dz e,Dhakal2024
-Kagate-116-Tohearlisten-1,,Kagate,116-Tohearlisten,kodze,kodze,k o + dz e,,Dhakal2024,41,,,,hear/ko _:vb-suffix/dze,k o + dz e,3037 13,918,1,k o + dz e,Dhakal2024
+Kagate-116-Tohearlisten-1,,Kagate,116-Tohearlisten,kodze,kodze,k o + dz e,,Dhakal2024,,,,,hear/ko _:vb-suffix/dze,k o + dz e,3037 13,918,0,k o + dz e,Dhakal2024
 Kagate-119-Tolook-1,,Kagate,119-Tolook,t̪adze,t̪adze,t̪ a + dz e,,Dhakal2024,,,,,look/ta _:vb-suffix/dze,t̪ a + dz e,3096 13,944,0,t̪ a + dz e,Dhakal2024
 Kagate-103-I-1,,Kagate,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Kagate-203-Youinformal-1,,Kagate,203-Youinformal,kʰjo,kʰjo,kʰ j o,[x],Dhakal2024,1430,,,,thou,kʰ.j o,3779,1157,1,kʰ.j o,Dhakal2024
@@ -991,7 +991,7 @@ Lowa-169-Torun-1,,Lowa,169-Torun,paŋt̪aŋje,paŋt̪aŋje,p a ŋ + t̪ a + ŋ j
 Lowa-81-Togo-1,,Lowa,81-Togo,ndoje,ndoje,ⁿd/d o + j e,,Dhakal2024,,,,,go/to _:je-suffix,ⁿd/d o + j e,3017 2910,910,0,ⁿd/d o - + j e,Dhakal2024
 Lowa-38-Tocome-1,,Lowa,38-Tocome,uŋje,uŋje,u ŋ + j e,,Dhakal2024,1223,,,,come/oŋ _to,u.ŋ + j e,2924 2925,878,1,u.ŋ + j e,Dhakal2024
 Lowa-186-Tospeak-1,,Lowa,186-Tospeak,naje,naje,n a + j e,,Dhakal2024,,,,,speak/na _:je-suffix,n a + j e,3217 2910,991,0,n a + j e,Dhakal2024
-Lowa-116-Tohearlisten-1,,Lowa,116-Tohearlisten,ɲenje,ɲenje,ɲ e n + j e,,Dhakal2024,51,,,,hear/njin _to,ɲ e.n + j e,3033 3038,917,1,ɲ e.n + j e,Dhakal2024
+Lowa-116-Tohearlisten-1,,Lowa,116-Tohearlisten,ɲenje,ɲenje,ɲ e n + j e,,Dhakal2024,,,,,hear/njin _to,ɲ e.n + j e,3033 3038,917,0,ɲ e.n + j e,Dhakal2024
 Lowa-119-Tolook-1,,Lowa,119-Tolook,nd̪aje,nd̪aje,!ⁿd/t̪ a + j e,,Dhakal2024,,,,,look/ta _:je-suffix,!ⁿd/t̪ a + j e,3096 2910,944,0,!ⁿd/t̪ a + j e,Dhakal2024
 Lowa-103-I-1,,Lowa,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Lowa-203-Youinformal-1,,Lowa,203-Youinformal,kʰøʔ,kʰøʔ,kʰ !Ø/j ø ʔ,[x],Dhakal2024,1430,,,,thou,kʰ.!Ø/j ø.ʔ,3779,1157,1,kʰ.!Ø/j ø.ʔ,Dhakal2024
@@ -1238,7 +1238,7 @@ Nubri-81-Togo-1,,Nubri,81-Togo,to,to,!t/t̪ o,,Dhakal2024,,,,,go/to,!t/t̪ o,301
 Nubri-38-Tocome-1,,Nubri,38-Tocome,oŋ,oŋ,o ŋ,,Dhakal2024,1223,,,,come/oŋ,o.ŋ,2922,875,1,o.ŋ,Dhakal2024
 Nubri-186-Tospeak-1,,Nubri,186-Tospeak,ɕe,ɕe,ɕ e,,Dhakal2024,,,,,speak/se,ɕ e,3213,986,0,ɕ e,Dhakal2024
 Nubri-186-Tospeak-2,,Nubri,186-Tospeak,lab,lab,l a b,,Dhakal2024,,,,,speak/lab,l a.b,3211,985,0,l a.b,Dhakal2024
-Nubri-116-Tohearlisten-1,,Nubri,116-Tohearlisten,ɲin̪,ɲin̪,ɲ i n,,Dhakal2024,51,,,,hear/njin,ɲ i.n,3033,917,1,ɲ i.n,Dhakal2024
+Nubri-116-Tohearlisten-1,,Nubri,116-Tohearlisten,ɲin̪,ɲin̪,ɲ i n,,Dhakal2024,,,,,hear/njin,ɲ i.n,3033,917,0,ɲ i.n,Dhakal2024
 Nubri-119-Tolook-1,,Nubri,119-Tolook,t̪eji,t̪eji,t̪ e + j i,,Dhakal2024,,,,,look/ta _to,t̪ e + j i,3096 3100,944,0,t̪ e + j i,Dhakal2024
 Nubri-103-I-1,,Nubri,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Nubri-203-Youinformal-1,,Nubri,203-Youinformal,kʰjo,kʰjo,kʰ j o,[x],Dhakal2024,1430,,,,thou,kʰ.j o,3779,1157,1,kʰ.j o,Dhakal2024
@@ -1486,7 +1486,7 @@ Sherpa-169-Torun-1,,Sherpa,169-Torun,tɕʰjoŋɡu,tɕʰjoŋɡu,tɕʰj/tɕʰ o ŋ
 Sherpa-81-Togo-1,,Sherpa,81-Togo,dop,dop,!d/d̪ o p,,Dhakal2024,,,,,go/to,!d/d̪ o.p,3017,910,0,!d/d̪ o.p,Dhakal2024
 Sherpa-38-Tocome-1,,Sherpa,38-Tocome,uŋgu,uŋgu,u ŋ + g u,,Dhakal2024,1223,,,,come/oŋ _to,u.ŋ + g u,2922 2926,875,1,u.ŋ + g u,Dhakal2024
 Sherpa-186-Tospeak-1,,Sherpa,186-Tospeak,ləbu,ləbu,l ə + b u,,Dhakal2024,,,,,TO _to,l ə + b u,3211 3219,985,0,l ə - + b u,Dhakal2024
-Sherpa-116-Tohearlisten-1,,Sherpa,116-Tohearlisten,ŋeŋɡu,ŋeŋɡu,ŋ e ŋ + g u,,Dhakal2024,45,,,,hear/njin _to,ŋ e.ŋ + g u,3033 3039,917,1,ŋ e.ŋ + g u,Dhakal2024
+Sherpa-116-Tohearlisten-1,,Sherpa,116-Tohearlisten,ŋeŋɡu,ŋeŋɡu,ŋ e ŋ + g u,,Dhakal2024,,,,,hear/njin _to,ŋ e.ŋ + g u,3033 3039,917,0,ŋ e.ŋ + g u,Dhakal2024
 Sherpa-119-Tolook-1,,Sherpa,119-Tolook,hlap,hlap,h l a p,,Dhakal2024,,,,,look/hlap,h.l a.p,3101,949,0,h.l a.p,Dhakal2024
 Sherpa-103-I-1,,Sherpa,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Sherpa-203-Youinformal-1,,Sherpa,203-Youinformal,kʰjoroŋ,kʰjoroŋ,kʰ j o + r o ŋ,[x],Dhakal2024,1430,,,,thou _rong,kʰ.j o + r o.ŋ,3779 3780,1157,1,kʰ.j o + r o.ŋ,Dhakal2024
@@ -1735,8 +1735,8 @@ Tsum-81-Togo-2,,Tsum,81-Togo,pyso,pyso,p y + s o,,Dhakal2024,,,,,go/py _:verbal-
 Tsum-38-Tocome-1,,Tsum,38-Tocome,ɕjoʔ,ɕjoʔ,ɕ j o ʔ,,Dhakal2024,1224,,,,come/sjo,ɕ.j o.ʔ,2921,876,1,ɕ.j o.ʔ,Dhakal2024
 Tsum-38-Tocome-2,,Tsum,38-Tocome,leuʑuŋ,leuʑuŋ,l eu + ʑ u ŋ,,Dhakal2024,21,,,,come/leu come/zuŋ,l eu + ʑ u.ŋ,2927 2922,875,1,l eu + ʑ u.ŋ,Dhakal2024
 Tsum-186-Tospeak-1,,Tsum,186-Tospeak,lauso,lauso,l au + s o,,Dhakal2024,,,,,TO _:verbal-suffix/so,l au + s o,3211 2813,985,0,l au - + s o,Dhakal2024
-Tsum-116-Tohearlisten-1,,Tsum,116-Tohearlisten,ɲan,ɲan,ɲ a n,,Dhakal2024,51,,,,hear/njin,ɲ a.n,3033,917,1,ɲ a.n,Dhakal2024
-Tsum-116-Tohearlisten-2,,Tsum,116-Tohearlisten,ɲanso,ɲanso,ɲ a n + s o,,Dhakal2024,51,,,,hear/njin _:verbal-suffix/so,ɲ a.n + s o,3033 2813,917,1,ɲ a.n + s o,Dhakal2024
+Tsum-116-Tohearlisten-1,,Tsum,116-Tohearlisten,ɲan,ɲan,ɲ a n,,Dhakal2024,,,,,hear/njin,ɲ a.n,3033,917,0,ɲ a.n,Dhakal2024
+Tsum-116-Tohearlisten-2,,Tsum,116-Tohearlisten,ɲanso,ɲanso,ɲ a n + s o,,Dhakal2024,,,,,hear/njin _:verbal-suffix/so,ɲ a.n + s o,3033 2813,917,0,ɲ a.n + s o,Dhakal2024
 Tsum-119-Tolook-1,,Tsum,119-Tolook,t̪ø,t̪ø,t̪ ø,,Dhakal2024,,,,,look/ta,t̪ ø,3096,944,0,t̪ ø,Dhakal2024
 Tsum-119-Tolook-2,,Tsum,119-Tolook,t̪eso,t̪eso,t̪ e + s o,,Dhakal2024,,,,,look/ta _:verbal-suffix/so,t̪ e + s o,3096 2813,944,0,t̪ e + s o,Dhakal2024
 Tsum-103-I-1,,Tsum,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
@@ -1993,7 +1993,7 @@ Yolmo-169-Torun-1,,Yolmo,169-Torun,tɕʰjuŋd̪uŋ,tɕʰjuŋd̪uŋ,tɕʰj/tɕʰ 
 Yolmo-81-Togo-1,,Yolmo,81-Togo,soŋ,soŋ,s o ŋ,,Dhakal2024,,,,,go/soŋ,s o.ŋ,3020,911,0,s o ŋ,Dhakal2024
 Yolmo-38-Tocome-1,,Yolmo,38-Tocome,ɕjo,ɕjo,ɕ j o,,Dhakal2024,1224,,,,come/sjo,ɕ.j o,2921,876,1,ɕ.j o,Dhakal2024
 Yolmo-186-Tospeak-1,,Yolmo,186-Tospeak,med̪oŋ,med̪oŋ,m e + d̪ o ŋ,,Dhakal2024,,,,,speak/me TO,m e + d̪ o.ŋ,3220 3212,987,0,m e + d̪ o ŋ,Dhakal2024
-Yolmo-116-Tohearlisten-1,,Yolmo,116-Tohearlisten,ɲind̪oŋ,ɲind̪oŋ,ɲ i n + d̪ o ŋ,,Dhakal2024,51,,,,hear/njin _to,ɲ i.n + d̪ o.ŋ,3033 3034,917,1,ɲ i.n + d̪ o.ŋ,Dhakal2024
+Yolmo-116-Tohearlisten-1,,Yolmo,116-Tohearlisten,ɲind̪oŋ,ɲind̪oŋ,ɲ i n + d̪ o ŋ,,Dhakal2024,,,,,hear/njin _to,ɲ i.n + d̪ o.ŋ,3033 3034,917,0,ɲ i.n + d̪ o.ŋ,Dhakal2024
 Yolmo-119-Tolook-1,,Yolmo,119-Tolook,t̪ed̪oŋ,t̪ed̪oŋ,t̪ e + d̪ o ŋ,,Dhakal2024,,,,,look/te _to,t̪ e + d̪ o.ŋ,3096 3102,944,0,t̪ e + d̪ o.ŋ,Dhakal2024
 Yolmo-103-I-1,,Yolmo,103-I,ŋa,ŋa,ŋ a,[x],Dhakal2024,1310,,,,I,ŋ a,1432,418,1,ŋ a,Dhakal2024
 Yolmo-203-Youinformal-1,,Yolmo,203-Youinformal,kʰje,kʰje,kʰ j e,[x],Dhakal2024,1430,,,,thou,kʰ.j e,3779,1157,1,kʰ.j e,Dhakal2024

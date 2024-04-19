@@ -4,6 +4,11 @@ help:
 	echo "base-data (extract sublist of Tibetic varieties originally coded)"
 	echo "combined-data (extract combined list of Tibetic varieties)"
 
+install:
+	pip install pylotiger
+	pip install pylodata
+	pip install phylogemetric
+
 base-data:
 	cd code; sh create-base-wordlist.sh > ../wordlists/base-wordlist.tsv
 
@@ -22,4 +27,7 @@ full-data-ed:
 
 nexus-file:
 	lingpy wordlist -i wordlists/full-wordlist.tsv -o nexus/full-wordlist --format=paps.nex
+
+tiger-et-al:
+	cd code; python tiger.py
 

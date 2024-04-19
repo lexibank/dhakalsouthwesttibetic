@@ -57,7 +57,7 @@ purl==1.6
 pybtex==0.24.0
 pycldf==1.35.0
 pyclts==3.1.1
--e git+https://lingulist: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@github.com/concepticon/pyconcepticon@6adfe388634ddc27cbc7d14d4e4a6e0f08c46494#egg=pyconcepticon
+-e git+https://lingulist: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@github.com/concepticon/pyconcepticon@ba7f81c00f79f2988d0708c6ea962280020c8945#egg=pyconcepticon
 pycountry==22.3.5
 pyedictor==0.4
 pyglottolog==3.12.0

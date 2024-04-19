@@ -101,7 +101,9 @@ class Dataset(BaseDataset):
             if concept["CONCEPTICON_GLOSS"] in backstrom:
                 matches2.append(
                         (concept["ENGLISH"], concept["CONCEPTICON_GLOSS"]))
-
+        
+        # ad hoc corrections
+        concepts["HEAR"] = concepts["HEAR OR LISTEN"]
         args.log.info(
                 "found {0} concepts common with Sagart's list".format(len(matches1)))
         args.log.info(

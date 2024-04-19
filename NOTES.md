@@ -49,3 +49,19 @@ make nexus-file
 
 The resulting Nexus file is stored in the folder `nexus` as `full-wordlist.nex`.
 
+If you want to test TIGER scores, Delta Scores, and Q-Residuals in the data, you can also do this with the Makefile, but you must install additional packages first.
+
+```shell
+make install
+make tiger-et-al
+```
+
+This will print out the scores computed for the base wordlist and the full wordlist.
+
+```
+Wordlist       TIGER    Corrected TIGER     Delta    Q-Residuals
+----------  --------  -----------------  --------  -------------
+Combined    0.678752           0.379645  0.342274     0.00852446
+Tibetic     0.74708            0.193927  0.39871      0.0122
+```
+
