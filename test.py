@@ -4,14 +4,11 @@ def test_valid(cldf_dataset, cldf_logger):
 
 # should be 210 items
 def test_parameters(cldf_dataset):
-    assert len(list(cldf_dataset["ParameterTable"])) == 210
+    assert len(list(cldf_dataset["ParameterTable"])) == 243
 
 
 # test we have some languages
 def test_languages(cldf_dataset):
-    assert len(list(cldf_dataset["LanguageTable"])) > 1000
+    assert len(list(cldf_dataset["LanguageTable"])) == 14
 
 
-# test we have some cognates
-def test_cognates(cldf_dataset):
-    assert len(list(cldf_dataset["CognateTable"])) == 233260

@@ -1,16 +1,18 @@
-# CLDF dataset derived from Dhakal et al.'s "South-West Tibetic" from 2023
+# CLDF dataset derived from Dhakal et al.'s "South-Western Tibetic" from 2024
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  >  Dhakal, D. N., List, J.-M., Roberts, S. G.(2023) A Phylogenetic Study of South-West Tibetic.
+  > Dhakal, D. N., List, J.-M., Roberts, S. G.(2024) A Phylogenetic Study of South-Western Tibetic. Journal of Language Evolution. https://doi.org/10.1093/jole/lzae008
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
 
 This dataset is licensed under a CC-BY-4.0 license
+
+Available online at https://github.com/lexibank/dhakalsouthwesttibetic
 
 
 Conceptlists in Concepticon:
@@ -97,8 +99,8 @@ Tibetic     0.74708            0.193927  0.39871      0.0122
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 14
-- **Concepts:** 243
+- **Varieties:** 14 (linked to 13 different Glottocodes)
+- **Concepts:** 243 (linked to 240 different Concepticon concept sets)
 - **Lexemes:** 2,903
 - **Sources:** 2
 - **Synonymy:** 1.08

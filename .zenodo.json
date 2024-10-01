@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Dhakal et al.'s \"South-West Tibetic\" from 2023",
+    "title": "CLDF dataset derived from Dhakal et al.'s \"South-Western Tibetic\" from 2024",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -23,7 +23,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p> Dhakal, D. N., List, J.-M., Roberts, S. G.(2023) A Phylogenetic Study of South-West Tibetic.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Dhakal, D. N., List, J.-M., Roberts, S. G.(2024) A Phylogenetic Study of South-Western Tibetic. Journal of Language Evolution. https://doi.org/10.1093/jole/lzae008</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }
